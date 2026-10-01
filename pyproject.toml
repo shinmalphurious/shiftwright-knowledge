@@ -7,3 +7,18 @@ name = "shiftwright-knowledge"
 version = "0.1.0"
 description = "Shiftwright engineering knowledge system"
 requires-python = ">=3.10"
+
+[tool.setuptools]
+py-modules = [
+    "engineering_advisor",
+    "engineering_models",
+    "knowledge_builder",
+    "knowledge_ranker",
+    "knowledge_reasoner",
+    "manual_service",
+    "driver_setup_attribution",
+    "telemetry_scoring"
+]
+
+[tool.setuptools.package-dir]
+"" = "tools"
