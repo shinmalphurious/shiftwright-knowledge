@@ -1,0 +1,332 @@
+{
+  "https://s100.iracing.com/wp-content/uploads/2021/08/Shock-Tuning-User-Guide.pdf": {
+    "filename": "Shock-Tuning-User-Guide.pdf",
+    "sha256": "381df135050fa501bf97c9736d5286c58a21806c5dc6a250bc8c6f63a335b380",
+    "signature": "W/\"f3fe54c1de24de925615aa28084ecf47\"|Mon, 30 Aug 2021 16:00:29 GMT"
+  },
+  "https://s100.iracing.com/wp-content/uploads/2023/09/Porsche-Mission-R-real-Manual-V5-1.pdf": {
+    "filename": "Porsche-Mission-R-real-Manual-V5-1.pdf",
+    "sha256": "bbef4d0fb551dc86320ff473f34237784279a9e0dc4c42808cc98053e8f02cf0",
+    "signature": "\"da4bda3879535bfbd52cbdcafeef787a\"|Tue, 12 Sep 2023 17:37:54 GMT"
+  },
+  "https://s100.iracing.com/wp-content/uploads/2023/10/Ferrari-488-GT3-EVO-2020.pdf": {
+    "filename": "Ferrari-488-GT3-EVO-2020.pdf",
+    "sha256": "39b5cf6479d63694bae1e22df8e13a3116a27a7b10f6d2f307a552e0906a2887",
+    "signature": "\"58b1c9f654b2ef64a685f282ee813b79\"|Fri, 06 Oct 2023 16:35:31 GMT"
+  },
+  "https://s100.iracing.com/wp-content/uploads/2023/10/Formula-Vee-Manual.pdf": {
+    "filename": "Formula-Vee-Manual.pdf",
+    "sha256": "b63820d11a0495433fcd7c9aa871b95e4ad5939a3e3431c4767b3b4babbc4b31",
+    "signature": "W/\"1ebebe4c3d05321de0b23011646ca781\"|Fri, 20 Oct 2023 16:06:49 GMT"
+  },
+  "https://s100.iracing.com/wp-content/uploads/2023/10/UM-Audi-R8-LMS-GT3-Manual.pdf": {
+    "filename": "UM-Audi-R8-LMS-GT3-Manual.pdf",
+    "sha256": "93ccadbac2e9877b6e45360221a15be67dae023ebaa5e698b9dbc18b26a80f34",
+    "signature": "\"6c45f8cdb536383d3313122db541d354\"|Mon, 30 Oct 2023 14:58:47 GMT"
+  },
+  "https://s100.iracing.com/wp-content/uploads/2023/10/UM-Big-Block-Modified-V2.pdf": {
+    "filename": "UM-Big-Block-Modified-V2.pdf",
+    "sha256": "0af8ff68f87359229a6442cbe9da439789fa24786431db0632a48a02395e9dd5",
+    "signature": "\"c15907cb06b4af79eb21562b1b88573d\"|Fri, 06 Oct 2023 20:02:11 GMT"
+  },
+  "https://s100.iracing.com/wp-content/uploads/2023/10/UM-Dallara-iR01-Manual.pdf": {
+    "filename": "UM-Dallara-iR01-Manual.pdf",
+    "sha256": "fe8cca7257c4bf95a73256e7b0ae6b6ae4e27de399be49a66fbff43f0b4c4139",
+    "signature": "W/\"c89b781f0148ed0485a808cc1ae642c1\"|Mon, 30 Oct 2023 19:36:35 GMT"
+  },
+  "https://s100.iracing.com/wp-content/uploads/2023/10/UM-Ferrari-488-GT3-Manual-V2.pdf": {
+    "filename": "UM-Ferrari-488-GT3-Manual-V2.pdf",
+    "sha256": "a13faa865f0cf393ec42fcc26c698d6f5bea51e48b2c15e992faeb92d567fabe",
+    "signature": "\"91f5c5fe82e3b1691d638e6c5b068c9b\"|Fri, 06 Oct 2023 20:04:38 GMT"
+  },
+  "https://s100.iracing.com/wp-content/uploads/2023/10/UM-Mercedes-AMG-F1-W12-E-Performance-V2.pdf": {
+    "filename": "UM-Mercedes-AMG-F1-W12-E-Performance-V2.pdf",
+    "sha256": "64ddc15719cbec7e0acf1800108c91d14f012e18b1f99ae4122629bd2782e426",
+    "signature": "W/\"a1bfa95ad50da7c3aab12840c3630579\"|Fri, 06 Oct 2023 19:58:43 GMT"
+  },
+  "https://s100.iracing.com/wp-content/uploads/2023/10/UM-Mercedes-AMG-GT3-Manual-V2.pdf": {
+    "filename": "UM-Mercedes-AMG-GT3-Manual-V2.pdf",
+    "sha256": "82b5d74fca18a0b4f2358ecf830a0a222f9fd741da7caf6805752587355d86d4",
+    "signature": "W/\"563ef3503dedf0969688d9a50219f360\"|Fri, 06 Oct 2023 19:49:30 GMT"
+  },
+  "https://s100.iracing.com/wp-content/uploads/2023/10/UM-NASCAR-Cup-Series.pdf": {
+    "filename": "UM-NASCAR-Cup-Series.pdf",
+    "sha256": "c3e359491fd30061ee639be5d79426749097b4572ffa2467c4e374406b53ab86",
+    "signature": "\"0d17fa531f54cb1b631f4e5aea0606ab\"|Fri, 06 Oct 2023 16:24:26 GMT"
+  },
+  "https://s100.iracing.com/wp-content/uploads/2023/10/UM-Porsche-911-GT3-R.pdf": {
+    "filename": "UM-Porsche-911-GT3-R.pdf",
+    "sha256": "1df24b20524d551509f0d08befff6597984061411aeb391f0c758c4cd2cee225",
+    "signature": "W/\"85aed6de5bf5b661dce13ebb4961b50d\"|Fri, 06 Oct 2023 17:03:25 GMT"
+  },
+  "https://s100.iracing.com/wp-content/uploads/2024/01/UM-Ford-GT-GT3-V2.pdf": {
+    "filename": "UM-Ford-GT-GT3-V2.pdf",
+    "sha256": "33435866de948bec93d7b60efe836f3aba10f0290e8141ebfe259dadb1473c13",
+    "signature": "\"2058c9b1c7df4bd9a1c94b312711d1c6\"|Wed, 03 Jan 2024 17:17:05 GMT"
+  },
+  "https://s100.iracing.com/wp-content/uploads/2024/01/UM-McLaren-MP4-12C-GT3-V3.pdf": {
+    "filename": "UM-McLaren-MP4-12C-GT3-V3.pdf",
+    "sha256": "edd72f1c75afa6a1ea158c1374074502fe403ce33016c6708ba82c0fe554f87e",
+    "signature": "\"b04f9d97f15d83b4e754ceccc4e9dd23\"|Wed, 03 Jan 2024 17:17:27 GMT"
+  },
+  "https://s100.iracing.com/wp-content/uploads/2024/03/Dirt_Micro-Sprint_Manual.pdf": {
+    "filename": "Dirt_Micro-Sprint_Manual.pdf",
+    "sha256": "df377f6a13db9a29db231645b24b808c705fe27e4aba2b2f070e0847a84d316d",
+    "signature": "\"f8010a0664d7cd6157eeaa504f04841a\"|Tue, 05 Mar 2024 18:17:33 GMT"
+  },
+  "https://s100.iracing.com/wp-content/uploads/2024/03/NASCAR-NextGen-Cars-Manual-V2.pdf": {
+    "filename": "NASCAR-NextGen-Cars-Manual-V2.pdf",
+    "sha256": "017730b32e5ae86c3ef3dfe9f980308d2cf5ace0bae8c7f23dcdf25cb669b507",
+    "signature": "W/\"a4650dbaba16650448904945cc704d00\"|Tue, 12 Mar 2024 18:22:01 GMT"
+  },
+  "https://s100.iracing.com/wp-content/uploads/2024/03/SRX_Manual_V3.pdf": {
+    "filename": "SRX_Manual_V3.pdf",
+    "sha256": "f34cf2c6743058690d15acb5b692e740dc1a186dfb141d1f53ca77d066d27715",
+    "signature": "W/\"327a77e092d5ca310ab7dbaedbd8024a\"|Tue, 05 Mar 2024 18:14:43 GMT"
+  },
+  "https://s100.iracing.com/wp-content/uploads/2024/03/Super-Formula-Lights_Manual_V1.pdf": {
+    "filename": "Super-Formula-Lights_Manual_V1.pdf",
+    "sha256": "bd828df6223b36600a845f8037afffd37beade74fba83b391624a1a100e7879f",
+    "signature": "\"1be445a6626697a4c7f7cf38a4a931d4\"|Tue, 05 Mar 2024 13:42:07 GMT"
+  },
+  "https://s100.iracing.com/wp-content/uploads/2024/04/FIA-F4-Manual-V3.pdf": {
+    "filename": "FIA-F4-Manual-V3.pdf",
+    "sha256": "ca1932729b98b88f4bd27b41b9508f1a1633f8ac22683fa32a035b36dac369f4",
+    "signature": "\"71b1027a854a40f4661a02aaf015c8d5\"|Tue, 02 Apr 2024 14:17:34 GMT"
+  },
+  "https://s100.iracing.com/wp-content/uploads/2024/04/Super-Formula-SF23_V4.pdf": {
+    "filename": "Super-Formula-SF23_V4.pdf",
+    "sha256": "4a5b096c5c1b9b0891294baa8689c70c6519f020ecb10de8ad168266a1d9fb04",
+    "signature": "\"ac4a7782094e4f3a00438f570034f2b9\"|Wed, 10 Apr 2024 17:28:54 GMT"
+  },
+  "https://s100.iracing.com/wp-content/uploads/2024/05/NASCAR-Trucks-Manual-V6.pdf": {
+    "filename": "NASCAR-Trucks-Manual-V6.pdf",
+    "sha256": "7e33a69c1c049c499679dd78d8f154363cfee0aa63cb58673c65fddea0299b71",
+    "signature": "\"f3f879a3d52395c3f5504fbbb9a28157\"|Fri, 31 May 2024 18:52:05 GMT"
+  },
+  "https://s100.iracing.com/wp-content/uploads/2024/05/StreetStocks_Manual_V2.pdf": {
+    "filename": "StreetStocks_Manual_V2.pdf",
+    "sha256": "188b1348b61e8f63234b488c36c5c08a35e2f7d6573000d3239100a1c4f2006e",
+    "signature": "\"e53f56c9e9f7d2551e5e079af55ddff9\"|Fri, 31 May 2024 18:35:06 GMT"
+  },
+  "https://s100.iracing.com/wp-content/uploads/2024/06/Chevrolet-Corvette-Z06-GT3_manual_V2.pdf": {
+    "filename": "Chevrolet-Corvette-Z06-GT3_manual_V2.pdf",
+    "sha256": "f90882c10cd7561ef1ec13db70f885354519057c4d887fc80413c22abe051349",
+    "signature": "\"698b28fe9477fab796fe3060abc1d2f5\"|Tue, 04 Jun 2024 20:33:13 GMT"
+  },
+  "https://s100.iracing.com/wp-content/uploads/2024/06/Ferrari-296-GT3-V4.pdf": {
+    "filename": "Ferrari-296-GT3-V4.pdf",
+    "sha256": "a852541b361d204294251d7c321bdfa909c134d806c8febf77d5f1ba99a7f2c0",
+    "signature": "W/\"911177a41c95687b0cfc84a51261d1a7\"|Mon, 24 Jun 2024 15:31:10 GMT"
+  },
+  "https://s100.iracing.com/wp-content/uploads/2024/06/Mustang-GT3_Manual_V2.pdf": {
+    "filename": "Mustang-GT3_Manual_V2.pdf",
+    "sha256": "a5c20d74c6995a26905606f348c27794ac3f479cea4ee51eae1d935bfdba0c98",
+    "signature": "\"fdb0c96fde4aa0ce060ea135b81c478d\"|Tue, 04 Jun 2024 20:33:05 GMT"
+  },
+  "https://s100.iracing.com/wp-content/uploads/2024/07/Audi-R8-LMS-EVO-II-GT3_Manual.pdf": {
+    "filename": "Audi-R8-LMS-EVO-II-GT3_Manual.pdf",
+    "sha256": "81df18051c55bf29583d0a8097a08e45d7389363d315ea46037ec680733e4d74",
+    "signature": "\"ff332e02a0dd9560b1430333c0e02510\"|Wed, 10 Jul 2024 20:24:00 GMT"
+  },
+  "https://s100.iracing.com/wp-content/uploads/2024/07/BMW-M4-GT3-Manual_V3.pdf": {
+    "filename": "BMW-M4-GT3-Manual_V3.pdf",
+    "sha256": "80a3553e0df6030e51bc5077445716f0e1fcf1fd53644af9564b9cea11428128",
+    "signature": "\"c58a416ab78932817b9e98416880ceb2\"|Mon, 15 Jul 2024 18:25:19 GMT"
+  },
+  "https://s100.iracing.com/wp-content/uploads/2024/07/BMW-M4-GT4-V2.pdf": {
+    "filename": "BMW-M4-GT4-V2.pdf",
+    "sha256": "20eeca5de18995420c39d0ac09782eafb89b364551f5b7ef535f35972f24f58c",
+    "signature": "\"76eada5321a9865d8959af0a46b3d913\"|Mon, 15 Jul 2024 18:25:32 GMT"
+  },
+  "https://s100.iracing.com/wp-content/uploads/2024/07/McLaren-570S-GT4-Manual-V2.pdf": {
+    "filename": "McLaren-570S-GT4-Manual-V2.pdf",
+    "sha256": "f6a95aa9b2d11833071af4fb8e87946c9c6ca4c3ee2d523e02405766d742844a",
+    "signature": "\"76e9ec75cfd082847b7692367237b168\"|Wed, 10 Jul 2024 15:04:44 GMT"
+  },
+  "https://s100.iracing.com/wp-content/uploads/2024/07/Mercedes-AMG-GT4-Manual-V2.pdf": {
+    "filename": "Mercedes-AMG-GT4-Manual-V2.pdf",
+    "sha256": "c1f58c170ea48364a1906ba459c6d528e172265e66373d8796521ed328e69227",
+    "signature": "\"de0b6ac49a3499b3fff55874f0c19c7d\"|Thu, 18 Jul 2024 19:26:07 GMT"
+  },
+  "https://s100.iracing.com/wp-content/uploads/2024/07/Porsche-718-Cayman-GT4-Manual-V5.pdf": {
+    "filename": "Porsche-718-Cayman-GT4-Manual-V5.pdf",
+    "sha256": "2e5cad650dfc51ea5caa25a701ba2db5681b29992ebd73b03faaafcf3d47603e",
+    "signature": "\"899b10de0caee286de585cd14a84c552\"|Fri, 19 Jul 2024 18:32:37 GMT"
+  },
+  "https://s100.iracing.com/wp-content/uploads/2024/07/Porsche-911-GT3-Cup-992_Manual.pdf": {
+    "filename": "Porsche-911-GT3-Cup-992_Manual.pdf",
+    "sha256": "89c058d0650052dfefcdf6584ed5125984abc14e3620285561d86ad4e44dbae5",
+    "signature": "W/\"f84f38b90ac14bac63960547d281d23a\"|Wed, 10 Jul 2024 15:59:25 GMT"
+  },
+  "https://s100.iracing.com/wp-content/uploads/2024/07/UM-Lamborghini-Huracan-GT3-Evo-V3.pdf": {
+    "filename": "UM-Lamborghini-Huracan-GT3-Evo-V3.pdf",
+    "sha256": "c31d14318f1de28fd52573f7d4f4cc1140c1d350a17758b86301471f59035e54",
+    "signature": "W/\"83df7e554d974caeff5bfab213822a9b\"|Wed, 03 Jul 2024 15:39:03 GMT"
+  },
+  "https://s100.iracing.com/wp-content/uploads/2024/09/BMW-M8-GTE_Manual_V2.pdf": {
+    "filename": "BMW-M8-GTE_Manual_V2.pdf",
+    "sha256": "9e297bc74eaf51d97bc3e84a0e506fb89dcb466b3548bc0ab263ab13646b878a",
+    "signature": "\"4d91802e2303f0df859818522691afc2\"|Thu, 19 Sep 2024 21:14:57 GMT"
+  },
+  "https://s100.iracing.com/wp-content/uploads/2024/09/Dirt_Mini_Stock_Manual.pdf": {
+    "filename": "Dirt_Mini_Stock_Manual.pdf",
+    "sha256": "49d419f6fe5dd8edf2b70f4ac9c5bde5aff988168c4c123880998c67a2ffcb3c",
+    "signature": "\"f18612a4e5005a418029a0ad4869fef6\"|Wed, 18 Sep 2024 19:08:08 GMT"
+  },
+  "https://s100.iracing.com/wp-content/uploads/2024/09/Late-Model-Stock-Manual_V6.pdf": {
+    "filename": "Late-Model-Stock-Manual_V6.pdf",
+    "sha256": "7a436c67b763d0319c9cc6acac27cfd05506f1c67f86dff2d6b4726fe5f63cbc",
+    "signature": "\"d244dd7ff31781bef03bf4debc8c20c9\"|Thu, 19 Sep 2024 15:56:19 GMT"
+  },
+  "https://s100.iracing.com/wp-content/uploads/2024/09/Mclaren-720S-GT3_V2.pdf": {
+    "filename": "Mclaren-720S-GT3_V2.pdf",
+    "sha256": "47ef0a84dd976c98b15dfc2ab826c02257548bbddc8bd48f56d375c7c55b14fc",
+    "signature": "\"06f95427013cbb8b1be08017a1b96c7f\"|Tue, 24 Sep 2024 18:26:58 GMT"
+  },
+  "https://s100.iracing.com/wp-content/uploads/2024/09/Mini_Stock_Manual-V1.pdf": {
+    "filename": "Mini_Stock_Manual-V1.pdf",
+    "sha256": "a6d8fd72753946706fa53e5a2938a791f4bf9783fbf8907f027f4a44aabffff4",
+    "signature": "W/\"55e31c526106a71706fcb3dbc6b66bb2\"|Wed, 18 Sep 2024 16:30:10 GMT"
+  },
+  "https://s100.iracing.com/wp-content/uploads/2024/09/Porsche-911-GT3-R-992_V2.pdf": {
+    "filename": "Porsche-911-GT3-R-992_V2.pdf",
+    "sha256": "0244f2ee03a8e81da7011019d80bc7aa8bfca6633c2d1f9b5a3988eefe84c01a",
+    "signature": "\"4fa7bd51c95ad9c2b2e28b296d235b0a\"|Fri, 20 Sep 2024 13:47:12 GMT"
+  },
+  "https://s100.iracing.com/wp-content/uploads/2024/09/Toyota_GR86_Manual_V2.pdf": {
+    "filename": "Toyota_GR86_Manual_V2.pdf",
+    "sha256": "da8398550faccdabf38409330489dae046019ef84164d06b86903fffe33595bd",
+    "signature": "W/\"1682b9b79e2a9f454bbc18739f07dc9c\"|Wed, 18 Sep 2024 20:17:32 GMT"
+  },
+  "https://s100.iracing.com/wp-content/uploads/2024/12/Acura-GT3_Manual_V2.pdf": {
+    "filename": "Acura-GT3_Manual_V2.pdf",
+    "sha256": "bd4668fb2c49e40e05baf41b29fe2b26f9d58a9049c5a4c021df7e33d8eb9e14",
+    "signature": "\"5e3eae545d2b1dbe8ac26a40543228e2\"|Thu, 12 Dec 2024 17:50:07 GMT"
+  },
+  "https://s100.iracing.com/wp-content/uploads/2024/12/BMW-M2-CSR-Manual_V2.pdf": {
+    "filename": "BMW-M2-CSR-Manual_V2.pdf",
+    "sha256": "1f68693df919f57716b8a21cf95961e1805a5f036bcc91c825b0eccc1691019e",
+    "signature": "\"96cfc77b17ee0588ba9fa8e8874745fc\"|Wed, 11 Dec 2024 19:29:58 GMT"
+  },
+  "https://s100.iracing.com/wp-content/uploads/2024/12/BMW-M4-G82-GT4-Manual-V2.pdf": {
+    "filename": "BMW-M4-G82-GT4-Manual-V2.pdf",
+    "sha256": "8073566557cff40391be39a9d1a4dbd2eaed021c2cfa45504c7376f9115e6eab",
+    "signature": "W/\"8177b779b23f29a0507a95ac0da0894d\"|Fri, 13 Dec 2024 16:57:13 GMT"
+  },
+  "https://s100.iracing.com/wp-content/uploads/2025/01/Acura-ARX-06-GTP-V2.pdf": {
+    "filename": "Acura-ARX-06-GTP-V2.pdf",
+    "sha256": "e189014c4d457219d630ea6e09f22809fdee7036904b1bc6dcde887c44ddc7f3",
+    "signature": "\"432edcb6cd2a35e97d3de8974086fad3\"|Wed, 15 Jan 2025 19:31:29 GMT"
+  },
+  "https://s100.iracing.com/wp-content/uploads/2025/01/BMW-M-Hybrid-V8-V2.pdf": {
+    "filename": "BMW-M-Hybrid-V8-V2.pdf",
+    "sha256": "23ebe6a627756c69ee3145cad8dbf77752853095aa56aa012d9f5200f4f3beae",
+    "signature": "\"164ccc67d3f66492523f344094d012ab\"|Wed, 15 Jan 2025 19:38:10 GMT"
+  },
+  "https://s100.iracing.com/wp-content/uploads/2025/01/Cadillac-V-Series.R-GTP-V2.pdf": {
+    "filename": "Cadillac-V-Series.R-GTP-V2.pdf",
+    "sha256": "e4f137fa85f7489e5f99f6e2752d7294a45d8d210ccfcd47f96aa4f2d36bdec1",
+    "signature": "\"4fe82b96e8d2e17d7637b84f6e3e7552\"|Wed, 15 Jan 2025 19:35:49 GMT"
+  },
+  "https://s100.iracing.com/wp-content/uploads/2025/02/Global-Mazda-MX5_Manual_V2.pdf": {
+    "filename": "Global-Mazda-MX5_Manual_V2.pdf",
+    "sha256": "dbb8c5c86cb0700ad6436b4407bf4fa2d8dbef6620265828ade786bb230cbac9",
+    "signature": "W/\"0779dc6346604743575b3758b896d79d\"|Wed, 05 Feb 2025 13:48:13 GMT"
+  },
+  "https://s100.iracing.com/wp-content/uploads/2025/03/ARCA_25_Manual_V1.pdf": {
+    "filename": "ARCA_25_Manual_V1.pdf",
+    "sha256": "a9946de7418c83f07655e18bdd2eb2c09efbedb626c1937161f7a148d5fe3ae6",
+    "signature": "\"3d21294221a953db577cba160862a5d8\"|Tue, 11 Mar 2025 13:15:54 GMT"
+  },
+  "https://s100.iracing.com/wp-content/uploads/2025/03/Aston-Vantage-GT4-Manual_V4.pdf": {
+    "filename": "Aston-Vantage-GT4-Manual_V4.pdf",
+    "sha256": "df6dacfc364e0864bcd7ebe2764af1d9495ec0bb7cfec3e5648d6794433b8bcb",
+    "signature": "\"58fa7cf64350eb20b603020c167f98eb\"|Mon, 17 Mar 2025 18:52:37 GMT"
+  },
+  "https://s100.iracing.com/wp-content/uploads/2025/03/Audi_RS3_LMS_TCR_V2.pdf": {
+    "filename": "Audi_RS3_LMS_TCR_V2.pdf",
+    "sha256": "935a76f7c749838a8e282acc30912245d63d06b15e4859176742ac4530bdb969",
+    "signature": "\"9b0b507345454e65e95f8fb41962dae3\"|Mon, 17 Mar 2025 20:11:58 GMT"
+  },
+  "https://s100.iracing.com/wp-content/uploads/2025/03/Honda-Civic-Type-R_TCR.pdf": {
+    "filename": "Honda-Civic-Type-R_TCR.pdf",
+    "sha256": "56bec8357dcabca7f6544f228484303faa7aea45bac432afa9da9dcef3ac01b2",
+    "signature": "\"be44d762bd3d553c3d30755a767f0177\"|Tue, 18 Mar 2025 16:57:25 GMT"
+  },
+  "https://s100.iracing.com/wp-content/uploads/2025/03/Hyundai-Elantra-N-TCR_V3.pdf": {
+    "filename": "Hyundai-Elantra-N-TCR_V3.pdf",
+    "sha256": "7555c1ff013f8670428c8809df241761b7aa6d794682ec0fafa2f57166b736c6",
+    "signature": "W/\"79c1cfb207f926e7c27ada8d7f78d82b\"|Tue, 18 Mar 2025 18:16:22 GMT"
+  },
+  "https://s100.iracing.com/wp-content/uploads/2025/03/Hyundai-Veloster-N-TC-Manual-V4.pdf": {
+    "filename": "Hyundai-Veloster-N-TC-Manual-V4.pdf",
+    "sha256": "de2ee1c8a74b68c51aa83703e54b9320f89cfe34ac173d1beb3c1c19bbb22f40",
+    "signature": "\"9aadaccf3ad83586f9af87dd22b629f9\"|Tue, 18 Mar 2025 18:45:22 GMT"
+  },
+  "https://s100.iracing.com/wp-content/uploads/2025/03/Legends-Ford-Coupe_Manual_V1.pdf": {
+    "filename": "Legends-Ford-Coupe_Manual_V1.pdf",
+    "sha256": "22962a7604465bcd79d625c42638c6e5cb74713b32759b7536af50ce4a79031f",
+    "signature": "\"95f2bf13c9e171eac8697b918258153d\"|Wed, 12 Mar 2025 12:38:53 GMT"
+  },
+  "https://s100.iracing.com/wp-content/uploads/2025/03/Ligier-JS-P320-V2.pdf": {
+    "filename": "Ligier-JS-P320-V2.pdf",
+    "sha256": "6def1ac8b420d41b157ecb8cfd1f956f2c163b3b2330716398b333f7744b0b77",
+    "signature": "W/\"d6685fb41d134c2eec62193486392b53\"|Tue, 18 Mar 2025 16:42:51 GMT"
+  },
+  "https://s100.iracing.com/wp-content/uploads/2025/03/Porsche-963-GTP-V2.pdf": {
+    "filename": "Porsche-963-GTP-V2.pdf",
+    "sha256": "771b6d1207d8f820302101f45ef6dc1bdfb8de9affc8f7fdd56471a90ec84656",
+    "signature": "\"4cc48c7d904c30e20b30d3dcd58d18aa\"|Mon, 17 Mar 2025 14:53:26 GMT"
+  },
+  "https://s100.iracing.com/wp-content/uploads/2025/03/UM-Dallara-P217-LMP2-V2.pdf": {
+    "filename": "UM-Dallara-P217-LMP2-V2.pdf",
+    "sha256": "319435cce806c1dd9ca9fac5cb4ce300981df5af91068d5e63d958e6d7c79014",
+    "signature": "\"daa6c8f0a5004067a21cadc686839158\"|Mon, 17 Mar 2025 20:17:47 GMT"
+  },
+  "https://s100.iracing.com/wp-content/uploads/2025/06/Ferrari-296-Challenge.pdf": {
+    "filename": "Ferrari-296-Challenge.pdf",
+    "sha256": "597fdf851324c1e6460edf0113c3edb3ac4f2266fe9595c964f4c14b1dd5b8e2",
+    "signature": "W/\"5c988f504cf3182802a002610ceb5cbf\"|Wed, 11 Jun 2025 14:19:00 GMT"
+  },
+  "https://s100.iracing.com/wp-content/uploads/2025/06/Gen-3-Supercars-Manual_V5.pdf": {
+    "filename": "Gen-3-Supercars-Manual_V5.pdf",
+    "sha256": "d1cea66570834124b8d1786b459946febc1b7248c2f796fcc1762a5d590933a0",
+    "signature": "\"ce12c734ed0e0a080d34bae41391050f\"|Thu, 12 Jun 2025 14:47:17 GMT"
+  },
+  "https://s100.iracing.com/wp-content/uploads/2025/06/NASCAR-Gen4-Cup-Cars.pdf": {
+    "filename": "NASCAR-Gen4-Cup-Cars.pdf",
+    "sha256": "7cf287fcea68d8e14b2b92f2760b12ba0760cfa292bcb914d9d0d4a2fbeac9c5",
+    "signature": "\"ac625fb8aea4f03308e736ade6ad74fa\"|Wed, 11 Jun 2025 14:18:48 GMT"
+  },
+  "https://s100.iracing.com/wp-content/uploads/2026/01/Aston-Martin-GT3-Evo-V1.pdf": {
+    "filename": "Aston-Martin-GT3-Evo-V1.pdf",
+    "sha256": "27167cd2988b6fbe86fdda5ae46e72ef9218c0bd0a423cec8254376f09e82098",
+    "signature": "W/\"8b277937c64c057b01ddcc5db243f84d\"|Fri, 16 Jan 2026 18:18:44 GMT"
+  },
+  "https://s100.iracing.com/wp-content/uploads/2026/01/Dallara-IR18-V3.pdf": {
+    "filename": "Dallara-IR18-V3.pdf",
+    "sha256": "9c65b51825f86166f721e3eb56a6bf3b586303b92f9d534459aa18f6d6dcd75c",
+    "signature": "\"1acacabcce68410be11d6925672682b0\"|Mon, 26 Jan 2026 14:17:47 GMT"
+  },
+  "https://s100.iracing.com/wp-content/uploads/2026/01/FIA-Cross-Car-V1.pdf": {
+    "filename": "FIA-Cross-Car-V1.pdf",
+    "sha256": "8c8c712fd4472317b7952e4ae94db8031dcb5f2bf0a5dc7a8295b86426c48344",
+    "signature": "W/\"a290fbd764364bf8125f7c517c0077b0\"|Thu, 08 Jan 2026 14:40:55 GMT"
+  },
+  "https://s100.iracing.com/wp-content/uploads/2026/01/Porsche-Cup-992.2-V1.pdf": {
+    "filename": "Porsche-Cup-992.2-V1.pdf",
+    "sha256": "4f8d861812b624834ed23d22baf129228cedb2d0a8e06ae5b2991b2e869fecfc",
+    "signature": "W/\"132b13b7e94cedd0ace8dfa4026db155\"|Thu, 08 Jan 2026 14:40:39 GMT"
+  },
+  "https://s100.iracing.com/wp-content/uploads/2026/03/UM-NASCAR-Oreilly_Manual_V1.pdf": {
+    "filename": "UM-NASCAR-Oreilly_Manual_V1.pdf",
+    "sha256": "14592ebf24a1281981d6d467e9f0fd95b4acedb033ccd26477631190a39487ae",
+    "signature": "\"8720b86749fd5d6e902a7b15c19241e2\"|Fri, 13 Mar 2026 14:23:41 GMT"
+  },
+  "https://s100.iracing.com/wp-content/uploads/2026/09/Mercedes-AMG-GT3-2020-Manual_V10.pdf": {
+    "filename": "Mercedes-AMG-GT3-2020-Manual_V10.pdf",
+    "sha256": "40ace3fe576bd1160013790b89b2f0dcef6e0a83b23a422f5f10573691e14c23",
+    "signature": "W/\"b619f17581a260031eb56d9c96813365\"|Tue, 29 Sep 2026 20:48:12 GMT"
+  }
+}
