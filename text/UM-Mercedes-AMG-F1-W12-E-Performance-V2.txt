@@ -1,0 +1,559 @@
+--- PAGE 1 ---
+
+1
+MERCEDES-AMG F1 
+W1 2 E PERFORMANCE
+USER MANUAL
+
+--- PAGE 2 ---
+
+2
+MERCEDES-AMG F1 W12 E PERFORMANCE | USER MANUAL
+Introduction » 5
+Tech Specs » 4
+A Message From iRacing » 3
+ Getting Started » 5
+ Race Page » 8
+ Lap End Screen » 9
+ Halo Center Pillar » 10
+Dash Pages » 7
+ Loading An iRacing Setup » 6
+Tires & Aero » 11 
+ Warmup Page » 7
+ Tire Compound » 11
+Chassis » 15
+ Aero Package » 13
+ Front Corners » 16
+ Tire Settings » 12
+ Front » 16
+ Aero Calculator » 14
+ Rear Corners » 17
+ Rear » 17
+ Differential » 19
+Drive / Break » 19
+ Power Unit Config » 20
+ Brake System Config » 21
+ GENERAL INFORMATION
+ ADVANCED SETUP OPTIONS
+Table of Contents
+CLICK TO VIEW A SECTION
+
+--- PAGE 3 ---
+
+3
+DEAR IRACING USER,
+Congratulations on your purchase of the Mercedes-AMG F1 W12 E Performance! From all of us at iRacing, 
+we appreciate your support and your commitment to our product. We aim to deliver the ultimate sim racing 
+experience, and we hope that you’ll find plenty of excitement with us behind the wheel of your new car!
+The Mercedes-AMG Petronas Formula One Team has been the most dominant race team in the world over 
+much of the past decade, winning seven World Driver’s and World Constructor’s Championships in a row 
+from 2014-2020 thanks to the combined efforts of Lewis Hamilton, Nico Rosberg, Valtteri Bottas, and 
+George Russell. For the 2021 season, the last before sweeping revisions to the competition formula, the 
+team introduced the F1 W12 E Performance as its next heir to the throne.
+Powered by a 1.6-liter V6 hybrid capable of producing over 1,000 horsepower, the car was an evolution 
+of the dominant W11 that had won all but four races the previous year. The W12 won with Hamilton on 
+its debut in Bahrain and took victories in three of its first four starts, while also leading Hamilton to his 
+milestone 100th career Grand Prix victory in a compelling Russian Grand Prix that saw rain fall in the race’s 
+closing laps.
+The following guide explains how to get the most out of your new car, from how to adjust its settings off of 
+the track to what you’ll see inside of the cockpit while driving. We hope that you’ll find it useful in getting up 
+to speed.
+Thanks again for your purchase, and we’ll see you on the track!
+3
+
+--- PAGE 4 ---
+
+4
+MERCEDES-AMG F1 W12 E PERFORMANCE | USER MANUAL
+POWER 
+UNIT
+CHASSIS
+MERCEDES-AMG F1 W12 E PERFORMANCE | TECH SPECS
+MERCEDES-AMG 
+M 1 2 1 .6L V6
+DOUBLE WISHBONE PUSHROD FRONT 
+DOUBLE WISHBONE PULLROD REAR
+LENGTH
+5700mm
+224in
+WIDTH
+2000mm
+78.7in
+WHEELBASE
+3724mm
+146.6in
+DRY WEIGHT
+833kg
+1836lbs
+WET WEIGHT 
+WITH DRIVER
+943kg
+2078lbs
+DISPLACEMENT
+1.6Liters
+98CID
+TORQUE
+530lb-ft
+718Nm
+RPM LIMIT
+13000RPM
+ 
+POWER
+1050bhp
+782kW
+
+--- PAGE 5 ---
+
+5
+MERCEDES-AMG F1 W12 E PERFORMANCE | USER MANUAL
+Introduction
+The information found in this guide is intended to provide a deeper understanding of the 
+chassis setup adjustments available in the garage, so that you may use the garage to tune 
+the chassis setup to your preference. 
+Before diving into chassis adjustments, though, it is best to become familiar with the car 
+and track. T o that end, we have provided setups for each track commonly raced by these 
+cars. T o access the provided setups, simply open the Garage, click iRacing Setups, and 
+select the appropriate setup for your track of choice. If you are driving a track for which a 
+dedicated setup is not included, you may select a setup for a similar track to use as your 
+baseline. After you have selected an appropriate setup, get on track and focus on making 
+smooth and consistent laps, identifying the proper racing line and experiencing tire wear 
+and handling trends over a number of laps. 
+Once you are confident that you are nearing your driving potential with the included baseline 
+setups, read on to begin tuning the car to your handling preferences.
+GETTING STARTED
+Once the car is loaded, simply turn on the ignition, press the starter button, and wait for the engine revs to stabilize. Leaving the 
+pits is as simple as pressing “upshift” to put the car in gear, and hitting the accelerator pedal while slowly releasing the clutch. 
+Once the car is in motion, all shifting is clutchless and doesn’t require manual throttle cuts. Simply press the upshift or downshift 
+buttons to select the next gear, and the car will do everything for you. Upshifting is recommended when the blue lights illuminate 
+on the top of the steering wheel, around 11,500rpm.
+MERCEDES-AMG F1 W12 E PERFORMANCE | INTRODUCTION
+
+--- PAGE 6 ---
+
+6
+MERCEDES-AMG F1 W12 E PERFORMANCE | USER MANUAL
+LOADING AN iRACING SETUP
+Upon loading into a session, the car will automatically load the iRacing Baseline setup [baseline.sto]. If you would prefer one of 
+iRacing’s pre-built setups that suit various conditions, you may load it by clicking Garage > iRacing Setups > and then selecting the 
+setup to suit your needs.
+If you would like to customize the setup, simply make the changes in the garage that you would like to update and click apply. If you 
+would like to save your setup for future use click “Save As” on the right to name and save the changes. 
+To access all of your personally saved setups, click “My Setups” on the right side of the garage. 
+If you would like to share a setup with another driver or everyone in a session, you can select “Share” on the right side of the 
+garage to do so. 
+If a driver is trying to share a setup with you, you will find it under “Shared Setups” on the right side of the garage as well. 
+MERCEDES-AMG F1 W12 E PERFORMANCE | INTRODUCTION
+
+--- PAGE 7 ---
+
+7
+MERCEDES-AMG F1 W12 E PERFORMANCE | USER MANUAL
+Dash Pages
+The Mercedes-AMG W12 features a digital dash display built into the steering wheel with 
+two display pages. These pages show all relevant information about the engine to the driver 
+as well as information about lap times, fuel usage, and tire data. For both pages, the values 
+shown are displayed in units based on the selection in the Garage screen.
+WARMUP PAGE
+SPEED - Vehicle speed
+Gear Status Indicators - When the car is loaded into the world during Test, Practice, or Qualifying, the drivetrain will need to learn 
+all eight forward gears to optimize shifting performance. Initially all eight gears will be represented with a red box. After each gear 
+is selected and the engine has reached high RPM in that gear, its corresponding box will turn green, with all eight boxes being 
+removed from the screen once all gears have been learned.
+Gear Indicator - The currently selected gear is shown in the center of the display
+Tire Surface Temperatures - The tire surface temperatures are represented by large white numbers on the sides of the display. 
+These values will update in real time and can be used to determine when the tires are at their ideal operating temperature.
+Tire Carcass Temperatures - The temperature in the tire carcass is displayed with blue numbers next to the Tire Surface 
+Temperatures. These core temperatures represent the temperature within the tread itself and will heat up and cool down slower 
+than the surface temperatures.
+Current Deploy Mode - The hybrid system deploy mode currently in use is shown directly beneath the Gear Indicator. 
+BATT - The battery’s current charge level is shown underneath the Deploy Mode. This value is the percentage of charge currently 
+stored within the battery.
+DELTA - This value appears once a lap time has been set in the session and represents the difference in time for the current lap 
+against the session fastest lap.
+TWATER - The engine coolant temperature is shown in the center of the screen at the very bottom and can be used to identify 
+engine cooling issues.
+Live Brake Bias - The large orange number on the right side of the screen shows the instantaneous brake bias. When there is 
+no brake input from the driver, this value will show the base brake bias, but as the brake pedal is depressed the value will change 
+based on the brake ramping settings.
+Base Brake Bias - Below the Live Brake Bias value is the Base Brake Bias value. This value is a combination of the Coarse and Fine 
+brake bias settings and does not factor in the Brake Bias Migration setting.
+MERCEDES-AMG F1 W12 E PERFORMANCE | DASH PAGES
+
+--- PAGE 8 ---
+
+8
+MERCEDES-AMG F1 W12 E PERFORMANCE | USER MANUAL
+RACE PAGE
+DEPLOY - This value represents how many hybrid system deploy mode changes are remaining during the current lap.
+LAP - Current lap number
+Laptime Delta - The difference between the current lap time and the session best lap time is shown in the upper left section of 
+the display
+Gear Indicator - The currently selected gear is shown in the center of the display
+Live Brake Bias - The large orange number on the right side of the screen shows the instantaneous brake bias. This value is the 
+same as what is shown on the Warmup page.
+LL - The amount of fuel used in the previous lap, in kilograms per lap.
+TAR - The target fuel usage is shown below the previous lap’s fuel usage. This value shows how much fuel should be used per lap to 
+reach the end of the race.
+Current Deploy Mode - The hybrid system deploy mode currently in use is shown directly beneath the Gear Indicator. 
+BATT - The current charge state of the battery (in percent) is shown under the currently selected deploy mode.
+LAST - The previous lap time is shown in the bottom right of the display in blue numbers.
+Fuel Bar - On the right side of the display during Race sessions, a colored bar will show whether or not the current fuel level 
+is enough to reach the end of the race based on the current fuel usage. Each block in the bar represents 50 grams of fuel, 
+with green blocks representing excess fuel and red blocks representing a lack of fuel. For example, if the bar shows two green 
+blocks, there is 100 grams of excess fuel, while two red blocks would represent the fuel level being 100 grams less than what is 
+necessary to complete the race.
+MERCEDES-AMG F1 W12 E PERFORMANCE | DASH PAGES
+
+--- PAGE 9 ---
+
+9
+MERCEDES-AMG F1 W12 E PERFORMANCE | USER MANUAL
+LAP END SCREEN
+TIME - The previous lap time is shown in the upper left of the display
+LAP - The current lap number is shown in the top right of the display
+Gear Indicator - The currently selected gear is shown in the center of the display
+DELTA - The difference between the previous lap time and the session best lap time
+FUEL DELTA - The difference in the amount of fuel used on the previous lap relative to the Target Fuel Usage value will appear at 
+the bottom of the display in kg/lap.
+MERCEDES-AMG F1 W12 E PERFORMANCE | DASH PAGES
+
+--- PAGE 10 ---
+
+10
+MERCEDES-AMG F1 W12 E PERFORMANCE | USER MANUAL
+HALO CENTER PILLAR
+To improve driver visibility, the center support pillar for the Halo can be removed via the “Hide Obstructions” setting in the Options 
+menu. To enable this option go to the Options and then Graphics menu, then change the “Hide Obstructions” setting to either 
+“Cockpit halo” or “All”. This will set the center pillar to a transparent version.
+MERCEDES-AMG F1 W12 E PERFORMANCE | DASH PAGES
+
+--- PAGE 11 ---
+
+11
+MERCEDES-AMG F1 W12 E PERFORMANCE | USER MANUAL
+Tires & Aero
+TIRE COMPOUND
+TIRE COMPOUND
+A selection of three tire compounds is available for use in the Mercedes W12: Soft (Red sidewall lettering), Medium (Yellow 
+sidewall lettering), and Hard (White sidewall lettering). The Soft compound has a high level of grip and will result in a faster overall 
+pace at the cost of shorter tire life, while the Hard compound has a relatively low amount of grip and will produce a slower pace 
+with a much longer tire life. The Medium compound will be between the Soft and Hard in grip levels, pace, and tire life. For race 
+sessions, cars must start the race on the compound used in Qualifying.
+ADVANCED SETUP OPTIONS
+This section is aimed toward more advanced users who want to dive deeper into the different aspects 
+of the vehicle’s setup. Making adjustments to the following parameters is not required and can lead to 
+significant changes in the way a vehicle handles. It is recommended that any adjustments are made in 
+an incremental fashion and only singular variables are adjusted before testing changes.
+MERCEDES-AMG F1 W12 E PERFORMANCE | ADVANCED SETUP OPTIONS | TIRES & AERO
+
+--- PAGE 12 ---
+
+12
+MERCEDES-AMG F1 W12 E PERFORMANCE | USER MANUAL
+MERCEDES-AMG F1 W12 E PERFORMANCE | ADVANCED SETUP OPTIONS | TIRES & AERO
+TIRE SETTINGS (ALL FOUR TIRES)
+STARTING PRESSURE
+Air pressure in the tire when the car is loaded into the world. Higher pressures will reduce rolling drag and heat buildup, but will 
+decrease grip. Lower pressures will increase rolling drag and heat buildup, but will increase grip. Higher speeds and loads will 
+require higher pressures, while lower speeds and loads will see better performance from lower pressures. Cold pressures should 
+be set to track characteristics for optimum performance.
+LAST HOT PRESSURE
+Air pressure in the tire after the car has returned to the pits. The difference between Cold and Hot pressures can be used 
+to identify how the car is progressing through a run in terms of balance, with heavier-loaded tires seeing a larger difference 
+between Cold and Hot pressures. Ideally, tires that are worked in a similar way should build pressure at the same rate to prevent 
+a change in handling balance over the life of the tire, so Cold pressures should be adjusted to ensure that similar tires are at 
+similar pressures once up to operating temperature. Careful attention should be paid to the Hot Pressures to extract the most 
+performance out of the tires during a race.
+TIRE TEMPS O M I
+The temperatures measured in the garage are tire carcass temperatures, measured within the tread rubber itself. Wheel Loads 
+and the amount of work a tire is doing on-track is reflected in the tire’s temperature, and these values can be used to analyze the 
+car’s handling balance. Center temperatures are useful for directly comparing the work done by each tire, while the Inner and 
+Outer temperatures are useful for analyzing the wheel alignment while on track.
+TREAD REMAINING
+The amount of tread remaining on the tire once the car has returned from the pits. Tire wear is very helpful in identifying 
+any possible issues with alignment, such as one side of the tire wearing excessively, but should never be prioritized over tire 
+temperatures when analyzing handling balance.
+
+--- PAGE 13 ---
+
+13
+MERCEDES-AMG F1 W12 E PERFORMANCE | USER MANUAL
+AERO PACKAGE
+DOWNFORCE TRIM
+Three downforce packages are available to optimize performance for various track types. The High downforce package will 
+produce the most aerodynamic grip but with the highest amount of drag and the Low downforce package will produce the least 
+aerodynamic grip but will produce very little drag. The Medium downforce package will produce a result between the High and Low 
+packages.
+FRONT FLAP OFFSET
+The front wing’s upper flap can be changed to alter the downforce level as well as move the aerodynamic balance forward or 
+rearward on the car. Higher values will increase the angle on the flap, producing more downforce from the front wing while shifting 
+the aerodynamic balance forward. Lower values will reduce downforce and shift the aerodynamic balance rearward and slightly 
+reduce drag.
+REAR WING GURNEY
+The Rear Wing Gurney setting changes the height of a small flap at the trailing edge of the rear wing’s uppermost element. 
+Increasing the wicker’s height will shift aero balance rearward but will also increase drag, while decreasing the wicker height will 
+reduce downforce and drag and shift aero balance forward. 
+MERCEDES-AMG F1 W12 E PERFORMANCE | ADVANCED SETUP OPTIONS | TIRES & AERO
+
+--- PAGE 14 ---
+
+14
+MERCEDES-AMG F1 W12 E PERFORMANCE | USER MANUAL
+AERO CALCULATOR
+The Aero Calculator is a quick way to get a general idea of the car’s aero balance in the 
+current configuration. After setting the Aero Package to the desired values, changing the 
+“RH at Speed” values to the car’s on-track heights (pulled from telemetry data) will display 
+the aerodynamic balance with those settings. This is very helpful for planning setup changes 
+to either keep the same aerodynamic balance after a change or to understand how much 
+the balance will shift with changes.
+FRONT & REAR RH AT SPEED
+The RH (Ride Height) at Speed settings are inputs for the aero calculator to determine the approximate aero performance with 
+the chosen aero package. Changing these values changes the displayed Front Downforce value as well as the Downforce-to-Drag 
+ratio in the calculator. To check on-track performance, use the average of the front ride height sensors (Front RH) and the average 
+of the rear ride height sensors (Rear RH) from telemetry. These can also be changed to observe how rake will affect aerodynamic 
+performance prior to ride height or spring changes.
+AERO BALANCE
+Aero Balance represents the percentage of total downforce that is working on the front axle. This is affected by fr, front wing 
+angle, rear wing gurney, and the overall downforce trim, and should be monitored during the chassis setup process to prevent 
+unexpected results. To ensure chassis adjustments don’t become masked by aerodynamic changes, always refer to this value to 
+ensure it remains constant before and after aerodynamic setup changes.
+DOWNFORCE TO DRAG
+The Downforce to Drag ratio is a relation of how much downforce is produced for one unit of drag. Generally, a larger Downforce 
+to Drag ratio would imply the car is working efficiently and producing large amounts of downforce for given drag numbers, while a 
+lower Downforce to Drag value is typically seen on more slippery, low-drag aerodynamic packages. 
+MERCEDES-AMG F1 W12 E PERFORMANCE | ADVANCED SETUP OPTIONS | TIRES & AERO
+
+--- PAGE 15 ---
+
+15
+MERCEDES-AMG F1 W12 E PERFORMANCE | USER MANUAL
+Chassis
+FRONT
+TRANSPARENT HALO
+If desired, the Halo’s central pillar can be removed to improve visibility while driving. This setting has no impact on vehicle 
+performance.
+WEIGHT DIST
+The Weight Distribution value shows how much of the car’s total weight is situated on the front axle. This can be used in 
+conjunction with the Front Downforce percentage to tune how stable the car is at high speeds or how easily the car will rotate 
+through low-speed corners. Increasing the Weight Distribution percentage will shift weight forward, making the car less darty and 
+more stable at high speeds, but will be more resistant to direction changes at low speeds. Lower Weight Distribution values will 
+shift weight rearward, causing the car to be twitchier at high speeds but will rotate more easily through slow corners.
+HEAVE RATE
+The front Heave Rate controls the stiffness of the heave spring. This spring works to resist purely vertical travel, and is crucial 
+for maintaining and supporting high levels of downforce at higher speeds. Stiffer heave spring rates will result in less suspension 
+travel over changing loads, which is good for aerodynamics, but can make the suspension overly stiff and reduce mechanical grip. 
+Softer heave springs will help with mechanical grip but could lead to bottoming out at high speeds and higher ride heights at lower 
+speeds. Further, softer heave springs can lead to excessive chassis movement and an unstable aerodynamic platform.
+MERCEDES-AMG F1 W12 E PERFORMANCE | ADVANCED SETUP OPTIONS | CHASSIS
+
+--- PAGE 16 ---
+
+16
+MERCEDES-AMG F1 W12 E PERFORMANCE | USER MANUAL
+ROLL RATE
+The Roll Rate changes the stiffness of the front suspension’s anti-roll device. Higher roll rates will increase front roll stiffness, 
+reducing roll but increasing understeer, while lower roll rates will reduce stiffness, increase roll, and reduce understeer. Increased 
+roll stiffness will also reduce the change in wheel camber due to chassis roll, while softer roll stiffness values will result in more 
+camber change.
+RIDE HEIGHT
+Front Ride Height measures the distance from the ground to a point on the chassis plane measured at the front axle. Since this 
+value is measured at the chassis floor, it does not account for the plank along the center of the car, and thus doesn’t accurately 
+represent the car’s actual ground clearance. Altering the static ride height will affect aerodynamic performance, with lower front 
+ride heights increasing overall downforce, more forward aero balance, and less drag.
+FRONT CORNERS
+CORNER WEIGHT
+This is the weight situated at the wheels while in the garage. Correct weight arrangement around the car is crucial for optimizing a 
+car for a given track and conditions.
+CAMBER
+Camber is the vertical angle of the wheel relative to the center of the chassis. Negative camber is when the top of the wheel is 
+closer to the chassis centerline than the bottom of the wheel, positive camber is when the top of the tire is farther out than the 
+bottom. Higher negative camber values will provide more cornering forces in the direction of the tire’s camber (more aggressive 
+turn-in response), but may reduce braking capability at high camber angles. Always use negative camber on all four wheels, 
+however circuits with significantly more turns in one direction may benefit from asymmetric camber values.
+TOE-IN
+Toe is the angle of the wheel, looking from vertical, relative to the chassis centerline. Toe-in is when the front of the wheels are 
+closer to the centerline while Toe-out is when the front of the wheels are farther from the centerline than the rear of the tires. On 
+the front end, Toe will alter how quickly the tires respond to steering inputs and influence how stable the car is in a straight line. 
+Toe-out settings (negative garage value) will increase turn-in response and make the car less stable in a straight line, while Toe-in 
+(positive garage value) will increase straight-line stability while making initial steering response more sluggish.
+MERCEDES-AMG F1 W12 E PERFORMANCE | ADVANCED SETUP OPTIONS | CHASSIS
+
+--- PAGE 17 ---
+
+17
+MERCEDES-AMG F1 W12 E PERFORMANCE | USER MANUAL
+REAR CORNERS
+CORNER WEIGHT
+This is the weight situated at the wheels while in the garage. Correct weight arrangement around the car is crucial for optimizing a 
+car for a given track and conditions.
+CAMBER
+Camber is the vertical angle of the wheel relative to the center of the chassis. Negative camber is when the top of the wheel 
+is closer to the chassis centerline than the bottom of the wheel, positive camber is when the top of the tire is farther out than 
+the bottom. In the rear, more camber produces more cornering stability, especially at high speeds and high loads, while less 
+camber will often increase traction on throttle application. Always use negative camber on all four wheels, however circuits with 
+significantly more turns in one direction may benefit from asymmetric camber values.
+TOE-IN
+Toe is the angle of the wheels relative to toe chassis centerline when viewed from above. Positive toe-in puts the front of the tires 
+closer to the centerline than the rear of the tires, negative toe-in is not allowed at the rear. For the rear, it is desirable to have toe-
+in (positive value) for both rear tires, which produces a more directionally-stable configuration and helps with throttle application. 
+Less toe-in will allow the car to rotate better, especially at turn-in and on throttle, but will be less stable in a straight line and 
+through the corner’s center. For the rear of the car, each wheel is adjustable individually instead of having a net toe value like the 
+front end.
+REAR
+FUEL LEVEL
+The amount of fuel in the car can be altered for various configurations, such as qualifying, or removed entirely during the chassis 
+setup process. It’s usually best to set the car up with low or no fuel, then add the desired fuel level before going out to the track.
+MERCEDES-AMG F1 W12 E PERFORMANCE | ADVANCED SETUP OPTIONS | CHASSIS
+
+--- PAGE 18 ---
+
+18
+MERCEDES-AMG F1 W12 E PERFORMANCE | USER MANUAL
+HEAVE RATE
+The rear Heave Rate controls the stiffness of the rear heave spring. This spring works to resist purely vertical travel, and is crucial 
+for maintaining and supporting high levels of downforce at higher speeds. Stiffer heave spring rates will result in less suspension 
+travel over changing loads, which is good for aerodynamics, but can make the suspension overly stiff which reduces mechanical 
+grip. Softer heave springs will help with mechanical grip, but could lead to bottoming out at high speeds and higher ride heights at 
+lower speeds. Rear heave rate greatly influences the chassis’ rake angle, and thus both the amount of downforce produced and 
+the aerodynamic balance, around the circuit.
+ROLL RATE
+The Roll Rate changes the stiffness of the rear suspension’s anti-roll device. Higher roll rates will increase rear roll stiffness, 
+reducing roll but increasing oversteer, while lower roll rates will reduce stiffness, increase roll, and increase understeer.
+RIDE HEIGHT
+The rear Ride Height is represented as a single value at the chassis centerline at the rear of the floor. Since this value is measured 
+at the floor, it does not account for the plank along the center of the car, and thus doesn’t accurately represent the car’s actual 
+ground clearance. Altering the static ride height will affect aerodynamic performance, with higher rear ride heights increasing 
+overall downforce, more forward aero balance, and more drag.
+MERCEDES-AMG F1 W12 E PERFORMANCE | ADVANCED SETUP OPTIONS | CHASSIS
+
+--- PAGE 19 ---
+
+19
+MERCEDES-AMG F1 W12 E PERFORMANCE | USER MANUAL
+Drive / Brake
+DIFFERENTIAL
+ENTRY PRELOAD
+The preload setting applies a static locking force to the differential that will be present during deceleration, but has no effect 
+during center-corner or acceleration. Increasing the preload setting applies more locking force to the differential, inducing 
+understeer on deceleration, while reducing the preload force will reduce locking force and run more open, with more oversteer on 
+deceleration.
+MERCEDES-AMG F1 W12 E PERFORMANCE | ADVANCED SETUP OPTIONS | DRIVE & BRAKE
+LOCKING TORQUE
+« DRIVE TORQUE BRAKING TORQUE »
+LOCKING TORQUE »
+High Locking
+Med Locking
+« Entry Preload
+No Locking
+
+--- PAGE 20 ---
+
+20
+MERCEDES-AMG F1 W12 E PERFORMANCE | USER MANUAL
+ENTRY
+The differential’s Entry setting controls the amount of locking force present during deceleration in a corner and the turn-in phase. 
+Higher values apply more locking force and more understeer, while lower values apply less locking force and more oversteer 
+during this section of a corner. This adjustment can be changed in the car via the ENTRY setting in the F8 black box.
+MIDDLE
+Once the deceleration phase of a corner is complete but prior to the acceleration phase, the differential will apply a locking force 
+based on the Middle setting. Higher values will apply more locking force and lower values will apply less locking force. Since this 
+setting is active during a transition phase between deceleration and acceleration, conditions for both entry and exit overlap, with 
+higher Middle settings producing more understeer on deceleration and oversteer on acceleration. Lower Middle settings will do 
+the opposite, with more oversteer on deceleration and more understeer on acceleration. This adjustment can be changed in the 
+car via the MID setting in the F8 black box.
+HIGH SPEED
+The High Speed setting controls the amount of locking force applied to the differential during acceleration and through corners 
+with heavy throttle applications. As with the other two differential settings, higher values apply more locking force and lower values 
+reduce the locking force during the acceleration phase. Higher amounts of locking force will increase oversteer, while reducing the 
+locking force will increase understeer on throttle. This adjustment can be changed in the car via the HISPD setting in the F8 black 
+box.
+POWER UNIT CONFIG
+MGU-K DEPLOY MODE
+The Mercedes W12 Hybrid system can run in one of five modes to alter how much battery State of Charge (SoC) is present in the 
+system at the end of the lap:
+No Deploy - This mode will prevent the hybrid system from deploying electrical energy to propel the car with an electric motor 
+(MGU-K), and is used to ensure the battery is fully charged at the beginning of a qualifying lap. This engine mode is only available 
+during Qualifying and Practice/Test sessions.
+Qual - This mode is intended to be used on flying laps during qualifying sessions. It will deploy nearly all of the available electrical 
+energy to propel the car as much as possible with an electric motor (MGU-K) over a single lap. During qualifying, you will use 
+No Deploy to store as much electrical energy as possible during your out lap and, potentially, slow laps, and will switch to Qual 
+mode just before the final corner as you approach start/finish to begin your fast lap(s). This engine mode is only available during 
+Qualifying and Practice/Test sessions.
+MERCEDES-AMG F1 W12 E PERFORMANCE | ADVANCED SETUP OPTIONS | DRIVE & BRAKE
+
+--- PAGE 21 ---
+
+21
+MERCEDES-AMG F1 W12 E PERFORMANCE | USER MANUAL
+Attack - This mode should be used sparingly and primarily in short bursts during races to aid overtaking. It will draw the battery 
+charge down quite aggressively, costing performance if you need to re-charge the battery. Typically, this mode will give a smaller 
+lap time benefit than you will lose having to re-charge, so should be used only when it is absolutely necessary to make an overtake. 
+It may also be used during the last lap or so of a race to draw the battery down when it will no longer be needed. This engine mode 
+is only available during Practice and Race sessions.
+Balanced - This mode should be used most of the time during races. It deploys as much electrical energy as possible to propel the 
+car and minimize lap times while maintaining an average battery state of charge (SoC) of 80% over the lap. During the opening 
+laps of a session, it will take 2-3 timed laps for the controller to learn and draw the battery down from 100% to 80%. From 
+the 3rd or 4th timed lap, the system should deploy in a stable and consistent manner from lap to lap. This engine mode is only 
+available during Practice and Race sessions.
+Build - This mode should only be used when you are desperate to build battery SoC as quickly as possible and can afford to 
+compromise lap times to do it. It will target an average SoC of 100% over the lap. Note: you should not keep using this deployment 
+mode once it has stabilized, as harvested electrical energy will be lost if the battery is already at 100% SoC. This engine mode is 
+only available during Practice and Race sessions.
+While on track, the Power Unit system is limited to four deployment mode changes per lap. Once the limit has been reached, the 
+system will remain in whichever mode was last selected until the car has crossed the start/finish line to begin another lap.
+ENGINE BRAKING
+The Engine Braking setting controls how much deceleration force will come from the engine when the driver releases the throttle. 
+Higher amounts of engine braking occur at lower setting values, and can induce more oversteer when off-throttle. Less engine 
+braking is produced at higher setting values and can result in more understeer when off throttle. This adjustment can be changed 
+in the car via the EB setting in the F8 black box.
+BRAKE SYSTEM CONFIG
+BASE BRAKE BIAS
+The Base Brake Bias sets the amount of total braking force that is sent to the front brakes. Increasing this value shifts more 
+braking force to the front axle, decreasing this shifts more to the rear of the car. This setting should be set so that maximum 
+applied braking force doesn’t lock either the front or rear axle unexpectedly, but can also be used to tune the car’s handling at 
+turn-in. Higher brake bias values will result in a more directionally-stable car under braking, but can slightly induce understeer and 
+risk locking one of the front wheels if set too far forward. Lower brake bias values will cause the car to want to turn into a corner 
+more easily under braking, but can potentially lock one of the rear wheels and spin the car. This adjustment can be set in the car 
+via the BBAL setting in the F8 black box.
+MERCEDES-AMG F1 W12 E PERFORMANCE | ADVANCED SETUP OPTIONS | DRIVE & BRAKE
+
+--- PAGE 22 ---
+
+22
+MERCEDES-AMG F1 W12 E PERFORMANCE | USER MANUAL
+MERCEDES-AMG F1 W12 E PERFORMANCE | ADVANCED SETUP OPTIONS | DRIVE & BRAKE
+DYNAMIC RAMPING
+The point at which brake bias ramping will begin can be set with the Begin Bias Ramping setting. This value sets when the brake 
+bias will begin to increase from the Base Front Brake Bias setting to the Total Brake Bias value, with this value representing the 
+amount of pedal travel where ramping begins.
+BRAKE MIGRATION
+When the driver presses the brake pedal past the value set with the Dynamic Ramping option, the brake bias will begin moving 
+forward from the Base Brake Bias value to a value set with the Brake Migration setting to reach the Total Brake Bias value at 
+100% brake travel. Each setting of Brake Migration will increase the Total Brake Bias value by 1% from no change at setting 1 to 
+a 9% forward value at setting 10. This value can be adjusted in-car via the BMIG setting in the F8 black box. 
+This setting is important to achieving peak braking performance at the high amounts of aerodynamic load produced at high 
+speeds. Having the brake bias shift forward under heaving braking takes advantage of the increased braking capability under high 
+aero loads, but also shifts the brake rearward as speed (and aero load) decreases. This helps to allow heavy braking forces while 
+avoiding front-wheel lockup late in the braking phase.
+TOTAL BRAKE BIAS
+The maximum brake bias that will be achieved at full brake pedal travel is shown in the Total Peak Balance value. This setting takes 
+the Base Brake Bias setting and applies the Brake Migration Value to determine what the Brake Bias will be at full pedal travel.
+BRAKE MAGIC MODIFIER
+Brake Magic is a system that will change the brake bias to a pre-set, front-heavy brake bias setting to quickly heat the front brakes 
+and tires for safety car or warm-up laps. The garage value for Brake Magic determines the brake bias when Brake Magic is turned 
+on, represented as a decimal instead of percentage (0.75 represents 75% brake bias).
+DYNAMIC BRAKE BIAS RAMPING
+BRAKE INPUT (0 - 1)
+BRAKE BIAS »
+Dynamic Ramping
+10%
+Dynamic Ramping
+30%
+Total Brake Bias
+Base Brake Bias
+Dynamic Ramping
+50%
+Dynamic Ramping
+70%
+Dynamic Ramping
+90%

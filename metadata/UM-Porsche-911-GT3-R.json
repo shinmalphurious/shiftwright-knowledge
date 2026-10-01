@@ -1,0 +1,29 @@
+{
+  "vehicle": "Porsche 911 GT3 R",
+  "manufacturer": "Porsche",
+  "manufacturer_source": "filename",
+  "class": "GT3",
+  "manual_type": "vehicle",
+  "topics": [
+    "aerodynamics",
+    "brakes",
+    "dampers",
+    "differential",
+    "hybrid",
+    "suspension",
+    "tires",
+    "traction_control"
+  ],
+  "sections": [
+    "Tires & Aero",
+    "Chassis",
+    "Dampers",
+    "Differential",
+    "Brakes",
+    "Hybrid",
+    "Fuel",
+    "Traction Control"
+  ],
+  "word_count": 7099,
+  "source_text": "UM-Porsche-911-GT3-R.txt"
+}

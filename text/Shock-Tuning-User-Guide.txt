@@ -1,0 +1,522 @@
+--- PAGE 1 ---
+
+1
+SHOCK TUNING
+USER GUIDE
+
+--- PAGE 2 ---
+
+2
+SHOCK TUNING GUIDE
+Table of Contents
+ CLICK TO VIEW A SECTION
+02. Glossary » 4
+04. Shock Basics » 7
+06. Slope Settings » 10
+08. Final Notes » 20
+01. Introduction » 3
+03. Progressive, Digressive, & Linear » 5
+05. Click Settings » 8
+07. Shock Histograms » 12
+
+--- PAGE 3 ---
+
+3
+SHOCK TUNING GUIDE
+01 INTRODUCTION
+Motorsport is full of secrets. Teams at the top levels of racing go to great lengths to hide secret designs, car setup, and 
+other tricks they want to hide from the competition. In many cases it’s easy enough to uncover what’s hidden as soon 
+as the car hits the track, but absolutely nothing is kept as tightly under wraps as what is inside their shock absorbers. 
+Shocks look relatively simple from the outside but often contain some of the more technologically-advanced components 
+found on the entire car. Using just a piston and a fluid-filled cylinder, shocks handle the job of controlling ever-changing 
+loads brought on by both the driver and the track, as well as helping maintain the most efficient aerodynamic platform 
+possible.
+Through the years since iRacing was released to the public we’ve been able to make the shocks more complex and 
+versatile. Early on we only had simple shock “builds” that made the shock stiffer or softer, but today we’re able to give you 
+the option to build almost any shock package you could want using just a handful of adjustments. In some cases cars must 
+stick to simple adjustments due to their real-world counterpart’s series rules, but in many of the modern cars you can 
+find a wealth of possibilities and speed with just a few clicks.
+
+--- PAGE 4 ---
+
+4
+SHOCK TUNING GUIDE
+02 GLOSSARY
+Racing shocks are very complex components, and with advancements in simulation modeling over the years we’ve been 
+able to increase the complexity of our shocks to follow suit. This section outlines some terms that will be covered in the 
+later sections and may be new to some users.
+Compression or Bump
+The shock’s Compression setting (also known as “bump”), is the setting that controls how much force the shock exerts 
+during suspension compression, or when the shock is shortening from an external load.
+Rebound
+Opposite to the Compression setting, Rebound controls the forces exerted from the shock while it is expanding. This 
+occurs after external load is removed and the suspension is returning to its starting position.
+Low-Speed
+Shock characteristics are divided into two ranges of shock shaft speed, usually with a change in behavior at the speed 
+transition. Low-Speed refers to shock speeds seen during changes in driver inputs, like braking, throttle, or steering, 
+usually under 1.5 inches-per-second. 
+High-Speed
+The High-Speed section of the shock’s characteristics usually occurs over 1.5 inches-per-second, and handles sharp 
+external loads that aren’t created by driver input, such as bumps in the track surface or kerb strikes on road courses.
+Overdamped
+A shock that doesn’t allow the suspension to move like it should is known as an Overdamped system, commonly known as 
+a “tie-down” shock. While this type of shock can be extremely helpful for controlling body heights, it can wreak havoc on 
+load variation and often produce a slower laptime when used improperly.
+Underdamped
+A shock that allows the suspension to move uncontrolled is known as Underdamped. This type of shock will soak up 
+bumps easily, but will allow too much movement of the car’s body, producing an inconsistent aerodynamic behavior at 
+high speeds.
+Load Variation
+The major consideration with shock tuning is Load Variation, or the cyclical change in load at the tire contact patch. High 
+load variation means the tire is cycling between low and very high loads, which is very bad for mechanical grip because 
+the tire is constantly working with different loads. Low load variation means the tire is seeing a more consistent loading 
+throughout a corner. Achieving a low load variation through the shocks is the best way to find a consistent driver feel as 
+well as the lowest lap time.
+
+--- PAGE 5 ---
+
+5
+SHOCK TUNING GUIDE
+03 PROGRESSIVE, DIGRESSIVE,
+ & LINEAR
+To fully tailor a shock package to a track’s characteristics we need to understand shock profiles and how they can be 
+used to deal with whatever situation we might encounter. While most of the shocks in the lower divisions on iRacing only 
+have low-speed compression and rebound adjustments, which do not affect the shock profile, the upper division cars 
+often feature Slope adjustments for compression, rebound, and even both in some cases. These slope adjustments will 
+change the shock profile to suit the conditions with just a few small adjustments.usually under 1.5 inches-per-second.
+SHOCK PROFILE CURVES
+SHOCK VELOCITY
+SHOCK FORCE
+Progressive
+Linear
+Digressive
+The chart above displays the three types of common shock profiles: Progressive, Digressive, and Linear:
+Progressive
+A progressive curve has low amounts of resistance at low shaft velocities but gains a lot of force quickly as velocity 
+increases. This type of shock is very common in off-road vehicles to allow for good absorption of small bumps at low 
+shock speeds, while the higher forces at high speeds will help to keep the chassis from hitting the ground over large 
+bumps and jumps.
+
+--- PAGE 6 ---
+
+6
+SHOCK TUNING GUIDE
+03 PROGRESSIVE, DIGRESSIVE, & LINEAR
+Digressive
+Digressive shocks build force quickly at lower shock shaft speeds but don’t increase in resistance very much in the 
+high-speed region. This is very common on high-performance street cars and pavement racing cars, and at the 
+most extreme cases is known as a shock that “blows out” over big bumps because of its low resistance to sudden 
+large impacts.
+Linear
+Linear shocks produce a steady increase in force with increasing velocity. 
+The slope adjusters change the profile of the shocks from linear to digressive, with progressive shocks not an option 
+in most cars (but that’s okay!). Understanding these profiles and when to use them will help to make the tuning 
+process simpler and faster.
+
+--- PAGE 7 ---
+
+7
+SHOCK TUNING GUIDE
+04 SHOCK BASICS
+Shocks have two main functions that affect the mechanical grip available from the chassis. First, shocks will attempt 
+to control changing wheel loads and body pitch/roll as a result of driver inputs, such as braking, throttle, or steering 
+through Low-Speed settings. Second, the shocks will act to absorb bumps and dips in the track surface, as well as hard 
+kerb strikes, with the High-Speed settings. Overall, the goal is to reduce the “load variation” on the tire, or the amount 
+the wheel load changes through the corners. Tires seeing high load variation can swing up and down as much as a few 
+thousand pounds very quickly, leading to a reduction in available grip. Tires with low load variation have much lower swings 
+and can maintain much better grip with the racing surface because the contact patch is not changing size rapidly. The 
+less load variation we can get, the faster the car will go.
+Low-speed adjustments are primarily concerned with managing the vehicle’s chassis movements. When you apply 
+steering input the car will roll to one side or the other, compressing the outside suspension and putting the inside 
+suspension in rebound. Braking will compress the front suspension and rebound the rear, while acceleration will do the 
+opposite. All of these situations are controlled by the shock’s low-speed settings. Since these situations are a direct 
+response to driver input, these settings have a significant effect on mechanical grip and the handling characteristics 
+during these situations.
+High-speed adjustments are strictly responsible for controlling the sudden loads seen by the suspension through bumps 
+in the track surface, dips, or kerbs on road courses. While the low-speed settings are usually more oriented to the 
+driver’s style, high-speed settings are usually tailored to the track.
+iRacing’s shocks can cover a wide range of conditions and can be tuned to suit any situation or driving style. They can be 
+set too stiff or too soft, resulting in a loss of potential grip at either extreme, so it’s very important to spend some time on 
+the shocks and make sure they’re tuned properly.
+
+--- PAGE 8 ---
+
+8
+SHOCK TUNING GUIDE
+05 CLICK SETTINGS
+The adjustments that most people are familiar with are the compression and rebound click settings, which alter 
+the strength of the shock in either low- or high-speed. If a shock has only one adjustment in the garage, such as only 
+Compression/Bump or Rebound, that adjustment will control the low-speed behavior of the shock with some influence on 
+the high-speed behavior as well.
+Below is a graph of the front shocks from the NASCAR NextGen vehicles in the iRacing service. For this graph, the slope 
+settings (covered in the next section) were set to 1 and only the high- and low-speed click settings were changed. The 
+upper section of the graph represents compression, the lower half represents rebound. While shocks are unique for 
+each car, these shocks are a good representation of how the adjustments affect shock behavior.
+From this, we can see that the click adjustments affect the overall force from the shock but leave the shape of the high-
+speed section alone.
+CLICK CHANGES W/ CONSTANT SLOPE
+SHOCK VELOCITY
+SHOCK FORCE
+
+--- PAGE 9 ---
+
+9
+SHOCK TUNING GUIDE
+05 CLICK SETTINGS
+LOW-SPEED (LS) ADJUSTMENTS
+The low-speed settings are used to control suspension movement caused by changes in driver input. Think about the front 
+shocks under braking and you have LS Compression. Similarly, the rear shocks are in LS Rebound under braking. 
+These low-speed adjustments can be used to control weight transfer in these situations and can have a direct influence 
+on the car’s handling characteristics on corner entry and exit. Since the car is usually not in transition through the center 
+of the corner, shocks have very little effect on the handling through those areas.
+For LS Compression adjustments, increasing the setting will cause the tire to be more loaded in a shorter amount 
+of time. This is because the shock is resisting the compression movement of the suspension, so any increase in load 
+must go through the suspension to the tire instead of being absorbed by the spring. Reducing the compression setting 
+will allow the suspension to move easier, essentially storing forces in the spring and not transferring them to the tires 
+as aggressively, resulting in a lower wheel load during these transitions. For example, increasing the Left-Rear LS 
+Compression will increase understeer on throttle in a right-hand corner by loading the tire faster when throttle is applied.
+For LS Rebound adjustments, increasing the value will load the adjacent tires when the shock is in rebound. For example 
+if we increase the LS Rebound on the Left-Rear shock, this will load the Left-Front and Right-Rear tires under braking, 
+helping the car turn into a left-hand corner. Conversely, adding LS Rebound to the Right-Rear shock will load the Left-Rear 
+and Right-Front tires under braking, adding understeer to the car at turn-in for the same corner. 
+HIGH-SPEED (HS) ADJUSTMENTS
+The High-Speed compression and rebound settings control the shock forces above the low-to-high speed transition, 
+around 1.5 in/s of shock velocity. At these velocities, the shock controls the large and sudden external forces typically 
+associated with bumps in the track’s surface. 
+As with Low-Speed adjustments, the compression setting controls the shock when it is seeing an external load and 
+compressing, and rebound controls the shock when it is expanding after compression. Since the high-speed zone is 
+reached by large and sudden forces, rebound velocity often mirrors compression velocity and thus the two should be 
+set similarly. Excessive compression and low rebound can result in the suspension not absorbing a bump, expanding too 
+quickly, and then landing on an overly-stiff suspension. Excessive rebound and low compression can produce a “locked 
+down” suspension where it will compress over a bump but won’t return to the starting state. Both of these produce very 
+high load variation at the tire and will reduce overall grip.
+Whenever the car hits a bump that puts the shock into the high-speed range, we want to both absorb the bump and 
+keep the car from hitting the track. If the track surface bump is too large and the high-speed compression is too low, 
+the suspension will collapse too quickly and the chassis will hit the track. If the compression is too high, the suspension 
+will never absorb the bump at all and the tires will lose contact with the track. If we have the high-speed compression 
+set properly, the car will both absorb the bump and the shock will help raise the chassis to clear the bump while the 
+suspension is in compression. To achieve this, bumpy tracks will usually favor a higher high-speed compression setting.
+Smoother tracks have much smaller bumps that won’t try to throw the car around, but the constant changes in load are 
+usually enough to move the car’s body around and affect aerodynamics. For these tracks, lower high-speed compression 
+is better, as it will absorb the smaller bumps without trying to move the chassis out of the path of the bumps. This 
+can sometimes result in minor contact with the track surface, but at smoother tracks that is less of a concern than 
+maintaining an efficient aerodynamic platform.
+
+--- PAGE 10 ---
+
+10
+SHOCK TUNING GUIDE
+06 SLOPE SETTINGS
+In Section 03 we looked at the three major types of shock traces (Progressive, Digressive, and Linear) and situations 
+where they’re useful. The slope adjustment changes the shock’s high-speed settings between Linear and Digressive 
+without affecting low-speed adjustments, allowing a finer adjustment of the high-speed characteristics to suit a track. 
+Again we’ll look at the NextGen car’s front shock traces set to a constant “clicker” setting, but with slope values 
+changed for both Compression and Rebound. For other cars the rear shocks produce the same type of results for slope 
+adjustments, however have a wider range on the compression side to maintain stability over bumps.
+In this picture, the red trace is the minimum slope setting while the blue trace is the maximum slope setting for each side 
+of the shock graph. From this it’s easy to see that these slope settings only affect the high-speed region of the shock, as 
+the left-most part of the graph is the same for all four traces. In the high-speed section, we can see multiple changes in 
+the shock’s characteristics. On the compression side (upper half), the shock is purely digressive at low slope values and 
+almost purely linear at high slope values. On the rebound side (lower half), we can see a progressive low-speed section 
+that transitions into either a sharp digressive bend at low slope values or a transition to nearly linear at high slope values. 
+In most cases, we would like to do rough tuning with both the compression and rebound side at similar slope values and 
+change them if necessary once these have been roughed out.
+CLICK CHANGES W/ CONSTANT LS CLICK SETTING
+SHOCK VELOCITY
+SHOCK FORCE
+
+--- PAGE 11 ---
+
+11
+SHOCK TUNING GUIDE
+As mentioned in the previous section, we want to tailor the high-speed section for a track type, bumpy or smooth and 
+whatever is in between. For these we’ll mostly be talking about what happens on the compression side, but the rebound 
+side will likely be set fairly similar to the compression side:
+Digressive (Low-slope) Shape
+For smoother tracks a more digressive curve is desirable. The car will see smaller, more high-frequency bumps 
+that won’t try to upset the car. When the shock is set to be digressive in the high-speed range, it will produce very 
+little resistance to bumps at most speeds and will allow the suspension to easily soak up the bumps without moving 
+the chassis and body around. Extremely smooth tracks, like Pocono or Circuit of the Americas, can use very low 
+compression and rebound slopes, while bumpy tracks will see far too much suspension movement and chassis impacts 
+on a low-slope digressive shock.
+Linear (High-slope) Shape
+For bumpier tracks like the Atlanta Motor Speedway oval or the Belle Isle street course, the bumps in the track surface 
+will be enough for the chassis to impact the track surface in the most extreme cases. For these cases a more linear 
+shock is desired.
+In either case, it’s best to set the slope first to match the track conditions, and then alter the high-speed compression 
+and rebound to fine-tune the shocks. If done properly, the car should absorb the bumps well without being thrown around.
+06 SLOPE SETTINGS
+
+--- PAGE 12 ---
+
+12
+SHOCK TUNING GUIDE
+07 SHOCK HISTOGRAMS
+One method of shock tuning that works well for roughing-out both high- and low-speed settings is the Shock Histogram. 
+This is a fairly common page, usually included as standard in telemetry workbooks.
+TYPICAL SHOCK HISTOGRAM
+Above is a typical shock histogram display. Each bar represents a speed zone in the shock’s velocity, with dark colors 
+representing low-speed and light colors representing high-speed sections. For example, the center bar may represent 
+the shock when it is between -0.5 in/s (rebound) and +0.5 in/s (compression). Bars to the right of center represent 
+compression, bars to the left of center represent rebound. The farther from the center each bar is, the higher the 
+speeds it represents. For example, the bars immediately left and right of the center bar represent 0.5-1.0 in/s of 
+rebound and 0.5-1.0 in/s of compression, respectively. On most histograms, a shaded area towards the center will 
+represent the low-speed region of the graph and these will be further defined by a darkened set of bars in the low-
+speed region.
+« REBOUND – SHOCK VELOCITY – COMPRESSION »
+TIME SPENT IN VELOCITY ZONES (%)
+AVG
+1.602
+REBOUND
+HI%
+32.8
+LO%
+14.4
+LO%
+22.0
+BUMP
+HI%
+30.8
+AVG
+1.471
+RF
+SHOCK
+
+--- PAGE 13 ---
+
+13
+SHOCK TUNING GUIDE
+07 SHOCK HISTOGRAMS
+The y-axis, or height of the bars, is how much percentage of the time displayed is spent with the shock within a given bar. 
+For example let’s say a bar shows “30%” and the graph is showing an entire lap. This means that the shock is operating 
+in this speed range for 30% of the entire lap. Ideally, we want the histogram to have low amounts of time spent in the 
+outer regions (higher speeds) and more time spent towards the center with each side balanced against the other, like the 
+image above. Ideally, the histogram should have a “curved triangle” shape like the one above.
+Tuning from this is fairly straightforward: If a bar is too low we want to raise it, and if a bar is too tall we want to shorten 
+it. To raise a bar, simply increase the shock forces for that section. This will stiffen the shock and increase the time spent 
+in that velocity range. Conversely, if we want to shorten a bar, just reduce the shock force for that section. This will soften 
+the shock, allowing it to expand or compress faster, reducing the time spent in that range. Balancing the histogram will 
+lead to reduced load variation and better controlled suspension. This may not necessarily reduce single-lap speed, but will 
+help immensely with long-run pace and potentially open up avenues to find speed elsewhere.
+Finally, values across the top of most histograms show a general representation of the shock’s behavior. Values on the 
+left represent rebound, values on the right represent bump. For rebound in the histogram above, we can see immediately 
+that the shock is averaging 1.602in/s in rebound while spending 32.8% of its time in high-speed and 14.4% of its time in 
+low-speed rebound.
+On the next few pages are some examples of histograms that resemble a typical histogram with various conditions that 
+may crop up in testing and practice.
+EXAMPLE 01 
+EXCESSIVE HIGH-SPEED
+Here we have far too much high-speed on both bump and rebound, evidenced by the high “shoulders” on either side of the 
+darker low-speed bars. For this shock we would simply reduce all high-speed settings, possibly even slope by one or two 
+clicks, in an effort to bring these sections down and increase the percentage of time spent in the low-speed sections.
+« REBOUND – SHOCK VELOCITY – COMPRESSION »
+TIME SPENT IN VELOCITY ZONES (%)
+LF
+SHOCK
+AVG
+1.720
+REBOUND
+HI%
+35.2
+LO%
+13.3
+LO%
+20.3
+BUMP
+HI%
+31.2
+AVG
+1.281
+
+--- PAGE 14 ---
+
+14
+SHOCK TUNING GUIDE
+07 SHOCK HISTOGRAMS
+EXAMPLE 02 
+EXCESSIVE LOW-SPEED COMPRESSION
+In this histogram we can see that the high-speed sections are fairly well balanced, with 26.1% spent in high-speed 
+rebound and 28% spent in high-speed bump. Low-speed, however, is very imbalanced, with 27% spent in low-speed 
+compression and only 18.1% spent in low-speed rebound. For this case, we would increase low-speed rebound and 
+decrease low-speed compression to attempt to balance these zones. High-speed can be adjusted slightly to balance the 
+2% between bump and rebound, but it’s not necessary in this case.
+« REBOUND – SHOCK VELOCITY – COMPRESSION »
+TIME SPENT IN VELOCITY ZONES (%)
+LR
+SHOCK
+AVG
+1.419
+REBOUND
+HI%
+26.1
+LO%
+18.1
+LO%
+27.9
+BUMP
+HI%
+28.0
+AVG
+1.326
+
+--- PAGE 15 ---
+
+15
+SHOCK TUNING GUIDE
+07 SHOCK HISTOGRAMS
+EXAMPLE 03 
+GOOD
+This shock is fairly good and is close enough that it can probably be left alone. We have nice, consistent upward curves 
+on both the bump and rebound side, with the low-speed sections mostly balanced. If anything, we might reduce low-speed 
+bump slightly, but if the feel is good it’s probably okay to leave this shock as it is.
+« REBOUND – SHOCK VELOCITY – COMPRESSION »
+TIME SPENT IN VELOCITY ZONES (%)
+RR
+SHOCK
+AVG
+2.021
+REBOUND
+HI%
+31.4
+LO%
+17.7
+LO%
+20.3
+BUMP
+HI%
+30.6
+AVG
+2.089
+
+--- PAGE 16 ---
+
+16
+SHOCK TUNING GUIDE
+07 SHOCK HISTOGRAMS
+EXAMPLE 04 
+ALL FOUR SHOCKS
+The four histograms below represent the four shocks from one car on a single lap.
+LEFT FRONT SHOCK
+The Left-Front shock is nearly balanced in this case, but could benefit from a reduction in high-speed settings. Not much 
+needs to be done to this shock. 
+NOTE: Histograms like this one that are relatively flat are perfectly fine, we’re just looking for that balanced shape!
+« REBOUND – SHOCK VELOCITY – COMPRESSION »
+TIME SPENT IN VELOCITY ZONES (%)
+LF
+SHOCK
+AVG
+1.476
+REBOUND
+HI%
+28.5
+LO%
+17.2
+LO%
+23.9
+BUMP
+HI%
+30.4
+AVG
+1.457
+
+--- PAGE 17 ---
+
+17
+SHOCK TUNING GUIDE
+07 SHOCK HISTOGRAMS
+RIGHT FRONT SHOCK
+The Right-Front shock is spending most of its time in the low-speed region, which is fairly good. If we change anything on 
+this shock, we might increase high-speed rebound slightly to raise all of the bars, or decrease the high-speed rebound 
+slope, which will reduce the upper high-speed region stiffness and raise those bars.
+« REBOUND – SHOCK VELOCITY – COMPRESSION »
+TIME SPENT IN VELOCITY ZONES (%)
+AVG
+1.079
+REBOUND
+HI%
+20.2
+LO%
+29.1
+LO%
+30.3
+BUMP
+HI%
+20.4
+AVG
+1.224
+RF
+SHOCK
+
+--- PAGE 18 ---
+
+18
+SHOCK TUNING GUIDE
+LEFT REAR SHOCK
+The Left-Rear shock has some problems. We need to decrease high-speed everything to drop the “shoulders” first, 
+and then look at the slope settings to raise the center-most sections of the high-speed bars. Low-speed might be okay, 
+however, as it does appear to be balanced but possibly influenced by the high-speed settings.
+« REBOUND – SHOCK VELOCITY – COMPRESSION »
+TIME SPENT IN VELOCITY ZONES (%)
+LR
+SHOCK
+AVG
+2.637
+REBOUND
+HI%
+43.9
+LO%
+8.6
+LO%
+9.0
+BUMP
+HI%
+38.5
+AVG
+2.396
+07 SHOCK HISTOGRAMS
+
+--- PAGE 19 ---
+
+19
+SHOCK TUNING GUIDE
+RIGHT REAR SHOCK
+While the left-rear shock is a mess, the right-rear shock looks fairly okay. The rebound side looks very good, as does the 
+low-speed section. For this shock, it might be good to make a run with the high-speed bump slightly higher to see how it 
+affects the car.
+« REBOUND – SHOCK VELOCITY – COMPRESSION »
+TIME SPENT IN VELOCITY ZONES (%)
+RR
+SHOCK
+AVG
+1.448
+REBOUND
+HI%
+28.1
+LO%
+20.7
+LO%
+26.6
+BUMP
+HI%
+24.6
+AVG
+1.398
+07 SHOCK HISTOGRAMS
+
+--- PAGE 20 ---
+
+20
+SHOCK TUNING GUIDE
+08 FINAL NOTES
+Shock tuning can look like a very daunting task at first, but with enough time and experience it can become the most 
+crucial aspect of setup building. It’s important to note that shocks are more of a fine-tuning point of the garage and not 
+a foundational aspect of your setup, as even the best shocks cannot make up for bad spring packages or inefficient aero. 
+Springs, heights, and alignments can get a car 90% of the way for most cases and shocks account for the final piece in a 
+larger puzzle.
+It’s also important to understand that our shocks are intended to cover as many possibilities as possible with a finite 
+amount of adjustment. In today’s world we don’t have the ability to provide every single shock adjustment available in 
+the real world (and if we did it would require its own page in the garage!). Because our shocks must cover all types of 
+tracks from bumpy to smooth, the range of adjustment is set so that they can do so. This means that, in most cases, the 
+minimum values are too little damping and the maximum values are too much damping, so if you’re looking to find that 
+final bit of speed that you’ve been hunting for, there’s a good chance it’s sitting somewhere in the middle of the shock 
+adjustment range. Take your time, go over the data, make adjustments, and the pace will come easily.

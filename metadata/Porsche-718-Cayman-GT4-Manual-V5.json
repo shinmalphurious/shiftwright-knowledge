@@ -1,0 +1,26 @@
+{
+  "vehicle": "Porsche 718 Cayman GT4",
+  "manufacturer": "Porsche",
+  "manufacturer_source": "filename",
+  "class": "NASCAR",
+  "manual_type": "vehicle",
+  "topics": [
+    "aerodynamics",
+    "brakes",
+    "dampers",
+    "suspension",
+    "tires",
+    "traction_control"
+  ],
+  "sections": [
+    "Tires & Aero",
+    "Setup Tips",
+    "Chassis",
+    "Dampers",
+    "Brakes",
+    "Fuel",
+    "Traction Control"
+  ],
+  "word_count": 4414,
+  "source_text": "Porsche-718-Cayman-GT4-Manual-V5.txt"
+}

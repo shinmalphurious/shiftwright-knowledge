@@ -1,0 +1,118 @@
+{
+  "Acura": [
+    "Acura ARX 06 GTP",
+    "Acura GT3"
+  ],
+  "Aston Martin": [
+    "Aston Martin GT3 Evo",
+    "Aston Vantage GT4"
+  ],
+  "Audi": [
+    "Audi R8 LMS EVO II GT3",
+    "Audi RS3 LMS TCR",
+    "Audi R8 LMS GT3"
+  ],
+  "BMW": [
+    "BMW M Hybrid",
+    "BMW M2 CSR",
+    "BMW M4 G82 GT4",
+    "BMW M4 GT3",
+    "BMW M4 GT4",
+    "BMW M8 GTE"
+  ],
+  "Cadillac": [
+    "Cadillac V Series.R GTP"
+  ],
+  "Chevrolet": [
+    "Chevrolet Corvette Z06 GT3"
+  ],
+  "Dallara": [
+    "Dallara IR18",
+    "Dallara iR01",
+    "Dallara P217 LMP2"
+  ],
+  "FIA": [
+    "FIA Cross Car",
+    "FIA F4"
+  ],
+  "Ferrari": [
+    "Ferrari 296 Challenge",
+    "Ferrari 296 GT3",
+    "Ferrari 488 GT3 EVO 2020",
+    "Ferrari 488 GT3"
+  ],
+  "Ford": [
+    "Legends Ford Coupe",
+    "Mustang GT3",
+    "Ford GT GT3"
+  ],
+  "Honda": [
+    "Honda Civic Type R TCR"
+  ],
+  "Hyundai": [
+    "Hyundai Elantra N TCR",
+    "Hyundai Veloster N TC"
+  ],
+  "Lamborghini": [
+    "Lamborghini Huracan GT3 Evo"
+  ],
+  "Ligier": [
+    "Ligier JS P320"
+  ],
+  "Mazda": [
+    "Global Mazda MX5"
+  ],
+  "McLaren": [
+    "McLaren 570S GT4",
+    "Mclaren 720S GT3",
+    "McLaren MP4 12C GT3"
+  ],
+  "Mercedes": [
+    "Mercedes AMG GT3 2020",
+    "Mercedes AMG GT4",
+    "Mercedes AMG F1 W12 E Performance",
+    "Mercedes AMG GT3"
+  ],
+  "NASCAR": [
+    "ARCA 25",
+    "Dirt Mini Stock",
+    "Late Model Stock",
+    "Mini Stock",
+    "NASCAR Gen4 Cup Cars",
+    "NASCAR NextGen Cars",
+    "NASCAR Trucks",
+    "StreetStocks",
+    "Big Block Modified",
+    "NASCAR Cup Series",
+    "NASCAR Oreilly"
+  ],
+  "Porsche": [
+    "Porsche 718 Cayman GT4",
+    "Porsche 911 GT3 Cup 992",
+    "Porsche 911 GT3 R 992",
+    "Porsche 963 GTP",
+    "Porsche Cup 992.2",
+    "Porsche Mission R real 1",
+    "Porsche 911 GT3 R"
+  ],
+  "Reference": [
+    "Shock Tuning User Guide"
+  ],
+  "SRX": [
+    "SRX"
+  ],
+  "Sprint Car": [
+    "Dirt Micro Sprint"
+  ],
+  "Supercars": [
+    "Gen 3 Supercars"
+  ],
+  "Toyota": [
+    "Super Formula Lights",
+    "Super Formula SF23",
+    "Toyota GR86"
+  ],
+  "Volkswagen": [
+    "Formula Vee"
+  ]
+}

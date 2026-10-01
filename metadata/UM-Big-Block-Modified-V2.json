@@ -1,0 +1,22 @@
+{
+  "vehicle": "Big Block Modified",
+  "manufacturer": "NASCAR",
+  "manufacturer_source": "known_vehicle",
+  "class": "NASCAR",
+  "manual_type": "vehicle",
+  "topics": [
+    "aerodynamics",
+    "brakes",
+    "dampers",
+    "differential",
+    "suspension",
+    "tires"
+  ],
+  "sections": [
+    "Chassis",
+    "Brakes",
+    "Fuel"
+  ],
+  "word_count": 4489,
+  "source_text": "UM-Big-Block-Modified-V2.txt"
+}

@@ -1,0 +1,437 @@
+--- PAGE 1 ---
+
+1
+STREET STOCKS
+USER MANUAL
+
+--- PAGE 2 ---
+
+2
+STREET STOCKS | USER MANUAL
+Introduction » 5
+Tech Specs » 4
+A Message From iRacing » 3
+ Getting Started » 5
+Dash Pages » 7 
+ Loading An iRacing Setup » 6
+ Tire Settings » 9
+ Front » 10
+Chassis » 10
+Tires & Aero » 9 
+ Front Corners » 11 
+ Rear Corners » 12
+ Rear » 13
+ GENERAL INFORMATION
+ ADVANCED SETUP OPTIONS
+TABLE OF CONTENTS
+CLICK TO VIEW A SECTION
+
+--- PAGE 3 ---
+
+3
+DEAR iRACING USER,
+Depending on the race track and its rules (and your budget), Street Stocks range from little more than a 
+street car with its interior gutted, its windows removed and a rudimentary roll cage installed to a full-on 
+race car with a highly-tuned engine, upgraded suspension and plastic bodywork conforming to the shape 
+of the original street car. (iRacing’s Street Stock is built to the full-on race car rules).
+Regardless of the specific rules, turning a street car into a Street Stock is not only less expensive than 
+buying a purpose-built race car, the process of building a race car from a street car helps wanna-be race 
+drivers and mechanics learn the fundamentals of race car construction, maintenance and setups. And 
+learning is what it’s all about, for Street Stocks is the class to learn the basics of stock car racing.
+The following guide explains how to get the most out of your new car, from how to adjust its settings 
+off of the track to what you’ll see inside of the cockpit while driving. We hope that you’ll find it useful in 
+getting up to speed.
+Thanks again for your continued support, and we’ll see you on the track!
+
+--- PAGE 4 ---
+
+4
+STREET STOCKS | USER MANUAL
+CHASSIS
+POWER 
+UNIT
+STREET STOCKS | TECH SPECS
+DOUBLE WISHBONE INDEPENDENT 
+FRONT, LIVE AXLE TRUCK ARM REAR
+NATURALL Y ASPIRATED 
+STEEL BLOCK PUSHROD V8
+LENGTH
+5207mm
+205in
+WIDTH
+2007mm
+79in
+WHEELBASE
+2667mm
+105in
+DRY WEIGHT
+1372kg
+3025lbs
+WET WEIGHT 
+WITH DRIVER
+1520kg
+3350lbs
+RPM LIMIT
+7600RPM
+ 
+DISPLACEMENT
+5.8Liters
+358CID
+TORQUE
+360lb-ft
+488Nm
+POWER
+320bhp
+238kW
+
+--- PAGE 5 ---
+
+5
+STREET STOCKS | USER MANUAL
+INTRODUCTION
+The information found in this guide is intended to provide a deeper understanding of the chassis setup adjustments 
+available in the garage, so that you may use the garage to tune the chassis setup to your preference.
+Once you load into the car, select 1st gear. Slowly release the clutch 
+while applying the throttle to drive away. The Street Stock features a 
+four-speed manual transmission that can be shifted without the use 
+of a clutch, but it is faster to do so. To upshift, let off the throttle and 
+depress the clutch, then select the next higher gear. Once the next 
+gear is selected, release the clutch and apply the throttle. Upshifting 
+STREET STOCKS | INTRODUCTION
+GETTING STARTED
+is recommended when the red shift light on the dash illuminates at 
+high RPM. To downshift, depress the clutch while selecting the next 
+lower gear. If downshifting quickly, it is recommended to blip the 
+throttle just prior to releasing the clutch to prevent a mismatch of 
+engine and wheel speed, which can lead to wheel hop and a spin.
+Before diving into chassis adjustments, though, it is best to become 
+familiar with the car and track. To that end, we have provided 
+baseline setups for each track commonly raced by these cars. To 
+access the baseline setups, simply open the Garage, click iRacing 
+Setups, and select the appropriate setup for your track of choice. If 
+you are driving a track for which a dedicated baseline setup is not 
+included, you may select a setup for a similar track to use as your 
+baseline. After you have selected an appropriate setup, get on track 
+and focus on making smooth and consistent laps, identifying the 
+proper racing line and experiencing tire wear and handling trends 
+over a number of laps. 
+Once you are confident that you are nearing your driving potential 
+with the included baseline setups, read on to begin tuning the car to 
+your handling preferences.
+
+--- PAGE 6 ---
+
+6
+STREET STOCKS | USER MANUAL
+LOADING AN iRACING SETUP
+When you first load into a session, the iRacing Baseline setup will be 
+automatically loaded onto the car. If you would like to try any of the 
+other iRacing pre-built options, you may select it by going to Garage 
+> iRacing Setups > and then selecting another option that fits your 
+needs. Because this car uses slightly different chassis and body 
+configurations on different types of tracks, it will be necessary to 
+load a setup from the same track type to pass tech inspection. For 
+example, a setup for Talladega will pass at Daytona, but likely will 
+not pass at Bristol. If you would like to customize the setup, simply 
+STREET STOCKS | INTRODUCTION
+make the changes in the garage that you would like to update and 
+click apply. If you would like to save your setup for future use click 
+“Save As” on the right to name and save the changes. To access all 
+of your personally saved setups, click “My Setups” on the right side 
+of the garage. If you would like to share a setup with another driver 
+or everyone in a session, you can select “Share” on the right side of 
+the garage to do so. If a driver is trying to share a setup with you, 
+you will find it under “Shared Setups” on the right side of the garage 
+as well.
+
+--- PAGE 7 ---
+
+7
+STREET STOCKS | USER MANUAL
+TACHOMETER
+Displays Engine RPM in 1000rpm increments. Above and to the left 
+of the tachometer is the shift light, which will light up when the 
+engine is at the ideal RPM for upshifting.
+STREET STOCKS | DASH PAGES
+DASH PAGES
+The dash in the Street Stock is straightforward and conventional, featuring only three gauges and a shift light. 
+ Listed from left to right on the dash:
+OIL PRESSURE
+Displays the pressure in the engine oil system in pounds-per-square-
+inch. This should be between 45 and 65 psi during normal operation.
+WATER TEMP
+Displays the temperature of the water in the engine coolant system.
+
+--- PAGE 8 ---
+
+8
+STREET STOCKS | USER MANUAL
+ADVANCED SETUP OPTIONS
+This section is aimed toward more advanced users who want to dive deeper into the different aspects of the 
+vehicle’s setup. Making adjustments to the following parameters is not required and can lead to significant 
+changes in the way a vehicle handles. It is recommended that any adjustments are made in an incremental fashion 
+and only singular variables are adjusted before testing changes.
+STREET STOCKS | ADVANCED SETUP OPTIONS 
+
+--- PAGE 9 ---
+
+9
+STREET STOCKS | USER MANUAL
+STREET STOCKS | ADVANCED SETUP OPTIONS | TIRES & AERO 
+COLD AIR PRESSURE
+Air pressure in the tire when the car is loaded into the world. Higher 
+pressures will reduce rolling drag and heat buildup, but will decrease 
+grip. Lower pressures will increase rolling drag and heat buildup, 
+but will increase grip. Higher speeds and loads will require higher 
+pressures, while lower speeds and loads will see better performance 
+from lower pressures. Cold pressures should be set to track 
+characteristics for optimum performance.
+HOT AIR PRESSURE
+Air pressure in the tire after the car has returned to the pits. The 
+difference between Cold and Hot pressures can be used to identify 
+how the car is progressing through a run in terms of balance, with 
+heavier-loaded tires seeing a larger difference between Cold and 
+Hot pressures. Ideally, tires that are worked in a similar way should 
+build pressure at the same rate to prevent a change in handling 
+balance over the life of the tire, so Cold pressures should be 
+adjusted to ensure that similar tires are at similar pressures once up 
+to operating temperature.
+TIRE TEMPERATURE
+This represents the tire carcass temperatures (measured via 
+Pyrometer) once the car has returned to the pits. Wheel Loads 
+and the amount of work a tire is doing on-track is reflected in 
+TIRES & AERO
+TIRE SETTINGS (ALL FOUR TIRES)
+the tire’s temperature, and these values can be used to analyze 
+the car’s handling balance. Center temperatures are useful for 
+directly comparing the work done by each tire, while the Inner and 
+Outer temperatures are useful for analyzing the wheel alignment 
+(predominantly camber) while on track. These values are measured 
+in three zones across the tread of the tire. Inside, middle and Outer.
+TREAD REMAINING
+The amount of tread remaining on the tire once the car has 
+returned from the pits. Tire wear is very helpful in identifying any 
+possible issues with alignment, such as one side of the tire wearing 
+excessively, and can be used in conjunction with tire temperatures 
+to analyze the car’s handling balance. These values are measured in 
+three zones across the tread of the tire.
+STAGGER
+Stagger is the difference in circumference of the left- and right-side 
+tires with both front and rear stagger available as an adjustment in 
+the street stock. Increasing the front stagger will increase the size of 
+the right-front tire and add understeer on deceleration and turn-in. 
+Increasing the rear stagger will increase the size of the right-rear 
+tire and add oversteer through the center and on throttle out of the 
+corner. Stagger can be set independently between front and rear to 
+suit various driving styles.
+
+--- PAGE 10 ---
+
+10
+STREET STOCKS | USER MANUAL
+STREET STOCKS | ADVANCED SETUP OPTIONS | CHASSIS
+CHASSIS
+FRONT
+CROSS WEIGHT
+Cross weight is the amount of weight on the car’s Left-Rear and 
+Right-Front tires relative to the entire weight of the car, displayed 
+in percent. This is adjusted via the corner Spring Perch Offset 
+adjustments as well as Front ARB preload. For an oval car, Cross 
+Weight is one of the most influential settings for grip level while the 
+vehicle is turning. Higher Cross Weight values will place more weight 
+on the left-rear and right-front, both stabilizing entry and helping 
+drive-off on corner exit, but excessive crossweight could prevent 
+the car from rotating through the center. Lower Cross-Weight values 
+will help the vehicle rotate and keep it “free” in the corner to prevent 
+speed from being lost, however too low can result in unstable entry 
+and exit.
+TOE-IN
+Toe is the angle of the wheel, when viewed from above, relative to 
+the centerline of the chassis. Positive toe-in is when the front of 
+the wheel is closer to the centerline than the rear of the wheel, and 
+negative toe-in (toe-out) is when the front of the wheel is farther 
+away from the centerline than the rear of the wheel. On the front, 
+toe-out is generally preferred. More toe-out typically provides better 
+turn in and straight line stability due to increased slip angle, but at 
+the cost of increased tire temperature and wear.
+STEERING RATIO
+The Steering Ratio is a numerical value for how fast the steering 
+response is in the vehicle’s steering box. This ratio can be thought 
+of as the degrees of steering input needed to produce one degree 
+of turn on the steering box output shaft. For example, a 12:1 steering 
+ratio will require 12° of steering input to rotate the steering output 
+shaft 1° . A steering box with a lower ratio will feel more responsive 
+to steering inputs and will require less steering input to reach the 
+amount needed to navigate a corner. A steering box with a higher 
+ratio will feel less responsive and will require more steering input to 
+reach the amount needed to navigate a corner. 
+STEERING OFFSET
+Degrees of steering wheel offset, achieved with a combination of 
+installing the steering wheel into the quick release mechanism off-
+center and adjusting front tie-rods. This can be used to compensate 
+for chassis settings which place the wheel off center and is primarily 
+a driver comfort adjustment. Positive values will rotate the steering 
+wheel to the right, negative values will rotate the wheel to the left.
+BRAKE BALANCE BAR
+The Brake Balance Bar adjustment controls Brake Bias, or the 
+percentage of braking force that is being sent to the front brakes. 
+Values above 50% result in more pressure being sent to the front, 
+while values less than 50% send more force to the rear. This should 
+be tuned for driver preference, track conditions, and also may need 
+adjustment during a race to get the optimum braking performance 
+for a given situation. 
+SWAY BAR SIZE
+The Sway Bar Size is the outer diameter of the front sway bar and 
+affects the roll stiffness of the front suspension. Increasing the 
+diameter of the sway bar will result in a higher roll stiffness on 
+the front suspension, helping to keep the chassis flat relative to 
+the racing surface, but can also increase understeer. Smaller bars 
+will reduce the roll stiffness of the suspension but can increase 
+mechanical grip in the front end, increasing oversteer.
+
+--- PAGE 11 ---
+
+11
+STREET STOCKS | USER MANUAL
+STREET STOCKS | ADVANCED SETUP OPTIONS | CHASSIS
+LEFT BAR END CLEARANCE
+The Left Bar End Clearance sets how far the left-side sway bar arm 
+must travel before engaging the suspension and loading the sway 
+bar, as in the case of a “slapper”-style bar. A positive clearance 
+signifies a gap between the suspension and the sway bar arm, 
+meaning the suspension must move freely before loading the bar. 
+A negative value signifies the bar is in contact with the suspension 
+and is being loaded, thus giving the bar a static preload. Positive 
+clearances can be used to reduce bar load, especially on the 
+straights to keep the front end lower, while negative values (bar 
+preload) can be helpful in preventing the bar from unloading in 
+situations where that is not desirable.
+ATTACH LEFT SIDE
+When checked, the Attach Left Side option will place a solid 
+connection between the left-side sway bar arm and the suspension, 
+loading the bar in all situations. When unchecked, the bar behaves 
+as a “slapper”-style bar, and will only load in left-hand turns.
+BAR PRELOAD
+The Bar Preload is the static load in the sway bar while the vehicle is 
+in the garage. Preload adjustments can be used to alter the dynamic 
+loads in the bar while on track, and can be used to remove or add 
+bar load in the corners and on the straights.
+SKIRT CLEARANCE
+The Skirt Clearance is a representation of how far the bottom of 
+the front valence is from the ground. This value is essentially a fifth 
+ride height requirement and must be above 5 inches to pass tech 
+inspection.
+FRONT CORNERS
+CORNER WEIGHT
+The weight underneath each tire under static conditions in the 
+garage. Correct weight arrangement around the car is crucial for 
+optimizing a car for a given track and conditions. Individual wheel 
+weight adjustments and crossweight adjustments are made via the 
+Spring Perch setting.
+SKIRT CLEARANCE
+The Skirt Clearance is the distance from ground to the bottom of 
+the door panel, or skirt. Front heights are measured just behind the 
+front wheels at the lowest point on the door. Since these values 
+are measured to a specific reference point on the car, these values 
+may not necessarily reflect the vehicle’s ground clearance since 
+some components may be lower, but instead provide a reliable 
+value for the height of the car off of the race track at static values. 
+Adjusting Skirt Clearance is key for optimum performance, as they 
+can directly influence the vehicle’s aerodynamic performance as well 
+as mechanical grip. While changing ride heights will affect handling, 
+front heights should be set to get the car as low as possible without 
+contacting the racing surface.
+SPRING PERCH
+Spring Perch is used to adjust ride height (skirt clearance) and 
+corner weight by changing the preload on the spring under static 
+conditions. Decreasing the value increases preload on the spring, 
+adding weight to its corner and increasing the ride height at that 
+corner. Increasing the value does the opposite, reducing height and 
+weight on a given corner. These should be adjusted in pairs (left and 
+right, for example) or with all four spring preload adjustments in the 
+car to prevent crossweight changes while adjusting ride height.
+SPRING RATE
+Spring Rate changes how stiff the spring is, represented in 
+a force per unit of displacement. Primarily responsible for 
+maintaining ride height and a good attitude under changing 
+wheel loads, stiffer springs will maintain the car’s attitude 
+better while sacrificing mechanical grip. Softer springs will deal 
+with bumps better and increase mechanical grip, however this 
+could cause the chassis to pitch and roll too much, hurting 
+aerodynamic performance at faster tracks.
+
+--- PAGE 12 ---
+
+12
+STREET STOCKS | USER MANUAL
+STREET STOCKS | ADVANCED SETUP OPTIONS | CHASSIS
+CAMBER
+Camber is the vertical angle of the wheel relative to the center of 
+the chassis. Negative camber is when the top of the wheel is closer 
+to the chassis centerline than the bottom of the wheel, positive 
+camber is when the top of the tire is farther out than the bottom. 
+Greater camber angles will increase the cornering force generated 
+by the tire, but will reduce the amount of longitudinal grip the tire 
+will have under braking. Excessive camber values can produce very 
+high cornering forces but will also significantly reduce tire life, so it is 
+important to find a balance between life and performance. For ovals, 
+set the left side positive and the right side negative.
+CASTER
+Caster is how much the steering axis is leaned back (positive) or 
+forward (negative), which influences dynamic load jacking effects as 
+the car is steered. More positive caster results in a heavier steering 
+feel but decreases dynamic crossweight while turning by loading the 
+inside front tire with steering input, as well as adding straight-line 
+stability. Running less caster on the left-front than the right-front will 
+cause the vehicle to pull to the left, a desirable effect on ovals.
+REAR CORNERS
+CORNER WEIGHT
+The weight underneath each tire under static conditions in the 
+garage. Correct weight arrangement around the car is crucial for 
+optimizing a car for a given track and conditions. Individual wheel 
+weight adjustments and crossweight adjustments are made via the 
+Spring Perch setting.
+SKIRT CLEARANCE
+The Skirt Clearance is the distance from ground to the bottom of 
+the door panel, or skirt. Rear heights are measured just in front of 
+the rear wheels at the lowest point on the door. Since these values 
+are measured to a specific reference point on the car, these values 
+may not necessarily reflect the vehicle’s ground clearance since 
+some components may be lower, but instead provide a reliable 
+value for the height of the car off of the race track at static values. 
+Adjusting Skirt Clearance is key for optimum performance, as they 
+can directly influence the vehicle’s aerodynamic performance as 
+well as mechanical grip. Rear heights can be increased to produce 
+more aerodynamic downforce at high speeds, while lowering the rear 
+heights can help with traction in slower corners.
+LEAF ARCH & BLOCK
+The Leaf Arch & Block adjustment is used to change the preload 
+on the rear springs, and thus change the ride height on either rear 
+corner. Increasing the size of the Leaf Block will lower that corner’s 
+ride height and reduce spring preload, while reducing the size of 
+the Leaf Block will raise that corner’s ride height and increase 
+spring preload.
+LEAF SPRING RATE
+Leaf Spring Rate changes how stiff the spring is, represented in a 
+force per unit of displacement. Primarily responsible for maintaining 
+ride height and a good attitude under changing wheel loads, stiffer 
+springs will maintain the car’s attitude better while sacrificing 
+mechanical grip. Softer springs will deal with bumps better and 
+increase mechanical grip, however this could cause the chassis to 
+pitch and roll too much, hurting aerodynamic performance at faster 
+tracks.
+
+--- PAGE 13 ---
+
+13
+STREET STOCKS | USER MANUAL
+STREET STOCKS | ADVANCED SETUP OPTIONS | CHASSIS
+REAR
+FUEL FILL TO
+This selects the amount of fuel in the fuel tank when the car leaves 
+the garage.
+REAR END RATIO 
+The Rear End Gear Ratio is the ratio between the driveshaft pinion 
+and the differential ring gear. Higher number values produce better 
+acceleration but reduce top speed, lower number values reduce 
+acceleration but result in a higher top speed.

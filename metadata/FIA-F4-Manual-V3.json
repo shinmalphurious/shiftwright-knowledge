@@ -1,0 +1,23 @@
+{
+  "vehicle": "FIA F4",
+  "manufacturer": "FIA",
+  "manufacturer_source": "known_vehicle",
+  "class": "NASCAR",
+  "manual_type": "vehicle",
+  "topics": [
+    "aerodynamics",
+    "brakes",
+    "dampers",
+    "suspension",
+    "tires"
+  ],
+  "sections": [
+    "Tires & Aero",
+    "Chassis",
+    "Dampers",
+    "Brakes",
+    "Fuel"
+  ],
+  "word_count": 4790,
+  "source_text": "FIA-F4-Manual-V3.txt"
+}

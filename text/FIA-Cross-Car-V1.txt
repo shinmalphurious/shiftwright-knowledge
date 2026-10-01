@@ -1,0 +1,432 @@
+--- PAGE 1 ---
+
+1
+FIA CROSS CAR
+USER MANUAL
+
+--- PAGE 2 ---
+
+2
+FIA CROSS CAR | USER MANUAL
+Introduction » 5
+Tech Specs » 4
+A Message From iRacing » 3
+ Getting Started » 5
+Dash Pages » 7
+ Loading An iRacing Setup » 6
+ Tire Data » 9
+ Front » 11
+Chassis » 11
+Tires » 9 
+ Front Corners » 12 
+ Rear Corners » 13
+ Rear » 14
+ GENERAL INFORMATION
+ ADVANCED SETUP OPTIONS
+TABLE OF CONTENTS
+CLICK TO VIEW A SECTION
+
+--- PAGE 3 ---
+
+3
+DEAR iRACING USER,
+Congratulations on your iRacing membership, and we hope you enjoy the FIA Cross Car. From all of us at 
+iRacing, we appreciate your support and your commitment to our product. We aim to deliver the ultimate 
+sim racing experience, and we hope that you’ll find plenty of excitement with us behind the wheel of your 
+new car! 
+The following guide explains how to get the most out of your new car, from how to adjust its settings 
+off of the track to what you’ll see inside of the cockpit while driving. We hope that you’ll find it useful 
+in getting up to speed. 
+Thanks again for your purchase, and we’ll see you on the track!
+
+--- PAGE 4 ---
+
+4
+FIA CROSS CAR | USER MANUAL
+CHASSIS
+POWER 
+UNIT
+FIA CROSS CAR | TECH SPECS
+SLA, COILOVER SHOCKS
+Y AMAHA MT-09 890CC 3-CYLINDER
+LENGTH
+2550 mm
+100 in
+WIDTH
+2080 mm
+82 in
+DISPLACEMENT
+.89 Liters
+54 CID
+TORQUE
+68.6 lb-ft
+93 Nm
+RPM LIMIT
+12,165 RPM 
+POWER
+120 bhp
+89 kW
+WHEELBASE
+2000 mm
+79 in
+DRY WEIGHT
+340 kg
+750 lbs
+WET WEIGHT 
+WITH DRIVER
+435 kg
+959 lbs
+
+--- PAGE 5 ---
+
+5
+FIA CROSS CAR | USER MANUAL
+INTRODUCTION
+The information found in this guide is intended to provide a deeper understanding of the chassis setup adjustments 
+available in the garage, so that you may use the garage to tune the chassis setup to your preference.
+Once you load into the car, select 1st gear. Slowly release the clutch 
+while applying the throttle to drive away. A clutch is necessary when 
+coming to a stop to prevent stalling the engine and shifting into 
+reverse if necessary, but the clutch isn’t required once the vehicle is 
+in motion for upshifts or downshifts. Upshifting can be done without 
+FIA CROSS CAR | INTRODUCTION
+GETTING STARTED
+lifting off the throttle, however downshifting will require a small 
+throttle blip to unload the transmission. If you downshift too early, 
+or don’t blip the throttle sufficiently, the wheel speed and engine 
+speed will be mismatched, leading to wheel hop at the rear and a 
+possible spin.
+Before diving into chassis adjustments, though, it is best to become 
+familiar with the car and track. To that end, we have provided 
+baseline setups for each track commonly raced by these cars.
+To access the baseline setups, simply open the Garage, click
+iRacing Setups, and select the appropriate setup for your track of 
+choice. If you are driving a track for which a dedicated baseline 
+setup is not included, you may select a setup for a similar track to 
+use as your baseline.
+After you have selected an appropriate setup, get on track and focus 
+on making smooth and consistent laps, identifying the proper racing 
+line and experiencing tire wear and handling trends over a number 
+of laps.
+Once you are confident that you are nearing your driving potential 
+with the included baseline setups, read on to begin tuning the car to 
+your handling preferences.
+
+--- PAGE 6 ---
+
+6
+FIA CROSS CAR | USER MANUAL
+LOADING AN iRACING SETUP
+Upon loading into a session, the car will automatically load the 
+iRacing Baseline setup [baseline.sto]. If you would prefer one of 
+iRacing’s pre-built setups that suit various conditions, you may load 
+it by clicking Garage > iRacing Setups > and then selecting the setup 
+to suit your needs.
+If you would like to customize the setup, simply make the changes 
+in the garage that you would like to update and click apply. 
+FIA CROSS CAR | INTRODUCTION
+If you would like to save your setup for future use click “Save As” 
+on the right to name and save the changes. To access all of your 
+personally saved setups, click “My Setups” on the right side of
+the garage. 
+If you would like to share a setup with another driver or everyone 
+in a session, you can select “Share” on the right side of the garage 
+to do so. 
+If a driver is trying to share a setup with you, you will find it under 
+“Shared Setups” on the right side of the garage as well. 
+
+--- PAGE 7 ---
+
+7
+FIA CROSS CAR | USER MANUAL
+FIA CROSS CAR | DASH PAGES
+DASH CONFIGURATION
+The FIA Cross Car features an AIM MXm digital dash display. This display features two pages, multiple backlight colors, 
+and built-in shift lights in one simple module.
+PAGE 1 DASH CONFIGURATION
+PAGE 2 DASH CONFIGURATION
+Tachometer/RPM - A bar-type tachometer at the top of the display 
+ shows the current engine RPM as well as a numerical RPM display in 
+the upper left. 
+GAS % - The upper-right number displays the current throttle pedal 
+position in percent
+WTS F/C - Current engine cooling fluid temperature, in °F or °C 
+depending on the selected garage units, is shown in the upper left 
+RPM - Engine RPM is shown in the upper right 
+Best - Session best lap time is shown in the lower left
+WTS F/C - Current engine cooling fluid temperature, in °F or °C 
+depending on the selected garage units, shown in the lower left 
+Best - Current session best lap time is shown in the lower right
+GAS % - The lower-right number displays the current throttle pedal 
+position in percent 
+GEAR - The currently-selected gear 
+
+--- PAGE 8 ---
+
+8
+FIA CROSS CAR | USER MANUAL
+FIA CROSS CAR | DASH PAGES
+SHIFT LIGHTS
+Above the digital display is a set of five LEDs that will illuminate from 
+left to right as engine RPM increases. Upshifting is recommended as 
+soon as all five lights are illuminated.
+
+--- PAGE 9 ---
+
+9
+FIA CROSS CAR | USER MANUAL
+ADVANCED SETUP OPTIONS
+This section is aimed toward more advanced users who want to dive deeper into the different aspects of 
+the vehicle’s setup. Making adjustments to the following parameters is not required and can lead to significant 
+changes in the way a vehicle handles. It is recommended that any adjustments are made in an incremental 
+fashion and only singular variables are adjusted before testing changes.
+FIA CROSS CAR | ADVANCED SETUP OPTIONS 
+
+--- PAGE 10 ---
+
+10
+FIA CROSS CAR | USER MANUAL
+FIA CROSS CAR | ADVANCED SETUP OPTIONS | TIRES
+COLD PRESSURE / STARTING PRESSURE
+The air pressure in the tires when the car is loaded into the world. 
+Lower pressures will provide more grip but will produce more rolling 
+drag and build temperature faster. Higher pressures will feel slightly 
+more responsive and produce less rolling drag, but can result in 
+less grip. Generally, higher pressures are preferred at tracks where 
+speeds are higher while lower pressures work better at slower tracks 
+where mechanical grip is important. 
+LAST HOT PRESSURE
+When the car returns to the garage after an on-track stint, the tire 
+pressure will be displayed as Hot Pressure. The difference between 
+cold and hot pressure is a good way to see how tires are being 
+loaded and worked while on track. Tires seeing more work will build 
+more pressure, and paying attention to which tires are building more 
+pressure and adjusting cold pressure to compensate can be crucial 
+for optimizing tire performance. 
+TIRES 
+TIRE DATA
+LAST TEMPERATURES
+The tire carcass temperatures (measured within the tread) are 
+displayed after the car returns from the track. These temperatures 
+are an effective way to determine how much work or load a given tire 
+is experiencing while on track. Differences between the inner and 
+outer temperatures can be used to tune individual wheel alignment 
+and the center temperatures can be compared to the outer 
+temperatures to help tune tire pressure. 
+TREAD REMAINING
+The amount of tread on the tire, displayed as a percentage of a new 
+tire, is shown below the tire temperatures. These values are good 
+for determining how far a set of tires can go before needing to be 
+replaced, but don’t necessarily indicate an under- or over-worked 
+tire in the same way temperatures will.
+
+--- PAGE 11 ---
+
+11
+FIA CROSS CAR | USER MANUAL
+FIA CROSS CAR | ADVANCED SETUP OPTIONS | CHASSIS
+CHASSIS
+FRONT
+BRAKE PRESSURE BIAS
+Brake Bias is the percentage of braking force that is being sent to 
+the front brakes. Values above 50% result in greater pressure in the 
+front brake line relative to the rear brake line which will shift the 
+brake balance forwards increasing the tendency to lock up the front 
+tyres but potentially increasing overall stability in braking zones. 
+This should be tuned for both driver preference and track conditions 
+to get the optimum braking performance for a given situation.
+CROSS WEIGHT
+The percentage of total vehicle weight in the garage acting across 
+the right front and left rear corners. A setting of 50.0% is generally 
+optimal for non-oval tracks as this will produce symmetrical handling 
+in both left and right hand corners providing all other chassis 
+settings are symmetrical. Higher than 50% cross weight will result 
+in more understeer in left hand corners and increased oversteer 
+in right hand corners. Cross weight can be adjusted by making 
+changes to the spring perch offsets at each corner of the car.
+SCREEN COLOR
+Changes the back-light color for the digital dash display, with no 
+effect on vehicle performance. This can also be changed while 
+driving via the F8 black box.
+
+--- PAGE 12 ---
+
+12
+FIA CROSS CAR | USER MANUAL
+FIA CROSS CAR | ADVANCED SETUP OPTIONS | CHASSIS
+FRONT CORNERS
+CORNER WEIGHT
+The weight underneath each tire under static conditions in the 
+garage. Correct weight arrangement around the car is crucial for 
+optimizing a car for a given track and conditions. Individual wheel 
+weight adjustments and crossweight adjustments are made via the 
+spring perch offset adjustments at each corner.
+RIDE HEIGHT
+Distance from the ground to the bottom of the car on the front wheel 
+centerline. Adjusting Ride Heights is key for optimum performance, 
+as well as influencing how well the car handles large bumps or 
+jumps. Increasing front ride height can increase front mechanical 
+grip by producing more weight transfer when cornering, but can feel 
+less responsive in some cases. Conversely, reducing ride height will 
+reduce the weight transfer across the front axle, but could feel more 
+responsive when turning into a corner.
+SPRING PERCH OFFSET
+Used to adjust the ride height at the corner of the car by changing 
+the installed position of the spring. Increasing the spring perch offset 
+will result in lowering the corner of the car while reducing the spring 
+perch offset will raise the corner of the car. These changes should 
+be kept symmetrical across the axle (left to right) to ensure the same 
+corner ride heights and no change in cross weight. The spring perch 
+offsets can also be used in diagonal pairs (LF to RR and RF to LR) to 
+change the static cross weight in the car.
+SPRING RATE
+This setting determines the installed corner spring stiffness. Stiffer 
+springs will result in a smaller variance in ride height but can greatly 
+reduce mechanical grip, but can prevent the car from bottoming out 
+over large jumps. Softer springs will increase mechanical grip and 
+help the suspension absorb bumps better, but may not prevent the 
+chassis from hitting the ground over large jumps.
+BUMP STIFFNESS
+The bump stiffness setting changes how resistant the shocks are 
+to compression. Setting “15” is minimum damping (least resistance 
+to compression) while “1” is maximum damping (most resistance 
+to compression). Increasing the bump stiffness will result in faster 
+weight transfer to the wheel during transient movements, such 
+as braking and direction change, with increased damping usually 
+providing an increase in turn-in response but a reduction in overall 
+grip in the context of front dampers. Increased bump stiffness can 
+also prevent the suspension from absorbing bumps, leading to a loss 
+in grip.
+REBOUND STIFFNESS
+The Rebound Stiffness setting is a paired adjustment to both 
+low and high speed rebound damping characteristics. Increasing 
+rebound damping will slow down the rate at which the damper 
+extends. Setting “37” is minimum damping (least resistance to 
+extension) while “1” is maximum damping (most resistance to 
+extension). While high rebound stiffness will result in improved 
+platform control for better feel and steering response, it is important 
+to avoid situations where the shock is too slow in rebounding as this 
+will result in the tire losing complete contact with the track surface, 
+especially after hard landings.
+CAMBER
+Camber is the vertical angle of the wheel relative to the center of the 
+chassis. Negative camber is when the top of the wheel is closer to 
+the chassis centerline than the bottom of the wheel, positive camber 
+is when the top of the tire is further out than the bottom. Due to 
+suspension geometry and corner loads, negative camber is desired 
+on all four wheels. Higher negative camber values will increase the 
+cornering force generated by the tire, but will reduce the amount of 
+longitudinal grip the tire will have under braking. Excessive camber 
+values can produce very high cornering forces but may result in 
+frequent lockups under braking.
+
+--- PAGE 13 ---
+
+13
+FIA CROSS CAR | USER MANUAL
+FIA CROSS CAR | ADVANCED SETUP OPTIONS | CHASSIS
+TOE-IN
+Toe is the angle of the wheel, when viewed from above, relative 
+to the centerline of the chassis. Toe-in is when the front of the 
+wheel is closer to the centerline than the rear of the wheel, and 
+Toe-out is the opposite. On the front end, adding toe-out (negative 
+REAR CORNERS
+CORNER WEIGHT
+The weight underneath each tire under static conditions in the 
+garage. Correct weight arrangement around the car is crucial for 
+optimizing a car for a given track and conditions. Individual wheel 
+weight adjustments and crossweight adjustments are made via the 
+spring perch offset adjustments at each corner.
+SPRING PERCH OFFSET
+Used to adjust the ride height at the corner of the car by changing 
+the installed position of the spring. Increasing the spring perch offset 
+will result in lowering the corner of the car while reducing the spring 
+perch offset will raise the corner of the car. These changes should 
+be kept symmetrical across the axle (left to right) to ensure the same 
+corner ride heights and no change in cross weight. The spring perch 
+offsets can also be used in diagonal pairs (LF to RR and RF to LR) to 
+change the static cross weight in the car.
+SPRING RATE
+Similar to the front axle, stiffer springs will result in a smaller 
+variance in ride height through various loads but can result in a loss 
+of mechanical grip. Spring stiffness should be matched to the needs 
+of the racetrack and set such that the handling balance is consistent 
+but the chassis doesn’t impact the ground too often. 
+BUMP STIFFNESS
+The bump stiffness setting changes how resistant the shocks are 
+to compression. Setting “15” is minimum damping (least resistance 
+to compression) while “1” is maximum damping (most resistance 
+to compression). Increasing the bump stiffness will result in faster 
+weight transfer to the wheel during transient movements, such 
+as braking and direction change, with increased damping usually 
+providing an increase in turn-in response but a reduction in overall 
+grip in the context of front dampers. Increased bump stiffness can 
+also prevent the suspension from absorbing bumps, leading to a loss 
+in grip
+REBOUND STIFFNESS
+The Rebound Stiffness setting is a paired adjustment to both 
+low and high speed rebound damping characteristics. Increasing 
+rebound damping will slow down the rate at which the damper 
+extends. Setting “37” is minimum damping (least resistance to 
+extension) while “1” is maximum damping (most resistance to 
+extension). While high rebound stiffness will result in improved 
+platform control for better feel and steering response, it is important 
+to avoid situations where the shock is too slow in rebounding as this 
+will result in the tire losing complete contact with the track surface, 
+especially after hard landings.
+value) will increase slip in the inside tire and decrease straight-
+line stability while adding toe-in will reduce the slip and increase 
+straight-line stability
+
+--- PAGE 14 ---
+
+14
+FIA CROSS CAR | USER MANUAL
+FIA CROSS CAR | ADVANCED SETUP OPTIONS | CHASSIS
+REAR
+CAMBER
+As with the front of the car it is desirable to run negative camber in 
+order to increase the lateral grip capability when cornering. However, 
+excessive rear camber can reduce the amount of forward traction 
+the tires can produce so it’s important to find a balance between 
+cornering ability and traction. 
+TOE-IN
+Toe is the angle of the wheel, when viewed from above, relative to 
+the centerline of the chassis. Toe-in is when the front of the wheel is 
+closer to the centerline than the rear of the wheel, and Toe-out is the 
+opposite. At the rear of the car it is typical to run toe-in. Increases 
+in toe-in will result in improved straight line stability and a reduction 
+in response during direction changes. Large values of toe-in should 
+be avoided if possible as this will increase rolling drag and reduce 
+straight line speeds. 
+BALLAST POSITION
+The position of ballast weight can be moved to alter the car’s 
+handling characteristics. Shifting the ballast to a forward position 
+will increase noseweight, leading to understeer in medium- and high-
+speed corners. More rearward positions will reduce noseweight and 
+induce oversteer in corners.
+RIDE HEIGHT
+Distance from ground to a reference point on the rear of the 
+chassis on the chassis’s centerline. Increasing rear ride height will 
+increase weight transfer across the rear axle and add rear grip while 
+cornering, but can lead to a less responsive feeling for the driver. 
+Reducing height will reduce weight transfer and induce oversteer but 
+risks the chassis grounding out over jumps. 
+ARB ARM
+The ARB Arms can be changed to further tune the suspension roll 
+stiffness beyond only the ARB size setting. This option changes the 
+length of the ARB blades to one of three settings as well as a fourth 
+setting that disconnects the rear ARB entirely. Shorter blade settings 
+will increase rear roll stiffness and induce oversteer while longer 
+blade settings will reduce rear roll stiffness and reduce oversteer. 
+Disconnecting the bar will greatly reduce rear roll stiffness and 
+induce understeer.
+FUEL LEVEL
+The amount of fuel in the fuel tank when the car is loaded 
+into the world.
+SPROCKET GEAR RATIO
+The sprocket ratio changes the final drive ratio at the rear axle, 
+influencing acceleration and top speed. Smaller sprockets (lower 
+number) will increase top speed and reduce acceleration, while 
+larger sprockets (higher number) will increase acceleration at the 
+expense of top speed.

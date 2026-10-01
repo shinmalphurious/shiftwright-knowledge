@@ -1,0 +1,26 @@
+{
+  "vehicle": "Gen 3 Supercars",
+  "manufacturer": "Supercars",
+  "manufacturer_source": "series_override",
+  "class": "Touring Car",
+  "manual_type": "vehicle",
+  "topics": [
+    "aerodynamics",
+    "brakes",
+    "dampers",
+    "differential",
+    "suspension",
+    "tires"
+  ],
+  "sections": [
+    "Tires & Aero",
+    "Setup Tips",
+    "Chassis",
+    "Dampers",
+    "Differential",
+    "Brakes",
+    "Fuel"
+  ],
+  "word_count": 6035,
+  "source_text": "Gen-3-Supercars-Manual_V5.txt"
+}

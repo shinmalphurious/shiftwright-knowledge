@@ -1,0 +1,775 @@
+--- PAGE 1 ---
+
+GEN 3 SUPERCARS
+USER MANUAL
+
+--- PAGE 2 ---
+
+2
+GEN 3 SUPERCARS | USER MANUAL
+Introduction » 6
+Tech Specs » 4
+A Message From iRacing » 3
+ Getting Started » 6
+Dash Pages » 8
+ Loading An iRacing Setup » 7
+ GENERAL INFORMATION
+TABLE OF CONTENTS
+CLICK TO VIEW A SECTION
+Setup Tips » 20
+SETUP TIPS
+ Tire Data » 12
+ Front » 13
+Chassis » 13
+Tires & Aero » 12 
+ Front ARB » 14
+ Front Corners » 15 
+ Rear » 18
+ Rear ARB » 19
+ Rear Corners » 17
+ ADVANCED SETUP OPTIONS
+
+--- PAGE 3 ---
+
+3
+DEAR iRACING USER,
+Congratulations on your purchase of the Gen 3 Supercar! From all of us at iRacing, we appreciate your 
+support and your commitment to our product. We aim to deliver the ultimate sim racing experience, and 
+we hope that you’ll find plenty of excitement with us behind the wheel of your new car! 
+The following guide explains how to get the most out of your new car, from how to adjust its settings 
+off of the track to what you’ll see inside of the cockpit while driving. We hope that you’ll find it useful 
+in getting up to speed. 
+Thanks again for your purchase, and we’ll see you on the track!
+
+--- PAGE 4 ---
+
+4
+GEN 3 SUPERCARS | USER MANUAL
+CHASSIS
+POWER 
+UNIT
+GEN 3 SUPERCARS | TECH SPECS
+FRONT AND REAR DOUBLE A-ARM WITH 
+COILOVER SPRING AND ANTI-ROLL BAR
+NATURALL Y ASPIRATED LS V8
+LENGTH
+4881 mm
+192.2 in
+WIDTH
+1960 mm
+77.2 in
+WHEELBASE
+2767 mm
+109 in
+DRY WEIGHT
+1340 kg
+2954 lbs
+WET WEIGHT 
+WITH DRIVER
+1439 kg
+3173 lbs
+DISPLACEMENT
+5.7 Liters
+347 cid
+TORQUE
+508.6 lb-ft
+690 Nm
+POWER
+600 bhp
+447 kW
+RPM LIMIT
+7500
+ 
+
+--- PAGE 5 ---
+
+5
+GEN 3 SUPERCARS | USER MANUAL
+CHASSIS
+POWER 
+UNIT
+GEN 3 SUPERCARS | TECH SPECS
+FRONT AND REAR DOUBLE A-ARM WITH 
+COILOVER SPRING AND ANTI-ROLL BAR
+NATURALL Y ASPIRATED COYOTE V8
+LENGTH
+4881 mm
+192.2 in
+WIDTH
+1960 mm
+77.2 in
+WHEELBASE
+2767 mm
+109 in
+DRY WEIGHT
+1340 kg
+2954 lbs
+WET WEIGHT 
+WITH DRIVER
+1439 kg
+3173 lbs
+DISPLACEMENT
+5.7 Liters
+347 cid
+TORQUE
+508.6 lb-ft
+690 Nm
+POWER
+600 bhp
+447 kW
+RPM LIMIT
+7500
+ 
+
+--- PAGE 6 ---
+
+6
+GEN 3 SUPERCARS | USER MANUAL
+INTRODUCTION
+The information found in this guide is intended to provide a deeper understanding of the chassis setup adjustments 
+available in the garage, so that you may use the garage to tune the chassis setup to your preference.
+Once you load into the car, press the clutch and select 1st gear. Give 
+it a bit of throttle and ease off the clutch pedal to get underway. The 
+Gen 3 Supercars use a clutchless 6-speed sequential transmission 
+with reverse. Upshifts and downshifts don’t require clutch or 
+GEN 3 SUPERCARS | INTRODUCTION
+GETTING STARTED
+throttle blip to move to the next gear, however in some situations 
+it’s beneficial to apply a slight throttle blip to downshifts to prevent 
+the risk of wheel hopping. Upshifting is recommended when all shift 
+lights illuminate in red, usually around 7500rpm.
+Before diving into chassis adjustments, though, it is best to become 
+familiar with the car and track. To that end, we have provided 
+baseline setups for each track commonly raced by these cars.
+To access the baseline setups, simply open the Garage, click iRacing 
+Setups, and select the appropriate setup for your track of choice. 
+If you are driving a track for which a dedicated baseline setup is not 
+included, you may select a setup for a similar track to use as your 
+baseline. After you have selected an appropriate setup, get on track 
+and focus on making smooth and consistent laps, identifying the 
+proper racing line and experiencing tire wear and handling trends 
+over a number of laps.
+Once you are confident that you are nearing your driving potential 
+with the included baseline setups, read on to begin tuning the car 
+to your handling preferences.
+
+--- PAGE 7 ---
+
+7
+GEN 3 SUPERCARS | USER MANUAL
+LOADING AN iRACING SETUP
+Upon loading into a session, the car will automatically load the 
+iRacing Baseline setup <baseline.sto>. If you would prefer one of 
+iRacing’s pre-built setups that suit various conditions, you may load 
+it by clicking Garage > iRacing Setups > and then selecting the setup 
+to suit your needs. 
+If you would like to customize the setup, simply make the changes 
+in the garage that you would like to update and click apply. If you 
+would like to save your setup for future use click “Save As” on the 
+right to name and save the changes. To access all of your personally 
+saved setups, click “My Setups” on the right side of the garage. 
+GEN 3 SUPERCARS | INTRODUCTION
+If you would like to share a setup with another driver or everyone 
+in a session, you can select “Share” on the right side of the garage 
+to do so.
+If a driver is trying to share a setup with you, you will find it under 
+“Shared Setups” on the right side of the garage as well.
+
+--- PAGE 8 ---
+
+8
+GEN 3 SUPERCARS | USER MANUAL
+GEN 3 SUPERCARS | DASH PAGES
+DASH PAGES
+Both the Chevrolet Camaro and the Ford Mustang feature the same dash display in the same arrangement. 
+Two pages are available, one to assist with race starts and one to provide information during on-track sessions.
+Left Column
+Lap Time The time for the previously-completed lap
+Position/Lap Indicator
+The gray box below the laptime displays the current session position in blue and the number of completed 
+laps in white.
+Fuel Lap Amount of fuel used on the previous lap in Liters or Gallons
+Engine Temp Engine cooling water temperature in °C or °F
+Right Column
+Ground Speed Current speed in KPH or MPH
+Gear Currently selected transmission gear
+Engine Oil Engine oil temperature in °C or °F
+Center Column
+Laptime Delta Bar
+Once a laptime has been recorded in a session the top of the dash will feature a colored bar originating at the 
+center. If the current lap is faster than the reference the bar will be Green and move to the right. If the current 
+lap is slower than the reference, the bar will turn red and move to the left of the screen.
+Gain Loss -/+
+The numerical lap time delta between the current lap and the reference lap is shown below the delta bar, 
+colored green for a faster lap and red for a slower lap.
+Pedal The currently selected Throttle Pedal map. This mirrors the “PEDAL” setting in the F8 black box.
+System Lights
+These symbols illuminate when various systems are active. The only one that can be controlled in the sim is 
+the blue Wiper indicator, shown just under the throttle pedal map setting. Enabling the pit limiter will flash the 
+exterior light indicators.
+Brake Bias The current brake bias setting is shown at the bottom of the screen.
+RACE PAGE
+
+--- PAGE 9 ---
+
+9
+GEN 3 SUPERCARS | USER MANUAL
+Launch Page
+Pedal % The position of the throttle pedal, shown as a percentage of the pedal’s full travel
+Engine Throttle %
+How far the engine throttle is open, as a percentage of the throttle’s full range. This may or may not be the 
+same as the Pedal position.
+Pedal The currently selected Throttle Pedal map. This mirrors the “PEDAL” setting in the F8 black box.
+Line Lock Status
+Displays whether the Line Locker system is on or off. If enabled, the box will be purple and the current brake 
+system pressure is shown.
+Status Lights
+These symbols illuminate when various systems are active. The only one that can be controlled in the sim is 
+the blue Wiper indicator, shown just under the throttle pedal map setting. Enabling the pit limiter will flash the 
+exterior light indicators.
+Gear Currently selected transmission gear
+Brake Bias The current brake bias setting is shown at the bottom of the screen.
+LAUNCH PAGE
+SHIFT LIGHTS
+GEN 3 SUPERCARS | DASH PAGES
+The Launch page is useful for standing starts, displaying helpful information to get a quick start at the beginning of a race.
+Eight shift lights are situated above the digital display to indicate 
+when the engine has reached the optimum RPM for shifting. Lights 
+will illuminate from the outside towards the inside, with all eight 
+lights flashing red when the engine has reached the shift point.
+
+--- PAGE 10 ---
+
+10
+GEN 3 SUPERCARS | USER MANUAL
+LOCK STATUS LIGHTS
+PIT LIMITER
+GEN 3 SUPERCARS | DASH PAGES
+During heavy braking, the shift LEDs will illuminate in various colors 
+to represent wheel lockups. For all LEDs the lights will illuminate 
+regardless of which wheel locks up on an axle (if only the LF locks, 
+all “front” LEDs will illuminate):
+When the pit limiter is active the display is similar to the Launch page but with minor changes.
+Red (Inner Two LEDs) - Rear wheel lockup
+White (Outer Two LEDs) - Minor Front wheel lockups
+Blue (Outer Two LEDs) - Severe Front wheel lockups
+Pit Limiter
+Speed Lights
+When the limiter is active the shift lights will change to an indicator of the vehicle’s speed. If the car is 
+traveling below the pit speed limit, the lights will be blue. If the car is at pit road speed limit, the lights will be 
+green. If the car is speeding, the lights will be red.
+Limiter Status Light When the limiter is active a yellow LED will flash on the upper right of the dash module
+Ground Speed Vehicle speed, in kph or mph
+Pedal Current Throttle Map setting
+Line Lock Status Displays whether the line lock is on or off
+Gear Currently selected transmission gear
+Throttle %
+ Current throttle pedal position, changes color based on position: Blue for 0-39%, Green for 40-60%, 
+Red for 61-100%
+Bias Current Brake Bias Setting
+
+--- PAGE 11 ---
+
+11
+GEN 3 SUPERCARS | USER MANUAL
+ADVANCED SETUP OPTIONS
+This section is aimed toward more advanced users who want to dive deeper into the different aspects of the 
+vehicle’s setup. Making adjustments to the following parameters is not required and can lead to significant 
+changes in the way a vehicle handles. It is recommended that any adjustments are made in an incremental fashion 
+and only singular variables are adjusted before testing changes.
+GEN 3 SUPERCARS | ADVANCED SETUP OPTIONS 
+
+--- PAGE 12 ---
+
+12
+GEN 3 SUPERCARS | USER MANUAL
+TIRE TYPE
+Selects which type of tire is installed on the car when loaded into the 
+world. Dry, or slick, tires are used for dry racing conditions while Wet 
+tires are intended for raining and wet track conditions.
+COLD PRESSURE / STARTING PRESSURE
+The air pressure in the tires when the car is loaded into the world. 
+Lower pressures will provide more grip but will produce more rolling 
+drag and build temperature faster. Higher pressures will feel slightly 
+more responsive and produce less rolling drag, but will result in 
+less grip. Generally, higher pressures are preferred at tracks where 
+speeds are higher while lower pressures work better at slower tracks 
+where mechanical grip is important. 
+LAST HOT PRESSURE
+When the car returns to the garage after an on-track stint, the tire 
+pressure will be displayed as Hot Pressure. The difference between 
+cold and hot pressure is a good way to see how tires are being 
+loaded and worked while on track. Tires seeing more work will build 
+more pressure, and paying attention to which tires are building more 
+pressure and adjusting cold pressure to compensate can be crucial 
+for optimizing tire performance. 
+GEN 3 SUPERCARS | ADVANCED SETUP OPTIONS | TIRES & AERO
+LAST TEMPERATURES
+The tire carcass temperatures (measured within the tread) are 
+displayed after the car returns from the track. These temperatures 
+are an effective way to determine how much work or load a given tire 
+is experiencing while on track. Differences between the inner and 
+outer temperatures can be used to tune individual wheel alignment 
+and the center temperatures can be compared to the outer 
+temperatures to help tune tire pressure. 
+TREAD REMAINING
+The amount of tread on the tire, displayed as a percentage of a new 
+tire, is shown below the tire temperatures. These values are good 
+for determining how far a set of tires can go before needing to be 
+replaced, but don’t necessarily indicate an under- or over-worked 
+tire in the same way temperatures will.
+TIRES 
+
+--- PAGE 13 ---
+
+13
+GEN 3 SUPERCARS | USER MANUAL
+GEN 3 SUPERCARS | ADVANCED SETUP OPTIONS | CHASSIS
+CHASSIS
+FRONT
+FRONT MC
+The Front Brake Master Cylinder size can be changed to alter the 
+line pressure to the front brake calipers. A larger master cylinder 
+will reduce the line pressure to the front brakes, which will shift 
+the brake bias rearwards and increase the pedal effort required to 
+lock the front wheels. A smaller master cylinder will increase brake 
+line pressure to the front brakes, shifting brake bias forward and 
+reducing required pedal effort to lock the front wheels. Adjustments 
+to the Front Master Cylinder will automatically change the Brake 
+Pressure Bias setting, so adjustments may be needed to reset the 
+brake bias following a Master Cylinder change.
+REAR MC
+The Rear Brake Master Cylinder size can be changed to alter the 
+line pressure to the rear brake calipers. A larger master cylinder will 
+reduce the line pressure to the rear brakes, which will shift the brake 
+bias forwards and increase the pedal effort required to lock the rear 
+wheels. A smaller master cylinder will increase brake line pressure to 
+the rear brakes, shifting brake bias rearward and reducing required 
+pedal effort to lock the rear wheels. Adjustments to the Rear Master 
+Cylinder will automatically change the Brake Pressure Bias setting, 
+so adjustments may be needed to reset the brake bias following a 
+Master Cylinder change.
+BRAKE PRESSURE BIAS
+Brake Bias is the percentage of braking force that is being sent to 
+the front brakes. Values above 50% result in greater pressure in the 
+front brake line relative to the rear brake line which will shift the 
+brake balance forwards increasing the tendency to lock up the front 
+tyres but potentially increasing overall stability in braking zones. This 
+should be tuned for both driver preference and track conditions to 
+get the optimum braking performance for a given situation.
+THROTTLE MAP
+The Throttle Map setting will alter how sensitive the throttle pedal 
+feels at low input levels. Of the ten positions available setting #6 
+will result in a linear pedal behavior, with consistent engine torque 
+delivery through the full range of throttle inputs. Settings 1-5 
+progressively get less sensitive in the lower throttle input range, with 
+#1 being the least sensitive. Conversely, settings 7-10 become more 
+sensitive, seeing more torque delivery earlier in the throttle pedal’s 
+travel. 
+DISPLAY PAGE
+Changes the currently selected digital dash page. Two options are 
+available as previously described in the dash configuration section of 
+this manual.
+
+--- PAGE 14 ---
+
+14
+GEN 3 SUPERCARS | USER MANUAL
+GEN 3 SUPERCARS | ADVANCED SETUP OPTIONS | CHASSIS
+FRONT ARB
+ARB LINKAGE
+The front ARB Linkage can be set to one of six options as well as 
+operating in two different ways: Linear and Digressive.
+The first, more conventional, operation is the Linear mode using 
+settings 2–1 (Linear Stiff) and 2–2 (Linear Soft). In these settings, the 
+ARB will produce the same consistent rate in all conditions. As usual 
+with ARB settings, the stiffer option will induce understeer while 
+cornering while the softer option will reduce understeer.
+The Digressive modes will alter the ARB stiffness based on the 
+overall front ride height. When the front end is low, such as under 
+heavy braking or driving through a dip, the bar will soften, reducing 
+understeer at corner entry. As the front end rises, the bar will begin 
+to stiffen. This can be very helpful when good turn-in is necessary 
+without hurting corner-exit traction, but can also lead to handling 
+instabilities if the front end moves too much through a corner, such 
+as through a banked turn or over crests and dips. Four options 
+are available for the Digressive mode, with 1–1 being the stiffest 
+option and 3–2 being the softest. Setting 2-1 and 3–1 are mid-range 
+settings, with 2–1 being the stiffer of these two options. Changing 
+the setting will keep the same digressive rate curve, but stiffen or 
+soften the bar overall. 
+ARB BLADE ANGLE
+The ARB Blades (or arms) can be changed to further tune the 
+suspension roll stiffness beyond only the ARB size setting. This 
+option changes the angle of the ARB arms relative to the ground 
+with 0 Degrees being the softest and 90 degrees being the stiffest. 
+Stiffer settings will result in a stiffer overall ARB system and more 
+understeer, while softer settings will reduce understeer.
+ARB PRELOAD
+The ARB Preload is the static load in the bar while the vehicle is in 
+the garage. Following chassis adjustments, this adjustment can be 
+used to remove the static load in the bar to prevent asymmetrical or 
+unexpected handling characteristics. Keep the value at or near zero 
+for the most consistent performance.
+
+--- PAGE 15 ---
+
+15
+GEN 3 SUPERCARS | USER MANUAL
+GEN 3 SUPERCARS | ADVANCED SETUP OPTIONS | CHASSIS
+FRONT CORNERS
+CORNER WEIGHT
+The weight underneath each tire under static conditions in the 
+garage. Correct weight arrangement around the car is crucial for 
+optimizing a car for a given track and conditions. Individual wheel 
+weight adjustments and crossweight adjustments are made via the 
+spring perch offset adjustments at each corner.
+RIDE HEIGHT
+Distance from the ground to the bottom surface of the car’s floor 
+on the front wheel centerline. Adjusting Ride Heights is key for 
+optimum performance, as they can directly influence the vehicle's 
+aerodynamic performance as well as mechanical grip. Increasing 
+front ride height will allow for more weight transfer across the front 
+axle, slightly increasing oversteer when cornering, while reducing 
+front ride height reduces the weight transfer across the front axle, 
+which can produce a more stable-feeling front end. Generally, 
+keeping the front ride heights low, but still high enough to clear 
+bumps and kerbs, is best.
+SPRING PERCH OFFSET
+Used to adjust the ride height at the corner of the car by changing 
+the installed position of the spring. Increasing the spring perch offset 
+will result in lowering the corner of the car while reducing the spring 
+perch offset will raise the corner of the car. These changes should 
+be kept symmetrical across the axle (left to right) to ensure the same 
+corner ride heights and no change in cross weight. The spring perch 
+offsets can also be used in diagonal pairs (LF to RR and RF to LR) to 
+change the static cross weight in the car.
+SPRING RATE
+This setting determines the installed corner spring stiffness. Stiffer 
+springs will result in a smaller variance in ride height between high 
+and low load cases, but can hurt mechanical grip if the difference 
+in max and minimum load is too great or too sudden. Typically the 
+drawbacks of stiffer springs will become more pronounced on 
+rougher tracks and softer springs in these situations will result in 
+increased overall performance. Smoother tracks can sometimes see 
+better performance with stiffer springs due to a more consistent 
+chassis attitude and more responsive handling.
+BUMP STIFFNESS
+The bump stiffness setting is a paired adjustment controlling both 
+the low and high speed compression damping characteristics of the 
+damper. For the Supercars, setting “40” is minimum damping (least 
+resistance to compression) while “0” is maximum damping (most 
+resistance to compression). Increasing the bump stiffness will result 
+in faster weight transfer to the wheel during transient movements, 
+such as braking and direction change, with increased damping 
+usually providing an increase in turn-in response but a reduction in 
+overall grip in the context of front dampers. High speed compression 
+damping will increase proportionally to the increase in low speed 
+compression damping which will also result in harsher response to 
+kerb strikes. At smoother tracks more bump stiffness (lower number) 
+will typically increase performance while at rougher tracks or ones 
+with aggressive kerbs less compression damping (higher number) 
+can result in an increase in mechanical grip at the expense of 
+platform control.
+
+--- PAGE 16 ---
+
+16
+GEN 3 SUPERCARS | USER MANUAL
+GEN 3 SUPERCARS | ADVANCED SETUP OPTIONS | CHASSIS
+REBOUND STIFFNESS
+The Rebound Stiffness setting is a paired adjustment to both 
+low and high speed rebound damping characteristics. Increasing 
+rebound damping will slow down the rate at which the damper 
+extends in both low and high speed situations. A typical low damper 
+speed situation would be as the car rolls back to level on a corner 
+exit while a high speed situation would be when the suspension is 
+extending after large kerb contact. Setting “40” is minimum damping 
+(least resistance to extension) while “0” is maximum damping 
+(most resistance to extension). While high rebound stiffness will 
+result in improved platform control and overall chassis response 
+it is important to avoid situations where the shock is too slow in 
+rebounding as this will result in the tire losing complete contact 
+with the track surface which can induce or exacerbate severe 
+oscillations. The lack of aerodynamic downforce on the Supercars 
+means it will usually perform better with lower rebound forces 
+(higher click numbers).high speed cornering but will result in a loss 
+of braking performance and necessitate a rearward shift in brake 
+bias to compensate.
+CAMBER
+Camber is the vertical angle of the wheel relative to the center of 
+the chassis. Negative camber is when the top of the wheel is closer 
+to the chassis centerline than the bottom of the wheel, positive 
+camber is when the top of the tire is farther out than the bottom. 
+Due to suspension geometry and corner loads, negative camber 
+is desired on all four wheels. Higher negative camber values will 
+increase the cornering force generated by the tire, but will reduce 
+the amount of longitudinal grip the tire will have under braking. 
+Excessive camber values can produce very high cornering forces 
+but will also significantly reduce tire life, so it is important to find 
+a balance between life and performance. Increasing front camber 
+values will typically result in increased front axle grip during mid to 
+high speed cornering but will result in a loss of braking performance 
+and necessitate a rearward shift in brake bias to compensate.
+TOE-IN
+Toe is the angle of the wheel, when viewed from above, relative to 
+the centerline of the chassis. Toe-in is when the front of the wheel 
+is closer to the centerline than the rear of the wheel, and Toe-out 
+is the opposite. On the front end, adding toe-out (negative value) 
+will increase slip in the inside tire and decrease straight-line 
+stability while adding toe-in will reduce the slip and increase 
+straight-line stability.
+ROLL CENTER
+The front Roll Center is a suspension geometry parameter that 
+affects the amount of weight transfer during cornering. This can 
+be run at the Baseline value, raised 40mm (1.6”), or lowered 30mm 
+(1.2”). Raising the front Roll Center will increase front roll stiffness 
+and induce understeer while lowering the front roll center will reduce 
+front roll stiffness and induce oversteer.
+
+--- PAGE 17 ---
+
+17
+GEN 3 SUPERCARS | USER MANUAL
+GEN 3 SUPERCARS | ADVANCED SETUP OPTIONS | CHASSIS
+REAR CORNERS
+CORNER WEIGHT
+The weight underneath each tire under static conditions in the 
+garage. Correct weight arrangement around the car is crucial for 
+optimizing a car for a given track and conditions. Individual wheel 
+weight adjustments and crossweight adjustments are made via the 
+spring perch offset adjustments at each corner.
+RIDE HEIGHT
+Distance from the ground to the bottom surface of the car’s floor 
+on the rear wheel centerline. Adjusting Ride Heights is key for 
+optimum performance, as they can directly influence the vehicle's 
+aerodynamic performance as well as mechanical grip. Increasing rear 
+ride height will allow for more weight transfer across the rear axle, 
+slightly increasing oversteer when cornering, while reducing rear 
+ride height reduces the weight transfer across the rear axle, which 
+can produce a more stable-feeling rear end, especially under heavy 
+throttle application.
+SPRING PERCH OFFSET
+Used to adjust the ride height at the corner of the car by changing 
+the installed position of the spring. Increasing the spring perch offset 
+will result in lowering the corner of the car while reducing the spring 
+perch offset will raise the corner of the car. These changes should 
+be kept symmetrical across the axle (left to right) to ensure the same 
+corner ride heights and no change in cross weight. The spring perch 
+offsets can also be used in diagonal pairs (LF to RR and RF to LR) to 
+change the static cross weight in the car.
+SPRING RATE
+Changes the installed coil spring rate. Without aerodynamic 
+considerations, the rear springs will influence how much grip is 
+available on throttle application and how the car reacts at turn-in. 
+Stiffer springs will be more responsive at corner entry, shifting the 
+balance towards oversteer but could hurt forward grip on throttle 
+application, especially on low-grip or bumpy surfaces. Softer springs 
+will give a more sluggish, understeery turn-in response, but will allow 
+for more aggressive throttle application on corner exit. 
+BUMP STIFFNESS
+The bump stiffness setting is a paired adjustment controlling both 
+the low and high speed compression damping characteristics of 
+the damper with identical ranges to those of the front dampers. 
+Increasing the compression damping will result in faster weight 
+transfer to the wheel during transient movements, such as 
+accelerating and direction change, with increased damping usually 
+providing an increase in response but a reduction in overall grip 
+especially at corner exit traction in the context of rear dampers. 
+Excessively stiff compression damping can cause very poor 
+traction on rough tracks as it can result in large tire load variation 
+and a reduction in overall grip. As with the front shocks, setting 
+“40” is minimum compression damping and “0” is maximum 
+compression damping.
+REBOUND STIFFNESS
+The rebound stiffness setting is a paired adjustment controlling both 
+the low and high speed damping characteristics of the damper with 
+identical ranges to those of the front dampers. Increasing rebound 
+damping will slow down the rate at which the damper extends in 
+both low and high speed situations. High rebound stiffness will result 
+in improved platform control for aerodynamic performance and 
+overall chassis response but it is important to avoid situations where 
+the shock is too slow in rebounding as this will result in the tire losing 
+complete contact with the track surface. This can be particularly 
+detrimental during braking events and during the initial turn-in phase 
+though an increase in rebound stiffness can help to “slow down” 
+the change in pitch of the car as the brakes are applied, potentially 
+increasing braking stability. As with the front shocks, setting “40” is 
+minimum rebound damping and “0” is maximum rebound damping.
+
+--- PAGE 18 ---
+
+18
+GEN 3 SUPERCARS | USER MANUAL
+GEN 3 SUPERCARS | ADVANCED SETUP OPTIONS | CHASSIS
+CAMBER
+Rear Camber can be adjusted to alter the amount of lateral and 
+longitudinal force the tire is capable of producing while cornering 
+and accelerating. Running more negative camber will increase lateral 
+force from the tire, helping to keep the car stable when cornering. 
+This can hurt acceleration, however, as more negative camber will 
+reduce the amount of traction the tire is capable of producing. Less 
+negative camber will provide more traction on acceleration, but 
+could result in the rear of the car feeling light through medium- to 
+high-speed corners.
+TOE-IN
+Toe is the angle of the wheel, when viewed from above, relative to 
+the centerline of the chassis. Toe-in is when the front of the wheel 
+is closer to the centerline than the rear of the wheel, and Toe-out 
+is the opposite. At the rear of the car it is typical to run toe-in. 
+Increases in toe-in will result in improved straight line stability and 
+a reduction in response during direction changes. Large values of 
+toe-in should be avoided if possible as this will increase rolling drag 
+and reduce straight line speeds. Generally, it is advised to keep the 
+left and right toe values equal to prevent crabbing or asymmetric 
+handling behavior.
+DROOP TRAVEL
+Suspension Droop is how far the suspension can extend when 
+unloaded. By changing the amount of droop available, the inside 
+rear wheel can be intentionally unloaded when cornering to help the 
+car rotate into and through a corner. Increasing the Droop Travel 
+setting will allow the suspension to extend further and keep the 
+wheel loaded while cornering, decreasing the setting will restrict 
+suspension movement and lift the inside rear wheel when cornering.
+ROLL CENTER
+The Rear Roll Center is a parameter of the rear suspension geometry 
+that directly affects weight transfer and roll stiffness in the rear 
+suspension. Higher Roll Center values will increase rear roll stiffness, 
+reduce rear body roll, and increase oversteer when cornering, while 
+lower Roll Center values will reduce roll stiffness, increase body roll, 
+and and increase understeer. The Roll Center setting is a very rough 
+adjustment and may require an adjustment to rear ARB size to avoid 
+compounding changes: Lowering the roll center may require a 
+stiffer rear arb and raising the roll center may require softening 
+the rear arb.
+REAR
+FUEL LEVEL
+The amount of fuel in the fuel tank when the car is loaded 
+into the world.
+DROP GEAR RATIO 
+The Drop Gear is a set of quick-change gears that alter the final 
+drive gear ratio. Higher ratios will provide better acceleration but a 
+lower top speed, while lower ratios will increase top speed at the 
+expense of acceleration. See the Setup Tips section for a list of gear 
+recommendations from the real-world Supercars Series.
+
+--- PAGE 19 ---
+
+19
+GEN 3 SUPERCARS | USER MANUAL
+GEN 3 SUPERCARS | ADVANCED SETUP OPTIONS | CHASSIS
+REAR ARB
+ARB BLADE ANGLE
+The ARB Blades (or arms) can be changed to further tune the 
+suspension roll stiffness beyond only the ARB size setting. This 
+option changes the angle of the ARB arms relative to the ground 
+with 0 Degrees being the softest and 90 degrees being the stiffest. 
+Stiffer settings will result in a stiffer overall ARB system and more 
+oversteer, while softer settings will reduce oversteer.
+ARB PRELOAD
+The ARB Preload is the static load in the bar while the vehicle is in 
+the garage. Following chassis adjustments, this adjustment can be 
+used to remove the static load in the bar to prevent asymmetrical or 
+unexpected handling characteristics. Keep the value at or near zero 
+for the most consistent performance.
+
+--- PAGE 20 ---
+
+20
+GEN 3 SUPERCARS | USER MANUAL
+SETUP TIPS
+This section is aimed toward helping users who want to dive deeper 
+into the different aspects of the vehicle’s setup.
+GEN 3 SUPERCARS | SETUP TIPS 
+
+--- PAGE 21 ---
+
+21
+GEN 3 SUPERCARS | USER MANUAL
+DRIVING & SETUP TIPS
+The Gen 3 Supercars are a large step away from the principles 
+used in previous years for the series, with a very large drop in 
+aerodynamic performance and more emphasis placed on mechanical 
+grip and driver skill. When compared with the Gen 2 Supercars, 
+aerodynamic loads can be halved, or even less, in similar conditions. 
+Most corners will see so little aerodynamic performance that it can 
+largely be ignored, changing how the car will be driven and setup 
+from years past.
+With such low aerodynamic performance, one of the biggest 
+changes to the driver is the responsiveness and feel, especially at 
+high speeds. Despite low aerodynamic loading, there is still a small 
+amount situated near the rear of the car, which lends itself to a more 
+understeery turn-in at high- and medium-speed corners compared 
+to previous generations.
+SETUP CONSIDERATIONS
+Setup choices will be almost entirely based on maximizing 
+mechanical grip and managing wheel loads. Softer springs and 
+higher ride heights will result in more mechanical grip, with the 
+Droop Limiter adjustment controlling how loaded the inside rear tire 
+is while cornering. 
+Springs will see good performance when run as soft as the driver 
+can handle, but stiff enough to keep the car from bottoming out 
+under heavy loads. Rear springs can be used to tune in rear grip in 
+both lateral and longitudinal grip, but at higher grip tracks can be run 
+stiffer to help the car rotate into higher-speed corners.
+Shocks can be helpful for controlling how fast the chassis pitches 
+and rolls, but it’s very important to remember the numbering 
+convention for the adjustments: Lower “click” values are more 
+damping forces. For example, if the front end dives too quickly 
+then reducing the click value on front shock compression and rear 
+rebound will slow the chassis pitch movement.
+DROOP TRAVEL LIMITER
+The rear Droop Travel setting is extremely effective at tuning 
+to various grip levels and, for many tracks, can be the biggest 
+adjustment for dialing a car in. Smaller values (more travel limit) 
+will unload the inside rear wheel sooner at turn-in and induce more 
+oversteer through the corner until steering input is relaxed for corner 
+exit. Larger values will let the suspension extend further, keeping 
+the inner rear wheel on the track and loaded. Generally, lower-grip 
+tracks (like Street Circuits) will see better performance from running 
+a higher Travel value and keeping the inner wheel loaded. Higher 
+grip tracks where there is enough to keep the car stable on three 
+wheels can see better performance from reducing the travel and 
+lifting the inside rear wheel.
+This adjustment can manifest a few different ways due to what it 
+affects as the car is cornering. Most obvious is the unloaded inner 
+rear wheel, dramatically shifting the dynamic crossweight to load 
+the inner front and outer rear wheels, helping the car turn into the 
+corner. Since the car has a spool instead of a differential, lifting the 
+inner rear wheel also eliminates the “scrub” from this inside wheel 
+since it will always rotate at the same speed as the outside rear 
+wheel, causing understeer. It’s important to test various settings at 
+all types of tracks to see what works for the driver and how it affects 
+the chassis feel.
+DIGRESSIVE ARB
+One of the more interesting adjustments on the Gen 3 Supercars is 
+the variable-rate ARB mechanism in the front suspension. When in 
+use, the ARB will have a softer rate when the front end is running 
+lower, such as under heavy braking, and a stiffer rate when the front 
+end rises up, such as on throttle. This is an excellent tool to use to 
+overcome the car’s inherent understeer at high-speeds, and when 
+paired with good trail-braking technique can essentially eliminate the 
+understeer entirely.
+Despite the benefits, this does have a few drawbacks that become 
+apparent at tracks with large dips and banked corners. If a turn 
+happens to go through a dip that compresses the front end (or a 
+crest that causes the nose to “pop” up), the ARB can change rate 
+mid-corner, shifting the handling balance very suddenly. Similarly, 
+if a corner is banked it will try to compress the front end, reducing 
+the suspension’s roll stiffness and causing the outer front corner to 
+contact the racing surface. If this happens, it’s important to consider 
+the possible solutions to correct the issue. Stiffer springs will lift 
+the front end in the corner, but could hurt mechanical grip in other 
+corners, for example. Instead, a more effective fix would be to switch 
+to a stiffer digressive option, increasing the bar rate throughout the 
+range of travel and keeping the front roll stiffness higher.
+DROP GEAR SETTINGS
+The Gen 3 Supercars allow for 6 drop gear options to tune 
+acceleration and top speed for any track. The real series mandates 
+specific gears for each track, some of which (and their backup 
+options) are listed below as starting points if needed:
+Bathurst (Mount Panorama Circuit): 0.931, 0.909, 1.000
+Phillip Island: 1.000, 0.931, 1.042
+Sandown: 1.000, 0.931, 1.042
+Winton: 1.130, 1.074
+GEN 3 SUPERCARS | SETUP TIPS

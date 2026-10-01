@@ -1,0 +1,530 @@
+{
+  "ARCA_25_Manual_V1.pdf": {
+    "characters": 42293,
+    "pages": 20,
+    "pdf_file": "ARCA_25_Manual_V1.pdf",
+    "sha256": "a9946de7418c83f07655e18bdd2eb2c09efbedb626c1937161f7a148d5fe3ae6",
+    "text_file": "ARCA_25_Manual_V1.txt",
+    "words": 7038
+  },
+  "Acura-ARX-06-GTP-V2.pdf": {
+    "characters": 43579,
+    "pages": 25,
+    "pdf_file": "Acura-ARX-06-GTP-V2.pdf",
+    "sha256": "e189014c4d457219d630ea6e09f22809fdee7036904b1bc6dcde887c44ddc7f3",
+    "text_file": "Acura-ARX-06-GTP-V2.txt",
+    "words": 7263
+  },
+  "Acura-GT3_Manual_V2.pdf": {
+    "characters": 43981,
+    "pages": 24,
+    "pdf_file": "Acura-GT3_Manual_V2.pdf",
+    "sha256": "bd4668fb2c49e40e05baf41b29fe2b26f9d58a9049c5a4c021df7e33d8eb9e14",
+    "text_file": "Acura-GT3_Manual_V2.txt",
+    "words": 7243
+  },
+  "Aston-Martin-GT3-Evo-V1.pdf": {
+    "characters": 44383,
+    "pages": 23,
+    "pdf_file": "Aston-Martin-GT3-Evo-V1.pdf",
+    "sha256": "27167cd2988b6fbe86fdda5ae46e72ef9218c0bd0a423cec8254376f09e82098",
+    "text_file": "Aston-Martin-GT3-Evo-V1.txt",
+    "words": 7377
+  },
+  "Aston-Vantage-GT4-Manual_V4.pdf": {
+    "characters": 33230,
+    "pages": 20,
+    "pdf_file": "Aston-Vantage-GT4-Manual_V4.pdf",
+    "sha256": "df6dacfc364e0864bcd7ebe2764af1d9495ec0bb7cfec3e5648d6794433b8bcb",
+    "text_file": "Aston-Vantage-GT4-Manual_V4.txt",
+    "words": 5549
+  },
+  "Audi-R8-LMS-EVO-II-GT3_Manual.pdf": {
+    "characters": 40603,
+    "pages": 21,
+    "pdf_file": "Audi-R8-LMS-EVO-II-GT3_Manual.pdf",
+    "sha256": "81df18051c55bf29583d0a8097a08e45d7389363d315ea46037ec680733e4d74",
+    "text_file": "Audi-R8-LMS-EVO-II-GT3_Manual.txt",
+    "words": 6785
+  },
+  "Audi_RS3_LMS_TCR_V2.pdf": {
+    "characters": 32823,
+    "pages": 20,
+    "pdf_file": "Audi_RS3_LMS_TCR_V2.pdf",
+    "sha256": "935a76f7c749838a8e282acc30912245d63d06b15e4859176742ac4530bdb969",
+    "text_file": "Audi_RS3_LMS_TCR_V2.txt",
+    "words": 5588
+  },
+  "BMW-M-Hybrid-V8-V2.pdf": {
+    "characters": 46054,
+    "pages": 24,
+    "pdf_file": "BMW-M-Hybrid-V8-V2.pdf",
+    "sha256": "23ebe6a627756c69ee3145cad8dbf77752853095aa56aa012d9f5200f4f3beae",
+    "text_file": "BMW-M-Hybrid-V8-V2.txt",
+    "words": 7668
+  },
+  "BMW-M2-CSR-Manual_V2.pdf": {
+    "characters": 26565,
+    "pages": 17,
+    "pdf_file": "BMW-M2-CSR-Manual_V2.pdf",
+    "sha256": "1f68693df919f57716b8a21cf95961e1805a5f036bcc91c825b0eccc1691019e",
+    "text_file": "BMW-M2-CSR-Manual_V2.txt",
+    "words": 4496
+  },
+  "BMW-M4-G82-GT4-Manual-V2.pdf": {
+    "characters": 30896,
+    "pages": 19,
+    "pdf_file": "BMW-M4-G82-GT4-Manual-V2.pdf",
+    "sha256": "8073566557cff40391be39a9d1a4dbd2eaed021c2cfa45504c7376f9115e6eab",
+    "text_file": "BMW-M4-G82-GT4-Manual-V2.txt",
+    "words": 5189
+  },
+  "BMW-M4-GT3-Manual_V3.pdf": {
+    "characters": 44318,
+    "pages": 22,
+    "pdf_file": "BMW-M4-GT3-Manual_V3.pdf",
+    "sha256": "80a3553e0df6030e51bc5077445716f0e1fcf1fd53644af9564b9cea11428128",
+    "text_file": "BMW-M4-GT3-Manual_V3.txt",
+    "words": 7334
+  },
+  "BMW-M4-GT4-V2.pdf": {
+    "characters": 28492,
+    "pages": 18,
+    "pdf_file": "BMW-M4-GT4-V2.pdf",
+    "sha256": "20eeca5de18995420c39d0ac09782eafb89b364551f5b7ef535f35972f24f58c",
+    "text_file": "BMW-M4-GT4-V2.txt",
+    "words": 4788
+  },
+  "BMW-M8-GTE_Manual_V2.pdf": {
+    "characters": 38928,
+    "pages": 22,
+    "pdf_file": "BMW-M8-GTE_Manual_V2.pdf",
+    "sha256": "9e297bc74eaf51d97bc3e84a0e506fb89dcb466b3548bc0ab263ab13646b878a",
+    "text_file": "BMW-M8-GTE_Manual_V2.txt",
+    "words": 6490
+  },
+  "Cadillac-V-Series.R-GTP-V2.pdf": {
+    "characters": 47422,
+    "pages": 24,
+    "pdf_file": "Cadillac-V-Series.R-GTP-V2.pdf",
+    "sha256": "e4f137fa85f7489e5f99f6e2752d7294a45d8d210ccfcd47f96aa4f2d36bdec1",
+    "text_file": "Cadillac-V-Series.R-GTP-V2.txt",
+    "words": 7794
+  },
+  "Chevrolet-Corvette-Z06-GT3_manual_V2.pdf": {
+    "characters": 43611,
+    "pages": 24,
+    "pdf_file": "Chevrolet-Corvette-Z06-GT3_manual_V2.pdf",
+    "sha256": "f90882c10cd7561ef1ec13db70f885354519057c4d887fc80413c22abe051349",
+    "text_file": "Chevrolet-Corvette-Z06-GT3_manual_V2.txt",
+    "words": 7160
+  },
+  "Dallara-IR18-V3.pdf": {
+    "characters": 52402,
+    "pages": 27,
+    "pdf_file": "Dallara-IR18-V3.pdf",
+    "sha256": "9c65b51825f86166f721e3eb56a6bf3b586303b92f9d534459aa18f6d6dcd75c",
+    "text_file": "Dallara-IR18-V3.txt",
+    "words": 8708
+  },
+  "Dirt_Micro-Sprint_Manual.pdf": {
+    "characters": 18878,
+    "pages": 13,
+    "pdf_file": "Dirt_Micro-Sprint_Manual.pdf",
+    "sha256": "df377f6a13db9a29db231645b24b808c705fe27e4aba2b2f070e0847a84d316d",
+    "text_file": "Dirt_Micro-Sprint_Manual.txt",
+    "words": 3135
+  },
+  "Dirt_Mini_Stock_Manual.pdf": {
+    "characters": 14987,
+    "pages": 12,
+    "pdf_file": "Dirt_Mini_Stock_Manual.pdf",
+    "sha256": "49d419f6fe5dd8edf2b70f4ac9c5bde5aff988168c4c123880998c67a2ffcb3c",
+    "text_file": "Dirt_Mini_Stock_Manual.txt",
+    "words": 2582
+  },
+  "FIA-Cross-Car-V1.pdf": {
+    "characters": 18836,
+    "pages": 14,
+    "pdf_file": "FIA-Cross-Car-V1.pdf",
+    "sha256": "8c8c712fd4472317b7952e4ae94db8031dcb5f2bf0a5dc7a8295b86426c48344",
+    "text_file": "FIA-Cross-Car-V1.txt",
+    "words": 3185
+  },
+  "FIA-F4-Manual-V3.pdf": {
+    "characters": 28761,
+    "pages": 17,
+    "pdf_file": "FIA-F4-Manual-V3.pdf",
+    "sha256": "ca1932729b98b88f4bd27b41b9508f1a1633f8ac22683fa32a035b36dac369f4",
+    "text_file": "FIA-F4-Manual-V3.txt",
+    "words": 4790
+  },
+  "Ferrari-296-Challenge.pdf": {
+    "characters": 26133,
+    "pages": 19,
+    "pdf_file": "Ferrari-296-Challenge.pdf",
+    "sha256": "597fdf851324c1e6460edf0113c3edb3ac4f2266fe9595c964f4c14b1dd5b8e2",
+    "text_file": "Ferrari-296-Challenge.txt",
+    "words": 4449
+  },
+  "Ferrari-296-GT3-V4.pdf": {
+    "characters": 42666,
+    "pages": 23,
+    "pdf_file": "Ferrari-296-GT3-V4.pdf",
+    "sha256": "a852541b361d204294251d7c321bdfa909c134d806c8febf77d5f1ba99a7f2c0",
+    "text_file": "Ferrari-296-GT3-V4.txt",
+    "words": 7080
+  },
+  "Ferrari-488-GT3-EVO-2020.pdf": {
+    "characters": 43160,
+    "pages": 26,
+    "pdf_file": "Ferrari-488-GT3-EVO-2020.pdf",
+    "sha256": "39b5cf6479d63694bae1e22df8e13a3116a27a7b10f6d2f307a552e0906a2887",
+    "text_file": "Ferrari-488-GT3-EVO-2020.txt",
+    "words": 7309
+  },
+  "Formula-Vee-Manual.pdf": {
+    "characters": 20462,
+    "pages": 16,
+    "pdf_file": "Formula-Vee-Manual.pdf",
+    "sha256": "b63820d11a0495433fcd7c9aa871b95e4ad5939a3e3431c4767b3b4babbc4b31",
+    "text_file": "Formula-Vee-Manual.txt",
+    "words": 3494
+  },
+  "Gen-3-Supercars-Manual_V5.pdf": {
+    "characters": 36016,
+    "pages": 21,
+    "pdf_file": "Gen-3-Supercars-Manual_V5.pdf",
+    "sha256": "d1cea66570834124b8d1786b459946febc1b7248c2f796fcc1762a5d590933a0",
+    "text_file": "Gen-3-Supercars-Manual_V5.txt",
+    "words": 6035
+  },
+  "Global-Mazda-MX5_Manual_V2.pdf": {
+    "characters": 21136,
+    "pages": 14,
+    "pdf_file": "Global-Mazda-MX5_Manual_V2.pdf",
+    "sha256": "dbb8c5c86cb0700ad6436b4407bf4fa2d8dbef6620265828ade786bb230cbac9",
+    "text_file": "Global-Mazda-MX5_Manual_V2.txt",
+    "words": 3580
+  },
+  "Honda-Civic-Type-R_TCR.pdf": {
+    "characters": 28390,
+    "pages": 17,
+    "pdf_file": "Honda-Civic-Type-R_TCR.pdf",
+    "sha256": "56bec8357dcabca7f6544f228484303faa7aea45bac432afa9da9dcef3ac01b2",
+    "text_file": "Honda-Civic-Type-R_TCR.txt",
+    "words": 4772
+  },
+  "Hyundai-Elantra-N-TCR_V3.pdf": {
+    "characters": 31254,
+    "pages": 20,
+    "pdf_file": "Hyundai-Elantra-N-TCR_V3.pdf",
+    "sha256": "7555c1ff013f8670428c8809df241761b7aa6d794682ec0fafa2f57166b736c6",
+    "text_file": "Hyundai-Elantra-N-TCR_V3.txt",
+    "words": 5219
+  },
+  "Hyundai-Veloster-N-TC-Manual-V4.pdf": {
+    "characters": 31060,
+    "pages": 20,
+    "pdf_file": "Hyundai-Veloster-N-TC-Manual-V4.pdf",
+    "sha256": "de2ee1c8a74b68c51aa83703e54b9320f89cfe34ac173d1beb3c1c19bbb22f40",
+    "text_file": "Hyundai-Veloster-N-TC-Manual-V4.txt",
+    "words": 5202
+  },
+  "Late-Model-Stock-Manual_V6.pdf": {
+    "characters": 32361,
+    "pages": 16,
+    "pdf_file": "Late-Model-Stock-Manual_V6.pdf",
+    "sha256": "7a436c67b763d0319c9cc6acac27cfd05506f1c67f86dff2d6b4726fe5f63cbc",
+    "text_file": "Late-Model-Stock-Manual_V6.txt",
+    "words": 5493
+  },
+  "Legends-Ford-Coupe_Manual_V1.pdf": {
+    "characters": 17641,
+    "pages": 13,
+    "pdf_file": "Legends-Ford-Coupe_Manual_V1.pdf",
+    "sha256": "22962a7604465bcd79d625c42638c6e5cb74713b32759b7536af50ce4a79031f",
+    "text_file": "Legends-Ford-Coupe_Manual_V1.txt",
+    "words": 2959
+  },
+  "Ligier-JS-P320-V2.pdf": {
+    "characters": 43260,
+    "pages": 22,
+    "pdf_file": "Ligier-JS-P320-V2.pdf",
+    "sha256": "6def1ac8b420d41b157ecb8cfd1f956f2c163b3b2330716398b333f7744b0b77",
+    "text_file": "Ligier-JS-P320-V2.txt",
+    "words": 7177
+  },
+  "McLaren-570S-GT4-Manual-V2.pdf": {
+    "characters": 28384,
+    "pages": 18,
+    "pdf_file": "McLaren-570S-GT4-Manual-V2.pdf",
+    "sha256": "f6a95aa9b2d11833071af4fb8e87946c9c6ca4c3ee2d523e02405766d742844a",
+    "text_file": "McLaren-570S-GT4-Manual-V2.txt",
+    "words": 4735
+  },
+  "Mclaren-720S-GT3_V2.pdf": {
+    "characters": 47776,
+    "pages": 25,
+    "pdf_file": "Mclaren-720S-GT3_V2.pdf",
+    "sha256": "47ef0a84dd976c98b15dfc2ab826c02257548bbddc8bd48f56d375c7c55b14fc",
+    "text_file": "Mclaren-720S-GT3_V2.txt",
+    "words": 7862
+  },
+  "Mercedes-AMG-GT3-2020-Manual_V10.pdf": {
+    "characters": 45657,
+    "pages": 23,
+    "pdf_file": "Mercedes-AMG-GT3-2020-Manual_V10.pdf",
+    "sha256": "40ace3fe576bd1160013790b89b2f0dcef6e0a83b23a422f5f10573691e14c23",
+    "text_file": "Mercedes-AMG-GT3-2020-Manual_V10.txt",
+    "words": 7502
+  },
+  "Mercedes-AMG-GT4-Manual-V2.pdf": {
+    "characters": 29185,
+    "pages": 19,
+    "pdf_file": "Mercedes-AMG-GT4-Manual-V2.pdf",
+    "sha256": "c1f58c170ea48364a1906ba459c6d528e172265e66373d8796521ed328e69227",
+    "text_file": "Mercedes-AMG-GT4-Manual-V2.txt",
+    "words": 4887
+  },
+  "Mini_Stock_Manual-V1.pdf": {
+    "characters": 14934,
+    "pages": 12,
+    "pdf_file": "Mini_Stock_Manual-V1.pdf",
+    "sha256": "a6d8fd72753946706fa53e5a2938a791f4bf9783fbf8907f027f4a44aabffff4",
+    "text_file": "Mini_Stock_Manual-V1.txt",
+    "words": 2572
+  },
+  "Mustang-GT3_Manual_V2.pdf": {
+    "characters": 42758,
+    "pages": 24,
+    "pdf_file": "Mustang-GT3_Manual_V2.pdf",
+    "sha256": "a5c20d74c6995a26905606f348c27794ac3f479cea4ee51eae1d935bfdba0c98",
+    "text_file": "Mustang-GT3_Manual_V2.txt",
+    "words": 7052
+  },
+  "NASCAR-Gen4-Cup-Cars.pdf": {
+    "characters": 40341,
+    "pages": 20,
+    "pdf_file": "NASCAR-Gen4-Cup-Cars.pdf",
+    "sha256": "7cf287fcea68d8e14b2b92f2760b12ba0760cfa292bcb914d9d0d4a2fbeac9c5",
+    "text_file": "NASCAR-Gen4-Cup-Cars.txt",
+    "words": 6758
+  },
+  "NASCAR-NextGen-Cars-Manual-V2.pdf": {
+    "characters": 35198,
+    "pages": 18,
+    "pdf_file": "NASCAR-NextGen-Cars-Manual-V2.pdf",
+    "sha256": "017730b32e5ae86c3ef3dfe9f980308d2cf5ace0bae8c7f23dcdf25cb669b507",
+    "text_file": "NASCAR-NextGen-Cars-Manual-V2.txt",
+    "words": 5863
+  },
+  "NASCAR-Trucks-Manual-V6.pdf": {
+    "characters": 47122,
+    "pages": 20,
+    "pdf_file": "NASCAR-Trucks-Manual-V6.pdf",
+    "sha256": "7e33a69c1c049c499679dd78d8f154363cfee0aa63cb58673c65fddea0299b71",
+    "text_file": "NASCAR-Trucks-Manual-V6.txt",
+    "words": 7831
+  },
+  "Porsche-718-Cayman-GT4-Manual-V5.pdf": {
+    "characters": 26206,
+    "pages": 18,
+    "pdf_file": "Porsche-718-Cayman-GT4-Manual-V5.pdf",
+    "sha256": "2e5cad650dfc51ea5caa25a701ba2db5681b29992ebd73b03faaafcf3d47603e",
+    "text_file": "Porsche-718-Cayman-GT4-Manual-V5.txt",
+    "words": 4414
+  },
+  "Porsche-911-GT3-Cup-992_Manual.pdf": {
+    "characters": 20964,
+    "pages": 17,
+    "pdf_file": "Porsche-911-GT3-Cup-992_Manual.pdf",
+    "sha256": "89c058d0650052dfefcdf6584ed5125984abc14e3620285561d86ad4e44dbae5",
+    "text_file": "Porsche-911-GT3-Cup-992_Manual.txt",
+    "words": 3593
+  },
+  "Porsche-911-GT3-R-992_V2.pdf": {
+    "characters": 33281,
+    "pages": 21,
+    "pdf_file": "Porsche-911-GT3-R-992_V2.pdf",
+    "sha256": "0244f2ee03a8e81da7011019d80bc7aa8bfca6633c2d1f9b5a3988eefe84c01a",
+    "text_file": "Porsche-911-GT3-R-992_V2.txt",
+    "words": 5578
+  },
+  "Porsche-963-GTP-V2.pdf": {
+    "characters": 46249,
+    "pages": 26,
+    "pdf_file": "Porsche-963-GTP-V2.pdf",
+    "sha256": "771b6d1207d8f820302101f45ef6dc1bdfb8de9affc8f7fdd56471a90ec84656",
+    "text_file": "Porsche-963-GTP-V2.txt",
+    "words": 7731
+  },
+  "Porsche-Cup-992.2-V1.pdf": {
+    "characters": 31508,
+    "pages": 20,
+    "pdf_file": "Porsche-Cup-992.2-V1.pdf",
+    "sha256": "4f8d861812b624834ed23d22baf129228cedb2d0a8e06ae5b2991b2e869fecfc",
+    "text_file": "Porsche-Cup-992.2-V1.txt",
+    "words": 5354
+  },
+  "Porsche-Mission-R-real-Manual-V5-1.pdf": {
+    "characters": 12748,
+    "pages": 12,
+    "pdf_file": "Porsche-Mission-R-real-Manual-V5-1.pdf",
+    "sha256": "bbef4d0fb551dc86320ff473f34237784279a9e0dc4c42808cc98053e8f02cf0",
+    "text_file": "Porsche-Mission-R-real-Manual-V5-1.txt",
+    "words": 2188
+  },
+  "SRX_Manual_V3.pdf": {
+    "characters": 39052,
+    "pages": 18,
+    "pdf_file": "SRX_Manual_V3.pdf",
+    "sha256": "f34cf2c6743058690d15acb5b692e740dc1a186dfb141d1f53ca77d066d27715",
+    "text_file": "SRX_Manual_V3.txt",
+    "words": 6660
+  },
+  "Shock-Tuning-User-Guide.pdf": {
+    "characters": 25448,
+    "pages": 20,
+    "pdf_file": "Shock-Tuning-User-Guide.pdf",
+    "sha256": "381df135050fa501bf97c9736d5286c58a21806c5dc6a250bc8c6f63a335b380",
+    "text_file": "Shock-Tuning-User-Guide.txt",
+    "words": 4287
+  },
+  "StreetStocks_Manual_V2.pdf": {
+    "characters": 20148,
+    "pages": 13,
+    "pdf_file": "StreetStocks_Manual_V2.pdf",
+    "sha256": "188b1348b61e8f63234b488c36c5c08a35e2f7d6573000d3239100a1c4f2006e",
+    "text_file": "StreetStocks_Manual_V2.txt",
+    "words": 3401
+  },
+  "Super-Formula-Lights_Manual_V1.pdf": {
+    "characters": 42679,
+    "pages": 21,
+    "pdf_file": "Super-Formula-Lights_Manual_V1.pdf",
+    "sha256": "bd828df6223b36600a845f8037afffd37beade74fba83b391624a1a100e7879f",
+    "text_file": "Super-Formula-Lights_Manual_V1.txt",
+    "words": 7023
+  },
+  "Super-Formula-SF23_V4.pdf": {
+    "characters": 35076,
+    "pages": 25,
+    "pdf_file": "Super-Formula-SF23_V4.pdf",
+    "sha256": "4a5b096c5c1b9b0891294baa8689c70c6519f020ecb10de8ad168266a1d9fb04",
+    "text_file": "Super-Formula-SF23_V4.txt",
+    "words": 5787
+  },
+  "Toyota_GR86_Manual_V2.pdf": {
+    "characters": 23295,
+    "pages": 15,
+    "pdf_file": "Toyota_GR86_Manual_V2.pdf",
+    "sha256": "da8398550faccdabf38409330489dae046019ef84164d06b86903fffe33595bd",
+    "text_file": "Toyota_GR86_Manual_V2.txt",
+    "words": 3898
+  },
+  "UM-Audi-R8-LMS-GT3-Manual.pdf": {
+    "characters": 35396,
+    "pages": 19,
+    "pdf_file": "UM-Audi-R8-LMS-GT3-Manual.pdf",
+    "sha256": "93ccadbac2e9877b6e45360221a15be67dae023ebaa5e698b9dbc18b26a80f34",
+    "text_file": "UM-Audi-R8-LMS-GT3-Manual.txt",
+    "words": 5931
+  },
+  "UM-Big-Block-Modified-V2.pdf": {
+    "characters": 26902,
+    "pages": 19,
+    "pdf_file": "UM-Big-Block-Modified-V2.pdf",
+    "sha256": "0af8ff68f87359229a6442cbe9da439789fa24786431db0632a48a02395e9dd5",
+    "text_file": "UM-Big-Block-Modified-V2.txt",
+    "words": 4489
+  },
+  "UM-Dallara-P217-LMP2-V2.pdf": {
+    "characters": 47079,
+    "pages": 26,
+    "pdf_file": "UM-Dallara-P217-LMP2-V2.pdf",
+    "sha256": "319435cce806c1dd9ca9fac5cb4ce300981df5af91068d5e63d958e6d7c79014",
+    "text_file": "UM-Dallara-P217-LMP2-V2.txt",
+    "words": 7776
+  },
+  "UM-Dallara-iR01-Manual.pdf": {
+    "characters": 24990,
+    "pages": 19,
+    "pdf_file": "UM-Dallara-iR01-Manual.pdf",
+    "sha256": "fe8cca7257c4bf95a73256e7b0ae6b6ae4e27de399be49a66fbff43f0b4c4139",
+    "text_file": "UM-Dallara-iR01-Manual.txt",
+    "words": 4165
+  },
+  "UM-Ferrari-488-GT3-Manual-V2.pdf": {
+    "characters": 38351,
+    "pages": 20,
+    "pdf_file": "UM-Ferrari-488-GT3-Manual-V2.pdf",
+    "sha256": "a13faa865f0cf393ec42fcc26c698d6f5bea51e48b2c15e992faeb92d567fabe",
+    "text_file": "UM-Ferrari-488-GT3-Manual-V2.txt",
+    "words": 6393
+  },
+  "UM-Ford-GT-GT3-V2.pdf": {
+    "characters": 32092,
+    "pages": 17,
+    "pdf_file": "UM-Ford-GT-GT3-V2.pdf",
+    "sha256": "33435866de948bec93d7b60efe836f3aba10f0290e8141ebfe259dadb1473c13",
+    "text_file": "UM-Ford-GT-GT3-V2.txt",
+    "words": 5365
+  },
+  "UM-Lamborghini-Huracan-GT3-Evo-V3.pdf": {
+    "characters": 46588,
+    "pages": 23,
+    "pdf_file": "UM-Lamborghini-Huracan-GT3-Evo-V3.pdf",
+    "sha256": "c31d14318f1de28fd52573f7d4f4cc1140c1d350a17758b86301471f59035e54",
+    "text_file": "UM-Lamborghini-Huracan-GT3-Evo-V3.txt",
+    "words": 7607
+  },
+  "UM-McLaren-MP4-12C-GT3-V3.pdf": {
+    "characters": 34573,
+    "pages": 19,
+    "pdf_file": "UM-McLaren-MP4-12C-GT3-V3.pdf",
+    "sha256": "edd72f1c75afa6a1ea158c1374074502fe403ce33016c6708ba82c0fe554f87e",
+    "text_file": "UM-McLaren-MP4-12C-GT3-V3.txt",
+    "words": 5723
+  },
+  "UM-Mercedes-AMG-F1-W12-E-Performance-V2.pdf": {
+    "characters": 34561,
+    "pages": 22,
+    "pdf_file": "UM-Mercedes-AMG-F1-W12-E-Performance-V2.pdf",
+    "sha256": "64ddc15719cbec7e0acf1800108c91d14f012e18b1f99ae4122629bd2782e426",
+    "text_file": "UM-Mercedes-AMG-F1-W12-E-Performance-V2.txt",
+    "words": 5894
+  },
+  "UM-Mercedes-AMG-GT3-Manual-V2.pdf": {
+    "characters": 35196,
+    "pages": 20,
+    "pdf_file": "UM-Mercedes-AMG-GT3-Manual-V2.pdf",
+    "sha256": "82b5d74fca18a0b4f2358ecf830a0a222f9fd741da7caf6805752587355d86d4",
+    "text_file": "UM-Mercedes-AMG-GT3-Manual-V2.txt",
+    "words": 5835
+  },
+  "UM-NASCAR-Cup-Series.pdf": {
+    "characters": 36290,
+    "pages": 20,
+    "pdf_file": "UM-NASCAR-Cup-Series.pdf",
+    "sha256": "c3e359491fd30061ee639be5d79426749097b4572ffa2467c4e374406b53ab86",
+    "text_file": "UM-NASCAR-Cup-Series.txt",
+    "words": 6082
+  },
+  "UM-NASCAR-Oreilly_Manual_V1.pdf": {
+    "characters": 54206,
+    "pages": 25,
+    "pdf_file": "UM-NASCAR-Oreilly_Manual_V1.pdf",
+    "sha256": "14592ebf24a1281981d6d467e9f0fd95b4acedb033ccd26477631190a39487ae",
+    "text_file": "UM-NASCAR-Oreilly_Manual_V1.txt",
+    "words": 9029
+  },
+  "UM-Porsche-911-GT3-R.pdf": {
+    "characters": 42505,
+    "pages": 25,
+    "pdf_file": "UM-Porsche-911-GT3-R.pdf",
+    "sha256": "1df24b20524d551509f0d08befff6597984061411aeb391f0c758c4cd2cee225",
+    "text_file": "UM-Porsche-911-GT3-R.txt",
+    "words": 7099
+  }
+}

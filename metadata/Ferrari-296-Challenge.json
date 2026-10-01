@@ -1,0 +1,27 @@
+{
+  "vehicle": "Ferrari 296 Challenge",
+  "manufacturer": "Ferrari",
+  "manufacturer_source": "filename",
+  "class": "NASCAR",
+  "manual_type": "vehicle",
+  "topics": [
+    "aerodynamics",
+    "brakes",
+    "dampers",
+    "differential",
+    "suspension",
+    "tires",
+    "traction_control"
+  ],
+  "sections": [
+    "Tires & Aero",
+    "Setup Tips",
+    "Chassis",
+    "Dampers",
+    "Differential",
+    "Fuel",
+    "Traction Control"
+  ],
+  "word_count": 4449,
+  "source_text": "Ferrari-296-Challenge.txt"
+}

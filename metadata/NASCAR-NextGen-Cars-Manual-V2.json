@@ -1,0 +1,25 @@
+{
+  "vehicle": "NASCAR NextGen Cars",
+  "manufacturer": "NASCAR",
+  "manufacturer_source": "series_override",
+  "class": "NASCAR",
+  "manual_type": "vehicle",
+  "topics": [
+    "aerodynamics",
+    "brakes",
+    "dampers",
+    "differential",
+    "hybrid",
+    "suspension",
+    "tires"
+  ],
+  "sections": [
+    "Tires & Aero",
+    "Chassis",
+    "Differential",
+    "Brakes",
+    "Fuel"
+  ],
+  "word_count": 5863,
+  "source_text": "NASCAR-NextGen-Cars-Manual-V2.txt"
+}

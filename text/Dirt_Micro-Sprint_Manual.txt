@@ -1,0 +1,431 @@
+--- PAGE 1 ---
+
+1
+DIRT MICRO SPRINT
+USER MANUAL
+
+--- PAGE 2 ---
+
+2
+DIRT MICRO SPRINT | USER MANUAL
+Introduction » 5
+Tech Specs » 4
+A Message From iRacing » 3
+ Getting Started » 5
+Dash Config » 7
+ Loading An iRacing Setup » 6
+ Tire Data » 9
+ Front » 10
+Chassis » 10
+Tires » 9 
+ Front Corners » 11 
+ Rear Corners » 12
+ Rear » 13
+ GENERAL INFORMATION
+ ADVANCED SETUP OPTIONS
+TABLE OF CONTENTS
+CLICK TO VIEW A SECTION
+
+--- PAGE 3 ---
+
+3
+DEAR iRACING USER,
+Congratulations on your purchase of the Dirt Micro Sprint! From all of us at iRacing, we appreciate your 
+support and your commitment to our product. We aim to deliver the ultimate sim racing experience, and 
+we hope that you’ll find plenty of excitement with us behind the wheel of your new car! 
+The following guide explains how to get the most out of your new car, from how to adjust its settings 
+off of the track to what you’ll see inside of the cockpit while driving. We hope that you’ll find it useful in 
+getting up to speed. 
+Thanks again for your purchase, and we’ll see you on the track!
+
+--- PAGE 4 ---
+
+4
+DIRT MICRO SPRINT | USER MANUAL
+CHASSIS
+POWER 
+UNIT
+DIRT MICRO SPRINT | TECH SPECS
+SOLID AXLE COILOVER FRONT / SOLID 
+AXLE TORSION BAR REAR
+SIDE-MOUNTED 4-STROKE 
+MOTORCYCLE ENGINE
+LENGTH
+2870mm
+113in
+WIDTH
+2007mm
+79in
+DISPLACEMENT
+600 CC
+36.6 CID
+TORQUE
+67lb-ft
+91Nm
+RPM LIMIT
+16000 RPM 
+ 
+POWER
+160bhp
+119kW
+WHEELBASE
+1499mm
+59in
+DRY WEIGHT 
+WINGED
+258kg
+570lbs
+DRY WEIGHT 
+NON-WINGED
+247kg
+545lbs
+WET WEIGHT 
+WITH DRIVER 
+WINGED
+372kg
+820lbs
+WET WEIGHT 
+WITH DRIVER 
+NON-WINGED
+361kg
+795lbs
+
+--- PAGE 5 ---
+
+5
+DIRT MICRO SPRINT | USER MANUAL
+INTRODUCTION
+The information found in this guide is intended to provide a deeper understanding of the chassis setup adjustments 
+available in the garage, so that you may use the garage to tune the chassis setup to your preference.
+Once you load into the car, select 1st gear and give it a bit of throttle 
+to get underway. The Micro Sprints have five forward gears and a 
+reverse gear but doesn’t require a clutch for upshifts or downshifts, 
+with upshifting requiring a quick lift off the throttle and downshifting 
+requiring a small blip of throttle. 
+DIRT MICRO SPRINT | INTRODUCTION
+GETTING STARTED
+Before diving into chassis adjustments, though, it is best to become 
+familiar with the car and track. To that end, we have provided 
+baseline setups for each track commonly raced by these cars. To 
+access the baseline setups, simply open the Garage, click iRacing 
+Setups, and select the appropriate setup for your track of choice. If 
+you are driving a track for which a dedicated baseline setup is not 
+included, you may select a setup for a similar track to use as your 
+baseline. After you have selected an appropriate setup, get on track 
+and focus on making smooth and consistent laps, identifying the 
+proper racing line and experiencing tire wear and handling trends 
+over a number of laps.
+Once you are confident that you are nearing your driving potential 
+with the included baseline setups, read on to begin tuning the car to 
+your handling preferences.
+
+--- PAGE 6 ---
+
+6
+DIRT MICRO SPRINT | USER MANUAL
+LOADING AN iRACING SETUP
+When you first load into a session, the iRacing Baseline setup will be 
+automatically loaded onto the car. If you would like to try any of the 
+other iRacing pre-built options, you may select it by going to Garage 
+> iRacing Setups > and then selecting another option that fits your 
+needs. If you would like to customize the setup, simply make the 
+changes in the garage that you would like to update and click apply. 
+DIRT MICRO SPRINT | INTRODUCTION
+If you would like to save your setup for future use click “Save As” 
+on the right to name and save the changes. To access all of your 
+personally saved setups, click “My Setups” on the right side of the 
+garage. If you would like to share a setup with another driver or 
+everyone in a session, you can select “Share” on the right side of 
+the garage to do so. If a driver is trying to share a setup with you, 
+you will find it under “Shared Setups” on the right side of the garage 
+as well.
+
+--- PAGE 7 ---
+
+7
+DIRT MICRO SPRINT | USER MANUAL
+ECT - Engine coolant temperature in °C or °F
+Fuel P - Fuel system pressure
+Oil P - Engine oil system pressure
+DIRT MICRO SPRINT | DASH PAGES
+DASH CONFIGURATION
+RPM - Engine RPM
+TPS - Throttle Position in percentage of full pedal travel
+Battery - Current Battery Voltage
+
+--- PAGE 8 ---
+
+8
+DIRT MICRO SPRINT | USER MANUAL
+ADVANCED SETUP OPTIONS
+This section is aimed toward more advanced users who want to dive deeper into the different aspects of the 
+vehicle’s setup. Making adjustments to the following parameters is not required and can lead to significant 
+changes in the way a vehicle handles. It is recommended that any adjustments are made in an incremental fashion 
+and only singular variables are adjusted before testing changes.
+DIRT MICRO SPRINT | ADVANCED SETUP OPTIONS 
+
+--- PAGE 9 ---
+
+9
+DIRT MICRO SPRINT | USER MANUAL
+DIRT MICRO SPRINT | ADVANCED SETUP OPTIONS | TIRES 
+COLD PRESSURE
+Air pressure in the tire when the car is loaded into the world. Higher 
+pressures will reduce rolling drag and heat buildup, but will generally 
+decrease grip. Lower pressures will increase rolling drag and heat 
+buildup, but will increase grip. Higher speeds and loads will require 
+higher pressures, while lower speeds and loads will see better 
+performance from lower pressures. Cold pressures should be set 
+to track characteristics for optimum performance.
+LAST HOT PRESSURE
+Air pressure in the tire after the car has returned to the pits. The 
+difference between Cold and Hot pressures can be used to identify 
+how the car is progressing through a run in terms of balance, with 
+heavier-loaded tires seeing a larger difference between Cold and 
+Hot pressures.
+TIRES 
+TIRE DATA
+LAST TEMPERATURES
+Tire carcass temperatures once the car has returned from the pits. 
+Wheel Loads and the amount of work a tire is doing on-track is 
+reflected in the tire’s temperature, and these values can be used to 
+analyze the car’s handling balance. Center temperatures are useful 
+for directly comparing the work done by each tire, while the Inner 
+and Outer temperatures are useful for analyzing the wheel alignment 
+while on track. These values are measured in three zones across the 
+tread of the tire. The left sides of each tire should typically be the 
+most heavily loaded and hottest, so the outsides of the left side tires 
+and insides of right side tires.
+TREAD REMAINING
+The amount of tread remaining on the tire once the car has returned 
+from the pits. For these cars and tires, wear is currently negligible, 
+though this may change in the future.
+
+--- PAGE 10 ---
+
+10
+DIRT MICRO SPRINT | USER MANUAL
+DIRT MICRO SPRINT | ADVANCED SETUP OPTIONS | CHASSIS
+CHASSIS
+FRONT
+NOSE WEIGHT 
+In order to meet minimum legal competition weights, lead blocks are 
+installed within the chassis that can be moved to various locations 
+in the car. This adjustment directly affects the Nose Weight setting 
+and will have a large effect on the car’s overall handling balance, 
+especially at high-speeds on larger tracks.
+CROSS WEIGHT
+Percentage of total static weight supported by the right front and 
+left rear tires. This percentage can be adjusted by changing wheel 
+loads using front coil spring or rear torsion bar preload. When 
+adjusting spring preload, to maintain ride heights you should adjust 
+opposing corners in conjunction. If preload is added to the right 
+front and left rear, preload on the left front and right rear should be 
+correspondingly reduced. Increasing cross weight generally tightens 
+the car, and reducing crossweight generally loosens the car.
+LEFT SIDE WEIGHT
+The percentage of total weight situated over the left-side tires. 
+This is not directly adjustable but can change slightly from various 
+chassis adjustments.
+STERING BOX RATIO
+The Steering Ratio will alter how “fast” the steering feels to the 
+driver. This ratio is a representation of how much movement is 
+applied to the steering box input shaft to produce a standard amount 
+of movement on the steering box output shaft. For example, a “10:1” 
+can be thought of as requiring 10° of steering input from the driver 
+to produce 1° of steering output from the steering box. Increasing 
+the value to 12:1 would require 12° of steering input to get the same 
+output, and this would feel as if the steering has become slower and 
+less responsive. Conversely, reducing the ratio will make the steering 
+feel faster and more darty for the driver. This is purely a driver 
+preference setting and has no effect on the rest of the chassis setup 
+or its handling characteristics.
+STEERING OFFSET
+Due to the asymmetric nature of the Dirt Micro Sprint, the steering 
+can often have a “pull” to the left on the straights. To counter this 
+effect and re-center the steering wheel, an offset can be applied in 
+the garage. Positive values will rotate the steering wheel to the right 
+and negative values will rotate the steering wheel to the left. This 
+offset will not affect the steering or the chassis in any way other 
+than the steering wheel’s orientation at neutral steering input.
+FRONT TOE-IN
+Toe is the angle of the wheel, looking from vertical, relative to the 
+chassis centerline. Toe-in is when the front of the wheels are closer 
+to the centerline while Toe-out is when the front of the wheels are 
+farther from the centerline than the rear of the tires. On the front 
+end, Toe will alter how quickly the tires respond to steering inputs 
+and influence how stable the car is in a straight line. Toe-out settings 
+(negative garage value) will increase turn-in response and make 
+the car less stable in a straight line, while Toe-in (positive garage 
+value) will increase straight-line stability while making initial steering 
+response more sluggish
+NOSE WING ANGLE (WINGED MICRO SPRINT ONLY)
+The Nose Wing Angle can be changed to alter the car’s aerodynamic 
+handling balance and overall downforce level. Higher angles will 
+shift aerodynamic balance forward and increase overall downforce, 
+lower angles will shift the balance rearward and decrease overall 
+downforce.
+TOP WING ANGLE (WINGED MICRO SPRINT ONLY)
+The Top Wing angle can be adjusted to control overall downforce 
+levels with a small change in aerodynamic balance. Increasing the 
+angle will increase overall downforce level and drag, while reducing 
+the angle will decrease overall downforce and drag.
+
+--- PAGE 11 ---
+
+11
+DIRT MICRO SPRINT | USER MANUAL
+DIRT MICRO SPRINT | ADVANCED SETUP OPTIONS | CHASSIS
+TOP WING POSITION (WINGED MICRO SPRINT ONLY)
+The Top Wing can be moved fore and aft to control the aerodynamic 
+balance without affecting the overall downforce level. Setting the 
+wing to the highest value (0.0 inches or mm) will position the wing 
+as far forward as possible, placing the aerodynamic balance as far 
+FRONT CORNERS
+forward as possible and shifting the handling towards oversteer. 
+Reducing the value, setting it to more negative, will shift the wing 
+more rearward and move the balance rearward and increase traction 
+and understeer.
+CORNER WEIGHT
+The weight distribution on each tire under static conditions in the 
+garage. Correct weight arrangement around the car is crucial for 
+optimizing a car for a given track and conditions. Individual wheel 
+weight adjustments and crossweight adjustments are made via the 
+spring perch offset setting. Once ride heights and corner weights are 
+set, any change to a spring rate will typically require a corresponding 
+spring perch offset adjustment to maintain static corner weight.
+TUBE HEIGHT
+Distance from ground to the bottom of the chassis frame rail on the 
+front of the chassis. Adjusting the Tube Height is key for optimum 
+performance, as it can directly influence the vehicle’s aerodynamic 
+performance as well as mechanical grip.
+COIL SPRING RATE
+Spring Rate changes how stiff the spring is, represented in force per 
+unit of displacement. Softer springs allow for more roll and slower 
+load transfer, and can be better on rougher or slicker tracks. Stiffer 
+springs allow for less roll and quicker load transfer, and can help 
+provide bite in loose dirt and moisture.
+SHOCK COLLAR OFFSET
+Spring perch offset is used to adjust ride height and corner weight. 
+Adjusting this setting changes the preload on the spring under static 
+conditions. Decreasing the value increases preload on the spring, 
+adding weight to its corner and increasing the ride height at that 
+corner. Increasing the value does the opposite, reducing height and 
+weight on a given corner. These should be adjusted in pairs (left and 
+right, for example) or with all four spring preload adjustments in the 
+car to prevent crossweight changes while adjusting ride height.
+BUMP STIFFNESS
+Bump stiffness affects how resistant the shock is to compression 
+(reduction in length), usually in chassis movements as a result of 
+driver input (steering, braking, & throttle) and cornering forces. 
+Higher front Bump values will increase compression resistance and 
+transfer load onto a given tire more quickly, inducing understeer 
+under braking and turn-in. Lower values reduce compression 
+resistance and transfer load onto a given tire more slowly, which can 
+induce oversteer under braking.
+REBOUND STIFFNESS
+Rebound stiffness affects how resistant the shock is to extension 
+(increase in length), typically during body movement as a result of 
+driver inputs. Higher rebound values will slow extension of the shock, 
+lower values will allow the shock to extend faster. When tuning for 
+handling, higher front rebound can increase on-throttle mechanical 
+understeer while lower values will maintain front end grip longer, 
+helping to reduce mechanical understeer. Excessive front rebound 
+can lead to unwanted oscillations due to the wheel bouncing off of 
+the track surface instead of staying in contact.
+
+--- PAGE 12 ---
+
+12
+DIRT MICRO SPRINT | USER MANUAL
+DIRT MICRO SPRINT | ADVANCED SETUP OPTIONS | CHASSIS
+REAR CORNERS
+CORNER WEIGHT
+The weight distribution on each tire under static conditions in the 
+garage. Correct weight arrangement around the car is crucial for 
+optimizing a car for a given track and conditions. Individual wheel 
+weight adjustments and crossweight adjustments are made via the 
+spring perch offset setting. Once ride heights and corner weights are 
+set, any change to a spring rate will typically require a corresponding 
+spring perch offset adjustment to maintain static corner weight.
+TUBE HEIGHT
+Distance from ground to the bottom of the chassis frame rail on the 
+rear of the chassis. Adjusting the Tube Height is key for optimum 
+performance, as it can directly influence the vehicle’s aerodynamic 
+performance as well as mechanical grip.
+TORSION BAR DIAMETER
+The Torsion Bars are the spring elements for the rear corners of the 
+car and behave in the same way as a conventional coil spring. The 
+Outer Diameter of each torsion bar determines the bar’s spring rate 
+and how stiff the bar is through changing suspension loads. Larger 
+diameter bars will have a higher spring rate and will be stiffer, which 
+is great for maintaining a consistent aerodynamic attitude around 
+the track but will reduce mechanical grip, especially in slow corners. 
+Smaller torsion bars will have a lower spring rate and produce more 
+mechanical grip, however the extra movement from the suspension 
+can hurt aerodynamic performance at high speeds.
+TORSION BAR STOP
+Each torsion bar can be preloaded to raise or lower a given 
+corner of the car and increase or decrease the preload on the 
+torsion bar springs. Increasing the Stop value will preload the 
+torsion bar and raise the corner’s ride height, decreasing the 
+Stop value will reduce the preload on a given torsion bar and 
+lower the corner’s ride height.
+BUMP STIFFNESS
+Bump stiffness affects how resistant the shock is to compression 
+(reduction in length), usually in chassis movements as a result of 
+driver input (steering, braking, & throttle) and cornering forces. 
+Higher rear Bump values will increase compression resistance and 
+transfer load onto a given tire more quickly, increasing rear traction 
+on corner exit. Lower values reduce compression resistance and 
+transfer load onto a given tire more slowly, which can help reduce 
+understeer on corner exit.
+REBOUND STIFFNESS
+Rebound stiffness affects how resistant the shock is to extension 
+(increase in length), typically during body movement as a result of 
+driver inputs. Higher rebound values will slow extension of the shock, 
+lower values will allow the shock to extend faster. When tuning for 
+handling, higher rear rebound can increase understeer when braking 
+while lower values will induce oversteer under braking and during 
+turn-in. Excessive rear rebound can lead to unwanted oscillations 
+due to the wheel bouncing off of the track surface instead of staying 
+in contact, reducing traction when exiting corners.
+BUMP RUBBER RATE
+A composite bump rubber can be used on the left-rear corner to 
+limit travel and increase left-rear load. Higher rates will increase 
+left-rear load faster, increasing dynamic crossweight and traction, 
+while lower rates will reduce how quickly load is increased as the 
+suspension compresses.
+PACKER
+Packers, or shims, are used to control when the left-rear bump 
+rubber is engaged in suspension travel. Increasing the packer value 
+will engage the bump rubber sooner, increasing traction and left-rear 
+bite, while reducing the packer value will delay the bump rubber’s 
+engagement and the load applied from the bump rubber.
+
+--- PAGE 13 ---
+
+13
+DIRT MICRO SPRINT | USER MANUAL
+DIRT MICRO SPRINT | ADVANCED SETUP OPTIONS | CHASSIS
+WHEEL SPACING
+Using wheel spacers or a change in wheel offset, either wheel can 
+be spaced further outboard or inboard to shift the leverage on that 
+wheel. Spacing the left rear more outboard (more positive number) 
+will generally tighten the car (understeer), and spacing it more 
+inboard (more negative number) will generally free the car up more 
+(oversteer). The opposite is true for the right rear.
+REAR
+FUEL FILL TO
+Fuel fill level minimum should be sufficient for the desired number 
+of laps to be completed, but can also be used for rear ballast. If you 
+wish to increase the rear weight percentage for handling purposes, 
+it can be useful to run excess fuel beyond the volume required to 
+complete the laps.
+REAR END RATIO
+The gear ratio in the rear end should be set based on track length 
+and track state to balance acceleration and top end RPM. Too low 
+a numerical gear can lead to wheel spin and over rev the engine, 
+while too high a numerical car can lead to bogging on throttle and 
+slow acceleration. A good balance will provide manageable throttle 
+response and good acceleration without reaching the rev limiter.

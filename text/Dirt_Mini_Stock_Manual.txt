@@ -1,0 +1,352 @@
+--- PAGE 1 ---
+
+DIRT MINI STOCK
+USER MANUAL
+
+--- PAGE 2 ---
+
+2
+DIRT MINI STOCK | USER MANUAL
+Introduction » 5
+Tech Specs » 4
+A Message From iRacing » 3
+ Getting Started » 5
+Dash Config » 7
+ Loading An iRacing Setup » 6
+ Tire Data » 9
+ Front » 10
+Chassis » 10
+Tires » 9 
+ Front Corners » 11 
+ Rear Corners » 12
+ Rear » 12
+ GENERAL INFORMATION
+ ADVANCED SETUP OPTIONS
+TABLE OF CONTENTS
+CLICK TO VIEW A SECTION
+
+--- PAGE 3 ---
+
+3
+DEAR iRACING USER,
+Congratulations on your purchase of the Mini Stock! From all of us at iRacing, we appreciate your support 
+and your commitment to our product. We aim to deliver the ultimate sim racing experience, and we hope 
+that you’ll find plenty of excitement with us behind the wheel of your new car! 
+The following guide explains how to get the most out of your new car, from how to adjust its settings 
+off of the track to what you’ll see inside of the cockpit while driving. We hope that you’ll find it useful in 
+getting up to speed. 
+Thanks again for your purchase, and we’ll see you on the track!
+
+--- PAGE 4 ---
+
+4
+DIRT MINI STOCK | USER MANUAL
+CHASSIS
+POWER 
+UNIT
+MINI STOCK | TECH SPECS
+STRUT FRONT, 4-LINK REAR SUSPENSION
+INLINE 4-CYLINDER 2V OHC
+LENGTH
+4521 mm
+178 in
+WIDTH
+1829 mm
+72 in
+DISPLACEMENT
+2.3 Liters
+140 CID
+TORQUE
+200 lb-ft
+260 Nm
+RPM LIMIT
+8500 RPM 
+POWER
+250 bhp
+195 kW
+WHEELBASE
+2540 mm
+100 in
+DRY WEIGHT
+975 kg
+2150 lbs
+WET WEIGHT 
+WITH DRIVER
+1067 kg
+2350 lbs
+
+--- PAGE 5 ---
+
+5
+DIRT MINI STOCK | USER MANUAL
+INTRODUCTION
+The information found in this guide is intended to provide a deeper understanding of the chassis setup adjustments 
+available in the garage, so that you may use the garage to tune the chassis setup to your preference.
+Once you load into the car, select 1st gear and give it a bit of throttle 
+to get underway. The Micro Sprints have five forward gears and a 
+reverse gear but doesn’t require a clutch for upshifts or downshifts, 
+with upshifting requiring a quick lift off the throttle and downshifting 
+requiring a small blip of throttle. 
+MINI STOCK | INTRODUCTION
+GETTING STARTED
+Before diving into chassis adjustments, though, it is best to
+become familiar with the car and track. To that end, we have 
+provided baseline setups for each track commonly raced by
+these cars. To access the baseline setups, simply open the
+Garage, click iRacing Setups, and select the appropriate setup
+for your track of choice. If you are driving a track for which a 
+dedicated baseline setup is not included, you may select a setup
+for a similar track to use as your baseline.
+After you have selected an appropriate setup, get on track and
+focus on making smooth and consistent laps, identifying the
+proper racing line and experiencing tire wear and handling trends 
+over a number of laps.
+Once you are confident that you are nearing your driving potential 
+with the included baseline setups, read on to begin tuning the car to 
+your handling preferences.
+
+--- PAGE 6 ---
+
+6
+DIRT MINI STOCK | USER MANUAL
+LOADING AN iRACING SETUP
+When you first load into a session, the iRacing Baseline setup will be 
+automatically loaded onto the car. If you would like to try any of the 
+other iRacing pre-built options, you may select it by going to Garage 
+> iRacing Setups > and then selecting another option that fits your 
+needs. If you would like to customize the setup, simply make the 
+changes in the garage that you would like to update and click apply. 
+MINI STOCK | INTRODUCTION
+If you would like to save your setup for future use click “Save As” 
+on the right to name and save the changes. To access all of your 
+personally saved setups, click “My Setups” on the right side of
+the garage. If you would like to share a setup with another driver
+or everyone in a session, you can select “Share” on the right side
+of the garage to do so. If a driver is trying to share a setup with you, 
+you will find it under “Shared Setups” on the right side of the garage 
+as well.
+
+--- PAGE 7 ---
+
+7
+DIRT MINI STOCK | USER MANUAL
+MINI STOCK | DASH PAGES
+DASH CONFIGURATION
+The Mini Stock features three analog gauges with a shift light, from left to right:
+Water Temperature Displays the temperature of the water in the engine coolant system, in °F
+Tachometer Displays Engine RPM in 1000 rpm increments.
+Oil Pressure Displays the pressure in the engine oil system in Pounds-per-Square Inch
+Shift Light
+A shift light is on the far right of the dash that will light up when the
+engine is at the ideal RPM for upshifting.
+
+--- PAGE 8 ---
+
+8
+DIRT MINI STOCK | USER MANUAL
+ADVANCED SETUP OPTIONS
+This section is aimed toward more advanced users who want to dive deeper into the different aspects of the 
+vehicle’s setup. Making adjustments to the following parameters is not required and can lead to significant 
+changes in the way a vehicle handles. It is recommended that any adjustments are made in an incremental fashion 
+and only singular variables are adjusted before testing changes.
+MINI STOCK | ADVANCED SETUP OPTIONS 
+
+--- PAGE 9 ---
+
+9
+DIRT MINI STOCK | USER MANUAL
+MINI STOCK | ADVANCED SETUP OPTIONS | TIRES 
+COLD PRESSURE / STARTING PRESSURE
+The air pressure in the tires when the car is loaded into the world. 
+Lower pressures will provide more grip but will produce more rolling 
+drag and build temperature faster. Higher pressures will feel slightly 
+more responsive and produce less rolling drag, but will result in 
+less grip. Generally, higher pressures are preferred at tracks where 
+speeds are higher while lower pressures work better at slower tracks 
+where mechanical grip is important.
+LAST HOT PRESSURE
+When the car returns to the garage after an on-track stint, the tire 
+pressure will be displayed as Hot Pressure. The difference between 
+cold and hot pressure is a good way to see how tires are being 
+loaded and worked while on track. Tires seeing more work will
+build more pressure, and paying attention to which tires are building 
+more pressure and adjusting cold pressure to compensate can be 
+crucial for optimizing tire performance.
+LAST TEMPERATURES
+The tire carcass temperatures (measured within the tread) are 
+displayed after the car returns from the track. These temperatures 
+are an effective way to determine how much work or load a given tire 
+is experiencing while on track. Differences between the inner and 
+outer temperatures can be used to tune individual wheel alignment 
+and the center temperatures can be compared to the outer 
+temperatures to help tune tire pressure.
+TIRES 
+TIRE DATA
+TREAD REMAINING
+The amount of tread on the tire, displayed as a percentage of a
+new tire, is shown below the tire temperatures. These values are 
+good for determining how far a set of tires can go before needing to 
+be replaced, but don’t necessarily indicate an under- or over-worked 
+tire in the same way temperatures will.
+STAGGER 
+Stagger is the difference in circumference of the left- and right-side 
+tires with both front and rear stagger available as an adjustment 
+on this car. Increasing the front stagger will increase the size of 
+the right-front tire and add understeer on deceleration and turn-in. 
+Increasing the rear stagger will increase the size of the right-rear
+tire and add oversteer through the center and on throttle out of
+the corner. Stagger can be set independently between front and
+rear to suit various driving styles. For road courses, stagger will 
+default and lock to zero.
+
+--- PAGE 10 ---
+
+10
+DIRT MINI STOCK | USER MANUAL
+MINI STOCK | ADVANCED SETUP OPTIONS | CHASSIS
+CHASSIS
+FRONT
+CROSS WEIGHT
+Cross Weight is the amount of weight on the car’s Left-Rear and 
+Right-Front tires relative to the entire weight of the car, displayed 
+in percent. This is adjusted via the corner Spring Perch Offset 
+adjustments as well as ARB preload to a small extent. For an oval
+car, Cross Weight is one of the most influential settings for grip
+level while the vehicle is in a turn. Higher Cross Weight values will 
+add weight to the left-rear and right-front, both stabilizing entry
+and helping drive-off on corner exit. Lower Cross-Weight values
+will help the vehicle rotate and keep it “free” in the corner to prevent 
+speed from being lost, however too low can result in unstable entry 
+and exit. For this vehicle, excessively high crossweight value can 
+also lead to left-front tire lockups under braking due to reduced load 
+on the left-front wheel.
+LEFT ARB END CLEARANCE
+The left-side sway bar linkage can be adjusted to either delay 
+bar engagement or apply a static load to the bar. This adjustment 
+directly affects the bar’s Preload, outlined below. When “Attach
+Left Side” is unchecked, having this value positive will require a
+small amount of front-end travel before the bar is engaged.
+This can be used to reduce bar load and keep the front end lower
+on the straights.
+ATTACH LEFT SIDE
+A quick way to unhook the anti-roll bar to allow for static suspension 
+adjustments without bar twist confusing things; increase link slack 
+and unhook the ARB before making spring/ride height adjustments, 
+attach and re-set End Clearance & Preload when done.
+ARB PRELOAD
+The ARB Preload is the static load in the bar while the vehicle is in 
+the garage. Preload adjustments can be used to alter the dynamic 
+loads in the bar while on track, and can be used to remove or add 
+bar load in the corners and on the straights.
+SKIRT CLEARANCE
+Distance from the ground to the bottom of the front valence, or skirt. 
+This is a tech inspection measurement and must clear a minimum 
+height to pass tech.
+
+--- PAGE 11 ---
+
+11
+DIRT MINI STOCK | USER MANUAL
+MINI STOCK | ADVANCED SETUP OPTIONS | CHASSIS
+FRONT CORNERS
+CORNER WEIGHT
+The weight underneath each tire under static conditions in the 
+garage. Correct weight arrangement around the car is crucial for 
+optimizing a car for a given track and conditions. Individual wheel 
+weight adjustments and crossweight adjustments are made via the 
+Shock Collar Offset setting.
+RIDE HEIGHT
+Distance from ground to a reference point on the chassis. Front 
+heights are measured at the bottom of the chassis frame rail just 
+behind the front wheel wells. Since these values are measured to a 
+specific reference point on the car, these values may not necessarily 
+reflect the vehicle’s ground clearance, but instead provide a reliable 
+value for the height of the car off of the race track at static values.
+SPRING PERCH
+Used to adjust ride height and corner weight, adjusting this
+setting applies a preload to the spring under static conditions.
+Decreasing the value increases preload on the spring, adding
+weight to its corner and increasing the ride height at that corner. 
+Increasing the value does the opposite, reducing height and weight 
+on a given corner. These should be adjusted in pairs (left and right, 
+for example) or with all four spring preload adjustments in the car to 
+prevent crossweight changes while adjusting ride height.
+SPRING RATE
+Spring Rate changes how stiff the spring is, represented in a
+force per unit of displacement. Primarily responsible for
+maintaining ride height and a good attitude under changing
+wheel loads, stiffer springs will maintain the car’s attitude better 
+while sacrificing mechanical grip. Softer springs will deal with
+bumps better and increase mechanical grip, however this could 
+cause the chassis to pitch and roll too much, causing the car to
+feel slow to respond to driver inputs.
+CAMBER
+Camber is the vertical angle of the wheel relative to the center of
+the chassis. Negative camber is when the top of the wheel is
+closer to the chassis centerline than the bottom of the wheel, 
+positive camber is when the top of the tire is farther out than the 
+bottom. Higher camber angles will increase the cornering force 
+generated by the tire, but will reduce the amount of longitudinal 
+grip the tire will have under braking. Excessive camber values 
+can produce very high cornering forces but will also significantly 
+reduce tire life, so it is important to find a balance between life 
+and performance. For ovals, set the left side positive and the right 
+side negative. For road courses, all four wheels should be set with 
+negative camber.
+TOE-IN
+Toe is the angle of the wheel, when viewed from above, relative
+to the centerline of the chassis. Positive toe-in is when the front
+of the wheel is closer to the centerline than the rear of the wheel,
+and negative toe-in (toe-out) is when the front of the wheel is 
+farther away from the centerline than the rear of the wheel.
+More net toe-out will destabilize the car in a straight line and help 
+with turn-in but increases slip angle on the front wheels and can
+risk over-slipping the front tires, which can result in sudden 
+understeer when cornering.
+
+--- PAGE 12 ---
+
+12
+DIRT MINI STOCK | USER MANUAL
+MINI STOCK | ADVANCED SETUP OPTIONS | CHASSIS
+REAR CORNERS
+CORNER WEIGHT
+The weight underneath each tire under static conditions in the 
+garage. Correct weight arrangement around the car is crucial for 
+optimizing a car for a given track and conditions. Individual wheel 
+weight adjustments and crossweight adjustments are made via the 
+Shock Collar Offset setting.
+RIDE HEIGHT
+Distance from ground to a reference point on the chassis.
+Since these values are measured to a specific reference point
+on the car, these values may not necessarily reflect the vehicle’s 
+ground clearance, but instead provide a reliable value for the
+height of the car off of the race track at static values.
+SPRING PERCH
+Used to adjust ride height and corner weight, adjusting this
+setting applies a preload to the spring under static conditions.
+Decreasing the value increases preload on the spring, adding
+weight to its corner and increasing the ride height at that corner. 
+Increasing the value does the opposite, reducing height and weight 
+on a given corner. These should be adjusted in pairs (left and right, 
+for example) or with all four spring preload adjustments in the car to 
+prevent crossweight changes while adjusting ride height.
+SPRING RATE
+Spring Rate changes how stiff the spring is, represented in force per 
+unit of displacement. Primarily responsible for maintaining ride height 
+and chassis attitude under changing wheel loads, stiffer springs 
+control the chassis attitude better (less roll or pitch change) which is 
+good for alignment control, but mechanical grip is often better with 
+softer springs which allow for more track surface compliance.
+REAR
+FUEL FILL TO
+The Fuel Fill To setting alters the amount of fuel in the fuel tank
+when the car leaves the garage. Most races will be shorter than 
+what a full tank is capable of, so it is important to get a good fuel 
+reading in practice and carry no more fuel than is necessary for a 
+race to keep overall vehicle weight low.
+REAR END RATIO
+The Rear End Ratio is the ratio between the driveshaft pinion and 
+the differential ring gear. Higher number values produce better 
+acceleration but reduce top speed, lower number values reduce 
+acceleration but result in a higher top speed.

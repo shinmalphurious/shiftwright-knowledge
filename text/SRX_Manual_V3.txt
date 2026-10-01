@@ -1,0 +1,786 @@
+--- PAGE 1 ---
+
+1
+SRX
+USER MANUAL
+
+--- PAGE 2 ---
+
+2
+SRX | USER MANUAL
+Introduction » 5
+Tech Specs » 4
+A Message From iRacing » 3
+ Getting Started » 5
+Dash Pages » 7
+ Loading An iRacing Setup » 6
+Driving Tips » 8 
+ Tire Settings » 10
+ Front » 11
+Chassis » 11
+Setup Tips » 17
+Tires » 10 
+ Front ARB » 12
+ Front Corners » 13 
+ Rear » 16
+ Rear Corners » 15
+ GENERAL INFORMATION
+ ADVANCED SETUP OPTIONS
+TABLE OF CONTENTS
+CLICK TO VIEW A SECTION
+
+--- PAGE 3 ---
+
+3
+DEAR iRACING USER,
+Congratulations on your purchase of the SRX! From all of us at iRacing, we appreciate your support and 
+your commitment to our product. We aim to deliver the ultimate sim racing experience, and we hope that 
+you’ll find plenty of excitement with us behind the wheel of your new car! 
+The following guide explains how to get the most out of your new car, from how to adjust its settings 
+off of the track to what you’ll see inside of the cockpit while driving. We hope that you’ll find it useful in 
+getting up to speed. 
+Thanks again for your purchase, and we’ll see you on the track!
+
+--- PAGE 4 ---
+
+4
+SRX | USER MANUAL
+CHASSIS
+POWER 
+UNIT
+SRX | TECH SPECS
+INDEPENDENT COILOVER FRONT 
+SUSPENSION, LIVE AXLE TRUCK ARM 
+REAR SUSPENSION WITH COILOVERS
+ILMOR 396 NATURALL Y ASPIRATED V8
+LENGTH
+4825mm
+190in
+WIDTH
+1625mm
+80in
+DISPLACEMENT
+6.5 Liters
+396CID
+TORQUE
+520lb-ft
+700Nm
+RPM LIMIT
+8000RPM
+ 
+POWER
+700bhp
+522kW
+WHEELBASE
+2641mm
+104in
+DRY WEIGHT
+1315kg
+2900lbs
+WET WEIGHT 
+WITH DRIVER
+1475kg
+3250lbs
+
+--- PAGE 5 ---
+
+5
+SRX | USER MANUAL
+INTRODUCTION
+The information found in this guide is intended to provide a deeper understanding of the chassis setup adjustments 
+available in the garage, so that you may use the garage to tune the chassis setup to your preference.
+Once you load into the car, press the clutch and select 1st gear. 
+Give it a bit of throttle and ease off the clutch pedal to get 
+underway. This car uses an h-pattern transmission, but only 
+requires the clutch pedal to get the car rolling and when coming 
+to a stop in gear. To upshift, simply let off the throttle and select 
+the next higher gear. To downshift, give the throttle a blip while 
+SRX | INTRODUCTION
+GETTING STARTED
+selecting the next lower gear. Upshifting is recommended 
+around 7500 rpm. If you downshift too early, or don’t blip the 
+throttle sufficiently, the wheel speed and engine speed will 
+be mismatched, leading to wheel hop at the rear and a 
+possible spin.
+Before diving into chassis adjustments, though, it is best to become 
+familiar with the car and track. To that end, we have provided 
+baseline setups for each track commonly raced by these cars. 
+To access the baseline setups, simply open the Garage, click iRacing 
+Setups, and select the appropriate setup for your track of choice. 
+If you are driving a track for which a dedicated baseline setup is not 
+included, you may select a setup for a similar track to use as your 
+baseline. After you have selected an appropriate setup, get on track 
+and focus on making smooth and consistent laps, identifying the 
+proper racing line and experiencing tire wear and handling trends 
+over a number of laps. 
+Once you are confident that you are nearing your driving potential 
+with the included baseline setups, read on to begin tuning the car 
+to your handling preferences.
+
+--- PAGE 6 ---
+
+6
+SRX | USER MANUAL
+LOADING AN iRACING SETUP
+When you first load into a session, the iRacing Baseline setup will be 
+automatically loaded onto the car. If you would like to try any of the 
+other iRacing pre-built options, you may select it by going to Garage 
+> iRacing Setups > and then selecting another option that fits your 
+needs. Because this car uses slightly different chassis and body 
+configurations on different types of tracks, it will be necessary to 
+load a setup from the same track type to pass tech inspection. 
+For example, a setup for Talladega will pass at Daytona, but likely 
+will not pass at Bristol. If you would like to customize the setup, 
+SRX | INTRODUCTION
+simply make the changes in the garage that you would like to update 
+and click apply. If you would like to save your setup for future use 
+click “Save As” on the right to name and save the changes. To 
+access all of your personally saved setups, click “My Setups” on 
+the right side of the garage. If you would like to share a setup with 
+another driver or everyone in a session, you can select “Share” on 
+the right side of the garage to do so. If a driver is trying to share a 
+setup with you, you will find it under “Shared Setups” on the right 
+side of the garage as well.
+
+--- PAGE 7 ---
+
+7
+SRX | USER MANUAL
+RPM - Current engine RPM is displayed in the center
+Trip 1 - This odometer value shows the distance the car has traveled 
+in the current session
+ILMOR - Race distance remaining on the engine, in miles or 
+kilometers starting from a random value, until the engine would need 
+to be rebuilt. This does not affect engine performance and the sim 
+does not require engine rebuilds.
+WATER TEMP - Engine cooling water temperature in °C or °F
+SRX | DASH PAGES
+DASH PAGES
+The SRX car uses the Holley EFI digital dash display. This display provides all important information in an easy-to-read 
+format using a single page. Unlike the digital displays used in other oval racing series this display operates at a lower 
+framerate, around 5fps, which reflects the behavior of the display used in the real-world SRX series.
+OIL TEMP - Engine oil temperature in °C or °F
+Odometer - Race distance on the chassis, in miles or kilometers, 
+starting from a random value
+Battery - Current battery voltage
+Fuel Pressure - Pressure in the fuel system, in PSI or BAR
+Oil Pressure - Pressure in the engine oil system, in PSI or BAR
+TPS - Throttle position
+
+--- PAGE 8 ---
+
+8
+SRX | USER MANUAL
+SRX | DRIVING TIPS
+The SRX car is a unique beast in the oval-racing world, combining 
+low levels of aerodynamics, high engine power, and a very low left-
+side weight bias. These three traits combine to produce a driving 
+experience that is very unique but highlights driver skill, patience, 
+and throttle management.
+LOW AERO, ALL MECHANICAL
+Despite sporting a large wing reminiscent of the Superbird from 
+the 1970s, the SRX car makes very little aerodynamic downforce or 
+sideforce. Unlike most cars of the modern era this car was designed 
+with that in mind from the start and, as a result, relies heavily on 
+mechanical grip from the suspension and tires. What little downforce 
+is generated is concentrated very far rearward on the car, so far 
+back that the front tires can begin to unload at higher speeds and 
+make the front end feel “floaty”.
+Because of these characteristics, it’s very important to keep in 
+mind that the extra grip provided during braking and turning from 
+aerodynamics is not present. Braking distances are longer, corner 
+speeds are lower, and a tendency to skew towards understeer is 
+common. A patient driver who brakes early for corners, is smooth 
+with inputs, and lets the tires do the work through the corner instead 
+of trying to hustle the car around will find the car responding well.
+Another unique aspect of the car is the low left-side weight bias. 
+While short track cars can run anywhere from 54-57% (or more!) 
+left-side weight, the SRX car’s symmetrical chassis has a very low 
+left-side weight that comes in around 51%. The extra right-side 
+weight will try to push the car off-line, especially at flatter tracks, 
+and will result in lower corner speeds. When compared to other short 
+track cars, drivers will often have to wait longer through the center 
+of the corner to begin applying throttle or risk the car sliding off-line.
+MORE POWER
+The Ilmor 396 engine produces roughly 700hp, making it one of the 
+most powerful oval cars on the iRacing service. This engine is run in 
+both the NASCAR Truck Series and the ARCA series, and the engine 
+is used, unrestricted, in the SRX car as well. To further link the three 
+series, the SRX car also uses the same tires seen on the NASCAR 
+Truck Series so the combination will be familiar to many.
+This high horsepower and torque output combined with the low 
+aerodynamic downforce and somewhat narrow tires can quickly 
+become a handful to drivers who are more aggressive on the 
+throttle. Traction can be lost quickly, and without warning (especially 
+if the car exhibits mild understeer through the corners) unless 
+throttle is applied carefully. Despite that trait, wheelspin can be 
+easily managed with smooth throttle application and a good feel 
+for how settled the car is on corner exit.
+A DRIVER’S CAR
+While it may sound daunting to pair a high-output engine with a low 
+amount of grip, the SRX car is an extremely capable and rewarding 
+car to drive. The lack of aero means cars can follow closely together 
+without detrimental effects on trailing cars while the power results 
+in fast acceleration and high straight-line speeds. The combination 
+produces a driver’s car in the truest sense, and aims to showcase 
+some of the best side-by-side racing on the service.
+DRIVING TIPS
+
+--- PAGE 9 ---
+
+9
+SRX | USER MANUAL
+ADVANCED SETUP OPTIONS
+This section is aimed toward more advanced users who want to dive deeper into the different aspects of the 
+vehicle’s setup. Making adjustments to the following parameters is not required and can lead to significant 
+changes in the way a vehicle handles. It is recommended that any adjustments are made in an incremental fashion 
+and only singular variables are adjusted before testing changes.
+SRX | ADVANCED SETUP OPTIONS 
+
+--- PAGE 10 ---
+
+10
+SRX | USER MANUAL
+SRX | ADVANCED SETUP OPTIONS | TIRES 
+COLD AIR PRESSURE
+Air pressure in the tire when the car is loaded into the world. 
+Higher pressures will reduce rolling drag and heat buildup, but will 
+decrease grip. Lower pressures will increase rolling drag and heat 
+buildup, but will increase grip. Higher speeds and loads will require 
+higher pressures, while lower speeds and loads will see better 
+performance from lower pressures. Excessively low cold pressures 
+at high-speed tracks can lead to a lack of traction and excessive 
+tire heat. Cold pressures should be set to track characteristics for 
+optimum performance.
+LAST HOT PRESSURE
+Air pressure in the tire after the car has returned to the pits. The 
+difference between Cold and Hot pressures can be used to identify 
+how the car is progressing through a run in terms of balance, with 
+heavier-loaded tires seeing a larger difference between Cold and 
+Hot pressures. Ideally, tires that are worked in a similar way should 
+build pressure at the same rate to prevent a change in handling 
+balance over the life of the tire, so Cold pressures should be 
+adjusted to ensure that similar tires are at similar pressures once 
+up to operating temperature. 
+TIRES
+TIRE SETTINGS (ALL FOUR TIRES)
+TIRE TEMPERATURES
+Tire carcass temperatures once the car has returned from the pits. 
+Wheel loads and the amount of work a tire is doing on-track is 
+reflected in the tire’s temperature, and these values can be used to 
+analyze the car’s handling balance. Center temperatures are useful 
+for directly comparing the work done by each tire, while the Inner 
+and Outer temperatures are useful for analyzing the wheel alignment 
+while on track. These values are measured in three zones across 
+the tread of the tire. Ideally, the temperature spread across a tire 
+will reflect the amount of camber (for ovals, the left side of the tire 
+should always read hotter) and should never read even across the 
+tire tread. Tracks with longer straights should read hotter on the left-
+side edges because of the extra time spent on the tire edges, while 
+tracks with shorter straights will read more even across the tread.
+TREAD REMAINING
+The amount of tread remaining on the tire once the car has 
+returned from the pits. Tire wear is very helpful in identifying any 
+possible issues with alignment, such as one side of the tire wearing 
+excessively, but should never be prioritized over tire temperatures 
+when analyzing handling balance. These values are measured in 
+three zones across the tread of the tire.
+
+--- PAGE 11 ---
+
+11
+SRX | USER MANUAL
+SRX | ADVANCED SETUP OPTIONS | CHASSIS
+CHASSIS
+FRONT
+BALLAST FORWARD
+In order to meet minimum legal competition weights, lead blocks are 
+installed within the chassis frame rails that can be moved to various 
+locations in the car. This adjustment directly affects the Nose Weight 
+setting (see below) and will have a large effect on the car’s overall 
+handling balance, especially at high-speeds on larger tracks. 
+NOSE WEIGHT 
+The Nose Weight setting shows the percentage of the car’s 
+weight is situated over the front axle, with higher values indicating 
+more weight is on the front axle relative to the rear axle. As Nose 
+Weight increases and weight is moved forward the car will tend to 
+understeer while cornering and lose front-end grip, while lower 
+Nose Weight values will induce oversteer and can cause a loss in 
+rear-end grip. At high speed tracks this value is used to balance 
+overall aerodynamic balance, so a change in chassis rake may 
+require an adjustment in the car’s nose weight to re-balance the 
+chassis with the aero. This value can be adjusted directly via the 
+Ballas Forward option, but will also be affected by the amount of 
+fuel in the car. It is very important to be aware of Nose Weight 
+changes when adding or removing fuel to avoid a handling issue 
+due to changing Nose Weight.
+CROSS WEIGHT
+Cross Weight is the percentage of the car’s total weight that is 
+situated on the Left-Rear and Right-Front wheels. Higher values will 
+place more weight on these wheels and induce understeer while 
+cornering, lower values will shift weight to the Left-Front/Right-Rear 
+wheels and induce oversteer. Cross Weight is used for a multitude 
+of reasons, most important being a way to control the handling in 
+various sections of the corner. This value should be set initially to 
+match track characteristics, with higher values being used for low-
+grip track surfaces or tracks with lower banking. This will increase 
+the weight on the Left-Rear tire and increase on-throttle traction, 
+very helpful on this type of track. For tracks that are high banked 
+or have a high-grip surface this extra traction isn’t necessary, so 
+reducing the crossweight will keep the car free through the center of 
+the corner without scrubbing speed.
+STEERING OFFSET
+Sometimes due to asymmetric wheel loading and alignment while 
+on track, the SRX car can sometimes have a tendency to pull to the 
+left on ovals. To counter this effect and re-center the steering wheel, 
+an offset can be applied in the garage. Positive values will rotate 
+the steering wheel to the right and negative values will rotate the 
+steering wheel to the left. This offset will not affect the steering or 
+the chassis in any way other than the steering wheel’s orientation at 
+neutral steering input.
+
+--- PAGE 12 ---
+
+12
+SRX | USER MANUAL
+SRX | ADVANCED SETUP OPTIONS | CHASSIS
+BRAKE PRESSURE BIAS
+The Brake Balance Bar setting controls the Brake Bias value, or the 
+amount of braking force split between the front and rear braking 
+systems. The value is a percentage of front braking force, and values 
+over 50% and higher represent more pressure being sent to the front 
+brakes. Lower values will shift the pressure towards the rear, with 
+values under 50% sending more to the rear brakes than the front. 
+This can be a helpful tool in preventing wheel lockups under heavy 
+braking by shifting pressure away from the locking axle, but can also 
+be used as a way to slightly alter the car’s handling under heavy 
+braking. Generally, a higher Brake Bias value will induce understeer 
+while braking while lower values will induce oversteer while braking.
+corners, cross weight can be adjusted by making changes to the 
+spring perch offsets at each corner of the car. 
+FRONT ARB
+ARB DIAMETER
+The front Anti-Roll Bar (ARB, or “sway” bar) diameter will alter the 
+front suspension’s roll stiffness and influence the chassis’ handling 
+and responsiveness. Larger diameters will increase the roll stiffness 
+and reduce body roll, but can induce understeer and potentially hurt 
+front tire life. Smaller diameter ARB settings will reduce roll stiffness 
+and increase body roll, but are better on the front tires and can 
+make them last longer. Generally, the smallest ARB diameter that 
+still keeps the front of the car flat to the race track will yield the 
+best results.
+ARB ARM END
+The ARB Arm End setting changes the length of the right side ARB 
+linkage. This can be used to either pre-load the ARB (see below) or 
+cause a delay in the ARB’s engagement. Negative values will pre-
+load the ARB and apply a static load to the bar when the car is sitting 
+still, which will pull the Left-Front of the chassis down and raise the 
+Right-Front of the chassis. Positive values will apply a pre-load in the 
+other direction, pulling the Right-Front down and the Left-Front up.
+ATTACH LEFT SIDE
+The Attach Left Side setting controls whether the left side of the 
+ARB assembly is connected directly to the suspension. Checking this 
+box will attach a solid linkage between the left-side ARB arm and 
+the Left-Front suspension, unchecking this box will allow the bar to 
+move independently of the suspension and prevent positive preload 
+values (commonly known as a “slapper”-type sway bar). See the ARB 
+Arm End section for more on the effects of a detached ARB linkage 
+and how it can be used.
+If the Attach Left Side setting is left unchecked, positive preload 
+values will cause the bar to delay engagement until the front of the 
+car drops from aerodynamic and track loads. This is very helpful 
+when the car is set up with ride heights above where the car will be 
+run on-track, since it prevents vertical travel from loading the ARB 
+and causing the bar to try and lift the nose back up on the straights 
+when cornering loads are removed.
+
+--- PAGE 13 ---
+
+13
+SRX | USER MANUAL
+SRX | ADVANCED SETUP OPTIONS | CHASSIS
+PRELOAD
+ARB Preload is a static twisting force applied to the front ARB when 
+the car is stationary. Bar Preload’s effect is explained in the ARB 
+Arm End setting, but this value is a numerical representation of the 
+amount of load the bar is seeing while in the garage. Tech inspection 
+limits exist on the maximum or minimum preload that can be applied 
+to the bar and will indicate when the bar is in an illegal configuration.
+can result in longer braking distances if the system is set overly 
+aggressive for the amount of available grip.
+FRONT CORNERS
+CORNER WEIGHT
+The Corner Weight displays the weight situated on each wheel 
+when the car is stopped and in the garage. These values are 
+crucial in determining how the car will handle as well as providing 
+insight on which adjustments could be needed to alleviate handling 
+issues. Corner Weights are not directly adjustable, but instead 
+are dependent on almost every other option in the garage so it 
+is very important to pay attention to these values when making 
+adjustments. Changing a component without ensuring the weights 
+return to what they were prior to the adjustment can introduce 
+unexpected or undesired handling effects.
+RIDE HEIGHT
+The Ride Height values are a measurement from the ground to 
+a specific point on the chassis. On the front end of the car these 
+values measure to the lower surface on the front end of the chassis’ 
+lower door frame rails, just behind the front wheels. Since various 
+parts of the chassis extend below these points, the Ride Height 
+values are not a representation of the car’s ground clearance, but 
+instead are to be used as a reference height for setup changes.
+SPRING PERCH OFFSET
+The upper spring perches can be moved up or down to adjust the 
+suspension spring preloads, with their position represented as the 
+Spring Perch Offset value in the garage. Lower values will move 
+the perch down and place more load on the spring, which raises 
+the ride height on that corner of the car and increases the corner 
+weight. When adjusted individually these can be used to fine-tune 
+the weight of a given corner, but when adjusted equally on multiple 
+corners this will shift weight around the car without significantly 
+altering the ride heights. 
+SPRING RATE
+Spring Rate is the stiffness value of the suspension’s coil spring 
+shown in a force-per-displacement value, either pounds-per-
+inch (lb/in) or Newtons-per-millimeter (N/mm). Higher values 
+are stiffer springs which will resist compression more as loads 
+increase, resulting in a more consistent aerodynamic platform 
+but reduced mechanical grip. On the front of the . On the front of 
+the SRX Car, the front springs are not always intended to be used 
+as the primary load-carrying springs and should be kept fairly 
+soft in order to drop the nose of the car when on the track. 
+Despite this, altering the front Spring Rate can be used to 
+fine-tune how aggressively the bumpstops are engaged, with 
+stiffer springs resulting in a more gradual transition onto the 
+bumpstops as the suspension compresses. Also, tracks with high 
+vertical loads can benefit from stiffer front spring rates, especially 
+on the Right-Front corner.
+
+--- PAGE 14 ---
+
+14
+SRX | USER MANUAL
+SRX | ADVANCED SETUP OPTIONS | CHASSIS
+LS REBOUND
+The front LS (Low Speed) Rebound setting changes how stiff the 
+front shocks are in rebound, or when the suspension is extending, 
+when the shock is moving at a lower velocity (roughly less than 2 
+inches/second). This is most commonly seen on throttle application 
+and corner exit, but can also occur in the corners over small bumps. 
+Increasing the front rebound setting will hold the front of the car 
+down better than lower settings, but can promote understeer on 
+corner exit. Also, if a track is very bumpy a higher rebound setting 
+can reduce front grip by not allowing the suspension to move and 
+keep the tire in contact with the track. Adjusted individually, front 
+rebound can also alter the chassis balance on corner exit: 
+Increasing Left-Front rebound will increase traction and understeer, 
+while increasing Right-Front rebound will free up the chassis on 
+corner exit.
+HS REBOUND
+The front HS (High Speed) Rebound setting changes how stiff the 
+front shocks are in rebound when the shock is moving at higher 
+velocities, usually following suspension compression from a large 
+bump in the track surface. While this setting won’t directly influence 
+handling to the level the LS Rebound setting will, improper settings 
+can result in a loss of grip for a given corner. Higher values will 
+prevent the suspension from extending too quickly which can reduce 
+excessive chassis movement while also giving a more solid feel to 
+the driver. Lower values will allow the suspension to extend more 
+freely to keep the tires in contact with the track, but can sometimes 
+result in a less-responsive feel to the driver if set too low.
+CAMBER
+Camber is the vertical angle of the wheel relative to the center of 
+the chassis. Negative camber is when the top of the wheel is closer 
+to the chassis centerline than the bottom of the wheel, positive 
+camber is when the top of the tire is farther out than the bottom. 
+Greater camber angles will increase the cornering force generated 
+by the tire, but will reduce the amount of longitudinal grip the tire 
+will have under braking. Excessive camber values can produce very 
+high cornering forces but will also significantly reduce tire life, so 
+it is important to find a balance between life and performance. For 
+ovals, set the left side positive and the right side negative. For road 
+courses, all four wheels should be set with negative camber.
+CASTER
+How much the steering axis is leaned back (positive) or forward 
+(negative), which influences dynamic load jacking effects as the 
+car is steered. More positive caster results in a heavier steering feel 
+but decreases dynamic crossweight while turning, as well as adding 
+straight-line stability. Running less caster on the left-front than on 
+the right-front will cause the car to pull harder to the left and enter 
+the corner more aggressively. 
+TOE-IN
+Toe is the angle of the wheel, when viewed from above, relative 
+to the centerline of the chassis. Positive toe-in is when the front 
+of the wheel is closer to the centerline than the rear of the wheel, 
+and negative toe-in (toe-out) is when the front of the wheel is 
+farther away from the centerline than the rear of the wheel. Front 
+toe-in effects must be considered for each wheel individually as 
+well as an overall toe setting for the front wheels together by adding 
+the values together. 
+If the net toe-in setting results in a toe-in setting that is negative, 
+the wheels are aligned to point away from each other (toe-out). 
+This will result in a more aggressive turn-in response, but it can 
+cause the front tires to heat up faster and potentially overheat if too 
+much front toe-out is used, as well as causing the car to be unstable 
+in a straight line for high toe-out values. If the net setting is positive, 
+the wheels are aligned to point towards each other (toe-in). This will 
+reduce heat buildup in the front tires, but can stabilize the car in a 
+straight line. 
+In addition to the net toe-in setting, each wheel can be adjusted 
+individually to fine-tune the handling characteristics. On a left-
+turning oval, toeing the wheels to the right (Toe-in for LF, toe-out for 
+RF) will reduce slip angle on a given tire. If the tire is losing grip this 
+can be used to reduce the maximum slip angle it sees and increase 
+grip from the tire, but too much can prevent the tire from achieving 
+maximum grip. Conversely, toeing a wheel to the left (Toe-out for 
+LF, toe-in for RF) will increase the slip angle on a tire. If the tire is not 
+working to its maximum potential this can increase grip but too much 
+can overslip the tire, leading to overheating and a loss of grip.
+
+--- PAGE 15 ---
+
+15
+SRX | USER MANUAL
+SRX | ADVANCED SETUP OPTIONS | CHASSIS
+REAR CORNERS
+CORNER WEIGHT
+The Corner Weight displays the weight situated on each wheel 
+when the car is stopped and in the garage. These values are 
+crucial in determining how the car will handle as well as providing 
+insight on which adjustments could be needed to alleviate handling 
+issues. Corner Weights are not directly adjustable, but instead 
+are dependent on almost every other option in the garage so it 
+is very important to pay attention to these values when making 
+adjustments. Changing a component without ensuring the weights 
+return to what they were prior to the adjustment can introduce 
+unexpected or undesired handling effects.
+RIDE HEIGHT
+The Ride Height values are a measurement from the ground to a 
+specific point on the chassis. On the rear end of thecar these values 
+measure to the lower surface on the rear end of the chassis’ lower 
+door frame rails, just ahead of the rear wheels. Since various parts 
+of the chassis extend below these points, the Ride Height values are 
+not a representation of the car’s ground clearance, but instead are to 
+be used as a reference height for setup changes.
+SPRING PERCH OFFSET
+The upper spring perches can be moved up or down to adjust the 
+suspension spring preloads, with their position represented as the 
+Spring Perch Offset value in the garage. Lower values will move 
+the perch down and place more load on the spring, which raises 
+the ride height on that corner of the car and increases the corner 
+weight. When adjusted individually these can be used to fine-tune 
+the weight of a given corner, but when adjusted equally on multiple 
+corners this will shift weight around the car without significantly 
+altering the ride heights.
+SPRING RATE
+Spring Rate is the stiffness value of the suspension’s coil spring 
+shown in a force-per-displacement value, either pounds-per-inch 
+(lb/in) or Newtons-per-millimeter (N/mm). Higher values are stiffer 
+springs which will resist compression more as loads increase, 
+resulting in a more consistent aerodynamic platform but reduced 
+mechanical grip. Generally the Right-Rear spring will be run stiffer 
+than the Left-Rear to compensate for the lack of a rear ARB. A 
+softer Left-Rear spring rate will also help to lower the Left-Front 
+of the car, reducing the need for large diameter front ARB and/or 
+high front bar loads.
+LS REBOUND
+The rear LS (Low Speed) Rebound setting changes how stiff the 
+front shocks are in rebound, or when the suspension is extending, 
+when the shock is moving at a lower velocity (roughly less than 
+2 inches/second). This is most commonly seen on initial brake 
+application and corner entry, but can also occur in the corners over 
+small bumps. Increasing the rear rebound setting will hold the rear of 
+the car down better than lower settings, but can promote understeer 
+on corner entry. Also, if a track is very bumpy a higher rebound 
+setting can reduce rear grip by not allowing the suspension to move 
+and keep the tire in contact with the track. Adjusted individually, 
+rear rebound can also alter the chassis balance on corner entry: 
+Increasing Left-Rear rebound will increase braking stability and 
+understeer, while increasing Right-Rear rebound will free up the 
+chassis on corner entry.
+
+--- PAGE 16 ---
+
+16
+SRX | USER MANUAL
+SRX | ADVANCED SETUP OPTIONS | CHASSIS
+REAR
+HS REBOUND
+The rear HS (High Speed) Rebound setting changes how stiff the 
+front shocks are in rebound when the shock is moving at higher 
+velocities, usually following suspension compression from a large 
+bump in the track surface. While this setting won’t directly influence 
+handling to the level the LS Rebound setting will, improper settings 
+can result in a loss of grip for a given corner. Higher values will 
+prevent the suspension from extending too quickly which can reduce 
+excessive chassis movement while also giving a more solid feel to 
+the driver. Lower values will allow the suspension to extend more 
+freely to keep the tires in contact with the track, but can sometimes 
+result in a less-responsive feel to the driver if set too low.
+TRACK BAR HEIGHT
+The Track Bar is a solid steel rod mounted to the rear axle housing 
+on the left side and to the chassis frame on the right side to hold the 
+rear axle assembly in place. The track bar’s left-side mount is fixed 
+to the rear axle while the right-side mount can be raised or lowered 
+to alter both the dynamic loading on the rear tires as well as change 
+the rear suspension’s roll stiffness, with both having a large effect on 
+handling characteristics.
+Raising the height of the track bar will increase the roll stiffness 
+of the rear suspension and free up the chassis through all phases 
+of cornering. Lowering the track bar will reduce the rear roll 
+stiffness and tighten the chassis while cornering. Since this type 
+of adjustment alters rear roll stiffness it can have a large effect on 
+the chassis’s roll attitude, so it’s important to keep this in mind while 
+making adjustments.
+The SRX car features a “live” track bar mount in the garage, in which 
+the track bar mount value represents where the track bar will be 
+when the car is loaded into the world and is linked directly to Right-
+Rear Ride Height, changing in the garage as adjustments are made 
+to other chassis settings. In order to prevent unintentional changes 
+during adjustment, it is extremely important to pay attention to the 
+Track Bar mount height and reset it as necessary!
+FUEL FILL TO
+The Fuel Fill To setting alters the amount of fuel in the fuel tank when 
+the car leaves the garage. Most races will be shorter than what a 
+full tank is capable of, so it is important to get a good fuel reading in 
+practice and carry no more fuel than is necessary for a race to keep 
+overall vehicle weight low.
+REAR END RATIO 
+The Rear End Gear Ratio is the ratio between the driveshaft pinion 
+and the differential ring gear. Higher number values produce better 
+acceleration but reduce top speed, lower number values reduce 
+acceleration but result in a higher top speed. Generally it is good to 
+gear the car to hit the engine rev-limiter briefly before reaching the 
+braking zone for a corner. 
+
+--- PAGE 17 ---
+
+17
+SRX | USER MANUAL
+SRX | ADVANCED SETUP OPTIONS | SETUP TIPS
+SETUP TIPS
+The SRX car is meant to be run as a fixed-setup car to showcase 
+driver talent and skill. However, should you wish to modify the 
+chassis setups for Leagues or Hosted events there are a few 
+simple tips to follow to keep the car behaving well.
+RIDE HEIGHTS & ATTITUDE
+Generally, the SRX car will want to maintain a consistent chassis and 
+body attitude as much as possible during a lap. Under braking and 
+throttle this can be hard to manage due to the higher loads in these 
+phases, but the car will rarely be upset by dive and squat on entry 
+and exit. Through the center of the corner, aim for a visible gap 
+underneath the front and sides of the car, usually 1.5-3” is enough to 
+keep the car steady and clear of any large bumps. Unlike other cars 
+of this era the SRX car will not gain much performance by running 
+closer to the track, therefore it is usually preferable to raise the car 
+enough to clear any large bumps and tune the rear heights so the 
+car is roughly level, front-to-rear, through the center of the corner. 
+Once this has been accomplished, other aspects of the setup can 
+be adjusted with reliable results.
+SPRINGS
+Due to the lack of major aerodynamic contributions, the springs 
+will provide most of the grip available while on track. Generally, a 
+rule of thumb is to first set the springs to achieve the desired ride 
+heights and body attitude, then alter the rates slightly to handle 
+bumps if needed. Spring rate ranges will change based on the track’s 
+characteristics, with higher-load tracks allowing stiffer springs. 
+Instead of using springs to tune handling, it’s best to set the springs 
+as soft as possible while maintaining the desired heights and using 
+corner weight placement to dial in handling.
+CORNER WEIGHTS
+With the SRX car being almost entirely dependent on mechanical 
+grip the corner weights and wheel loads are the single most powerful 
+setup option in the garage. In many cases, a crossweight change of 
+1-2% is enough to completely change how the car drives.
+To adjust crossweight without introducing other issues, 
+follow these steps:
+• Note the current ARB Preload and disconnect the bar. Once 
+disconnected, increase the ARB Arm End option to a large 
+positive value, which will prevent the bar from influencing other 
+adjustments while disconnected. 
+ ◦ If the bar has a large amount of preload this may cause 
+ the ride heights to move into illegal ranges. This is okay, as 
+ they should return to legal ranges when the bar is 
+ reattached and loaded.
+• Using the Spring Perch Offsets, adjust the crossweight by 
+making the following changes: 
+ ◦ Increase Crossweight 
+ ▪ Right Rear - Right Click (Increase value, 
+ decrease corner weight) 
+ ▪ Left Rear - Left Click (Decrease value, 
+ increase corner weight) 
+ ▪ Left Front - Right Click (Increase value, 
+ decrease corner weight) 
+ ▪Right Front - Left Click (Decrease value, 
+ increase corner weight)
+
+--- PAGE 18 ---
+
+18
+SRX | USER MANUAL
+CORNER WEIGHTS (CONT) 
+ 
+ ◦ Decrease Crossweight 
+ ▪ Right Rear - Left Click (Decrease value, 
+ increase corner weight) 
+ ▪ Left Rear - Right Click (Increase value, 
+ decrease corner weight) 
+ ▪ Left Front - Left Click (Decrease value, 
+ increase corner weight) 
+ ▪ Right Front - Right Click (Increase value, 
+ decrease corner weight)
+• If you’re new to the setup process, keep these adjustments 
+to one or two clicks at a time and watch what happens to the 
+chassis. If you’re comfortable with the adjustments, multiple 
+clicks (Shift-Click is equal to 5 clicks) can be made as long 
+as you keep track of everything that’s changing. Always pay 
+attention to the ARB preload to make sure it stays at zero during 
+crossweight adjustments. If it registers a value, simply adjust 
+the ARB Arm End to remove the preload and continue with 
+weight adjustments.
+• Once the desired crossweight change has been made, reattach 
+the ARB and preload the bar to what it was initially. Following 
+these steps you should now have a change in crossweight with 
+almost no change in ride heights or alignment!
+Deciding on a crossweight adjustment is usually fairly simple, it will 
+come down to how the car is behaving through the center and on 
+throttle application. If the car understeers through the center or has 
+too much rear traction on throttle, decrease the crossweight. If the 
+car oversteers through the center or the rear tires spin too easily on 
+initial throttle, increase the crossweight.
+SRX | ADVANCED SETUP OPTIONS | SETUP TIPS
+It is also very important to focus on crossweight adjustments 
+progressively through the corner: Start with entry and work on 
+the car around the corner. It’s very easy to fall into the trap where 
+the rear of the car loses grip on exit and the driver wants more 
+crossweight to correct that, when the root cause is understeer 
+through the center of the corner. This understeer will result in the 
+driver applying too much steering input and over-slipping the front 
+tires, which “bite” as steering is removed through corner exit and 
+causing the rear to lose traction. In this situation, adding crossweight 
+will make the center of the corner worse and potentially make the 
+car “looser” on exit. This pitfall can be avoided by looking at the tire 
+temperatures screen (after a steady run without spins) and noting 
+whether the temperatures show hotter on the RF than the RR tire, an 
+indication that the car is understeering and the crossweight needs to 
+be reduced. This will often, counter-intuitively, tighten the car on exit 
+and free the car up through the center.
+ADJUSTING FOR WEATHER AND TIME-OF-DAY
+Varying weather conditions and race start times can greatly affect 
+the amount of grip available from the track surface. Hotter track 
+temperatures will produce less grip and often cause the car to 
+oversteer, especially on throttle, while cooler tracks will increase 
+grip and shift the balance towards understeer. To correct for weather 
+and track temperature changes, the only adjustment needed is 
+crossweight: Increase crossweight for warmer temperatures, 
+decrease it for cooler temperatures.
+FINAL CONSIDERATIONS
+The SRX car is one of the simplest cars to work on and set up 
+due to the lack of aerodynamics influencing handling balance. 
+Mechanical adjustments are very sensitive and small changes can 
+go a long way, so keep adjustments small and work towards a goal 
+without making large overhauls to the setup. The baseline setups 
+provided with the car are close to where the car would like to be run 
+as far as heights and weight balance, but are tuned more towards 
+mild understeer to make the car more approachable. Keep it simple, 
+make small adjustments, and you should be able to get wherever 
+you want to go!

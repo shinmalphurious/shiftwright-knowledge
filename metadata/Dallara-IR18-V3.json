@@ -1,0 +1,27 @@
+{
+  "vehicle": "Dallara IR18",
+  "manufacturer": "Dallara",
+  "manufacturer_source": "filename",
+  "class": "NASCAR",
+  "manual_type": "vehicle",
+  "topics": [
+    "aerodynamics",
+    "brakes",
+    "dampers",
+    "differential",
+    "hybrid",
+    "suspension",
+    "tires"
+  ],
+  "sections": [
+    "Tires & Aero",
+    "Setup Tips",
+    "Chassis",
+    "Dampers",
+    "Differential",
+    "Hybrid",
+    "Fuel"
+  ],
+  "word_count": 8708,
+  "source_text": "Dallara-IR18-V3.txt"
+}

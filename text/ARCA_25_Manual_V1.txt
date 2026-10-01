@@ -1,0 +1,858 @@
+--- PAGE 1 ---
+
+1
+ARCA CARS
+USER MANUAL
+
+--- PAGE 2 ---
+
+2
+ARCA CARS | USER MANUAL
+Introduction » 5
+Tech Specs » 4
+A Message From iRacing » 3
+ Getting Started » 5
+Dash Pages » 7 
+ Loading An iRacing Setup » 6
+ Tire Settings » 9
+ Front » 10
+ Front ARB » 11
+Chassis » 10
+Tires » 9 
+ Front Corners » 12 
+ Rear Corners » 14
+ Rear » 16
+ GENERAL INFORMATION
+ ADVANCED SETUP OPTIONS
+TABLE OF CONTENTS
+CLICK TO VIEW A SECTION
+
+--- PAGE 3 ---
+
+3
+DEAR iRACING USER,
+Congratulations on your purchase of a ARCA Series car! From all of us at iRacing, we appreciate your 
+support and your commitment to our product. We aim to deliver the ultimate sim racing experience, and 
+we hope that you’ll find plenty of excitement with us behind the wheel of your new car!
+The following guide explains how to get the most out of your new car, from how to adjust its settings
+off of the track to what you’ll see inside of the cockpit while driving. We hope that you’ll find it useful 
+in getting up to speed.
+Thanks again for your continued support, and we’ll see you on the track!
+
+--- PAGE 4 ---
+
+4
+ARCA CARS | USER MANUAL
+CHASSIS
+POWER 
+UNIT
+ARCA CARS | TECH SPECS
+DOUBLE WISHBONE INDEPENDENT 
+FRONT / LIVE AXLE TRUCK ARM REAR
+NATURALL Y ASPIRATED 
+STEEL BLOCK PUSHROD V8
+LENGTH
+4927mm
+194in
+WIDTH
+1956mm
+77in
+WHEELBASE
+2794mm
+110in
+DRY WEIGHT
+1417kg
+3125lbs
+WET WEIGHT 
+WITH DRIVER
+1564kg
+3450lbs
+RPM LIMIT
+8000 RPM
+ 
+DISPLACEMENT
+6.49 Liters
+396 CID
+TORQUE
+525lb-ft
+710Nm
+POWER
+700 bhp
+522kW
+
+--- PAGE 5 ---
+
+5
+ARCA CARS | USER MANUAL
+INTRODUCTION
+The information found in this guide is intended to provide a deeper understanding of the chassis setup adjustments 
+available in the garage, so that you may use the garage to tune the chassis setup to your preference. 
+Once you load into the car, select 1st gear. Slowly release the clutch 
+while applying the throttle to drive away. A clutch is necessary when 
+coming to a stop to prevent stalling the engine and shifting into 
+reverse if necessary, but the clutch isn’t required once the vehicle 
+is in motion for upshifts or downshifts. To upshift, simply let off 
+ARCA CARS | INTRODUCTION
+GETTING STARTED
+the throttle and select the next higher gear. To downshift, give the 
+throttle a blip while selecting the next lower gear. If you downshift 
+too early, or don’t blip the throttle sufficiently, the wheel speed and 
+engine speed will be mismatched, leading to wheel hop at the rear 
+and a possible spin.
+Before diving into chassis adjustments, though, it is best to become 
+familiar with the car and track. To that end, we have provided 
+baseline setups for each track commonly raced by these cars. 
+To access the baseline setups, simply open the Garage, click iRacing 
+Setups, and select the appropriate setup for your track of choice. 
+If you are driving a track for which a dedicated baseline setup is not 
+included, you may select a setup for a similar track to use as your 
+baseline. After you have selected an appropriate setup, get on track 
+and focus on making smooth and consistent laps, identifying the 
+proper racing line and experiencing tire wear and handling trends 
+over a number of laps. 
+Once you are confident that you are nearing your driving potential 
+with the included baseline setups, read on to begin tuning the car 
+to your handling preferences.
+
+--- PAGE 6 ---
+
+6
+ARCA CARS | USER MANUAL
+LOADING AN iRACING SETUP
+When you first load into a session, the iRacing Baseline setup will 
+be automatically loaded onto the car. If you would like to try any of 
+the other iRacing pre-built options, you may select it by going to 
+Garage > iRacing Setups > and then selecting another option that 
+fits your needs. If you would like to customize the setup, simply 
+make the changes in the garage that you would like to update and 
+click apply. If you would like to save your setup for future use click 
+ARCA CARS | INTRODUCTION
+“Save As” on the right to name and save the changes. To access all 
+of your personally saved setups, click “My Setups” on the right side 
+of the garage. If you would like to share a setup with another driver 
+or everyone in a session, you can select “Share” on the right side of 
+the garage to do so. If a driver is trying to share a setup with you, 
+you will find it under “Shared Setups” on the right side of the garage 
+as well.
+
+--- PAGE 7 ---
+
+7
+ARCA CARS | USER MANUAL
+TACHOMETER
+The current engine RPM is shown in large digits in the center 
+of the display
+BATTERY
+Current voltage supplied from the car’s battery
+WATER TEMP
+Current engine cooling water temperature, in °F or °C
+ARCA CARS | DASH PAGES
+DASH PAGES
+All three ARCA Series cars feature the same Holley EFI digital dash display. This display provides easy-to-read data 
+to the driver, but operates at a lower refresh rate.
+OIL TEMP
+Current engine oil temperature, in °F or °C
+FUEL PRESSURE
+Fuel system pressure, in PSI or Bar
+WATER PRESSURE
+Engine cooling water pressure, in PSI or Bar
+OIL PRESSURE
+Engine Oil system pressure, in PSI or Bar
+
+--- PAGE 8 ---
+
+8
+ARCA CARS | USER MANUAL
+ADVANCED SETUP OPTIONS
+This section is aimed toward more advanced users who want to dive deeper into the different aspects of the 
+vehicle’s setup. Making adjustments to the following parameters is not required and can lead to significant 
+changes in the way a vehicle handles. It is recommended that any adjustments are made in an incremental fashion 
+and only singular variables are adjusted before testing changes.
+ARCA CARS | ADVANCED SETUP OPTIONS 
+
+--- PAGE 9 ---
+
+9
+ARCA CARS | USER MANUAL
+ARCA CARS | ADVANCED SETUP OPTIONS | TIRES
+COLD PRESSURES
+Air pressure in the tire when the car is loaded into the world. 
+Higher pressures will reduce heat buildup, but will provide better 
+grip with higher loads and higher speeds. Lower pressures will 
+increase heat buildup, but will provide better grip at lower loads and 
+lower speeds. Cold pressures should be set to track characteristics 
+for optimum performance.
+HOT PRESSURES
+Air pressure in the tire after the car has returned to the pits. The 
+difference between Cold and Hot pressures can be used to identify 
+how the car is progressing through a run in terms of balance, with 
+heavier-loaded tires seeing a larger difference between Cold and 
+Hot pressures. On left-turn ovals, the right-front tire should always 
+see the highest buildup on a balanced car, while the left sides should 
+be roughly the same, but it is important to monitor the hot pressures 
+after a run and adjust accordingly. Ideally, the difference in hot 
+pressures on one side of the car should be roughly equal to the 
+difference between cold pressures after a longer run.
+TIRE PAGE
+TIRE SETTINGS (ALL FOUR TIRES)
+LAST TEMPERATURES
+Tire carcass temperatures, measured via Pyrometer, once the car 
+has returned from the pits. Wheel Loads and the amount of work a 
+tire is doing on-track is reflected in the tire’s temperature, and these 
+values can be used to analyze the car’s handling balance. Center 
+temperatures are useful for directly comparing the work done by 
+each tire, while the Inner and Outer temperatures are useful for 
+analyzing the wheel alignment while on track. These values are 
+measured in three zones across the tread of the tire.
+TREAD REMAINING
+The amount of tread remaining on the tire once the car has 
+returned from the pits. Tire wear is very helpful in identifying any 
+possible issues with alignment, such as one side of the tire wearing 
+excessively, and can be used in conjunction with tire temperatures 
+to analyze the car’s handling balance. These values are measured in 
+three zones across the tread of the tire.
+
+--- PAGE 10 ---
+
+10
+ARCA CARS | USER MANUAL
+ARCA CARS | ADVANCED SETUP OPTIONS | CHASSIS
+CHASSIS
+FRONT
+BALLAST FORWARD
+To meet minimum weight requirements, tungsten blocks are installed 
+within the lower frame rails on the chassis. These blocks can be 
+moved fore and aft in the chassis, directly influencing the car’s Nose 
+Weight value. The Ballast Forward value is simply a measurement of 
+the location of these tungsten blocks relative to a reference point in 
+the frame rail. Moving ballast forward in the car raises Nose Weight, 
+moving it rearward reduces Nose Weight.
+NOSE WEIGHT
+The vehicle’s Nose Weight is the percentage of total vehicle weight 
+on the front tires, directly adjustable through the Ballast Forward 
+adjustment. Nose Weight represents a rough approximation of the 
+longitudinal Center of Gravity location in the vehicle and has a direct 
+influence on the high-speed stability of the vehicle. Higher Nose 
+Weight values result in a more directionally-stable vehicle, good for 
+low-grip tracks and situations where the vehicle is set up with extra 
+front downforce. Conversely, lower Nose Weight values are good for 
+high-grip tracks and configurations with high rear downforce levels. 
+Smaller tracks will also see benefits from lower Nose Weight values, 
+as it will allow the rear of the vehicle to rotate easier. 
+CROSS WEIGHT
+Cross weight is the amount of weight on the car’s Left-Rear and 
+Right-Front tires relative to the entire weight of the car, displayed 
+in percent. This is adjusted via the corner Spring Perch Offset 
+adjustments as well as Front ARB preload. For an oval car, Cross 
+Weight is one of the most influential settings for grip level while the 
+vehicle is in a turn. Higher Cross Weight values will add weight to the 
+left-rear and right-front, both stabilizing entry and helping drive-off 
+on corner exit. Lower Cross-Weight values will help the vehicle rotate 
+and keep it “free” in the corner to prevent speed from being lost, 
+however too low can result in unstable entry and exit. 
+STEERING RATIO
+The Steering Ratio is a numerical value for how fast the steering 
+response is in the vehicle’s steering box. This ratio can be thought 
+of as the degrees of steering input needed to produce one degree 
+of turn on the steering box output shaft. For example, a 12:1 steering 
+ratio will require 12° of steering input to rotate the steering output 
+shaft 1° . A steering box with a lower ratio will feel more responsive 
+to steering inputs and will require less steering input to reach the 
+amount needed to navigate a corner. A steering box with a higher 
+ratio will feel less responsive and will require more steering input to 
+reach the amount needed to navigate a corner. 
+STEERING OFFSET
+Degrees of steering wheel offset, achieved with a combination of 
+installing the steering wheel into the quick release mechanism off-
+center and adjusting front tie-rods. This can be used to compensate 
+for chassis settings which place the wheel off center and is primarily 
+a driver comfort adjustment.
+FRONT BRAKE BIAS
+Brake Bias is the percentage of braking force that is being sent 
+to the front brakes. Values above 50% result in more pressure 
+being sent to the front, while values less than 50% send more 
+force to the rear. This should be tuned for both driver preference 
+and track conditions to get the optimum braking performance for 
+a given situation.
+
+--- PAGE 11 ---
+
+11
+ARCA CARS | USER MANUAL
+ARCA CARS | ADVANCED SETUP OPTIONS | CHASSIS
+FRONT ARB
+DIAMETER
+The Front Anti-Roll Bar (ARB, or Sway Bar) diameter affects the roll 
+stiffness of the front suspension. Increasing the diameter of the ARB 
+will result in a higher roll stiffness on the front suspension, helping 
+to keep the chassis flat relative to the racing surface, but can also 
+increase understeer. 
+LINE SLACK
+The left-side sway bar linkage can be adjusted to either delay bar 
+engagement or apply a static load to the bar. The linkage itself is a 
+slider-type linkage, and any positive link slack will require the left-
+front wheel to travel prior to the ARB experiencing any load. This 
+adjustment directly affects the bar’s Preload, outlined below.
+PRELOAD
+The ARB Preload is the static load in the bar while the vehicle is in 
+the garage. Preload adjustments can be used to alter the dynamic 
+loads in the bar while on track, and can be used to remove or add 
+bar load in the corners and on the straights.
+On ovals, the preload will never go above zero. A preload display of 
+zero with a positive Link Slack value indicates a configuration where 
+the suspension must take up slack in the bar before loading the bar. 
+This is useful for allowing the car to drop down from the required 
+ride heights without putting any load into the bar, which can help 
+keep the front end down at high-speed tracks.
+For road courses, preload can be either positive or negative, but 
+should be kept near zero.
+ATTACH
+A quick way to unhook the anti-roll bar to allow for static suspension 
+adjustments without bar twist confusing things; increase link slack 
+and unhook the ARB before making spring/ride height adjustments; 
+attach and reduce link slack (ARB preload) when done. 
+
+--- PAGE 12 ---
+
+12
+ARCA CARS | USER MANUAL
+ARCA CARS | ADVANCED SETUP OPTIONS | CHASSIS
+FRONT CORNERS
+COIL BINDING & “PIGTAIL ” SPRINGS
+The front suspension for the ARCA Series Cars emulates “pigtail”-
+style coil-bind springs. Coil-binding is when the coils in a spring are 
+all in contact with each other, thus creating a “solid” suspension 
+element. Instead of binding the full spring (coils are in contact all the 
+way around the spring), a “Pigtail” spring binds only one side of the 
+spring using a specially-shaped lower spring perch to compress only 
+one side of the spring. This produces both a very soft initial rate and 
+allows for a very stiff rate at full travel, providing a low dynamic ride 
+height, a more compliant suspension when compared to a traditional 
+coil-bind setup, and excellent aerodynamic platform control at the 
+low heights.
+This effect is created with a two-stage, progressive front spring rate. 
+When the chassis is up above the minimum ride heights the springs 
+will be very soft, around 200 lb/in. As the suspension travels while 
+on track from building aerodynamic loads the springs will eventually 
+bind and transition to a much stiffer second rate, selected in the 
+garage. The point where this transition happens is controlled by the 
+Spring Angle setting, described in more detail in its own section. For 
+more information on tuning front ride heights with this suspension 
+system, see the “Setup Tips” section at the end of this guide.
+CORNER WEIGHT
+The weight underneath each tire under static conditions in the 
+garage. Correct weight arrangement around the car is crucial for 
+optimizing a car for a given track and conditions. Individual wheel 
+weight adjustments and crossweight adjustments are made via the 
+Spring Perch Offset setting.
+RIDE HEIGHT
+Distance from ground to the bottom of the chassis frame rail 
+just behind the wheel well and can be roughly identified via the 
+skirt rivets at the bottom of the door. Since these values are 
+measured to a specific reference point on the car, these values 
+may not necessarily reflect the vehicle’s ground clearance, but 
+instead provide a reliable value for the height of the car off of 
+the race track at static values. Adjusting Ride Heights is key for 
+optimum performance, as they can directly influence the vehicle’s 
+aerodynamic performance as well as mechanical grip. 
+SPRING PERCH OFFSET
+Spring perch offset is used to adjust ride height and corner weight. 
+Adjusting this setting changes the preload on the spring under static 
+conditions. Decreasing the value increases preload on the spring, 
+adding weight to its corner and increasing the ride height at that 
+corner. Increasing the value does the opposite, reducing height and 
+weight on a given corner. These should be adjusted in pairs (left and 
+right, for example) or with all four spring preload adjustments in the 
+car to prevent crossweight changes while adjusting ride height.
+SPRING RATE
+Spring Rate changes how stiff the spring is, represented in a force 
+per unit of displacement. Primarily responsible for maintaining ride 
+height and a good attitude under changing wheel loads, stiffer 
+springs will maintain the car’s attitude better while sacrificing 
+mechanical grip. Softer springs will deal with bumps better and 
+increase mechanical grip, however this could cause the chassis to 
+pitch and roll too much, hurting aerodynamic performance at faster 
+tracks. The front Spring Rate values represent the spring stiffness 
+once the spring is bound, with the rate prior to that being a constant 
+rate around 200lb/in.
+
+--- PAGE 13 ---
+
+13
+ARCA CARS | USER MANUAL
+ARCA CARS | ADVANCED SETUP OPTIONS | CHASSIS
+SPRING ANGLE
+Spring angle changes the position of the lower spring perch within 
+the lower control arm spring bucket. This value rotates the spring 
+perch around the spring’s center axis, relocating the highest point 
+of the perch farther inboard or outboard to change how the spring 
+binds in travel and the spring rate transitions from the softer initial 
+rate to the rate selected in the Spring Rate option. Higher angle 
+values will reduce the amount of suspension travel necessary to 
+reach the spring rate transition while lower values will increase the 
+amount of travel necessary.
+LS COMPRESSION
+Low-Speed (LS) Compression affects how resistant the shock is to 
+compression (reduction in length), usually in chassis movements 
+as a result of driver input, such as the front shocks under braking. 
+Higher LS Compression settings will prevent the shock from 
+compressing quickly and can quickly increase the load transferred to 
+the wheel when the suspension is in compression, but can prevent 
+the suspension from absorbing smaller bumps and dips in the track. 
+Lower LS compression settings will allow for better bump absorption, 
+but can hurt aerodynamic stability due to excessive body movement 
+with driver inputs.
+HS COMP SLOPE
+The High-Speed Compression can be further tuned with the 
+Compression Slope setting. This setting shifts the high-speed 
+adjustment of the shocks higher or lower, allowing for a wider range 
+of options for various track conditions. Higher slope settings will 
+produce a more linear compression setting, with compression force 
+increasing with velocity. These settings are good for very bumpy 
+surfaces to keep the shock from “blowing out” over large bumps, 
+preventing the chassis from striking the racing surface. Lower slope 
+settings will produce a more digressive compression setting, with 
+forces not increasing significantly as velocity increases. This is 
+good for smoother tracks where large suspension movement is not 
+expected. When tuning shocks for a track, change the slope setting 
+first to suit the track, then fine-tune the shock using the high- and 
+low-speed settings.
+LS REBOUND
+Low-Speed (LS) Rebound affects how resistant the shock is to 
+extension (increase in length), typically during body movement as a 
+result of driver inputs, such as the rear shocks under braking. Higher 
+rebound values will slow extension of the shock, lower values will 
+allow the shock to extend faster. Higher rebound values can better 
+control aerodynamic attitude but can result in the wheel being 
+unloaded when the suspension can’t extend enough to maintain 
+proper contact with the track. Excessive front rebound can lead to 
+unwanted oscillations due to the wheel bouncing off of the track 
+surface instead of staying in contact.
+HS REBOUND SLOPE
+The High-Speed Rebound can be further tuned with the Rebound 
+Slope setting. This setting shifts the high-speed adjustment of 
+the shocks higher or lower, allowing for a wider range of options 
+for various track conditions. Higher slope settings will produce a 
+more linear rebound setting, with rebound force increasing steadily 
+with velocity. These values will give a more controlled damping 
+characteristic over very bumpy surfaces. Lower values will result 
+in a more digressive rebound curve, which is good for 
+smoother surfaces.
+CAMBER
+Camber is the vertical angle of the wheel relative to the center of 
+the chassis. Negative camber is when the top of the wheel is closer 
+to the chassis centerline than the bottom of the wheel, positive 
+camber is when the top of the tire is farther out than the bottom. 
+Greater camber angles will increase the cornering force generated 
+by the tire, but will reduce the amount of longitudinal grip the tire 
+will have under braking. Excessive camber values can produce very 
+high cornering forces but will also significantly reduce tire life, so 
+it is important to find a balance between life and performance. For 
+ovals, set the left side positive and the right side negative. For road 
+courses, all four wheels should be set with negative camber.
+CASTER
+How much the steering axis is leaned back (positive) or forward 
+(negative), which influences dynamic load jacking effects as the 
+car is steered. More positive caster results in a heavier steering feel 
+but decreases dynamic crossweight while turning, as well as adding 
+straight-line stability. Running less caster on the left-front will cause 
+the vehicle to pull to the left, a desirable effect on ovals.
+TOE-IN
+Toe is the angle of the wheel, when viewed from above, relative to 
+the centerline of the chassis. Positive toe-in is when the front of 
+the wheel is closer to the centerline than the rear of the wheel, and 
+negative toe-in (toe-out) is when the front of the wheel is farther 
+away from the centerline than the rear of the wheel. On the front, 
+toe-out is generally preferred. More toe-out typically provides better 
+turn in and straight line stability, but at the cost of increased tire 
+temperature and wear.
+
+--- PAGE 14 ---
+
+14
+ARCA CARS | USER MANUAL
+ARCA CARS | ADVANCED SETUP OPTIONS | CHASSIS
+REAR CORNERS
+CORNER WEIGHT
+The weight underneath each tire under static conditions in the 
+garage. Correct weight arrangement around the car is crucial for 
+optimizing a car for a given track and conditions. Individual wheel 
+weight adjustments and crossweight adjustments are made via the 
+Spring Perch Offset setting.
+RIDE HEIGHT
+Distance from ground to a reference point on the chassis. Since 
+these values are measured to a specific reference point on the 
+car, these values may not necessarily reflect the vehicle’s ground 
+clearance, but instead provide a reliable value for the height of the 
+car off of the race track at static values. Adjusting Ride Heights is 
+key for optimum performance, as they can directly influence the 
+vehicle’s aerodynamic performance as well as mechanical grip. 
+Increasing rear ride height will increase rear downforce as well as 
+slightly increasing overall downforce and drag. Conversely, reducing 
+rear ride height will reduce rear downforce and reduce overall 
+downforce and reduce drag. See the Setup Tips section for more 
+info on rear height targets.
+SPRING PERCH OFFSET
+Spring perch offset is used to adjust ride height and corner weight. 
+Adjusting this setting changes the preload on the spring under static 
+conditions. Decreasing the value increases preload on the spring, 
+adding weight to its corner and increasing the ride height at that 
+corner. Increasing the value does the opposite, reducing height and 
+weight on a given corner. These should be adjusted in pairs (left and 
+right, for example) or with all four spring preload adjustments in the 
+car to prevent crossweight changes while adjusting ride height.
+SPRING RATE
+Spring Rate changes how stiff the spring is, represented in force 
+per unit of displacement. Primarily responsible for maintaining ride 
+height and aerodynamic attitude under changing wheel loads, stiffer 
+springs control the chassis attitude better (less roll or pitch change) 
+which is good for aerodynamics and camber control, but mechanical 
+grip is often better with softer springs which allow for more track 
+surface compliance but reduce aerodynamic control. For ovals, a 
+softer left-rear spring (relative to the right-rear) is desired to prevent 
+the dynamic cross from being too high in the corners.
+LS COMPRESSION
+Low-Speed (LS) Compression affects how resistant the shock is to 
+compression (reduction in length), usually in chassis movements 
+as a result of driver input, such as the front shocks under braking. 
+Higher LS Compression settings will prevent the shock from 
+compressing quickly and can quickly increase the load transferred to 
+the wheel when the suspension is in compression, but can prevent 
+the suspension from absorbing smaller bumps and dips in the track. 
+Lower LS compression settings will allow for better bump absorption, 
+but can hurt aerodynamic stability due to excessive body movement 
+with driver inputs.
+HS COMP SLOPE
+The High-Speed Compression can be further tuned with the 
+Compression Slope setting. This setting shifts the high-speed 
+adjustment of the shocks higher or lower, allowing for a wider range 
+of options for various track conditions. Higher slope settings will 
+produce a more linear compression setting, with compression force 
+increasing with velocity. These settings are good for very bumpy 
+surfaces to keep the shock from “blowing out” over large bumps, 
+preventing the chassis from striking the racing surface. Lower slope 
+settings will produce a more digressive compression setting, with 
+forces not increasing significantly as velocity increases. This is 
+good for smoother tracks where large suspension movement is not 
+expected. When tuning shocks for a track, change the slope setting 
+first to suit the track, then fine-tune the shock using the high- and 
+low-speed settings.
+
+--- PAGE 15 ---
+
+15
+ARCA CARS | USER MANUAL
+ARCA CARS | ADVANCED SETUP OPTIONS | CHASSIS
+LS REBOUND
+Low-Speed (LS) Rebound affects how resistant the shock is to 
+extension (increase in length), typically during body movement as a 
+result of driver inputs, such as the rear shocks under braking. Higher 
+rebound values will slow extension of the shock, lower values will 
+allow the shock to extend faster. Higher rebound values can better 
+control aerodynamic attitude but can result in the wheel being 
+unloaded when the suspension can’t extend enough to maintain 
+proper contact with the track. Excessive front rebound can lead to 
+unwanted oscillations due to the wheel bouncing off of the track 
+surface instead of staying in contact.
+HS REBOUND SLOPE
+The High-Speed Rebound can be further tuned with the Rebound 
+Slope setting. This setting shifts the high-speed adjustment of 
+the shocks higher or lower, allowing for a wider range of options 
+for various track conditions. Higher slope settings will produce a 
+more linear rebound setting, with rebound force increasing steadily 
+with velocity. These values will give a more controlled damping 
+characteristic over very bumpy surfaces. Lower values will result 
+in a more digressive rebound curve, which is good for 
+smoother surfaces.
+CAMBER
+Camber is the vertical angle of the wheel relative to the center of 
+the chassis. Negative camber is when the top of the wheel is 
+closer to the chassis centerline than the bottom of the wheel, 
+positive camber is when the top of the tire is farther out than the 
+bottom. Due to suspension geometry and corner loads, negative 
+camber is desired on all four wheels on road courses, but on ovals 
+positive camber is desired on the left sides. Higher camber values 
+will increase the cornering force generated by the tire, but will 
+reduce the amount of grip the tire will have on throttle. Excessive 
+camber values can produce very high cornering forces but will 
+also significantly reduce tire life, so it is important to find a balance 
+between life and performance.
+TOE-IN
+Rear toe in this vehicle serves to introduce “Skew”, where the vehicle 
+travels through the air with a non-zero amount of yaw relative to the 
+direction of airflow, producing Sideforce. Setting the right-rear to a 
+negative value and the left-rear to a positive value will add positive 
+Skew, decreasing dynamic crossweight and shifting aero balance 
+forward slightly. Setting the right-rear to a positive value and left-
+rear to a negative value will add negative Skew, reducing sideforce 
+and shifting the rear spoiler behind the greenhouse. Positive skew is 
+useful at large short tracks and intermediate tracks, while negative 
+skew will reduce drag for superspeedways and aid in drive-off for 
+smaller short tracks.
+TRACK BAR HEIGHT
+The rear axle is held in place laterally via a Track Bar, mounted to 
+the left side of the rear axle housing and to the chassis frame on 
+the right side. Overall height of the track bar dictates roll center 
+location for the rear suspension and thus affects roll stiffness, with 
+a higher track bar increasing rear roll stiffness and shifting the 
+chassis balance to oversteer. Lower track bar settings will increase 
+lateral traction due to a reduction in roll stiffness and roll center 
+height. The track bar end heights can also be set to different values, 
+known as “rake” or “split”. A positive track bar rake, with the right-
+side mounted higher, will increase oversteer on corner exit, as well 
+as adding skew through vertical travel. Negative track bar rake 
+will increase traction on corner exit, but will remove skew through 
+vertical travel.
+Track Bar heights are shown as live values relative to the ground in 
+the garage. Since the Right Rear mount is on the chassis itself, this 
+value will change whenever ride height changes are made, while 
+the Left Rear mount (which is on the rear axle tube) will only change 
+significantly for tire pressure adjustments.
+
+--- PAGE 16 ---
+
+16
+ARCA CARS | USER MANUAL
+REAR
+ARCA CARS | ADVANCED SETUP OPTIONS | CHASSIS
+REAR END RATIO
+The Rear End Gear Ratio is the ratio between the driveshaft pinion 
+and the differential ring gear. Higher number values produce better 
+acceleration but reduce top speed, lower number values reduce 
+acceleration but result in a higher top speed.
+ARB DIAMETER
+The Rear Anti-Roll Bar (ARB, or Sway Bar) diameter affects the 
+roll stiffness of the rear suspension. Increasing the diameter of 
+the ARB will result in a higher roll stiffness on the rear suspension, 
+increasing oversteer, while reducing the ARB diameter will reduce 
+roll stiffness and increase understeer. A rear ARB is only available 
+at Road Courses.
+PRELOAD
+The ARB Preload is the static load in the bar while the vehicle is 
+in the garage. Since a rear ARB is only available at Road Course 
+circuits, it is best to keep this value as close to zero as possible 
+when using a rear ARB to prevent asymmetric handling issues. When 
+the rear ARB is not in use, this setting has no effect on the chassis.
+ATTACH
+A quick way to unhook the anti-roll bar to allow for static suspension 
+adjustments without bar twist confusing things; increase link slack 
+and unhook the ARB before making spring/ride height adjustments; 
+attach and reduce link slack (ARB preload) when done.
+
+--- PAGE 17 ---
+
+17
+ARCA CARS | USER MANUAL
+SETUP TIPS
+This section is aimed toward helping users who want to dive deeper 
+into the different aspects of the vehicle’s setup.
+ARCA CARS | SETUP TIPS 
+
+--- PAGE 18 ---
+
+18
+ARCA CARS | USER MANUAL
+ARCA CARS | SETUP TIPS 
+SETUP TIPS
+RIDE HEIGHTS & ATTITUDE
+FIXED SETUP RACING
+The ARCA Series Cars are an excellent step into the high-level oval 
+side of iRacing’s service, featuring a high amount of power paired 
+with a good amount of downforce and sideforce making the power 
+and speeds easy to handle for drivers of all skill levels.
+As with the NASCAR Trucks, aerodynamic performance is just under 
+what is necessary to be able to run wide-open at many tracks, 
+As with all oval cars, the setup process involves hitting 
+predetermined height targets in the corners and finding a way 
+to keep the chassis and body in that position as long and as 
+consistently as possible. Your targets for chassis setup will be a 
+minimum valence height and a rear height range, measured at the 
+Right Rear Ride Height (RRRideHeight) telemetry trace.
+VALENCE HEIGHT
+Unlike modern NASCAR cars the ARCA Series still uses a composite 
+valence, or air dam, instead of a flat splitter on the front of the car. 
+These tend to be less sensitive to overall height and are typically 
+more forgiving with height variations through the corner, but can 
+be over-traveled or set too high. Generally the most efficient height 
+is around 0.25” or just above 6mm, measured via the telemetry 
+channel CFSRrideheight. Generally, if the valence is higher than 
+this, aerodynamic balance will shift forward (more oversteer) with 
+less overall downforce, while lower heights will increase overall 
+downforce and shift the balance rearward for more understeer.
+Tuning the valence height is relatively a relatively simple process and 
+can be done in three steps:
+• Spring Rate selection
+• Spring Angle setting
+• Spring Perch Offset adjustment
+so a keen sense of how much grip is available and skillful throttle 
+modulation is key to fast lap times. Generally, in race trim, it’s often 
+going to be faster to crack the throttle slightly on entry and let the 
+car fall into the corner than to stay wide open and fight the front 
+tires to reach the line you want to run. 
+Selecting spring rates is going to come down to personal preference 
+and track characteristics. Tracks with high loads or very smooth 
+surfaces can use very stiff spring rates, while rougher tracks or 
+tracks with lower cornering speeds may see better performance with 
+slightly softer spring rates. Further, some drivers may prefer one 
+spring stiffer than the other or both the same rate, but this will come 
+down to testing configurations and finding which you like the best.
+Pigtail-style coil bind springs only bind one half of the spring while 
+the other half is left to act as a working spring. The Spring Angle 
+setting rotates the lower spring perch within the lower control arm 
+spring bucket to change how far inboard the bound half of the 
+spring is on the suspension, changing how much suspension travel 
+is available before the Spring Rate chosen in the previous step takes 
+over. Increasing the Angle value will reduce suspension travel and 
+cause the valence to run higher while reducing the angle will allow 
+more travel before the spring rate transition and lower the valence. 
+Use this Spring Angle value to get the front end as close to the 
+target value as you can, then move to the Spring Perch Offsets.
+Since the Pigtail springs work entirely within the main spring, the 
+Spring Perch Offset values can be used to fine-tune the front-end 
+ride heights once the height has been roughed-in with the Spring 
+Angle. Increasing the Spring Perch Offset values (right clicks in the 
+garage) will lower the static ride height and lower the splitter height 
+when loaded in the corner. Conversely, decreasing the values (left-
+clicks) will raise the front of the car and the splitter’s dynamic height 
+in the corner. If large Spring Perch Offset changes are needed, it’s 
+usually best to go back to the Spring Angle and change that value 
+instead of large Perch changes. 
+The ARCA Series official races will be a fixed-setup affair, so very 
+little is available to tune the car to individual preferences. Steering 
+Ratio can be altered to fit various driving styles, but it’s very 
+important to understand this does not change the car’s handling 
+characteristics, only how much steering input is required to navigate 
+a corner. For drivers who feel the car doesn’t respond well to the 
+steering input they are using, a faster (lower-ratio) box should help. 
+If the car is too darty, or a driver’s steering input is too excessive 
+and slides the front tires, a slower (higher-ratio) box will dull the 
+response and straighten the front wheels at the same inputs.
+For users who participate in open-setup races, such as hosted races 
+or leagues, tips on chassis setup can be found below.
+
+--- PAGE 19 ---
+
+19
+ARCA CARS | USER MANUAL
+ARCA CARS | SETUP TIPS 
+REAR RIDE HEIGHTS & REAR SPRINGS
+Rear ride heights are best run in a range of heights for most 
+situations. The cars will generate the most downforce when the rear 
+end is between around 4.0” and 5.0” (100-127mm). Running the rear 
+higher than this range will add very little downforce but a lot of drag 
+and is not recommended. Running lower than this range can reduce 
+drag and downforce for tracks with the highest top speeds but can 
+risk damaging the underside of the car.
+Choosing rear spring rates is much simpler than choosing front 
+spring rates, as the rears are purely linear and each spring has its 
+own specific purpose. The simplest way to approach rear springs 
+is to set the Right-Rear spring for the target rear height and adjust 
+the Left-Rear spring for handling and roll, with the Right-Rear spring 
+generally being a few times stiffer than the Left-Rear. Generally you 
+will want the stiffest Right-Rear spring spring you can handle and 
+then fine-tune the dynamic height with the Perches. For the Left-
+Rear, softening the spring will roll the chassis to the left and free the 
+chassis up through the corner while stiffening the spring will raise 
+the left side of the chassis and tighten the car through the corner.
+One of the most important settings in the garage is the crossweight, 
+or the percentage of the chassis’ total weight on the Right-Front 
+and Left Rear as a percentage. This value is a major factor in the 
+mechanical handling balance and how the car will get into and out 
+of the corner. 
+To adjust crossweight without introducing other issues, 
+follow these steps:
+• Note the current Front ARB Preload and disconnect the bar. 
+Once disconnected, increase the Link Slack option to a large 
+positive value, which will prevent the bar from influencing other 
+adjustments while disconnected. 
+ - If the bar has a large amount of preload this may cause 
+ the ride heights to move into illegal ranges. This is okay, as 
+ they should return to legal ranges when the bar is 
+ reattached and loaded.
+• Using the Spring Perch Offsets, adjust the crossweight by 
+making the following changes: 
+ - Increase Crossweight 
+ - Right Rear - Right Click (Increase value, 
+ decrease corner weight) 
+ - Left Rear - Left Click (Decrease value, increase 
+ corner weight) 
+ - Left Front - Right Click (Increase value, 
+ decrease corner weight) 
+ - Right Front - Left Click (Decrease value, 
+ increase corner weight) 
+ - Decrease Crossweight 
+ - Right Rear - Left Click (Decrease value, 
+ increase corner weight) 
+ - Left Rear - Right Click (Increase value, 
+ decrease corner weight) 
+ - Left Front - Left Click (Decrease value, 
+ increase corner weight) 
+ - Right Front - Right Click (Increase value, 
+ decrease corner weight)
+CROSSWEIGHT
+• If you’re new to the setup process, keep these adjustments 
+to one or two clicks at a time and watch what happens to the 
+chassis. If you’re comfortable with the adjustments, multiple 
+clicks (Shift-Click is equal to 5 clicks) can be made as long 
+as you keep track of everything that’s changing. Always pay 
+attention to the ARB preload to make sure it stays at zero 
+during crossweight adjustments. If it registers a value, simply 
+adjust the Link Slack to remove the preload and continue with 
+weight adjustments.
+• Once the desired crossweight change has been made, reattach 
+the ARB and preload the bar to what it was initially. Following 
+these steps you should now have a change in crossweight with 
+almost no change in ride heights or alignment!
+For the front spring perches, users may notice these adjustments 
+produce far less of a result than the rear perches, which is caused 
+by the very soft front springs when the car is in the garage. In some 
+cases, doubling the number of “clicks” to front perches will help keep 
+everything working together.
+Deciding on a crossweight adjustment is usually fairly simple, it will 
+come down to how the car is behaving through the center and on 
+throttle application. If the car understeers through the center or 
+has too much rear traction on throttle causing understeer on exit, 
+decrease the crossweight. If the car oversteers through the center 
+or the rear tires spin too easily on initial throttle, increase 
+the crossweight.
+It is also very important to focus on crossweight adjustments 
+progressively through the corner: Start with entry and work on 
+the car around the corner. It’s very easy to fall into the trap where 
+the rear of the car loses grip on exit and the driver wants more 
+crossweight to correct that, when the root cause is understeer 
+through the center of the corner. This understeer will result in the 
+driver applying too much steering input and over-slipping the front 
+tires, which “bite” as steering is removed through corner exit and 
+
+--- PAGE 20 ---
+
+20
+ARCA CARS | USER MANUAL
+causing the rear to lose traction. In this situation, adding crossweight 
+will make the center of the corner worse and potentially make the 
+car “looser” on exit. This pitfall can be avoided by looking at the tire 
+temperatures screen (after a steady run without spins) and noting 
+whether the temperatures show hotter on the RF than the RR tire, an 
+indication that the car is understeering and the crossweight needs to 
+be reduced. This will often, counter-intuitively, tighten the car on exit 
+and free the car up through the center.
+ARCA CARS | SETUP TIPS 
+ADJUSTING FOR WEATHER AND TIME-OF-DAY
+Varying weather conditions and race start times can greatly affect 
+the amount of grip available from the track surface. Hotter track 
+temperatures will produce less grip and often cause the car to 
+oversteer, especially on throttle, while cooler tracks will increase grip 
+and shift the balance towards understeer. To correct for weather 
+and track temperature changes, the only adjustment needed is 
+crossweight: Increase crossweight for warmer temperatures, 
+decrease it for cooler temperatures.
+FINAL CONSIDERATIONS
+Once these areas of the setup are complete you can move onto finer 
+details like shocks and alignments. These settings will be dependent 
+on the spring package and track characteristics, so don’t be afraid 
+to test various settings to see what works for you. The Fixed setups
+provided with the car are close to where the car would like to be run 
+as far as heights and weight balance, but are tuned more towards 
+mild understeer to make the car more approachable. Keep it simple, 
+make small adjustments, and you should be able to get wherever 
+you want to go!

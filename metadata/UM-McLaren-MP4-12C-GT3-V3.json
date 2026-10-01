@@ -1,0 +1,28 @@
+{
+  "vehicle": "McLaren MP4 12C GT3",
+  "manufacturer": "McLaren",
+  "manufacturer_source": "filename",
+  "class": "NASCAR",
+  "manual_type": "vehicle",
+  "topics": [
+    "aerodynamics",
+    "brakes",
+    "dampers",
+    "differential",
+    "hybrid",
+    "suspension",
+    "tires",
+    "traction_control"
+  ],
+  "sections": [
+    "Tires & Aero",
+    "Chassis",
+    "Dampers",
+    "Differential",
+    "Brakes",
+    "Fuel",
+    "Traction Control"
+  ],
+  "word_count": 5723,
+  "source_text": "UM-McLaren-MP4-12C-GT3-V3.txt"
+}

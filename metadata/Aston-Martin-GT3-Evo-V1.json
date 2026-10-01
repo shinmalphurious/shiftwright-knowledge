@@ -1,0 +1,28 @@
+{
+  "vehicle": "Aston Martin GT3 Evo",
+  "manufacturer": "Aston Martin",
+  "manufacturer_source": "filename",
+  "class": "NASCAR",
+  "manual_type": "vehicle",
+  "topics": [
+    "aerodynamics",
+    "brakes",
+    "dampers",
+    "differential",
+    "suspension",
+    "tires",
+    "traction_control"
+  ],
+  "sections": [
+    "Tires & Aero",
+    "Setup Tips",
+    "Chassis",
+    "Dampers",
+    "Differential",
+    "Brakes",
+    "Fuel",
+    "Traction Control"
+  ],
+  "word_count": 7377,
+  "source_text": "Aston-Martin-GT3-Evo-V1.txt"
+}

@@ -1,0 +1,28 @@
+{
+  "vehicle": "Chevrolet Corvette Z06 GT3",
+  "manufacturer": "Chevrolet",
+  "manufacturer_source": "filename",
+  "class": "NASCAR",
+  "manual_type": "vehicle",
+  "topics": [
+    "aerodynamics",
+    "brakes",
+    "dampers",
+    "differential",
+    "suspension",
+    "tires",
+    "traction_control"
+  ],
+  "sections": [
+    "Tires & Aero",
+    "Setup Tips",
+    "Chassis",
+    "Dampers",
+    "Differential",
+    "Brakes",
+    "Fuel",
+    "Traction Control"
+  ],
+  "word_count": 7160,
+  "source_text": "Chevrolet-Corvette-Z06-GT3_manual_V2.txt"
+}

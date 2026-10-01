@@ -1,0 +1,26 @@
+{
+  "vehicle": "Super Formula SF23",
+  "manufacturer": "Toyota",
+  "manufacturer_source": "known_vehicle",
+  "class": "Formula",
+  "manual_type": "vehicle",
+  "topics": [
+    "aerodynamics",
+    "brakes",
+    "dampers",
+    "differential",
+    "suspension",
+    "tires",
+    "traction_control"
+  ],
+  "sections": [
+    "Tires & Aero",
+    "Chassis",
+    "Differential",
+    "Brakes",
+    "Fuel",
+    "Traction Control"
+  ],
+  "word_count": 5787,
+  "source_text": "Super-Formula-SF23_V4.txt"
+}

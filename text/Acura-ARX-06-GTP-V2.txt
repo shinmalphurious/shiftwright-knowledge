@@ -1,0 +1,925 @@
+--- PAGE 1 ---
+
+1
+ACURA ARX-06 GTP
+USER MANUAL
+
+--- PAGE 2 ---
+
+2
+ACURA ARX-06 GTP | USER MANUAL
+ Tire Data » 11
+ Front & Rear Aero » 12
+Tires & Aero » 11
+ ADVANCED SETUP OPTIONS
+TABLE OF CONTENTS
+CLICK TO VIEW A SECTION
+ Aero Calculator » 12
+Chassis » 13
+ Front » 13
+ Rear » 14
+ Front Corners » 15
+ Rear Corners » 16
+Dampers » 17
+Systems » 19
+ Lighting and Brake Spec » 19
+ Hybrid Config and Fuel » 20
+ Traction Control and Gear Ratios » 21
+Setup Tips » 23
+SETUP TIPS
+Introduction » 5
+Tech Specs » 4
+A Message From iRacing » 3
+ Getting Started » 5
+Dashboard » 7
+ Loading An iRacing Setup » 6
+ GENERAL INFORMATION
+
+--- PAGE 3 ---
+
+3
+DEAR iRACING USER,
+Congratulations on your purchase of the Acura ARX-06 GTP! From all of us at iRacing, we appreciate your 
+support and your commitment to our product. We aim to deliver the ultimate sim racing experience, and 
+we hope that you’ll find plenty of excitement with us behind the wheel of your new car! 
+The following guide explains how to get the most out of your new car, from how to adjust its settings 
+off of the track to what you’ll see inside of the cockpit while driving. We hope that you’ll find it useful in 
+getting up to speed. 
+Thanks again for your purchase, and we’ll see you on the track!
+
+--- PAGE 4 ---
+
+4
+ACURA ARX-06 GTP | USER MANUAL
+CHASSIS
+POWER 
+UNIT
+ACURA ARX-06 GTP | TECH SPECS
+DOUBLE WISHBONE WITH PUSHROD-
+ACTUATED INBOARD SPRINGS
+TWIN-TURBO V6 WITH BOSCH 
+MGU HYBRID SYSTEM
+LENGTH
+5100 mm
+200.8 in
+WIDTH
+2000 mm
+78.7 in
+DISPLACEMENT
+2.4 Liters
+146.5 CID
+TORQUE
+396 lb-ft
+537 Nm
+RPM LIMIT
+9985 RPM 
+POWER
+671 bhp
+500 kW
+WHEELBASE
+3148 mm
+124 in
+DRY WEIGHT
+1030 kg
+2271 lbs
+WET WEIGHT 
+WITH DRIVER
+1176 kg
+2594 lbs
+
+--- PAGE 5 ---
+
+5
+ACURA ARX-06 GTP | USER MANUAL
+INTRODUCTION
+The information found in this guide is intended to provide a deeper understanding of the chassis setup adjustments 
+available in the garage, so that you may use the garage to tune the chassis setup to your preference.
+Before starting the car, it is recommended to map controls to
+adjust the Brake Bias and Traction Control systems. While this is
+not mandatory to drive the car, this will allow you to make quick 
+changes to the driver aid systems to suit your driving style while
+out on the track. 
+ACURA ARX-06 GTP | INTRODUCTION
+GETTING STARTED
+Once you load into the car, getting started is as easy as selecting 
+the “upshift” button to put it into gear, and hitting the accelerator 
+pedal. This car uses a sequential transmission and does not require 
+a clutch input to shift up or down. However, the car’s downshift 
+protection will not allow you to downshift if it feels you are traveling 
+too fast for the gear selected and would incur engine damage.
+In these situations the downshift command will simply be ignored.
+Upshifting is recommended when all of the shift lights on the 
+steering wheel have changed to red.
+Before diving into chassis adjustments, though, it is best to become 
+familiar with the car and track. To that end, we have provided 
+baseline setups for each track commonly raced by these cars. To 
+access the baseline setups, simply open the Garage, click iRacing 
+Setups, and select the appropriate setup for your track of choice.
+If you are driving a track for which a dedicated baseline setup is not 
+included, you may select a setup for a similar track to use as your 
+baseline.
+After you have selected an appropriate setup, get on track and focus 
+on making smooth and consistent laps, identifying the proper racing 
+line and experiencing tire wear and handling trends over a number of 
+laps.
+Once you are confident that you are nearing your driving potential 
+with the included baseline setups, read on to begin tuning 
+the car to your handling preferences.
+
+--- PAGE 6 ---
+
+6
+ACURA ARX-06 GTP | USER MANUAL
+LOADING AN iRACING SETUP
+Upon loading into a session, the car will automatically load the 
+iRacing Baseline setup [baseline.sto]. If you would prefer one of 
+iRacing’s pre-built setups that suit various conditions, you may load
+it by clicking Garage > iRacing Setups > and then selecting the setup 
+to suit your needs.
+If you would like to customize the setup, simply make the changes 
+in the garage that you would like to update and click apply. If you 
+would like to save your setup for future use click “Save As” on the 
+right to name and save the changes. 
+ACURA ARX-06 GTP | INTRODUCTION
+To access all of your personally saved setups, click “My Setups” on 
+the right side of the garage. If you would like to share a setup with 
+another driver or everyone in a session, you can select “Share” on 
+the right side of the garage to do so. 
+If a driver is trying to share a setup with you, you will find it under 
+“Shared Setups” on the right side of the garage as well. 
+
+--- PAGE 7 ---
+
+7
+ACURA ARX-06 GTP | USER MANUAL
+ACURA ARX-06 GTP | DASH PAGES
+DASH CONFIGURATION
+Vital information relating to the car’s performance and driver-adjustable settings can all be found on the digital display 
+integrated into the Acura ARX-06’s steering wheel.
+Lap Time Data
+A banner across the top of the display shows information about the current and previous lap 
+times. The left box displays the previously completed lap, the middle box shows the current time 
+delta to the best lap time in the session, and the right box shows the predicted lap time for the 
+current lap. The split box and the predicted lap time update live (but stop briefly when a sector 
+is completed), with the split box turning red for a slower lap and green for a faster lap.
+E Displays the currently active Hybrid deploy mode
+F Amount of fuel remaining in the tank, shown as a percentage
+SoC %
+Current Hybrid System State of Charge, or how much energy is remaining in the battery storage 
+system
+Laps Number of laps completed in the session
+TC1 Map Currently active Traction Control Slip setting
+TC2 Map Currently active Traction Control Gain setting
+TMOT Engine cooling (water) temperature
+TOIL Engine oil temperature
+Gear Indicator Currently selected gear, shown in the center of the display
+Tire Pressures Live tire pressures, shown below the Gear Indicator for each tire
+Tire Surface Temperature Live surface tire temperature for each tire
+BAL Current Brake Bias setting
+F REM Amount of fuel remaining
+ARB F/R Currently selected Front (blue) and Rear (red) ARB settings
+F LAP Amount of fuel used in the previous lap
+POIL Engine Oil Pressure
+PWAT Engine Water Pressure
+
+--- PAGE 8 ---
+
+8
+ACURA ARX-06 GTP | USER MANUAL
+ACURA ARX-06 GTP | DASH PAGES
+WHEELSPIN / BRAKE LOCK INDICATOR LIGHTS
+Two sets of LED lights are situated behind the steering wheel on the dash to quickly communicate to the driver if 
+anywheelspin or brake lockup is occurring. The left LED cluster corresponds to the left wheels and the right cluster 
+corresponds to the right wheels.
+Traction Control
+When the clusters light up all LEDs in blue the Traction Control system is intervening to reduce 
+wheelspin. Severe cases of wheelspin and TC system activation will produce a solid blue light 
+and the lights will begin flashing for less amounts of TC intervention.
+Brake Lockup
+Whenever braking force is sufficient to begin locking a wheel the LEDs will illuminate to show 
+both which wheel is locking and how severe the lockup is. Pink lights indicate front wheel lockup 
+and yellow lights indicate rear wheel lockups, with lockups becoming more severe with more 
+LEDs illuminated. The image above shows both front wheels locked with a slight lockup on the 
+left-rear wheel.
+
+--- PAGE 9 ---
+
+9
+ACURA ARX-06 GTP | USER MANUAL
+ACURA ARX-06 GTP | DASH PAGES
+SHIFT LIGHTS
+PIT LIMITER
+Once the optimum shift point has been reached all LEDs will change to red and begin flashing.
+When the pit limiter is active the shift lights (and the status clusters on either side of the shift lights) will change to pink and a “SPEED” 
+indicator will appear at the top right of the steering wheel display. When the pit limiter is enabled and speed is above the pit road speed
+limit the center lights will be off. As speed decreases to the pit road speed limit the lights will illuminate and converge in the center until
+all lights are on, signaling the car is traveling at the pit road speed limit. The lights are tuned for 2nd gear RPMs only, running with the pit 
+limiter on in another gear won’t affect the pit road speed limit but will change how many lights are illuminated when the car is running at
+the pit road speed limit.
+The top of the steering wheel has a set of lights to help the driver know when to shift up to the next gear while accelerating. As RPM 
+increases, the lights will illuminate from the left to right starting with green and ending with two red LEDs on the right.
+
+--- PAGE 10 ---
+
+10
+ACURA ARX-06 GTP | USER MANUAL
+ADVANCED SETUP OPTIONS
+This section is aimed toward more advanced users who want to dive deeper into the different aspects of the 
+vehicle’s setup. Making adjustments to the following parameters is not required and can lead to significant 
+changes in the way a vehicle handles. It is recommended that any adjustments are made in an incremental fashion 
+and only singular variables are adjusted before testing changes.
+ACURA ARX-06 GTP | ADVANCED SETUP OPTIONS 
+
+--- PAGE 11 ---
+
+11
+ACURA ARX-06 GTP | USER MANUAL
+ACURA ARX-06 GTP | ADVANCED SETUP OPTIONS | TIRES & AERO 
+TIRE TYPE
+Selects which type of tire is installed on the car when loaded into the 
+world. Dry, or slick, tires are used for dry racing conditions while Wet 
+tires are intended for raining and wet track conditions.
+STARTING PRESSURE
+The air pressure in the tires when the car is loaded into the world. 
+Lower pressures will provide more grip but will produce more rolling 
+drag and build temperature faster. Higher pressures will feel slightly 
+more responsive and produce less rolling drag, but will result in 
+less grip. Generally, higher pressures are preferred at tracks where 
+speeds are higher while lower pressures work better at slower tracks 
+where mechanical grip is important.
+LAST HOT PRESSURE
+When the car returns to the garage after an on-track stint, the tire 
+pressure will be displayed as Hot Pressure. The difference between 
+cold and hot pressure is a good way to see how tires are being 
+loaded and worked while on track. Tires seeing more work will build 
+more pressure, and paying attention to which tires are building more 
+pressure and adjusting cold pressure to compensate can be crucial 
+for optimizing tire performance.
+TIRES & AERO
+TIRE DATA
+LAST TEMPS
+The tire carcass temperatures (measured within the tread) are 
+displayed after the car returns from the track. These temperatures 
+are an effective way to determine how much work or load a given tire 
+is experiencing while on track. Differences between the inner and 
+outer temperatures can be used to tune individual wheel alignment 
+and the center temperatures can be compared to the outer 
+temperatures to help tune tire pressure.
+TREAD REMAINING
+The amount of tread on the tire, displayed as a percentage of a new 
+tire, is shown below the tire temperatures. These values are good 
+for determining how far a set of tires can go before needing to be 
+replaced, but don’t necessarily indicate an under- or over-worked 
+tire in the same way temperatures will.
+
+--- PAGE 12 ---
+
+12
+ACURA ARX-06 GTP | USER MANUAL
+ACURA ARX-06 GTP | ADVANCED SETUP OPTIONS | TIRES & AERO 
+REAR WING ANGLE
+The Rear Wing Angle setting changes the angle of attack of
+the rear wing. Increasing the angle will increase the amount of 
+downforce produced and move the aero balance rearward but 
+will increase the amount of drag the wing produces. Reducing the 
+angle will reduce overall downforce and shift aero balance forward, 
+but will reduce drag and allow for a higher top speed. This angle 
+is expressed as a reference measurement, not an absolute angle 
+relative to the ground.
+AERO CALCULATOR
+The Aero Calculator is a tool used to display the car’s approximate 
+aerodynamic values in a given configuration. Changes to the car’s 
+aerodynamic settings will be reflected in the Aero Calculator, giving 
+an idea of how the car will behave aerodynamically while on the race 
+track. This calculator can also be used to determine what changes 
+need to be made to the car to alleviate aerodynamically-induced 
+handling issues.
+AERO SETTINGS
+FRONT/REAR RH AT SPEED
+The Ride Height (RH) at Speed is used to give the Aero Calculator 
+heights to reference for aerodynamic calculations. When using the 
+aero calculator, determine the car’s Front and Rear Ride height via 
+telemetry at any point on track and input that value into the “Front 
+RH at Speed” setting.
+DOWNFORCE BALANCE
+Displayed in percent of Front downforce, this value shows how 
+much of the car’s total downforce is over the front axle. A higher 
+percentage value indicates more front downforce, increasing 
+oversteer in mid- to high-speed corners and a lower percentage 
+value indicates more rear downforce, increasing understeer in
+mid- to high-speed corners.
+L/D
+The “L/D” value is the ratio of Lift (downforce) to Drag. This 
+quantifies how efficiently the car’s bodywork is producing downforce 
+in terms of how much drag is being produced as a result. A higher 
+L/D value means more downforce is being produced for each unit of 
+drag, meaning the bodywork is being more efficient. Having a higher 
+L/D value without sacrificing overall downforce will result in a faster, 
+more efficient car. Optimum values for L/D can vary based on the 
+aerodynamic configuration and track type.
+
+--- PAGE 13 ---
+
+13
+ACURA ARX-06 GTP | USER MANUAL
+ACURA ARX-06 GTP | ADVANCED SETUP OPTIONS | CHASSIS
+CHASSIS
+FRONT
+HEAVE SPRING
+The Heave Spring is a suspension element that handles loads 
+when the chassis moves in a purely vertical direction and does 
+not experience loads generated from chassis roll. The front Heave 
+Spring will influence the chassis’ handling balance during braking 
+and over bumps, but is primarily intended to control increasing 
+aerodynamic loads with higher speeds. Stiffer Heave Spring rates 
+will stiffen the suspension in vertical travel and result in a more 
+consistent aerodynamic platform but can reduce mechanical grip 
+over rough surfaces. Softer Heave Springs will increase mechanical 
+grip but could allow too much movement to keep the aerodynamic 
+behavior consistent.
+HEAVE PERCH OFFSET
+The Heave Perch Offset is a way to preload the Heave Spring 
+element, allowing front ride height changes without inducing any 
+asymmetric loading to the suspension. Decreasing the value will 
+preload the Heave spring and raise the front ride heights, increasing 
+the value will unload the spring and lower the front ride heights.
+HEAVE SPRING DEFLECTION
+The Heave Spring Deflection is how much the Heave Spring has 
+compressed from its free (unloaded) length. This is not directly 
+adjustable, but is altered as a result of other front suspension 
+adjustments, especially the Heave Perch Offset setting. Higher 
+deflection indicates the spring is under higher pre-load, lower 
+deflection indicates a more relaxed spring.
+HEAVE DAMPER DEFLECTION
+The Heave Damper Deflection is an indicator of how much travel 
+is available in the Heave element before bottoming out. This value 
+doesn’t represent any loading in the suspension, only the Heave 
+Damper’s position.
+PUSHROD LENGTH DELTA
+This adjusts the length of both front suspension pushrods together, 
+shown as an offset from a baseline length figure. This is a great
+way to adjust front ride height without altering the preload on the 
+Heave Spring.
+ARB SIZE
+The Anti-Roll Bar (ARB) is a spring device in the front suspension 
+that counteracts roll movement but not vertical loading. Changing 
+the ARB diameter will alter the front suspension’s roll stiffness and 
+handling balance: Stiffer ARB settings will increase front roll stiffness 
+and induce understeer, softer ARB settings will reduce stiffness 
+and reduce understeer. Disconnecting the bar will remove the ARB 
+from the suspension entirely and can greatly reduce mechanical 
+understeer, however this reduction in roll stiffness can hurt 
+aerodynamic performance in high-speed corners.
+ARB BLADES
+The ARB Blades (or arms) can be changed to further tune the 
+suspension roll stiffness beyond only the ARB size setting. This 
+option changes the orientation of the ARB blades and are given 
+numerical values for simplicity, with #1 being the softest option 
+and the blades becoming stiffer as the value is increased to the 
+maximum setting of #5. Based on stiffness the blade option will 
+produce the same result as a similar adjustment to the ARB Size: 
+Stiffer blade settings will increase front roll stiffness and induce 
+understeer while softer blade settings will reduce front roll stiffness 
+and reduce understeer. This setting can be adjusted in the car from 
+the F8 black box using the “FARB” setting.
+TOE-IN
+Toe is the angle of the wheel, looking from vertical, relative to the 
+chassis centerline. Toe-in is when the front of the wheels are closer 
+to the centerline while Toe-out is when the front of the wheels are 
+farther from the centerline than the rear of the tires. On the front 
+end, Toe will alter how quickly the tires respond to steering inputs 
+and influence how stable the car is in a straight line. Toe-out settings 
+(negative garage value) will increase turn-in response and make 
+the car less stable in a straight line, while Toe-in (positive garage 
+value) will increase straight-line stability while making initial steering 
+response more sluggish.
+
+--- PAGE 14 ---
+
+14
+ACURA ARX-06 GTP | USER MANUAL
+ACURA ARX-06 GTP | ADVANCED SETUP OPTIONS | CHASSIS
+CHASSIS
+REAR
+HEAVE SPRING
+The Heave Spring is a suspension element that handles loads
+when the chassis moves in a purely vertical direction and does
+not experience loads generated from chassis roll. The rear Heave 
+Spring will influence the chassis’ handling balance during braking 
+and over bumps, but is primarily intended to control increasing 
+aerodynamic loads with higher speeds. Stiffer Heave Spring rates 
+will stiffen the suspension in vertical travel and result in a more 
+consistent aerodynamic platform but can reduce mechanical grip 
+over rough surfaces. Softer Heave Springs will increase mechanical 
+grip but could allow too much movement to keep the aerodynamic 
+behavior consistent.
+HEAVE PERCH OFFSET
+The Heave Perch Offset is a way to preload the Heave Spring 
+element, allowing rear ride height changes without inducing any 
+asymmetric loading to the suspension. Decreasing the value will 
+preload the Heave spring and raise the rear ride heights, increasing 
+the value will unload the spring and lower the rear ride heights.
+HEAVE SPRING DEFLECTION
+The Heave Spring Deflection is how much the Heave Spring
+has compressed from its free (unloaded) length. This is not
+directly adjustable, but is altered as a result of other rear
+suspension adjustments, especially the Heave Perch Offset setting.
+Higher deflection indicates the spring is under higher pre-load, lower 
+deflection indicates a more relaxed spring.
+HEAVE DAMPER DEFLECTION
+The Heave Damper Deflection is an indicator of how much travel 
+is available in the Heave element before bottoming out. This value 
+doesn’t represent any loading in the suspension, only the Heave 
+Damper’s position.
+PUSHROD LENGTH DELTA
+This adjusts the length of both rear suspension pushrods together, 
+shown as an offset from a baseline length figure. This is a great
+way to adjust rear ride height without altering the preload on the 
+Heave Spring.
+ARB SIZE
+The Anti-Roll Bar (ARB) is a spring device in the rear suspension 
+that counteracts roll movement but not vertical loading. Changing 
+the ARB diameter will alter the rear suspension’s roll stiffness and 
+handling balance: Stiffer ARB settings will increase rear roll stiffness 
+and induce oversteer, softer ARB settings will reduce stiffness 
+and reduce oversteer. Disconnecting the bar will remove the ARB 
+from the suspension entirely and can greatly reduce mechanical 
+oversteer, however this reduction in roll stiffness can hurt 
+aerodynamic performance in high-speed corners.
+ARB BLADES
+The ARB Blades (or arms) can be changed to further tune the 
+suspension roll stiffness beyond only the ARB size setting. This 
+option changes the orientation of the ARB blades and are given 
+numerical values for simplicity, with #1 being the softest option 
+and the blades becoming stiffer as the value is increased to the 
+maximum setting of #5. Based on stiffness the blade option will 
+produce the same result as a similar adjustment to the ARB Size: 
+Stiffer blade settings will increase rear roll stiffness and induce 
+oversteer while softer blade settings will reduce rear roll stiffness 
+and reduce oversteer. This setting can be adjusted in the car from 
+the F8 black box using the “RARB” setting.
+TOE-IN
+Toe is the angle of the wheel, looking from vertical, relative to the 
+chassis centerline. Toe-in is when the front of the wheels are closer 
+to the centerline while Toe-out is when the front of the wheels are 
+farther from the centerline than the rear of the tires. On the rear end, 
+Toe will primarily alter how stable the car is in a straight line and 
+how easily the car will change direction. Toe-out settings (negative 
+garage value) will increase turn-in response and make the car less 
+stable in a straight line, while Toe-in (positive garage value) will 
+increase straight-line stability.
+
+--- PAGE 15 ---
+
+15
+ACURA ARX-06 GTP | USER MANUAL
+ACURA ARX-06 GTP | ADVANCED SETUP OPTIONS | CHASSIS
+FRONT CORNERS
+CORNER WEIGHT
+The weight under each tire while the car is stationary in the garage. 
+Weight placement around the car is crucial to a car’s performance 
+and is ultimately what determines how the car handles.
+These are not directly adjustable, but will change frequently through 
+the setup process due to changing loads on the suspension. The 
+most effective way to change the values is through the Torsion Bar 
+Turns setting, however all four corner weights will be affected. 
+RIDE HEIGHT
+Front Ride Height is the distance from the ground to the bottom of 
+the chassis plank projected to the front axle. These are reference 
+heights, not necessarily ground clearance values, so values of zero 
+(or even negative) in telemetry may not necessarily indicate the 
+chassis being in contact with the ground.
+TORSION BAR DEFLECTION
+Torsion Bar Deflection is how far the suspension torsion bars have 
+deflected from their unloaded state. Higher deflection equates to 
+more preload on a given torsion bar, while lower deflections indicate 
+a bar with less preload.
+TORSION BAR TURNS
+Each torsion bar can be preloaded to raise or lower a given corner 
+of the car and increase or decrease the preload on the torsion bar 
+springs. Increasing the Turn value will preload the torsion bar and 
+raise the corner’s ride height, decreasing the Turn value will reduce 
+the preload on a given torsion bar and lower the corner’s ride height.
+TORSION BAR O.D.
+The corner Torsion Bars are the spring elements for each corner of 
+the car and behave in the same way as a conventional coil spring. 
+The Outer Diameter of each torsion bar determines the bar’s spring 
+rate and how stiff the bar is through changing suspension loads. 
+Larger diameter bars will have a higher spring rate and will be stiffer, 
+which is great for maintaining a consistent aerodynamic attitude 
+around the track but will reduce mechanical grip, especially in 
+slow corners. Smaller torsion bars will have a lower spring rate and 
+produce more mechanical grip, however the extra movement from 
+the suspension can hurt aerodynamic performance at high speeds.
+CAMBER
+Camber is the vertical angle of the wheel relative to the center of the 
+chassis. Negative camber is when the top of the wheel is closer to 
+the chassis centerline than the bottom of the wheel, positive camber 
+is when the top of the tire is farther out than the bottom. Due to 
+suspension geometry and corner loads, negative camber is desired 
+on all four wheels. Higher negative camber values will increase the 
+cornering force generated by the tire, but will reduce the amount 
+of longitudinal grip the tire will have under braking. Excessive 
+camber values can produce very high cornering forces but will 
+also significantly reduce tire life, so it is important to find a balance 
+between life and performance.
+
+--- PAGE 16 ---
+
+16
+ACURA ARX-06 GTP | USER MANUAL
+ACURA ARX-06 GTP | ADVANCED SETUP OPTIONS | CHASSIS
+REAR CORNERS
+CORNER WEIGHT
+The weight under each tire while the car is stationary in the garage. 
+Weight placement around the car is crucial to a car’s performance 
+and is ultimately what determines how the car handles.
+These are not directly adjustable, but will change frequently
+through the setup process due to changing loads on the suspension.
+The most effective way to change the values is through the Torsion 
+Bar Turns setting, however all four corner weights will be affected.
+RIDE HEIGHT
+Rear Ride Height is the distance from the ground to the bottom of 
+the chassis plank projected to the rear axle. These are reference 
+heights, not necessarily ground clearance values, so values of zero 
+(or even negative) in telemetry may not necessarily indicate the 
+chassis being in contact with the ground.
+TORSION BAR DEFLECTION
+Torsion Bar Deflection is how far the suspension torsion bars have 
+deflected from their unloaded state. Higher deflection equates to 
+more preload on a given torsion bar, while lower deflections indicate 
+a bar with less preload.
+TORSION BAR TURNS
+Each torsion bar can be preloaded to raise or lower a given corner 
+of the car and increase or decrease the preload on the torsion bar 
+springs. Increasing the Turn value will preload the torsion bar and 
+raise the corner’s ride height, decreasing the Turn value will reduce 
+the preload on a given torsion bar and lower the corner’s ride height.
+TORSION BAR O.D.
+The corner Torsion Bars are the spring elements for each corner of 
+the car and behave in the same way as a conventional coil spring. 
+The Outer Diameter of each torsion bar determines the bar’s spring 
+rate and how stiff the bar is through changing suspension loads. 
+Larger diameter bars will have a higher spring rate and will be stiffer, 
+which is great for maintaining a consistent aerodynamic attitude 
+around the track but will reduce mechanical grip, especially in 
+slow corners. Smaller torsion bars will have a lower spring rate and 
+produce more mechanical grip, however the extra movement from 
+the suspension can hurt aerodynamic performance at high speeds.
+CAMBER
+Camber is the vertical angle of the wheel relative to the center of the 
+chassis. Negative camber is when the top of the wheel is closer to 
+the chassis centerline than the bottom of the wheel, positive camber 
+is when the top of the tire is farther out than the bottom. Due to 
+suspension geometry and corner loads, negative camber is desired 
+on all four wheels. Higher negative camber values will increase the 
+cornering force generated by the tire, but will reduce the amount 
+of longitudinal grip the tire will have under braking. Excessive 
+camber values can produce very high cornering forces but will 
+also significantly reduce tire life, so it is important to find a balance 
+between life and performance.
+
+--- PAGE 17 ---
+
+17
+ACURA ARX-06 GTP | USER MANUAL
+ACURA ARX-06 GTP | ADVANCED SETUP OPTIONS | DAMPERS
+DAMPERS
+HEAVE DAMPERS
+LS COMPRESSION DAMPING
+Low Speed Compression affects how resistant the shock is to 
+compression (reduction in length) when the shock is moving at 
+relatively low speeds, usually in chassis movements as a result of 
+driver input (steering, braking, & throttle) and cornering forces. 
+Higher values will increase compression resistance and transfer load 
+onto a given tire under these low-speed conditions more quickly, 
+inducing understeer on throttle application.
+For shocks on the front end, increasing Low-Speed Compression 
+can induce understeer under braking and at turn-in, reducing it will 
+reduce understeer. Increasing Low-Speed Compression on the rear 
+of the car will increase traction on initial throttle application, while 
+reducing it can reduce on-throttle understeer.
+HS COMPRESSION DAMPING
+High-Speed Compression affects the shock’s behavior in high-speed 
+travel, usually attributed to curb strikes and bumps in the track’s 
+surface. Higher compression values will cause the suspension 
+to be stiffer in these situations, while lower values will allow 
+the suspension to absorb these bumps better but may hurt the 
+aerodynamic platform around the track.
+HS COMPRESSION DAMPING SLOPE
+The High-Speed Compression Damping Slope setting controls the 
+overall shape of the high-speed compression side of the shock. 
+Lower slope values produce a flatter, more digressive curve while 
+higher values result in a more linear and aggressive compression 
+graph. The value of the slope setting is very important in controlling 
+bump absorption at high shock velocities and controlling the 
+aerodynamic platform. A lower slope will be helpful for rougher 
+tracks in absorbing bumps and sharp impacts such as curbs, while 
+a higher slope will keep the suspension more rigid, which can be 
+helpful in resisting compression and raising the chassis above a 
+bump in the track surface. It’s important to understand that these 
+settings will affect the range the High-Speed Compression will have, 
+with higher slope values producing a higher overall force for high-
+speed compression.
+LS REBOUND DAMPING
+Low-speed Rebound damping controls the stiffness of the shock 
+while extending at lower speeds, typically during body movement as 
+a result of driver inputs. Higher rebound values will resist expansion 
+of the shock, lower values will allow the shock to extend faster. 
+Higher rebound values can better control aerodynamic attitude but 
+can result in the wheel being unloaded when the suspension can’t 
+expand enough to maintain proper contact with the track. 
+On the front of the car, higher Low-Speed Rebound can induce 
+understeer on throttle application while higher settings on the rear of 
+the car can induce understeer under braking.
+HS REBOUND DAMPING
+High-speed rebound adjusts the shock in extension over
+bumps and curb strikes. Higher values will reduce how quickly
+the shock will expand, while lower values will allow the shock to 
+extend more easily. Despite not having as much of an effect on 
+handling in result to driver inputs, High-speed rebound can produce 
+similar results in terms of aerodynamic control and uncontrolled 
+oscillations if set improperly.
+
+--- PAGE 18 ---
+
+18
+ACURA ARX-06 GTP | USER MANUAL
+ACURA ARX-06 GTP | ADVANCED SETUP OPTIONS | DAMPERS
+ROLL DAMPERS
+LS DAMPING
+The Low-Speed damping setting on the Roll Dampers will alter
+how resistant the damper is to both compression and expansion 
+during roll. Higher values will produce a stiffer shock with chassis 
+roll, which can load the outer tire in a corner more quickly, and
+lower values will soften the shock and delay load to the outer tire.
+Due to the Roll Damper’s operation, rolling the chassis will result in 
+the damper compressing for one direction and rebounding for the 
+other direction, thus both compression and rebound are adjusted 
+equally together.
+HS DAMPING
+The High-Speed damping setting will alter how stiff the front Roll 
+Damper is at higher velocities, such as one-wheel curb strikes 
+or side-to-side oscillations. As with the Low-Speed setting, the 
+compression and rebound values are linked as one.
+
+--- PAGE 19 ---
+
+19
+ACURA ARX-06 GTP | USER MANUAL
+ACURA ARX-06 GTP | ADVANCED SETUP OPTIONS | SYSTEMS
+SYSTEMS
+LIGHTING & BRAKE SPEC
+ROOF ID LIGHT COLOR
+The color of the identifier lights on the roof of the car can be 
+changed to better identify similarly-painted cars in nighttime 
+conditions. This adjustment has no effect on vehicle performance.
+PAD COMPOUND
+The vehicle’s braking performance can be altered via the Brake 
+Pad Compound. The “Low” setting provides the least friction, 
+reducing the effectiveness of the brakes but allowing for better 
+brake pressure modulation, while “Medium” and “High” provide more 
+friction and increase the effectiveness of the brakes while increasing 
+the risk of a brake lockup.
+FRONT MASTER CYLINDER
+The Front Brake Master Cylinder size can be changed to alter the 
+line pressure to the front brake calipers. A larger master cylinder 
+will reduce the line pressure to the front brakes, which will shift 
+the brake bias rearwards and increase the pedal effort required to 
+lock the front wheels. A smaller master cylinder will increase brake 
+line pressure to the front brakes, shifting brake bias forward and 
+reducing required pedal effort to lock the front wheels.
+REAR MASTER CYLINDER
+The Rear Brake Master Cylinder size can be changed to alter the 
+line pressure to the rear brake calipers. A larger master cylinder will 
+reduce the line pressure to the rear brakes, which will shift the brake 
+bias forwards and increase the pedal effort required to lock the rear 
+wheels. A smaller master cylinder will increase brake line pressure to 
+the rear brakes, shifting brake bias rearward and reducing required 
+pedal effort to lock the rear wheels.
+BRAKE PRESSURE BIAS
+Brake Bias is the percentage of braking force that is being sent
+to the front brakes. Values above 50% result in more pressure
+being sent to the front, while values less than 50% send more
+force to the rear. This should be tuned for both driver preference
+and track conditions to get the optimum braking performance for
+a given situation.
+
+--- PAGE 20 ---
+
+20
+ACURA ARX-06 GTP | USER MANUAL
+ACURA ARX-06 GTP | ADVANCED SETUP OPTIONS | SYSTEMS
+HYBRID CONFIG & FUEL
+NO DEPLOY
+In the “No Deploy” mode, the Hybrid system will not use any energy 
+stored in the battery. This essentially disables the Hybrid drive 
+system and will only charge the battery throughout a lap. This is only 
+available in Qualifying and Test sessions and is used to fully charge 
+the battery before switching to Qual mode.
+QUAL
+This mode is intended to be used on flying laps during qualifying 
+sessions and will attempt to use all of the battery charge during 
+a lap. This is only available during Qualifying and Test sessions 
+and should be preceded by the No Deploy setting on outlaps and 
+warmup laps to ensure the battery is fully charged before switching 
+to the Qual mode.
+ATTACK
+Attack mode reduces the target State of Charge to use more power 
+during race sessions to help with overtaking. Generally the laptime 
+gain from this mode is not enough to offset the loss in pace from 
+having to recharge and recover from using Attack mode, so it 
+should be used only when it is absolutely necessary to complete 
+an overtake. This mode can also be used on the final lap for a burst 
+of speed since the battery is no longer needed. This mode is only 
+available for Practice, Race, and Test sessions.
+BALANCED
+The Balanced mode is the primary Race mode for the Hybrid system. 
+This mode will attempt to deploy electrical charge to reduce lap 
+times as much as possible while still maintaining a reasonable State 
+of Charge over the duration of a lap. At the start of a session, it will 
+take a few flying laps for the Hybrid system to learn the track and 
+optimize deployment for the best lap times, and this mode is only 
+available in Practice, Race, and Test sessions.
+BUILD
+The Build mode will attempt to build battery charge as quickly
+as possible in the event of a low battery charge or if it is needed 
+prior to switching to Attack mode. Note that this will compromise
+lap times significantly compared to Balanced, and it’s important
+to switch back to Balanced mode once the battery has charged
+to avoid losing harvested energy and to prevent unnecessary
+loss in pace. This mode is only available in Practice, Race,
+and Test sessions.
+FUEL LEVEL
+Fuel level is the amount of fuel in the fuel tank when the car leaves 
+the garage.
+The Acura ARX-06’s hybrid system can be set to one of five deploy modes to alter the target State of Charge (SoC) 
+for the end of a lap. Each of these modes will use varying levels of energy throughout a lap to reach a target, and thus 
+some will produce more power over the course of a lap and faster lap times at the cost of discharging the battery.
+
+--- PAGE 21 ---
+
+21
+ACURA ARX-06 GTP | USER MANUAL
+ACURA ARX-06 GTP | ADVANCED SETUP OPTIONS | SYSTEMS
+TRACTION CONTROL & GEAR RATIOS
+TRACTION CONTROL GAIN
+Gain is the amount of intervention the Traction Control will exert 
+when wheel spin is detected. Higher values result in a more 
+aggressive throttle cut to control wheelspin. This value can be 
+changed in the F8 black box while driving.
+TRACTION CONTROL SLIP
+Slip is how sensitive the Traction Control system will be to 
+wheelspin. Higher values will activate the Traction Control system 
+with smaller amounts of wheelspin, while lower values will allow 
+slightly more wheelspin prior to activating the system. This value can 
+be changed in the F8 black box while driving.
+GEAR STACK
+Gear Stack changes the gear ratios in the transmission. Two choices 
+are available: Short and Long. The Short setting will choose a more 
+acceleration-focused gear set for tracks with shorter straights or 
+slower corners, while the Long option will choose gears more suited 
+to high-speed tracks with long straights.
+GEAR SPEEDS
+Each of the transmission’s seven forward gears will show the 
+approximate ground speed at which the engine will reach maximum 
+RPM. These values will change based on which Gear Stack is 
+selected, but the true maximum speed may differ slightly due to on-
+track conditions.
+
+--- PAGE 22 ---
+
+22
+ACURA ARX-06 GTP | USER MANUAL
+ACURA ARX-06 GTP | ADVANCED SETUP OPTIONS | SYSTEMS
+REAR DIFF SPEC
+DIFF RAMP ANGLES
+The Differential Ramp Angles affect the force exerted by the 
+differential to keep both driven tires locked together under 
+acceleration. Lower values produce more locking force, and more 
+locking force increases understeer during braking and acceleration 
+phases. Higher values will produce less locking force and induce 
+oversteer in these situations.
+CLUTCH FRICTION PLATES
+The number of clutch faces affect how much overall force is applied 
+to keep the differential locked. Treated as a multiplier, adding more 
+faces produces increasingly more locking force.
+PRELOAD
+The differential can be set with a static load applied. Higher values 
+produce more locking force in the differential in all conditions, 
+producing more understeer under acceleration and deceleration. 
+This value will also affect mid-corner performance, with higher 
+values not allowing the differential to unlock as much, increasing 
+mid-corner understeer.
+
+--- PAGE 23 ---
+
+23
+ACURA ARX-06 GTP | USER MANUAL
+ACURA ARX-06 GTP | SETUP TIPS 
+SETUP TIPS
+This section is aimed toward helping users who want to dive deeper 
+into the different aspects of the vehicle’s setup.
+
+--- PAGE 24 ---
+
+24
+ACURA ARX-06 GTP | USER MANUAL
+ACURA ARX-06 GTP | SETUP TIPS
+SETUP TIPS
+PROVIDED SETUPS
+CHASSIS HEIGHTS
+BASELINE
+A slightly more stable version of the high downforce setup for a 
+driver’s first time in the car or for those wanting more stability than 
+the high downforce setup provides.
+HIGH DOWNFORCE
+For use at most tracks. Although quite efficient and creating the 
+most downforce, this setup also makes the most drag.
+MEDIUM DOWNFORCE
+For use at track with long straights like Spa. Sacrificing more 
+downforce and efficiency for more straight line speed.
+LOW DOWNFORCE
+For use at Le Mans. Lowest drag and downforce trim.
+DAYTONA
+A variation of the Low Downforce setup for use at Daytona with 
+changes to avoid bottoming on the oval banking.
+DAYTONA 24H
+A variation on the Daytona setup made specifically with time of year, 
+expected weather, and the demands of a 24 hour race setup in mind.
+The Acura ARX-06 generates the most downforce with an average 
+rear ride height around 45mm and an average front ride height 
+around 25mm.
+More rake (high rear ride heights compared to front ride heights) will 
+move aero balance forward, inducing oversteer, and less rake will 
+shift the aero rearward and induce understeer.
+You can affect the dynamic ride heights (without changing the roll 
+stiffness) on track by adjusting the front heave spring and the rear 
+heave spring.
+FIXED
+The high downforce setup with limited fuel for the official
+IMSA fixed series.
+FIXED QUAL
+The fixed series setup with qualifying fuel and hybrid deployment.
+FIXED LEMANS
+The low downforce setup with limited fuel for the official
+IMSA fixed series.
+FIXED LEMANS QUAL
+The fixed LDF series setup with qualifying fuel and
+hybrid deployment.
+FIXED DAYTONA
+The Daytona setup with limited fuel for the official IMSA fixed series.
+FIXED DAYTONA QUAL
+The Daytona series setup with qualifying fuel and
+hybrid deployment.
+A soft rear heave spring will allow the rear of the car to drop under 
+aero load but you will lose some amount of downforce and efficiency 
+mid corner as the rear ride heights will be well under the target 
+rear heights for maximum downforce (45mm). Some compromises 
+will need to be made regarding drag/downforce and dynamic aero 
+balance.
+There are 12 iRacing setups provided for the Acura ARX-06 GTP:
+The fuel level in all setups (except the fixed IMSA setups) are set to 89 L, which is the maximum tank capacity for this car.
+
+--- PAGE 25 ---
+
+25
+ACURA ARX-06 GTP | USER MANUAL
+ACURA ARX-06 GTP | SETUP TIPS
+AERODYNAMIC ADJUSTMENTS
+MECHANICAL ADJUSTMENTS
+DIFFERENTIAL ADJUSTMENTS
+Should you choose to make adjustments to the setup, the easiest 
+way to change the aerodynamic balance of the setup is through 
+adjustment of the rear wing angle. Generally speaking, if you find 
+you want to adjust wing position in more than a click in either 
+direction it is recommended you start from one of the other 
+downforce trim setups (high, medium, or low).
+Lower wing angle = More oversteer, less downforce, and higher 
+straight line speed.
+Higher wing angle = More understeer, more downforce, and lower 
+straight line speed.
+If you would like to change the mechanical balance without changing 
+the aero balance the front and rear ARBs and ARB blades may be 
+adjusted. This can be particularly useful if you are happy with the 
+general balance of the car but want either more or less rotation in 
+slow speed corners.
+The rear differential is a powerful tool in the Acura, and the simplest 
+change one can make is increasing or decreasing the preload. While 
+adjusting the preload will affect the on throttle behavior you will 
+probably notice more of a change on entry and turn in.
+If you would like to change the aero balance without changing the 
+downforce/drag trim adjust the rear ride height by increasing or 
+decreasing the rear pushrod length offset. This will affect balance 
+in all situations due to the high amount of downforce but this will be 
+particularly noticeable in mid and high speed corners.
+Lower pushrod length delta = Lower rear ride height, less rake, and a 
+more rearward aero balance (understeer).
+Higher pushrod length delta = Higher rear ride height, more rake, 
+and a more forward aero balance (oversteer).
+Bigger front ARB/higher blade value = More understeer
+Smaller front ARB/lower blade values = Less understeer
+Bigger rear ARB/higher blade values = More oversteer
+Smaller rear ARB/lower blade values = Less oversteer
+More preload = Less rotation off throttle, more stability on entry.
+Less preload = More rotation off throttle, less stability on entry.

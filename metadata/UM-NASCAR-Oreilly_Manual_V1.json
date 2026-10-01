@@ -1,0 +1,25 @@
+{
+  "vehicle": "NASCAR Oreilly",
+  "manufacturer": "NASCAR",
+  "manufacturer_source": "series_override",
+  "class": "NASCAR",
+  "manual_type": "vehicle",
+  "topics": [
+    "aerodynamics",
+    "brakes",
+    "dampers",
+    "differential",
+    "suspension",
+    "tires"
+  ],
+  "sections": [
+    "Tires & Aero",
+    "Setup Tips",
+    "Chassis",
+    "Differential",
+    "Brakes",
+    "Fuel"
+  ],
+  "word_count": 9029,
+  "source_text": "UM-NASCAR-Oreilly_Manual_V1.txt"
+}

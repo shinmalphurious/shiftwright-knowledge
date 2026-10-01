@@ -1,0 +1,24 @@
+{
+  "vehicle": "BMW M2 CSR",
+  "manufacturer": "BMW",
+  "manufacturer_source": "filename",
+  "class": "NASCAR",
+  "manual_type": "vehicle",
+  "topics": [
+    "aerodynamics",
+    "brakes",
+    "dampers",
+    "differential",
+    "suspension",
+    "tires"
+  ],
+  "sections": [
+    "Tires & Aero",
+    "Setup Tips",
+    "Chassis",
+    "Differential",
+    "Fuel"
+  ],
+  "word_count": 4496,
+  "source_text": "BMW-M2-CSR-Manual_V2.txt"
+}

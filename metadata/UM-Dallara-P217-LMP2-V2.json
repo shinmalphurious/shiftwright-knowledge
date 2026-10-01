@@ -1,0 +1,29 @@
+{
+  "vehicle": "Dallara P217 LMP2",
+  "manufacturer": "Dallara",
+  "manufacturer_source": "filename",
+  "class": "LMP2",
+  "manual_type": "vehicle",
+  "topics": [
+    "aerodynamics",
+    "brakes",
+    "dampers",
+    "differential",
+    "hybrid",
+    "suspension",
+    "tires",
+    "traction_control"
+  ],
+  "sections": [
+    "Tires & Aero",
+    "Setup Tips",
+    "Chassis",
+    "Dampers",
+    "Differential",
+    "Brakes",
+    "Fuel",
+    "Traction Control"
+  ],
+  "word_count": 7776,
+  "source_text": "UM-Dallara-P217-LMP2-V2.txt"
+}

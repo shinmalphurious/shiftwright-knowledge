@@ -1,0 +1,22 @@
+{
+  "vehicle": "Dirt Micro Sprint",
+  "manufacturer": "Sprint Car",
+  "manufacturer_source": "series_override",
+  "class": "Dirt Oval",
+  "manual_type": "vehicle",
+  "topics": [
+    "aerodynamics",
+    "brakes",
+    "dampers",
+    "differential",
+    "hybrid",
+    "suspension",
+    "tires"
+  ],
+  "sections": [
+    "Chassis",
+    "Fuel"
+  ],
+  "word_count": 3135,
+  "source_text": "Dirt_Micro-Sprint_Manual.txt"
+}

@@ -1,0 +1,25 @@
+{
+  "vehicle": "Mercedes AMG F1 W12 E Performance",
+  "manufacturer": "Mercedes",
+  "manufacturer_source": "filename",
+  "class": "NASCAR",
+  "manual_type": "vehicle",
+  "topics": [
+    "aerodynamics",
+    "brakes",
+    "differential",
+    "hybrid",
+    "suspension",
+    "tires"
+  ],
+  "sections": [
+    "Tires & Aero",
+    "Chassis",
+    "Differential",
+    "Brakes",
+    "Hybrid",
+    "Fuel"
+  ],
+  "word_count": 5894,
+  "source_text": "UM-Mercedes-AMG-F1-W12-E-Performance-V2.txt"
+}

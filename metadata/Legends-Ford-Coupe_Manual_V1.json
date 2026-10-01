@@ -1,0 +1,24 @@
+{
+  "vehicle": "Legends Ford Coupe",
+  "manufacturer": "Ford",
+  "manufacturer_source": "filename",
+  "class": "NASCAR",
+  "manual_type": "vehicle",
+  "topics": [
+    "aerodynamics",
+    "brakes",
+    "dampers",
+    "differential",
+    "suspension",
+    "tires"
+  ],
+  "sections": [
+    "Tires & Aero",
+    "Chassis",
+    "Differential",
+    "Brakes",
+    "Fuel"
+  ],
+  "word_count": 2959,
+  "source_text": "Legends-Ford-Coupe_Manual_V1.txt"
+}

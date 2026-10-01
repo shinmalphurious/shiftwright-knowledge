@@ -1,0 +1,27 @@
+{
+  "vehicle": "Mercedes AMG GT3",
+  "manufacturer": "Mercedes",
+  "manufacturer_source": "filename",
+  "class": "NASCAR",
+  "manual_type": "vehicle",
+  "topics": [
+    "aerodynamics",
+    "brakes",
+    "dampers",
+    "differential",
+    "suspension",
+    "tires",
+    "traction_control"
+  ],
+  "sections": [
+    "Tires & Aero",
+    "Chassis",
+    "Dampers",
+    "Differential",
+    "Brakes",
+    "Fuel",
+    "Traction Control"
+  ],
+  "word_count": 5835,
+  "source_text": "UM-Mercedes-AMG-GT3-Manual-V2.txt"
+}

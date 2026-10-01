@@ -1,0 +1,27 @@
+{
+  "vehicle": "Ford GT GT3",
+  "manufacturer": "Ford",
+  "manufacturer_source": "filename",
+  "class": "NASCAR",
+  "manual_type": "vehicle",
+  "topics": [
+    "aerodynamics",
+    "brakes",
+    "dampers",
+    "differential",
+    "suspension",
+    "tires",
+    "traction_control"
+  ],
+  "sections": [
+    "Tires & Aero",
+    "Chassis",
+    "Dampers",
+    "Differential",
+    "Brakes",
+    "Fuel",
+    "Traction Control"
+  ],
+  "word_count": 5365,
+  "source_text": "UM-Ford-GT-GT3-V2.txt"
+}

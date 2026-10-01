@@ -1,0 +1,819 @@
+--- PAGE 1 ---
+
+1
+NASCAR GEN 4 CARS
+USER MANUAL
+
+--- PAGE 2 ---
+
+2
+NASCAR GEN 4 CARS | USER MANUAL
+Introduction » 5
+Tech Specs » 4
+A Message From iRacing » 3
+ Getting Started » 5
+Dash Pages » 7
+ Loading An iRacing Setup » 6
+ Tire Data » 10
+ Front » 11
+Chassis » 11
+Tires » 10 
+ Front ARB » 12
+ Front Corners » 13 
+ Rear » 17
+ Rear Corners » 15
+ GENERAL INFORMATION
+ ADVANCED SETUP OPTIONS
+TABLE OF CONTENTS
+CLICK TO VIEW A SECTION
+ Page 1 » 7
+ Page 2 » 8
+
+--- PAGE 3 ---
+
+3
+DEAR iRACING USER,
+Congratulations on your purchase of a NASCAR 2003 Gen 4 car! From all of us at iRacing, we appreciate 
+your support and your commitment to our product. We aim to deliver the ultimate sim racing experience, 
+and we hope that you’ll find plenty of excitement with us behind the wheel of your new car!
+The following guide explains how to get the most out of your new car, from how to adjust its settings 
+off of the track to what you’ll see inside of the cockpit while driving. We hope that you’ll find it useful in 
+getting up to speed.
+Thanks again for your continued support, and we’ll see you on the track!
+
+--- PAGE 4 ---
+
+4
+NASCAR GEN 4 CARS | USER MANUAL
+CHASSIS
+POWER 
+UNIT
+NASCAR GEN 4 CARS | TECH SPECS
+DOUBLE WISHBONE INDEPENDENT 
+FRONT / LIVE AXLE TRUCK ARM REAR
+LENGTH
+5156 mm
+203 in
+WIDTH
+1905 mm
+75 in
+WHEELBASE
+2794 mm
+110 in
+DRY WEIGHT
+1542 kg
+3400 lbs
+WET WEIGHT 
+WITH DRIVER
+1657 kg
+3654 lbs
+STANDARD
+TORQUE
+550 lb-ft
+740 Nm
+POWER
+850 bhp
+633 kW
+RESTRICTED
+TORQUE
+390 lb-ft
+530 Nm
+POWER
+450 bhp
+335 kW
+DISPLACEMENT
+5.9 Liters
+358 cid
+RPM LIMIT
+9800
+RPM LIMIT
+8000
+NATURALL Y ASPIRATED 
+STEEL BLOCK PUSHROD V8
+
+--- PAGE 5 ---
+
+5
+NASCAR GEN 4 CARS | USER MANUAL
+INTRODUCTION
+The information found in this guide is intended to provide a deeper understanding of the chassis setup adjustments 
+available in the garage, so that you may use the garage to tune the chassis setup to your preference.
+Once you load into the car, select 1st gear. Slowly release the clutch 
+while applying the throttle to drive away. A clutch is necessary when 
+coming to a stop to prevent stalling the engine and shifting into 
+reverse if necessary, but the clutch isn’t required once the vehicle is 
+in motion for upshifts or downshifts. 
+NASCAR GEN 4 CARS | INTRODUCTION
+GETTING STARTED
+To upshift, simply let off the throttle and select the next higher gear. 
+To downshift, give the throttle a blip while selecting the next lower 
+gear. If you downshift too early, or don’t blip the throttle sufficiently, 
+the wheel speed and engine speed will be mismatched, leading to 
+wheel hop at the rear and a possible spin.
+Before diving into chassis adjustments, though, it is best to become 
+familiar with the car and track. To that end, we have provided 
+baseline setups for each track commonly raced by these cars.
+To access the baseline setups, simply open the Garage, click iRacing 
+Setups, and select the appropriate setup for your track of choice.
+If you are driving a track for which a dedicated baseline setup is not 
+included, you may select a setup for a similar track to use as
+your baseline. 
+After you have selected an appropriate setup, get on track and
+focus on making smooth and consistent laps, identifying the
+proper racing line and experiencing tire wear and handling trends 
+over a number of laps. 
+Once you are confident that you are nearing your driving potential 
+with the included baseline setups, read on to begin tuning the car 
+to your handling preferences.
+
+--- PAGE 6 ---
+
+6
+NASCAR GEN 4 CARS | USER MANUAL
+LOADING AN iRACING SETUP
+When you first load into a session, the iRacing Baseline setup will be 
+automatically loaded onto the car. If you would like to try any of the 
+other iRacing pre-built options, you may select it by going to Garage 
+> iRacing Setups > and then selecting another option that fits
+your needs.
+Because this car uses slightly different chassis and body 
+configurations on different types of tracks, it will be necessary to 
+load a setup from the same track type to pass tech inspection. For 
+example, a setup for Talladega will pass at Daytona, but likely will not 
+pass at Bristol.
+If you would like to customize the setup, simply make the changes 
+in the garage that you would like to update and click apply. If you 
+would like to save your setup for future use click “Save As” on the 
+right to name and save the changes.
+NASCAR GEN 4 CARS | INTRODUCTION
+To access all of your personally saved setups, click “My Setups” on 
+the right side of the garage. If you would like to share a setup with 
+another driver or everyone in a session, you can select “Share” on 
+the right side of the garage to do so. If a driver is trying to share a 
+setup with you, you will find it under “Shared Setups” on the right 
+side of the garage as well. 
+To save your setup for reference later, click the “Export” button on 
+the right side of the garage and save the file. This will produce an 
+HTML file with all of the settings for that setup that can be opened 
+at any time and viewed in a web browser.
+
+--- PAGE 7 ---
+
+7
+NASCAR GEN 4 CARS | USER MANUAL
+The Monte Carlo places the four system gauges on the left in a 
+cluster, the tachometer to the right of the steering column, and 
+a voltmeter to the right.
+Oil Pressure - Engine Oil Pressure, in psi
+Fuel Pressure - Fuel system pressure, in psi
+Oil Temperature - Engine Oil Temperature, in °F
+Water Temperature - Engine cooling water temperature, in °F
+Tachometer - Engine RPM
+Voltmeter - Electrical system voltage
+NASCAR GEN 4 CARS | DASH PAGES
+DASH PAGES
+The 2003 Gen 4 cars feature full sets of analog gauges typical for that era. The Chevrolet and the Ford have unique layouts 
+but display the same information.
+CHEVROLET
+
+--- PAGE 8 ---
+
+8
+NASCAR GEN 4 CARS | USER MANUAL
+FORD
+NASCAR GEN 4 CARS | DASH PAGES
+From left to right:
+Tachometer - Engine RPM
+Fuel Pressure - Fuel system pressure, in psi
+Water Temperature - Engine cooling water temperature, in °F
+Oil Pressure - Engine Oil pressure, in psi
+Oil Temperature - Engine Oil temperature, in °F
+Voltmeter - Electrical system voltage
+
+--- PAGE 9 ---
+
+9
+NASCAR GEN 4 CARS | USER MANUAL
+ADVANCED SETUP OPTIONS
+This section is aimed toward more advanced users who want to dive deeper into the different aspects of the 
+vehicle’s setup. Making adjustments to the following parameters is not required and can lead to significant 
+changes in the way a vehicle handles. It is recommended that any adjustments are made in an incremental fashion 
+and only singular variables are adjusted before testing changes.
+NASCAR GEN 4 CARS | ADVANCED SETUP OPTIONS 
+
+--- PAGE 10 ---
+
+10
+NASCAR GEN 4 CARS | USER MANUAL
+NASCAR GEN 4 CARS | ADVANCED SETUP OPTIONS | TIRES
+COLD PRESSURE / STARTING PRESSURE
+The air pressure in the tires when the car is loaded into the world. 
+Lower pressures will provide more grip but will produce more rolling 
+drag and build temperature faster. Higher pressures will feel slightly 
+more responsive and produce less rolling drag, but will result in 
+less grip. Generally, higher pressures are preferred at tracks where 
+speeds and loads are higher while lower pressures work better at 
+slower or flatter tracks where mechanical grip is important.
+LAST HOT AIR PRESSURE
+When the car returns to the garage after running laps on the track, 
+the measured tire pressure will be displayed as Hot Pressure. The 
+difference between cold and hot pressure is a good way to see 
+how tires are being loaded and worked while on track. Tires seeing 
+more work and load will build more pressure, and paying attention to 
+which tires are building more pressure and adjusting cold pressure 
+to compensate can be crucial for optimizing tire performance. Hot 
+Pressures will usually plateau into a run, these peak pressures 
+heavily influencing the car’s balance through the run. By adjusting 
+cold pressures based on differences in the Hot Pressures, long-run 
+balance can be tuned to prevent changes in handling.
+TIRES
+TIRE DATA
+LAST TEMPERATURES
+The tire carcass temperatures (measured within the tread) are 
+displayed after the car returns from the track. These temperatures 
+are an effective way to determine how much work or load a given tire 
+is experiencing while on track. Differences between the inner and 
+outer temperatures can be used to tune individual wheel alignment 
+and the center temperatures can be compared to the outer 
+temperatures to help tune tire pressure. 
+TREAD REMAINING
+The amount of tread on the tire, displayed as a percentage of a new 
+tire, is shown below the tire temperatures. These values are good 
+for determining how far a set of tires can go before needing to be 
+replaced, but don’t necessarily indicate an under- or over-worked 
+tire in the same way temperatures will.
+
+--- PAGE 11 ---
+
+11
+NASCAR GEN 4 CARS | USER MANUAL
+NASCAR GEN 4 CARS | ADVANCED SETUP OPTIONS | CHASSIS
+CHASSIS
+FRONT
+BALLAST FORWARD
+To meet minimum weight requirements, tungsten blocks are installed 
+within the lower frame rails on the chassis. These blocks can be 
+moved fore and aft in the chassis, directly influencing the car’s Nose 
+Weight value. The Ballast Forward value is simply a measurement of 
+the location of these tungsten blocks relative to a reference point in 
+the frame rail. Moving ballast forward in the car raises Nose Weight, 
+moving it rearward reduces Nose Weight.
+NOSE WEIGHT
+The vehicle’s Nose Weight is the percentage of total vehicle weight 
+on the front tires. Nose Weight represents a rough approximation 
+of the longitudinal Center of Gravity location in the vehicle and has 
+a direct influence on the high-speed stability of the vehicle. Higher 
+Nose Weight values result in a more directionally-stable vehicle, 
+good for tracks with low grip or very high speeds. Conversely, 
+lower Nose Weight values are good for tracks with high grip 
+levels or lower speeds.
+CROSS WEIGHT 
+Cross Weight is the amount of weight on the car’s Left-Rear and 
+Right-Front tires relative to the entire weight of the car, displayed 
+in percent. This is adjusted via the corner Spring Perch Offset 
+adjustments as well as ARB preload to a small extent. For an oval 
+car, Cross Weight is one of the most influential settings for grip level 
+while the vehicle is in a turn. Higher Cross Weight values will add 
+weight to the left-rear and right-front, both stabilizing entry and 
+helping drive-off on corner exit. Lower Cross-Weight values will 
+help the vehicle rotate and keep it “free” in the corner to prevent 
+speed from being lost, however too low can result in unstable 
+entry and exit.
+STEERING RATIO
+The Steering Ratio is a numerical value for how fast the steering 
+response is to driver inputs at the steering wheel. This ratio can be 
+thought of as the degrees of steering input needed to produce one 
+degree of turn on the steering box output shaft. For example, a 12:1 
+steering ratio will require 12° of steering input to rotate the steering 
+output shaft 1° . A steering box with a lower ratio will feel more 
+responsive to steering inputs and will require less steering input to 
+reach the amount needed to navigate a corner. A steering box with 
+a higher ratio will feel less responsive and will require more steering 
+input to reach the amount needed to navigate a corner.
+STEERING OFFSET
+Degrees of steering wheel offset, achieved with a combination of 
+installing the steering wheel into the quick release mechanism off-
+center and adjusting front tie-rods. This can be used to compensate 
+for chassis settings which place the wheel off center and is primarily 
+a driver comfort adjustment.
+FRONT BRAKE BIAS
+Brake Bias is the percentage of braking force that is being sent 
+to the front brakes. Values above 50% result in more pressure 
+being sent to the front, while values less than 50% send more 
+force to the rear. This should be tuned for both driver preference 
+and track conditions to get the optimum braking performance for 
+a given situation.
+
+--- PAGE 12 ---
+
+12
+NASCAR GEN 4 CARS | USER MANUAL
+NASCAR GEN 4 CARS | ADVANCED SETUP OPTIONS | CHASSIS
+TAPE CONFIG
+Grille Tape is applied to the radiator openings in the front fascia 
+to reduce drag when the full opening isn’t necessary to keep the 
+engine at optimum running temperatures. The Race configuration will 
+open up the radiator opening to allow air into the radiator for race 
+FRONT ARB
+sessions or long runs in practice. For Qualifying, where performance 
+is key, the Qual setting will fully block the radiator opening. This will 
+dramatically reduce drag and increase downforce, but will cause the 
+engine to overheat very quickly and lead to engine failure. The Qual 
+setting is not available in Race sessions.
+DIAMETER
+The ARB (Anti-Roll Bar) diameter influences the stiffness of the 
+front suspension in roll. Increasing the ARB size will increase the 
+roll stiffness of the front suspension, resulting in less body roll 
+and improved aerodynamic stability but increasing mechanical 
+understeer. This can also, in some cases, lead to a more responsive 
+steering feel for the driver. Conversely, reducing the ARB size will 
+soften the suspension in roll, increasing body roll and reducing 
+aerodynamic efficiency but decreasing mechanical understeer. 
+This can result in a less-responsive feel from the steering. 
+ARM ASYMMETRY
+The difference in length between the left and right sway bar arms 
+can be altered via the Arm Asymmetry settings. The “None” setting 
+will set the two arms at equal length, while increasing the setting will 
+increase the difference in length of the two arms. This can be used 
+to produce multiple effects, primarily serving to produce a higher 
+anti-roll force on the right-front suspension than on the left-front, 
+effectively rolling the chassis to the left when under load. This 
+can be used to correct excessive roll without increasing the ARB 
+diameter. A knock-on effect of asymmetry is a slight increase in front 
+end heave stiffness, or resistance to vertical travel. Since the two 
+different lengths of arms cause the bar to be twisted at different 
+rates, vertical travel will load the ARB, possibly leading to higher 
+front ride heights on straights.
+CHAIN / SOLID LINK
+The type of linkage installed on the right-side ARB arm can be 
+changed to improve the chassis response to bumps in the track 
+surface. If a Solid link is installed, the ARB will transfer loads from 
+one wheel to the other in all situations. If a Chain is installed, a sharp 
+bump to the left-front wheel will collapse the right-side linkage 
+and prevent the sudden load from being applied to the right-front 
+wheel. This is very useful over bumpy surfaces where a bump could 
+unload the front tires and cause sudden understeer. Under normal 
+conditions the two settings are identical and will have no influence 
+on the suspension’s roll stiffness.
+LINK SLACK
+The left-side sway bar linkage can be adjusted to either delay bar 
+engagement or apply a static load to the bar. Positive or negative 
+values are referenced as an offset to a standard length and don’t 
+necessarily represent anything specific. This adjustment directly 
+affects the bar’s Preload, outlined below.
+PRELOAD
+The ARB Preload is the static load in the bar while the vehicle is in 
+the garage. Preload adjustments can be used to alter the dynamic 
+loads in the bar while on track, and can be used to remove or add 
+bar load in the corners and on the straights. Negative preload will 
+load the bar, causing the chassis to roll to the left under static 
+conditions. If the preload is zero with a positive link slack, the 
+suspension must travel before engaging the ARB. This setting 
+does not affect roll stiffness, however it does affect total bar 
+load while on track.
+ATTACH
+A quick way to unhook the anti-roll bar to allow for static suspension 
+adjustments without bar twist confusing things; increase link slack 
+and unhook the ARB before making spring/ride height adjustments; 
+attach and reduce link slack (ARB preload) when done. This option 
+will completely detach the bar and keep it from being loaded while 
+on track, if desired.
+
+--- PAGE 13 ---
+
+13
+NASCAR GEN 4 CARS | USER MANUAL
+NASCAR GEN 4 CARS | ADVANCED SETUP OPTIONS | CHASSIS
+FRONT CORNERS
+CORNER WEIGHT
+The weight underneath each tire under static conditions in the 
+garage. Correct weight arrangement around the car is crucial for 
+optimizing a car for a given track and conditions. Individual wheel 
+weight adjustments and crossweight adjustments are made via the 
+Spring Perch Offset setting.
+RIDE HEIGHT
+Distance from ground to a reference point on the chassis. Front 
+heights are measured at the bottom of the chassis frame rail 
+just behind the wheel well and can be roughly identified via the 
+skirt rivets at the bottom of the door. Since these values are 
+measured to a specific reference point on the car, these values 
+may not necessarily reflect the vehicle’s ground clearance, but 
+instead provide a reliable value for the height of the car off of 
+the race track at static values. Adjusting Ride Heights is key for 
+optimum performance, as they can directly influence the vehicle’s 
+aerodynamic performance as well as mechanical grip.
+SPRING PERCH OFFSET
+Spring perch offset is used to adjust ride height and corner weight. 
+Adjusting this setting changes the preload on the spring under static 
+conditions. Decreasing the value increases preload on the spring, 
+adding weight to its corner and increasing the ride height at that 
+corner. Increasing the value does the opposite, reducing height and 
+weight on a given corner. These should be adjusted in pairs (left and 
+right, for example) or with all four spring preload adjustments in the 
+car to prevent crossweight changes while adjusting ride height.
+SPRING RATE
+Spring Rate changes how stiff the spring is, represented in a force 
+per unit of displacement. Primarily responsible for maintaining ride 
+height and a good attitude under changing wheel loads, stiffer 
+springs will maintain the car’s attitude better while sacrificing 
+mechanical grip. Softer springs will deal with bumps better and 
+increase mechanical grip, however this could cause the chassis 
+to pitch and roll too much, hurting aerodynamic performance at 
+faster tracks.
+BUMP STIFFNESS
+Bump stiffness affects how resistant the shock is to compression 
+(reduction in length), usually in chassis movements as a result of 
+driver input (steering, braking, & throttle) and cornering forces. 
+Higher values will increase compression resistance and transfer load 
+onto a given tire more quickly. Lower values reduce compression 
+resistance and transfer load onto a given tire more slowly. 
+Differences between left and right bump stiffness influence dynamic 
+crossweight on corner entry and result in a dynamic shift in balance 
+while the shocks are being compressed, with greater right front 
+bump shifting the balance toward understeer.
+REBOUND STIFFNESS
+Rebound stiffness affects how resistant the shock is to extension 
+(increase in length), typically during body movement as a result of 
+driver inputs. Higher rebound values will slow extension of the shock, 
+lower values will allow the shock to extend faster. Higher rebound 
+values can better control aerodynamic attitude but can result in the 
+wheel being unloaded when the suspension can’t extend enough to 
+maintain proper contact with the track. When tuning for handling, 
+higher front rebound can increase on-throttle mechanical understeer 
+(but reduce splitter lift, maintaining downforce) while lower values 
+will maintain front end grip longer, helping to reduce mechanical 
+understeer, but will allow more splitter lift and reduce downforce. 
+Differences between left and right front rebound influence dynamic 
+cross on corner exit, with greater right front rebound shifting the 
+balance toward oversteer. Excessive front rebound can lead to 
+unwanted oscillations due to the wheel bouncing off of the track 
+surface instead of staying in contact.
+
+--- PAGE 14 ---
+
+14
+NASCAR GEN 4 CARS | USER MANUAL
+NASCAR GEN 4 CARS | ADVANCED SETUP OPTIONS | CHASSIS
+CAMBER
+Camber is the vertical angle of the wheel relative to the center of 
+the chassis. Negative camber is when the top of the wheel is closer 
+to the chassis centerline than the bottom of the wheel, positive 
+camber is when the top of the tire is farther out than the bottom. 
+Higher camber angles will increase the cornering force generated 
+by the tire, but will reduce the amount of longitudinal grip the tire 
+will have under braking. Excessive camber values can produce very 
+high cornering forces but will also significantly reduce tire life, so 
+it is important to find a balance between life and performance. For 
+ovals, set the left side positive and the right side negative. For road 
+courses, all four wheels should be set with negative camber.
+CASTER
+Caster is how much the steering axis is leaned back (positive) or 
+forward (negative), which influences dynamic load jacking effects as 
+the car is steered. More positive caster results in a heavier steering 
+feel but decreases dynamic crossweight while turning, as well as 
+adding straight-line stability. Running less caster on the left-front will 
+cause the vehicle to pull to the left, a desirable effect on ovals.
+TOE-IN
+Toe is the angle of the wheel, when viewed from above, relative to 
+the centerline of the chassis. Positive toe-in is when the front of 
+the wheel is closer to the centerline than the rear of the wheel, and 
+negative toe-in (toe-out) is when the front of the wheel is farther 
+away from the centerline than the rear of the wheel. More net toe-
+out will destabilize the car in a straight line and help with turn-in but 
+increases slip angle on the front wheels and can risk over-slipping 
+the front tires at high values, which can result in sudden understeer 
+when cornering. On ovals, front toe will usually be different for each 
+wheel due to asymmetric loading on the front tires.
+
+--- PAGE 15 ---
+
+15
+NASCAR GEN 4 CARS | USER MANUAL
+NASCAR GEN 4 CARS | ADVANCED SETUP OPTIONS | CHASSIS
+REAR CORNERS
+CORNER WEIGHT
+The weight underneath each tire under static conditions in the 
+garage. Correct weight arrangement around the car is crucial for 
+optimizing a car for a given track and conditions. Individual wheel 
+weight adjustments and crossweight adjustments are made via 
+the Spring Perch Offset setting.
+RIDE HEIGHT
+Distance from ground to a reference point on the chassis. Since 
+these values are measured to a specific reference point on the 
+car, these values may not necessarily reflect the vehicle’s ground 
+clearance, but instead provide a reliable value for the height of the 
+car off of the race track at static values. Adjusting Ride Heights is 
+key for optimum performance, as they can directly influence the 
+vehicle’s aerodynamic performance as well as mechanical grip. 
+Increasing rear ride height will shift aero forward (more oversteer) 
+as well as slightly increasing overall downforce and drag. Conversely, 
+reducing rear ride height will increase rear and overall downforce 
+and reduce drag.
+SPRING PERCH OFFSET
+Used to adjust ride height and corner weight, adjusting this setting 
+applies a preload to the spring under static conditions. Decreasing 
+the value increases preload on the spring, adding weight to its 
+corner and increasing the ride height at that corner. Increasing the 
+value does the opposite, reducing height and weight on a given 
+corner. These should be adjusted in pairs (left and right, for example) 
+or with all four spring preload adjustments in the car to prevent 
+crossweight changes while adjusting ride height.
+SPRING RATE
+Spring Rate changes how stiff the spring is, represented in force 
+per unit of displacement. Primarily responsible for maintaining ride 
+height and aerodynamic attitude under changing wheel loads, stiffer 
+springs control the chassis attitude better (less roll or pitch change) 
+which is good for aerodynamics and camber control, but mechanical 
+grip is often better with softer springs which allow for more track 
+surface compliance but reduce aerodynamic control. For ovals, a 
+softer left-rear spring (relative to the right-rear) is desired to prevent 
+the dynamic cross from being too high in the corners, which will 
+result in a balance shift towards understeer through a run.
+BUMP STIFFNESS
+Bump stiffness affects how resistant the shock is to compression 
+(reduction in length), usually in chassis movements as a result of 
+driver input (steering, braking, & throttle) and cornering forces. 
+Higher values will increase compression resistance and transfer load 
+onto a given tire more quickly. Lower values reduce compression 
+resistance and transfer load onto a given tire more slowly. 
+Differences between left and right bump stiffness influence dynamic 
+crossweight and result in a dynamic shift in balance while the shocks 
+are being compressed, particularly on corner exit, with greater right 
+rear bump shifting the dynamic balance toward oversteer.
+
+--- PAGE 16 ---
+
+16
+NASCAR GEN 4 CARS | USER MANUAL
+NASCAR GEN 4 CARS | ADVANCED SETUP OPTIONS | CHASSIS
+REBOUND STIFFNESS
+Rebound stiffness affects how resistant the shock is to extension 
+(increase in length), typically during body movement as a result of 
+driver inputs. Higher rebound values will slow extension of the shock, 
+lower values will allow the shock to extend faster. Higher rebound 
+values can better control aerodynamic attitude but can result in the 
+wheel being unloaded when the suspension can’t extend enough to 
+maintain proper contact with the track. When tuning for handling, 
+higher rear rebound can increase off throttle mechanical oversteer 
+while lower values will maintain rear end grip longer, helping to 
+reduce mechanical oversteer off throttle, but will allow more rear 
+deck lift and shift the aero balance forward. Differences between 
+left and right rear rebound can influence off throttle dynamic cross 
+weight on corner entry, with greater right rear rebound shifting the 
+dynamic balance toward understeer.
+TOE-IN
+Toe is the angle of the wheel, when viewed from above, relative to 
+the centerline of the chassis. Positive toe-in is when the front of 
+the wheel is closer to the centerline than the rear of the wheel, and 
+negative toe-in (toe-out) is when the front of the wheel is farther 
+away from the centerline than the rear of the wheel. At the rear, 
+toe-out will help with turn in and direction changes, while toe-in 
+will increase straight-line stability. For short tracks or tracks where 
+traction is a problem, setting both rear wheels toed to the left 
+(positive right-rear and negative left-rear) can help to straighten 
+the car on throttle application.
+CAMBER
+Camber is the vertical angle of the wheel relative to the center of 
+the chassis. Negative camber is when the top of the wheel is closer 
+to the chassis centerline than the bottom of the wheel, positive 
+camber is when the top of the tire is farther out than the bottom. 
+Greater camber angles will increase the cornering force generated 
+by the tire, but will reduce the amount of longitudinal grip the tire 
+will have under braking. Excessive camber values can produce very 
+high cornering forces but will also significantly reduce tire life, so 
+it is important to find a balance between life and performance. For 
+ovals, set the left side positive and the right side negative. For road 
+courses, both rear wheels should be set with negative camber.
+TRACK BAR HEIGHT
+The Track Bar is a solid steel rod mounted to the rear axle 
+housing on the left side and to the chassis frame on the right 
+side to hold the rear axle assembly in place. The track bar’s left- 
+and right-side mounts can be raised or lowered to alter both 
+the dynamic loading on the rear tires as well as change the rear 
+suspension’s roll stiffness, with both effects having a large effect 
+on handling characteristics.
+Raising the overall height of the track bar (equal adjustment on 
+both ends of the bar in the same direction, e.g. 1” up on both ends) 
+will increase the roll stiffness of the rear suspension and free up 
+the chassis through all phases of cornering. Lowering the track 
+bar on both ends will reduce the rear roll stiffness and tighten the 
+chassis while cornering. Since this type of adjustment alters rear roll 
+stiffness it can have a large effect on the chassis’s roll attitude, so it’s 
+important to keep this in mind while making adjustments.
+Adjusting the two ends individually will shift loads from one rear 
+tire to the other as the chassis loads. Raising the right-side track 
+bar mount will reduce right-rear grip, freeing up the chassis during 
+the transition from center to corner exit, and is a good adjustment 
+for a “tight-center, loose-off” condition. Raising the left-side track 
+bar mount will help the car rotate into the center of the corner. 
+Conversely, lowering one of the mounts will do the opposite and 
+increase grip on its associated tire.
+Since the Track Bar Height values are calculated based on Ride 
+Heights, these will change in the garage as other parts of the car 
+are adjusted, however the right-rear mount will move more than the 
+left-rear since that mount is on the chassis itself. Before making 
+adjustments, note the track bar heights and be sure to return them 
+to the starting values after adjustments are completed.
+TRUCK ARM MOUNT
+The rear axle is held in place longitudinally with two truck arms, 
+mounted to the bottom of the chassis underneath the driver 
+compartment. The forward mounts can be adjusted up and down, 
+resulting in various anti-squat and rear-steer configurations. Higher 
+truck arm mounts will reduce rear end grip, increase rear steer, 
+add anti-squat, and reduce wheel hop under heavy braking. Lower 
+truck arm mounts will increase rear end bite, decrease rear steer, 
+reduce anti-squat, and increase the chances of wheel hop under 
+heavy braking.
+
+--- PAGE 17 ---
+
+17
+NASCAR GEN 4 CARS | USER MANUAL
+REAR
+REAR END RATIO
+The Rear End Ratio is the ratio between the driveshaft pinion and 
+the differential ring gear. Higher number values produce better 
+acceleration but reduce top speed, lower number values reduce 
+acceleration but result in a higher top speed.
+ARB DIAMETER
+The Rear Anti-Roll Bar (ARB, or Sway Bar) diameter affects the roll 
+stiffness of the rear suspension. Larger bar diameters will increase 
+rear roll stiffness and can increase steering responsiveness, but can 
+induce oversteer when cornering. Smaller bar diameters will increase 
+body roll as well as reduce oversteer when cornering.
+ARM SYMMETRY
+As with the front ARB, the lengths of the rear ARB arms can be split 
+to create asymmetric loading across the rear axle. Higher asymmetry 
+values will lengthen the left-side arm, effectively weakening the bar 
+on the left-rear corner compared to the right-rear. This can be used 
+to create a behavior similar to having a stiff right-rear spring in the 
+corners without having it on the straights, very helpful for tracks with 
+high speeds and corner loads but long, fast straights.
+CHAIN / SOLID LINK
+Similar to the front ARB linkage, the rear linkage can be set to a 
+chain or a solid link. If the chain link is installed, bumps to the left-
+rear wheel won’t always be transferred directly to the right-rear 
+wheel, helping to maintain grip over bumpy track surfaces.
+PRELOAD
+Preload is the static load in the bar while the vehicle is in the garage. 
+Rear bar preload is useful for tuning its behavior in transitions, like 
+when corner banking is building up or falling away. Higher preload 
+values will keep the bar loaded more through these situations, 
+placing more load onto the right-rear corner and inducing oversteer, 
+but does not affect rear roll stiffness. As with the front ARB, zero 
+preload and a positive link slack will require the suspension to travel 
+before the bar is engaged.
+LINK SLACK
+The left-side sway bar linkage can be adjusted to either delay bar 
+engagement or apply a static load to the bar. Positive or negative 
+values are referenced as an offset to a standard length and don’t 
+necessarily represent anything specific. This adjustment directly 
+affects the bar’s Preload, outlined above.
+NASCAR GEN 4 CARS | ADVANCED SETUP OPTIONS | CHASSIS
+
+--- PAGE 18 ---
+
+18
+NASCAR GEN 4 CARS | USER MANUAL
+SETUP TIPS
+This section is aimed toward helping users who want to dive deeper 
+into the different aspects of the vehicle’s setup.
+NASCAR GEN 4 CARS | SETUP TIPS
+
+--- PAGE 19 ---
+
+19
+NASCAR GEN 4 CARS | USER MANUAL
+NASCAR GEN 4 CARS | SETUP TIPS
+SETUP TIPS
+DRIVING TIPS
+AERODYNAMICS
+The NASCAR 2003 Gen 4 cars harken back to a simpler era in 
+Stock Car racing, before Coil-Binding, bump stops, and many of the 
+aerodynamic exploits we see in modern times. As a result, the cars 
+are much simpler to understand and set up, providing a great way 
+The 2003 Gen 4 cars were, in their day, the fastest stock cars 
+on track every weekend. Their high power and low aero create a 
+dramatically different driving behavior than modern cars, and have 
+to be approached that may not be familiar if you’re used to modern 
+stock cars.
+The most immediate difference is the engine. Since engine power 
+and torque changes with altitude and air temperature, engine 
+performance will change based on the track’s location. Tracks at 
+higher altitudes, or races run in hotter air temperatures, will have 
+less power (usually around 850hp) than tracks closer to sea-level, 
+which can surpass 900hp in the right conditions. This is a significant 
+amount of horsepower for the rear tires to handle, so throttle control 
+is crucial for running good lap times. Drivers may notice that, even 
+on a well-balanced chassis, the rear tires can still slip and spin when 
+leaving a corner, even at high speeds. This can be disastrous for 
+drivers who pick up the throttle too soon, induce understeer in the 
+second half of a corner, leading to a spin at corner exit (the typical 
+push-loose condition).
+While aerodynamics was still in relatively early days in 2003, these 
+cars do generate a good bit more downforce than their predecessors 
+without being as sensitive to pitch and height as cars in recent 
+years. Thus, target heights are more vague and the car has a much 
+larger “sweet spot” than newer cars.
+On the front end, we’ve modeled the way aerodynamics were 
+understood in this era. The valence’s lower edge, marked as 
+CFSRRideHeight in telemetry, should be run around 1 inch from the 
+ground for peak downforce. Raising the front end will reduce overall 
+downforce and shift aero forward slightly, lowering the front end 
+from this point will stall the valence and reduce overall downforce.
+At the rear, targets become slightly more complicated thanks to the 
+offset heights of the chassis frame rails. Measuring to the telemetry 
+ride height channels (LR & RRRideHeight), having the left-rear 
+around 4” and the right-rear around 5.5” is a good baseline for most 
+tracks. Generally, running the car at a level attitude, if not slightly 
+rear-up, will be a good configuration. As mentioned, this car is not 
+very pitch sensitive and has a large sweet spot, so it’s not as crucial 
+to have the heights perfect when compared to modern cars.
+to learn the basics. For iRacing Official series, setups are fixed for 
+all cars, but should you wish to run the car in an open-setup League 
+or Hosted event, here are tips on how to get the most out of these 
+high-powered machines.
+While the aerodynamic performance of these cars was considered 
+quite good in 2003, the overall downforce is relatively low by today’s 
+standards. When combined with lower drag and high power, this 
+creates a unique combination of high corner-entry speeds without 
+the available grip to carry speed through the corner. A track like 
+Michigan, for example, can easily exceed 200mph into Turn 1, but 
+the lack of downforce means corner speeds can drop down into the 
+150-160mph range. This means the driver has to scrub away a lot of 
+speed in a short time, so drivers will need to use a lot of brake and 
+let the car coast through the corner until throttle can be applied. 
+Not enough braking will cause the car to understeer through the 
+center, not enough coasting will lead to a push-loose off the corner. 
+For drivers new to these cars, it’s highly recommended to stick to the 
+provided setups until comfortable with the car’s quirks and behavior. 
+Adjusting the car instead of learning to control the throttle can lead 
+to bad habits down the road.
+Superspeedways bring a unique challenge with the different body 
+style used at these tracks. Aerodynamic height targets change 
+entirely with this body style, since downforce isn’t really necessary in 
+most cases. Where the downforce body wants either a level or rear-
+up attitude, the superspeedway body operates best when the rear 
+is run lower than the front. Front valence heights (CFSRRideHeight) 
+will work best between 1 and 2 inches above the ground, with higher 
+heights producing slightly less drag and downforce. Lower than this 
+will produce more drag, so make sure the nose stays up! For the rear, 
+heights around 3.5” on the left-rear and 4” on the right-rear should 
+be the targets. 
+
+--- PAGE 20 ---
+
+20
+NASCAR GEN 4 CARS | USER MANUAL
+NASCAR GEN 4 CARS | SETUP TIPS
+SPRINGS
+WEIGHT DISTRIBUTION
+REAR ARB
+These cars ran during the transition years between the older 
+Conventional-style setups and newer Big-Bar/Soft-Spring setups, 
+but preceded Coil-Binding as it eventually became known by a 
+couple of years. Spring packages for the 2003 cars will be heavily 
+The relatively low aerodynamic loads and high amount of suspension 
+travel lend the cars to being very mechanically-dependent, and thus 
+very sensitive to weight placement. Noseweight can be useful in 
+stabilizing the car at high speed tracks like Michigan or Indianapolis 
+but can lead to understeer, while lower noseweight values will 
+help rotate the car around slow, tight corners like Martinsville 
+or Richmond. Superspeedways, where the car is not grip-limited 
+and any understeer will scrub speed away, will always want lower 
+noseweight values. Generally, keeping the noseweight value around 
+50% is a good starting point, with 1-2% above and below that 
+being reasonable.
+In modern stock cars, rear anti-roll bars are generally outlawed 
+due to the unique ways they were run in 2011-2012. However, 
+in 2003, they were an integral part of the chassis’s setup and can 
+be a powerful tool when used.
+Rear ARBs are generally used to add right-rear wheel rate in the 
+corners without the need for a high-rate right-rear spring. This helps 
+by giving the chassis the spring rates it needs to navigate a corner 
+without having the stiff rear springs that keep the rear of the car 
+up in the air, generating drag, when going down the straights. 
+track-dependent, with some tracks working better on Conventional-
+style spring packages (higher-banked, or larger tracks) and others 
+working better with softer front spring packages (shorter and/or 
+flatter tracks).
+Crossweight is also extremely important, but the dependency on 
+mechanical grip results in crossweight being an extremely sensitive 
+and powerful adjustment. You’ll be able to use lower crossweight 
+values at higher grip tracks like Kansas, Michigan, or Las Vegas, 
+since the track’s grip can keep the car going straight with the freed-
+up chassis. Lower grip tracks, or very bumpy tracks where loads 
+under each wheel can change suddenly (like Atlanta’s old surface) 
+will need higher crossweight values to keep the car stable. Short 
+tracks depend on crossweight for forward drive, and thus generally 
+run higher than you’d expect. More crossweight will tighten the car 
+through the corner but make it easier to apply the throttle, so drivers 
+will need to find a tradeoff between the two.
+ For example, Indianapolis Motor Speedway has very long straights 
+with short, tight corners, so having a rear ARB prevents the need for 
+a large right-rear spring, allowing for less rear spring split and thus 
+better traction off the corners.
+Preloading the rear ARB is essential, as the motion ratios for the 
+rear bar are much larger than the front bar. Adding negative preload 
+to the rear bar will keep it loaded as the car enters and leaves the 
+corners, helping the car rotate despite softer rear springs.

@@ -1,0 +1,986 @@
+--- PAGE 1 ---
+
+1
+CADILLAC V-SERIES R GTP
+USER MANUAL
+
+--- PAGE 2 ---
+
+2
+CADILLAC V-SERIES R GTP | USER MANUAL
+TABLE OF CONTENTS
+CLICK TO VIEW A SECTION
+ Tire Data » 11
+Tires & Aero » 11
+ ADVANCED SETUP OPTIONS
+ Aero Settings » 12
+Chassis » 13
+ Front » 13
+ Rear » 18
+ Front Corners » 14
+ Rear Corners » 16
+Brakes / Drive Unit » 19
+ Lighting and Brake Spec » 19
+ Hybrid Config and Fuel » 20
+ Traction Control, Gear Ratios & Rear Diff Spec » 21
+Setup Tips » 22
+SETUP TIPS
+Introduction » 5
+Tech Specs » 4
+A Message From iRacing » 3
+ Getting Started » 5
+Dashboard » 7
+ Loading An iRacing Setup » 6
+ GENERAL INFORMATION
+
+--- PAGE 3 ---
+
+3
+DEAR iRACING USER,
+Congratulations on your purchase of the Cadillac V-Series R GTP! From all of us at iRacing, we appreciate 
+your support and your commitment to our product. We aim to deliver the ultimate sim racing experience, 
+and we hope that you’ll find plenty of excitement with us behind the wheel of your new car! 
+The following guide explains how to get the most out of your new car, from how to adjust its settings 
+off of the track to what you’ll see inside of the cockpit while driving. We hope that you’ll find it useful in 
+getting up to speed. 
+Thanks again for your purchase, and we’ll see you on the track!
+
+--- PAGE 4 ---
+
+4
+CADILLAC V-SERIES R GTP | USER MANUAL
+CHASSIS
+POWER 
+UNIT
+CADILLAC V-SERIES R GTP | TECH SPECS
+PUSHROD-ACTUATED INDEPENDENT 
+TORSION BAR FRONT AND REAR 
+SUSPENSION WITH FRONT HEAVE AND 
+REAR THIRD-SPRING ELEMENTS
+NATURALL Y ASPIRATED DOHC 
+V8 SYSTEM
+LENGTH
+5100 mm
+201 in
+WIDTH
+2000 mm
+78.7 in
+DISPLACEMENT
+5.5 Liters
+336 CID
+TORQUE
+463 lb-ft
+630 Nm
+RPM LIMIT
+8770 RPM 
+POWER
+675 bhp
+505 kW
+WHEELBASE
+3148 mm
+124 in
+DRY WEIGHT
+1030 kg
+2270 lbs
+WET WEIGHT 
+WITH DRIVER
+1150 kg
+2535 lbs
+
+--- PAGE 5 ---
+
+5
+CADILLAC V-SERIES R GTP | USER MANUAL
+INTRODUCTION
+The information found in this guide is intended to provide a deeper understanding of the chassis setup adjustments 
+available in the garage, so that you may use the garage to tune the chassis setup to your preference.
+Before starting the car, it is recommended to map controls to
+adjust the Brake Bias and Traction Control systems. While this is
+not mandatory to drive the car, this will allow you to make quick 
+changes to the driver aid systems to suit your driving style while
+out on the track. 
+CADILLAC V-SERIES R GTP | INTRODUCTION
+GETTING STARTED
+Once you load into the car, getting started is as easy as selecting 
+the “upshift” button to put it into gear, and hitting the accelerator 
+pedal. This car uses a sequential transmission and does not require 
+a clutch input to shift up or down. However, the car’s downshift 
+protection will not allow you to downshift if it feels you are traveling 
+too fast for the gear selected and would incur engine damage.
+In these situations the downshift command will simply be ignored.
+Upshifting is recommended when all of the shift lights on the 
+steering wheel have changed to red.
+Before diving into chassis adjustments, though, it is best to become 
+familiar with the car and track. To that end, we have provided 
+baseline setups for each track commonly raced by these cars. To 
+access the baseline setups, simply open the Garage, click iRacing 
+Setups, and select the appropriate setup for your track of choice.
+If you are driving a track for which a dedicated baseline setup is not 
+included, you may select a setup for a similar track to use as your 
+baseline.
+After you have selected an appropriate setup, get on track and focus 
+on making smooth and consistent laps, identifying the proper racing 
+line and experiencing tire wear and handling trends over a number of 
+laps.
+Once you are confident that you are nearing your driving potential 
+with the included baseline setups, read on to begin tuning 
+the car to your handling preferences.
+
+--- PAGE 6 ---
+
+6
+CADILLAC V-SERIES R GTP | USER MANUAL
+LOADING AN iRACING SETUP
+Upon loading into a session, the car will automatically load the 
+iRacing Baseline setup [baseline.sto]. If you would prefer one of 
+iRacing’s pre-built setups that suit various conditions, you may load
+it by clicking Garage > iRacing Setups > and then selecting the setup 
+to suit your needs.
+If you would like to customize the setup, simply make the changes 
+in the garage that you would like to update and click apply. If you 
+would like to save your setup for future use click “Save As” on the 
+right to name and save the changes. 
+CADILLAC V-SERIES R GTP | INTRODUCTION
+To access all of your personally saved setups, click “My Setups” on 
+the right side of the garage. If you would like to share a setup with 
+another driver or everyone in a session, you can select “Share” on 
+the right side of the garage to do so. 
+If a driver is trying to share a setup with you, you will find it under 
+“Shared Setups” on the right side of the garage as well. 
+
+--- PAGE 7 ---
+
+7
+CADILLAC V-SERIES R GTP | USER MANUAL
+CADILLAC V-SERIES R GTP | DASH PAGES
+DASH CONFIGURATION
+Vital information relating to the car’s performance and driver-adjustable settings can all be found on the digital display 
+integrated into the Cadillac V-Series R GTP’s steering wheel.
+Left Column
+REM (fuel) Amount of fuel remaining in the fuel tank in gallons or liters
+DELTA (fuel) Difference between current per-lap fuel usage and the pre-set fuel usage target
+LAPS (fuel) Estimated number of laps remaining before the fuel tank is empty
+TRGT (fuel) Target per-lap fuel usage, set by the Fuel Target setting in the garage
+Tire Temps Average surface temperature of each tire in °F or °C
+BBT Brake Bias Target setting
+BBM Base Brake Pressure Bias setting
+MIG Brake Bias Migration setting
+TC A Current Traction Control Gain setting
+RED
+EPAS Power Steering Assist level
+Right Column
+Lap Current lap number
+DELTA (s) Live time difference between the current lap and the session best lap
+LAST Previously completed lap time
+SoC Current Hybrid System State of Charge level
+ARB F Front ARB blade setting
+ARB R Rear ARB blade setting
+ECU A
+ECU B
+PEDAL Current throttle pedal torque map setting
+BLUE
+TC B Current Traction Control Slip setting
+Center Column
+Speed Vehicle speed in miles-per-hour or kilometers-per-hour
+Gear Indicator Currently selected transmission gear
+Tire Press
+ Live tire pressures, shown in PSI or kPa. The background of these values will change, with underinflated tires 
+shown in blue, overinflated tires in red, and optimum pressures shown with a black background.
+
+--- PAGE 8 ---
+
+8
+CADILLAC V-SERIES R GTP | USER MANUAL
+CADILLAC V-SERIES R GTP | DASH PAGES
+WHEELSPIN / BRAKE LOCK INDICATOR LIGHTS
+Two sets of LED lights are situated behind the steering wheel on the dash to quickly communicate to the driver if 
+anywheelspin or brake lockup is occurring. The left LED cluster corresponds to the left wheels and the right cluster 
+corresponds to the right wheels.
+Traction Control
+When the clusters light up all LEDs in blue the Traction Control system is intervening to reduce 
+wheelspin. Severe cases of wheelspin and TC system activation will produce a solid blue light 
+and the lights will begin flashing for less amounts of TC intervention.
+Brake Lockup
+Whenever braking force is sufficient to begin locking a wheel the LEDs will illuminate to show 
+both which wheel is locking and how severe the lockup is. Pink lights indicate front wheel lockup 
+and yellow lights indicate rear wheel lockups, with lockups becoming more severe with more 
+LEDs illuminated. The image above shows both front wheels locked with a slight lockup on the 
+left-rear wheel.
+
+--- PAGE 9 ---
+
+9
+CADILLAC V-SERIES R GTP | USER MANUAL
+CADILLAC V-SERIES R GTP | DASH PAGES
+SHIFT LIGHTS
+PIT LIMITER
+Once the optimum shift point has been reached all LEDs will change to blue and begin flashing.
+Whenever the Pit Speed Limiter is active shift lights and the screen’s background will change to blue, with the shift lights flashing while the 
+system is active. The Hybrid System’s SoC indicator will change to vehicle speed.
+The top of the steering wheel has a set of lights to help the driver know when to shift up to the next gear while accelerating. As RPM 
+increases, the lights will illuminate from the left to right starting with green and ending with two red LEDs on the right.
+
+--- PAGE 10 ---
+
+10
+CADILLAC V-SERIES R GTP | USER MANUAL
+ADVANCED SETUP OPTIONS
+This section is aimed toward more advanced users who want to dive deeper into the different aspects of the 
+vehicle’s setup. Making adjustments to the following parameters is not required and can lead to significant 
+changes in the way a vehicle handles. It is recommended that any adjustments are made in an incremental fashion 
+and only singular variables are adjusted before testing changes.
+CADILLAC V-SERIES R GTP | ADVANCED SETUP OPTIONS 
+
+--- PAGE 11 ---
+
+11
+CADILLAC V-SERIES R GTP | USER MANUAL
+CADILLAC V-SERIES R GTP | ADVANCED SETUP OPTIONS | TIRES & AERO 
+TIRE TYPE
+Selects which type of tire is installed on the car when loaded into the 
+world. Dry, or slick, tires are used for dry racing conditions while Wet 
+tires are intended for raining and wet track conditions.
+STARTING PRESSURE
+The air pressure in the tires when the car is loaded into the world. 
+Lower pressures will provide more grip but will produce more rolling 
+drag and build temperature faster. Higher pressures will feel slightly 
+more responsive and produce less rolling drag, but will result in 
+less grip. Generally, higher pressures are preferred at tracks where 
+speeds are higher while lower pressures work better at slower tracks 
+where mechanical grip is important.
+LAST HOT PRESSURE
+When the car returns to the garage after an on-track stint, the tire 
+pressure will be displayed as Hot Pressure. The difference between 
+cold and hot pressure is a good way to see how tires are being 
+loaded and worked while on track. Tires seeing more work will build 
+more pressure, and paying attention to which tires are building more 
+pressure and adjusting cold pressure to compensate can be crucial 
+for optimizing tire performance.
+TIRES & AERO
+TIRE DATA
+LAST TEMPS
+The tire carcass temperatures (measured within the tread) are 
+displayed after the car returns from the track. These temperatures 
+are an effective way to determine how much work or load a given tire 
+is experiencing while on track. Differences between the inner and 
+outer temperatures can be used to tune individual wheel alignment 
+and the center temperatures can be compared to the outer 
+temperatures to help tune tire pressure.
+TREAD REMAINING
+The amount of tread on the tire, displayed as a percentage of a new 
+tire, is shown below the tire temperatures. These values are good 
+for determining how far a set of tires can go before needing to be 
+replaced, but don’t necessarily indicate an under- or over-worked 
+tire in the same way temperatures will.
+
+--- PAGE 12 ---
+
+12
+CADILLAC V-SERIES R GTP | USER MANUAL
+CADILLAC V-SERIES R GTP | ADVANCED SETUP OPTIONS | TIRES & AERO 
+REAR WING ANGLE
+The rear wing angle setting changes the Angle of Attack of the wing 
+elements. Increasing wing angle increases the downforce generated 
+by the wing but increases drag, while decreasing the wing angle 
+reduces the downforce generated by the wing while reducing drag. 
+Rear wing angle has a heavy influence on rear downforce, having a 
+heavy influence on rear-end grip in mid- to high-speed corners.
+AERO CALCULATOR
+The Aero Calculator is a tool used to display the car’s approximate 
+aerodynamic values in a given configuration. Changes to the car’s 
+aerodynamic settings will be reflected in the Aero Calculator, giving 
+an idea of how the car will behave aerodynamically while on the race 
+track. This calculator can also be used to determine what changes 
+need to be made to the car to alleviate aerodynamically-induced 
+handling issues.
+FRONT/REAR RH AT SPEED
+The Ride Height (RH) at Speed is used to give the Aero Calculator 
+heights to reference for aerodynamic calculations. When using the 
+aero calculator, determine the car’s Front and Rear Ride height via 
+telemetry at any point on track and input that value into the “Front 
+RH at Speed” setting.
+AERO SETTINGS
+DOWNFORCE BALANCE
+Displayed in percent of Front downforce, this value shows how 
+much of the car’s total downforce is over the front axle. A higher 
+percentage value indicates more front downforce, increasing 
+oversteer in mid- to high-speed corners and a lower percentage 
+value indicates more rear downforce, increasing understeer in
+mid- to high-speed corners.
+L/D
+The “L/D” value is the ratio of Lift (downforce) to Drag. This 
+quantifies how efficiently the car’s bodywork is producing downforce 
+in terms of how much drag is being produced as a result. A higher 
+L/D value means more downforce is being produced for each unit of 
+drag, meaning the bodywork is being more efficient. Having a higher 
+L/D value without sacrificing overall downforce will result in a faster, 
+more efficient car. Optimum values for L/D can vary based on the 
+aerodynamic configuration and track type.
+
+--- PAGE 13 ---
+
+13
+CADILLAC V-SERIES R GTP | USER MANUAL
+CADILLAC V-SERIES R GTP | ADVANCED SETUP OPTIONS | CHASSIS
+CHASSIS
+FRONT
+HEAVE SPRING
+The front Heave Spring is a suspension element that handles 
+external loads from purely vertical loads and doesn’t control loads 
+that would induce chassis roll when cornering. Generally these loads 
+are present for increasing downforce loads at higher speeds, dips 
+and crests in the track, or under heavy braking. Higher rate values 
+will stiffen the suspension in heave, which is good for controlling ride 
+heights to maintain a good aerodynamic platform, but can produce 
+a bouncing effect on rough surfaces. Lower rates will absorb bumps 
+and loads easier, but will hurt the aerodynamic platform due to 
+excessive chassis movement.
+HEAVE PERCH OFFSET
+The Heave Perch Offset is used to adjust preload on the Heave 
+Spring. This is one of two methods to adjust ride height through the 
+front Heave element, with lower values preloading the spring more 
+and raising front ride heights. Conversely, higher values will unload 
+the spring and lower front ride heights.
+HEAVE SPRING DEFLECTION
+Heave Spring Deflection represents the amount the Heave Spring is 
+compressed under static conditions. This is not directly adjustable 
+but will change with adjustments to the Heave Perch Offset and 
+front Torsion Bar settings.
+HEAVE SLIDER DEFLECTION
+The Slider Deflection is how far the slider mechanism the Heave 
+Spring is mounted on has compressed from fully extended. Similar 
+to a shock but without any damping forces produced, this doesn’t 
+influence the suspension’s behavior.
+ARB SIZE
+The ARB (Anti-Roll Bar) size alters the stiffness of the front 
+suspension in roll. Increasing the ARB size will increase the roll 
+stiffness of the front suspension, resulting in less body roll but 
+increasing mechanical understeer. This can also, in some cases, 
+lead to a more responsive steering feel from the driver. Conversely, 
+reducing the ARB size will soften the suspension in roll, increasing 
+body roll but decreasing mechanical understeer. This can result in a 
+less-responsive feel from the steering, but grip across the front axle 
+will increase.
+ARB BLADES
+The configuration of the Anti-Roll Bar arms, or “blades”, can be 
+changed to alter the overall stiffness of the ARB assembly.
+Higher values transfer more force through the arms to the ARB
+itself, increasing roll stiffness in the front suspension and producing 
+the same effects, albeit on a smaller scale, as increasing the 
+diameter of the sway bar. Conversely, lower values reduce the roll 
+stiffness of the front suspension and produce the same effects as 
+decreasing the diameter of the sway bar. These blade adjustments 
+can be thought of as fine-tuning adjustments between sway bar 
+diameter settings.
+TOE-IN
+Toe is the angle of the wheel, looking from vertical, relative to the 
+chassis centerline. Toe-in is when the front of the wheels are closer 
+to the centerline while Toe-out is when the front of the wheels are 
+farther from the centerline than the rear of the tires. On the front 
+end, Toe will alter how quickly the tires respond to steering inputs 
+and influence how stable the car is in a straight line. Toe-out settings 
+(negative garage value) will increase turn-in response and make 
+the car less stable in a straight line, while Toe-in (positive garage 
+value) will increase straight-line stability while making initial steering 
+response more sluggish.
+PUSHROD LENGTH OFFSET
+This adjusts the length of both front suspension pushrods together, 
+shown as an offset from a baseline length figure. This is a great way 
+to adjust front ride height without altering the preload on the Heave 
+Spring or either front Torsion Bars. 
+POWER STEERING ASSIST
+Changes the assist level of the power steering system. Higher values 
+will increase the assist and make the steering feel lighter, lower 
+values will reduce assist and make the steering heavier.
+
+--- PAGE 14 ---
+
+14
+CADILLAC V-SERIES R GTP | USER MANUAL
+CADILLAC V-SERIES R GTP | ADVANCED SETUP OPTIONS | CHASSIS
+FRONT CORNERS
+CORNER WEIGHT
+The weight underneath each tire under static conditions in the 
+garage. Correct weight arrangement around the car is crucial for 
+optimizing a car for a given track and conditions. Individual wheel 
+weight adjustments and crossweight adjustments are made via the 
+Torsion Bar Turns setting on the front corners.
+RIDE HEIGHT
+Distance from ground to a reference point on the chassis. Since 
+these values are measured to a specific reference point on the 
+car, these values may not necessarily reflect the vehicle’s ground 
+clearance, but instead provide a reliable value for the height of the 
+car off of the race track at static values. Adjusting Ride Heights is 
+key for optimum performance, as they can directly influence the 
+vehicle’s aerodynamic performance as well as mechanical grip. 
+Increasing the front ride height will decrease overall downforce 
+and shift the aerodynamic balance rearward, but will decrease 
+drag slightly. Conversely, reducing front ride height will increase 
+downforce and shift aero balance forward while slightly increasing 
+overall drag.
+SHOCK DEFLECTION
+Shock Deflection is how much the shock has compressed from its 
+fully extended length while under static conditions in the garage. 
+This is useful for determining how much shock travel is available 
+before a bump stop is engaged on the shock.
+TORSION BAR DEFLECTION
+The Torsion Bar Deflection is a representation of how much the front 
+torsion bar springs have been preloaded under static conditions. 
+Higher deflection values show higher amounts of spring preload, 
+lower values represent less spring preload.
+TORSION BAR TURNS
+Used to adjust ride height and corner weight, adjusting this 
+setting applies a preload to the torsion bar under static conditions. 
+Decreasing the value increases preload on the torsion bar, adding 
+weight to its corner and increasing the ride height at that corner. 
+Increasing the value does the opposite, reducing height and weight 
+on a given corner. These should be adjusted in pairs (left and right, 
+for example) or with all four spring preload adjustments in the car to 
+prevent crossweight changes while adjusting ride height.
+TORSION BAR O.D.
+Similar to an Anti-Roll Bar, a torsion bar is a spring that exerts 
+resistive forces via applied torque generated through suspension 
+travel. However, these torsion bars are fixed to the chassis at one 
+end, and thus resist movement only on one wheel in the same way 
+a coil spring resists movement and load changes. Increasing the 
+torsion bar’s diameter gives a higher spring rate, and reducing the 
+diameter gives a lower spring rate. Stiffer springs are very helpful for 
+smooth tracks and applications where a high level of aerodynamic 
+attitude control is required, however stiff springs reduce mechanical 
+grip significantly, especially over bumps. On low-grip and/or bumpy 
+tracks, as well as lower speed tracks where aerodynamics may not 
+be as effective, softer springs will increase mechanical grip while 
+sacrificing aerodynamic control. Torsion Bar Diameter adjustments 
+should be made in conjunction with ride height adjustments to 
+prevent unwanted grounding of the chassis while on track.
+LS COMP DAMPING
+Low Speed Compression affects how resistant the shock is to 
+compression (reduction in length) when the shock is moving at 
+relatively low speeds, usually in chassis movements as a result of 
+driver input (steering, braking, & throttle) and cornering forces. 
+Higher values will increase compression resistance and transfer load 
+onto a given tire under these low-speed conditions more quickly, 
+inducing understeer. Lower values will slow weight transfer to a tire, 
+reducing understeer when applied to the front shocks.
+
+--- PAGE 15 ---
+
+15
+CADILLAC V-SERIES R GTP | USER MANUAL
+CADILLAC V-SERIES R GTP | ADVANCED SETUP OPTIONS | CHASSIS
+HS COMP DAMPING
+High Speed Compression affects the shock’s behavior in high-speed 
+travel, usually attributed to curb strikes and bumps in the track’s 
+surface. Higher compression values will cause the suspension 
+to be stiffer in these situations, while lower values will allow 
+the suspension to absorb these bumps better but may hurt the 
+aerodynamic platform around the track.
+HS COMP DAMPING SLOPE
+The Compression Damping Slope setting controls the overall shape 
+of the high-speed compression side of the shock. Lower slope 
+values produce a flatter, more digressive curve while higher values 
+result in a more linear and aggressive compression graph. The value 
+of the slope setting is very important in controlling bump absorption 
+at high shock velocities and controlling the aerodynamic platform. 
+A lower slope will be helpful for rougher tracks in absorbing bumps 
+and sharp impacts such as curbs, while a higher slope will keep 
+the suspension more rigid. It’s important to understand that these 
+settings will affect the range the High-Speed Compression will have, 
+with higher slope values producing a higher overall force for high-
+speed compression.
+LS REBOUND DAMPING
+Low-speed Rebound damping controls the stiffness of the shock 
+while extending at lower speeds, typically during body movement as 
+a result of driver inputs. Higher rebound values will resist expansion 
+of the shock, lower values will allow the shock to extend faster. 
+Higher rebound values can better control aerodynamic attitude but 
+can result in the wheel being unloaded when the suspension can’t 
+expand enough to maintain proper contact with the track. When 
+tuning for handling, higher front low-speed rebound can increase 
+on-throttle mechanical understeer (but reduce splitter lift) while 
+lower values will maintain front end grip longer, helping to reduce 
+understeer, but will allow more splitter lift. Excessive front rebound 
+can lead to unwanted oscillations due to the wheel bouncing off of 
+the track surface instead of staying in contact.
+HS REBOUND DAMPING
+High-speed rebound adjusts the shock in extension over bumps 
+and curb strikes. Higher values will reduce how quickly the shock 
+will expand, while lower values will allow the shock to extend more 
+easily. Despite not having as much of an effect on handling in result 
+to driver inputs, High-speed rebound can produce similar results 
+in terms of aerodynamic control and uncontrolled oscillations if set 
+improperly.
+CAMBER
+Camber is the vertical angle of the wheel relative to the center of the 
+chassis. Negative camber is when the top of the wheel is closer to 
+the chassis centerline than the bottom of the wheel, positive camber 
+is when the top of the tire is farther out than the bottom. Due to 
+suspension geometry and corner loads, negative camber is desired 
+on all four wheels. Higher negative camber values will increase the 
+cornering force generated by the tire, but will reduce the amount 
+of longitudinal grip the tire will have under braking. Excessive 
+camber values can produce very high cornering forces but will 
+also significantly reduce tire life, so it is important to find a balance 
+between life and performance.
+
+--- PAGE 16 ---
+
+16
+CADILLAC V-SERIES R GTP | USER MANUAL
+CADILLAC V-SERIES R GTP | ADVANCED SETUP OPTIONS | CHASSIS
+REAR CORNERS
+CORNER WEIGHT
+The weight underneath each tire under static conditions in the 
+garage. Correct weight arrangement around the car is crucial for 
+optimizing a car for a given track and conditions. Individual wheel 
+weight adjustments and crossweight adjustments are made via the 
+Spring Perch Offset setting.
+RIDE HEIGHT
+Distance from ground to a reference point on the chassis. Since 
+these values are measured to a specific reference point on the 
+car, these values may not necessarily reflect the vehicle’s ground 
+clearance, but instead provide a reliable value for the height of the 
+car off of the race track at static values. Adjusting Ride Heights is 
+key for optimum performance, as they can directly influence the 
+vehicle’s aerodynamic performance as well as mechanical grip. 
+Raising the rear ride height will increase overall downforce and shift 
+aero to the front of the car but will increase drag. Decreasing rear 
+ride height will do the opposite, with aero shifting rearward and 
+overall downforce and drag decreasing.
+SHOCK DEFLECTION
+Shock Deflection is how much the shock has compressed from its 
+fully extended length while under static conditions in the garage. 
+This is useful for determining how much shock travel is available 
+before a bump stop is engaged on the shock.
+SPRING DEFLECTION
+Spring Deflection shows how much the spring has compressed from 
+its unloaded length. This can be used to see spring preload under 
+static conditions and compare it against other corners of the car, 
+with higher values representing more preload on a given spring.
+SPRING PERCH OFFSET
+Used to adjust ride height and corner weight, adjusting this setting 
+applies a preload to the spring under static conditions. Decreasing 
+the value increases preload on the spring, adding weight to its 
+corner and increasing the ride height at that corner. Increasing 
+the value does the opposite, reducing height and weight on a 
+given corner. These should be adjusted in pairs (left and right, for 
+example) or with all four spring preload adjustments in the car to 
+prevent crossweight changes while adjusting ride height.
+SPRING RATE
+Spring Rate changes how stiff the spring is, represented in a force 
+per unit of displacement. Primarily responsible for maintaining ride 
+height and aerodynamic attitude under changing wheel loads, stiffer 
+springs will maintain the car’s aero platform better while sacrificing 
+mechanical grip. Softer springs will deal with bumps better and 
+increase mechanical grip, but will cause the car’s aerodynamic 
+platform to suffer. Due to homologation rules, rear spring rates must 
+be symmetrical across the rear axle and can only be changed in 
+pairs.
+LS COMP DAMPING
+Low Speed Compression affects how resistant the shock is to 
+compression (reduction in length) when the shock is moving at 
+relatively low speeds, usually in chassis movements as a result of 
+driver input (steering, braking, & throttle) and cornering forces. 
+Higher values will increase compression resistance and transfer load 
+onto a given tire under these low-speed conditions more quickly, 
+inducing understeer on throttle application.
+CHASSIS
+
+--- PAGE 17 ---
+
+17
+CADILLAC V-SERIES R GTP | USER MANUAL
+HS COMP DAMPING
+High Speed Compression affects the shock’s behavior in high-speed 
+travel, usually attributed to curb strikes and bumps in the track’s 
+surface. Higher compression values will cause the suspension 
+to be stiffer in these situations, while lower values will allow 
+the suspension to absorb these bumps better but may hurt the 
+aerodynamic platform around the track.
+HS COMP DAMPING SLOPE
+The Compression Damping Slope setting controls the overall shape 
+of the high-speed compression side of the shock. Lower slope 
+values produce a flatter, more digressive curve while higher values 
+result in a more linear and aggressive compression graph. The value 
+of the slope setting is very important in controlling bump absorption 
+at high shock velocities and controlling the aerodynamic platform. 
+A lower slope will be helpful for rougher tracks in absorbing bumps 
+and sharp impacts such as curbs, while a higher slope will keep 
+the suspension more rigid. It’s important to understand that these 
+settings will affect the range the High-Speed Compression will have, 
+with higher slope values producing a higher overall force for high-
+speed compression.
+LS REBOUND DAMPING
+Low-speed Rebound damping controls the stiffness of the shock 
+while extending at lower speeds, typically during body movement as 
+a result of driver inputs. Higher rebound values will resist expansion 
+of the shock, lower values will allow the shock to extend faster. 
+Higher rebound values can better control aerodynamic attitude but 
+can result in the wheel being unloaded when the suspension can’t 
+expand enough to maintain proper contact with the track. When 
+tuning for handling, higher rear low-speed rebound can increase off-
+throttle mechanical understeer (but reduce rear-end lift) while lower 
+values will maintain rear end grip longer, helping to reduce oversteer, 
+but will allow more rear end lift under deceleration. Excessive 
+rear rebound can lead to unwanted oscillations due to the wheel 
+bouncing off of the track surface instead of staying in contact.
+HS REBOUND DAMPING
+High-speed rebound adjusts the shock in extension over bumps 
+and curb strikes. Higher values will reduce how quickly the shock 
+will expand, while lower values will allow the shock to extend more 
+easily. Despite not having as much of an effect on handling in result 
+to driver inputs, High-speed rebound can produce similar results 
+in terms of aerodynamic control and uncontrolled oscillations if set 
+improperly.
+CAMBER
+Camber is the vertical angle of the wheel relative to the center of the 
+chassis. Negative camber is when the top of the wheel is closer to 
+the chassis centerline than the bottom of the wheel, positive camber 
+is when the top of the tire is farther out than the bottom. Due to 
+suspension geometry and corner loads, negative camber is desired 
+on all four wheels. Higher negative camber values will increase the 
+cornering force generated by the tire, but will reduce the amount 
+of grip the tire will have under braking. Excessive camber values 
+can produce very high cornering forces but will also significantly 
+reduce tire life, so it is important to find a balance between life and 
+performance. Higher rear camber values can increase cornering 
+stability but reduce stability under braking.
+TOE-IN
+Toe is the angle of the wheel, when viewed from above, relative to 
+the centerline of the chassis. Toe-in is when the front of the wheel 
+is closer to the centerline than the rear of the wheel, and Toe-out is 
+the opposite. On the rear end, adding toe-in will increase straight-
+line stability but may hurt how well the car changes direction.
+CADILLAC V-SERIES R GTP | ADVANCED SETUP OPTIONS | CHASSIS
+
+--- PAGE 18 ---
+
+18
+CADILLAC V-SERIES R GTP | USER MANUAL
+CADILLAC V-SERIES R GTP | ADVANCED SETUP OPTIONS | CHASSIS
+REAR
+THIRD SPRING
+The Third Spring, similar to the front Heave Spring, is a spring 
+element configured to provide resistance only in vertical suspension 
+movement without affecting roll stiffness. This spring element 
+is helpful with controlling increasing aerodynamic loads and 
+maintaining the proper aerodynamic attitude around a circuit. 
+The rear end’s third spring is crucial in maintaining and controlling 
+the rear ride height around a circuit to maximize the downforce 
+produced by the rear bodywork.
+THIRD PERCH OFFSET
+The Third Perch Offset is used to adjust preload on the rear Third 
+Spring. This is one of two methods to adjust ride height through the 
+rear Third Spring element, with lower values preloading the spring 
+more and raising front ride heights. Conversely, higher values will 
+unload the spring and lower front ride heights.
+THIRD SPRING DEFLECTION
+Third Spring Deflection represents the amount the rear Third Spring 
+is compressed under static conditions. This is not directly adjustable 
+but will change with adjustments to the Third Perch Offset and rear 
+Spring settings.
+THIRD SLIDER DEFLECTION
+The Slider Deflection is how far the slider mechanism the Third 
+Spring is mounted on has compressed from fully extended. Similar 
+to a shock but without any damping forces produced, this doesn’t 
+influence the suspension’s behavior.
+ARB SIZE
+The ARB (Anti-Roll Bar) size alters the stiffness of the rear 
+suspension in roll. Increasing the ARB size will increase the roll 
+stiffness of the rear suspension, resulting in less body roll but 
+increasing mechanical oversteer. Conversely, reducing the ARB size 
+will soften the suspension in roll, increasing body roll but decreasing 
+mechanical oversteer. This can result in a less-responsive feel from 
+the steering, but grip across the rear axle will increase.
+ARB BLADES
+The configuration of the Anti-Roll Bar arms, or “blades”, can be 
+changed to alter the overall stiffness of the ARB assembly.
+Higher values transfer more force through the arms to the ARB
+itself, increasing roll stiffness in the rear suspension and producing 
+the same effects, albeit on a smaller scale, as increasing the 
+diameter of the Anti-roll bar. Conversely, lower values reduce the 
+roll stiffness of the rear suspension and produce the same effects 
+as decreasing the diameter of the Anti-roll bar. These blade 
+adjustments can be thought of as fine-tuning adjustments between 
+Anti-roll bar diameter settings.
+PUSHROD LENGTH OFFSET
+This adjusts the length of both front suspension pushrods together, 
+shown as an offset from a baseline length figure. This is a great way 
+to adjust front ride height without altering the preload on the Heave 
+Spring or either front Torsion Bars.
+CROSS WEIGHT
+Cross weight is the amount of weight on the car’s Left-Rear and 
+Right-Front tires relative to the entire weight of the car, displayed in 
+percent. This is adjusted via the corner spring preload adjustments 
+(Front Torsion Bar Turns and Rear Spring Perch Offset). This value 
+should be around 50% for most tracks.
+
+--- PAGE 19 ---
+
+19
+CADILLAC V-SERIES R GTP | USER MANUAL
+CADILLAC V-SERIES R GTP | ADVANCED SETUP OPTIONS | BRAKES / DRIVE UNIT
+BRAKES/DRIVE UNIT
+LIGHTING & BRAKE SPEC
+ROOF ID LIGHT COLOR
+The color of the identifier lights on the roof of the car can be 
+changed to better identify similarly-painted cars in nighttime 
+conditions. This adjustment has no effect on vehicle performance.
+PAD COMPOUND
+The vehicle’s braking performance can be altered via the Brake 
+Pad Compound. The “Low” setting provides the least friction, 
+reducing the effectiveness of the brakes but allowing for better 
+brake pressure modulation, while “Medium” and “High” provide more 
+friction and increase the effectiveness of the brakes while increasing 
+the risk of a brake lockup.
+FRONT MASTER CYLINDER
+The Front Brake Master Cylinder size can be changed to alter the 
+line pressure to the front brake calipers. A larger master cylinder 
+will reduce the line pressure to the front brakes, which will shift 
+the brake bias rearwards and increase the pedal effort required to 
+lock the front wheels. A smaller master cylinder will increase brake 
+line pressure to the front brakes, shifting brake bias forward and 
+reducing required pedal effort to lock the front wheels.
+REAR MASTER CYLINDER
+The Rear Brake Master Cylinder size can be changed to alter the 
+line pressure to the rear brake calipers. A larger master cylinder will 
+reduce the line pressure to the rear brakes, which will shift the brake 
+bias forwards and increase the pedal effort required to lock the rear 
+wheels. A smaller master cylinder will increase brake line pressure to 
+the rear brakes, shifting brake bias rearward and reducing required 
+pedal effort to lock the rear wheels.
+BRAKE PRESSURE BIAS
+Brake Bias is the percentage of braking force that is being sent to 
+the front brakes. Values above 50% result in more pressure being 
+sent to the front, while values less than 50% send more force to 
+the rear. This should be tuned for both driver preference and track 
+conditions to get the optimum braking performance for a given 
+situation.
+BRAKE BIAS TARGET
+Sets the brake bias with an offset from the Brake Pressure Bias. 
+Positive values will set the brake bias higher than the Pressure Bias 
+setting by 0.5% per click, negative values will set the bias lower 
+than the Pressure Bias by 0.5% per click. For example, if the Brake 
+Pressure Bias is 50% and the Target is “2”, the actual brake bias will 
+be set to 51%.
+BRAKE BIAS MIGRATION
+This sets how far forward or rearward the brake bias will shift with 
+brake pedal travel. Positive values will migrate the bias forward and 
+increase the maximum brake bias by 1% per click, negative values 
+will migrate it rearward and reduce the minimum brake bias by 1%.
+
+--- PAGE 20 ---
+
+20
+CADILLAC V-SERIES R GTP | USER MANUAL
+HYBRID CONFIG & FUEL
+NO DEPLOY
+In the “No Deploy” mode, the Hybrid system will not use any energy 
+stored in the battery. This essentially disables the Hybrid drive 
+system and will only charge the battery throughout a lap. This is only 
+available in Qualifying and Test sessions and is used to fully charge 
+the battery before switching to Qual mode.
+QUAL
+This mode is intended to be used on flying laps during qualifying 
+sessions and will attempt to use all of the battery charge during 
+a lap. This is only available during Qualifying and Test sessions 
+and should be preceded by the No Deploy setting on outlaps and 
+warmup laps to ensure the battery is fully charged before switching 
+to the Qual mode.
+ATTACK
+Attack mode reduces the target State of Charge to use more power 
+during race sessions to help with overtaking. Generally the laptime 
+gain from this mode is not enough to offset the loss in pace from 
+having to recharge and recover from using Attack mode, so it 
+should be used only when it is absolutely necessary to complete 
+an overtake. This mode can also be used on the final lap for a burst 
+of speed since the battery is no longer needed. This mode is only 
+available for Practice, Race, and Test sessions.
+BALANCED
+The Balanced mode is the primary Race mode for the Hybrid system. 
+This mode will attempt to deploy electrical charge to reduce lap 
+times as much as possible while still maintaining a reasonable State 
+of Charge over the duration of a lap. At the start of a session, it will 
+take a few flying laps for the Hybrid system to learn the track and 
+optimize deployment for the best lap times, and this mode is only 
+available in Practice, Race, and Test sessions.
+BUILD
+The Build mode will attempt to build battery charge as quickly
+as possible in the event of a low battery charge or if it is needed 
+prior to switching to Attack mode. Note that this will compromise
+lap times significantly compared to Balanced, and it’s important
+to switch back to Balanced mode once the battery has charged
+to avoid losing harvested energy and to prevent unnecessary
+loss in pace. This mode is only available in Practice, Race,
+and Test sessions.
+FUEL LEVEL
+Fuel level is the amount of fuel in the fuel tank when the car leaves 
+the garage.
+The Hybrid power system on the Cadillac V-Series R GTP can be set to one of five modes to change the target battery State 
+of Charge (SoC) after each lap. Each of these modes will use varying levels of energy throughout a lap to reach a target, 
+and thus some will produce more power over the course of a lap and faster lap times at the cost of discharging the battery.
+CADILLAC V-SERIES R GTP | ADVANCED SETUP OPTIONS | BRAKES / DRIVE UNIT
+
+--- PAGE 21 ---
+
+21
+CADILLAC V-SERIES R GTP | USER MANUAL
+CADILLAC V-SERIES R GTP | ADVANCED SETUP OPTIONS | BRAKES / DRIVE UNIT
+TRACTION CONTROL, GEAR RATIOS, & REAR DIFF SPEC
+TRACTION CONTROL GAIN
+Gain is the amount of intervention the Traction Control will exert 
+when wheel spin is detected. Higher values result in a more 
+aggressive throttle cut to control wheelspin.
+TRACTION CONTROL SLIP
+Slip is how sensitive the Traction Control system will be to 
+wheelspin. Higher values will activate the Traction Control system 
+with smaller amounts of wheelspin, while lower values will allow 
+slightly more wheelspin prior to activating the system.
+THROTTLE SHAPE
+The Throttle Shape setting will adjust how linear the torque delivery 
+is based on the throttle pedal position. Setting “1” is purely linear, 
+with a given percent of throttle delivering a similar percentage of 
+max torque (25% throttle = 25% torque). As settings are increased 
+the torque delivery becomes more non-linear, similar to a butterfly-
+style throttle: less torque increase at very low and very high throttle 
+percentage and more torque increase in the throttle’s mid-range. 
+This will change the feel of the car when throttle is initially applied 
+and is a good tool for drivers with various driving styles.
+GEAR STACK
+Gear Stack changes the gear ratios in the transmission. Two choices 
+are available: Short and Long. The Short setting will choose a more 
+acceleration-focused gear set for tracks with shorter straights or 
+slower corners, while the Long option will choose gears more suited 
+to high-speed tracks with long straights.
+GEAR SPEEDS
+Each of the transmission’s seven forward gears will show the 
+approximate ground speed at which the engine will reach maximum 
+RPM. These values will change based on which Gear Stack is 
+selected, but the true maximum speed may differ slightly due to on-
+track conditions.
+COAST/DRIVE RAMP ANGLES
+Coast and Drive Ramp Angles affect the force exerted by the 
+differential to keep both driven tires locked together under 
+acceleration. Lower values produce more locking force, and more 
+locking force increases understeer during braking and acceleration 
+phases. Higher values will produce less locking force and induce 
+oversteer in these situations.
+CLUTCH FRICTION PLATES
+The number of clutch faces affect how much overall force is applied 
+to keep the differential locked. Treated as a multiplier, adding more 
+faces produces increasingly more locking force.
+PRELOAD
+The differential can be set with a static load applied. Higher values 
+produce more locking force in the differential in all conditions, 
+producing more understeer under acceleration and deceleration. 
+This value will also affect mid-corner performance, with higher 
+values not allowing the differential to unlock as much, increasing 
+mid-corner understeer.
+
+--- PAGE 22 ---
+
+22
+CADILLAC V-SERIES R GTP | USER MANUAL
+CADILLAC V-SERIES R GTP | SETUP TIPS 
+SETUP TIPS
+This section is aimed toward helping users who want to dive deeper 
+into the different aspects of the vehicle’s setup.
+
+--- PAGE 23 ---
+
+23
+CADILLAC V-SERIES R GTP | USER MANUAL
+CADILLAC V-SERIES R GTP | SETUP TIPS
+SETUP TIPS
+PROVIDED SETUPS
+CHASSIS HEIGHTS
+BASELINE
+A slightly more stable version of the high downforce setup for a 
+driver’s first time in the car or for those wanting more stability than 
+the high downforce setup provides.
+HIGH DOWNFORCE
+For use at most tracks. Although quite efficient and creating the 
+most downforce, this setup also makes the most drag.
+MEDIUM DOWNFORCE
+For use at track with long straights like Spa. Sacrificing more 
+downforce and efficiency for more straight line speed.
+LOW DOWNFORCE
+For use at Le Mans. Lowest drag and downforce trim.
+DAYTONA
+A variation of the Low Downforce setup for use at Daytona with 
+changes to avoid bottoming on the oval banking.
+DAYTONA 24H
+A variation on the Daytona setup made specifically with time of year, 
+expected weather, and the demands of a 24 hour race setup in mind.
+The Cadillac V-Series.R GTP generates the most downforce with 
+an average front ride height around 20mm and an average rear ride 
+height around 35mm. It’s important to note that the least amount 
+of drag is generated when the average front ride height is closer to 
+30mm.
+More rake (high rear ride heights compared to front ride heights) 
+will move aero balance forward (oversteer) and less rake will move it 
+rearwards (understeer).
+FIXED
+The high downforce setup with limited fuel for the official
+IMSA fixed series.
+FIXED QUAL
+The fixed series setup with qualifying fuel and hybrid deployment.
+FIXED LEMANS
+The low downforce setup with limited fuel for the official
+IMSA fixed series.
+FIXED LEMANS QUAL
+The fixed LDF series setup with qualifying fuel and
+hybrid deployment.
+FIXED DAYTONA
+The Daytona setup with limited fuel for the official IMSA fixed series.
+FIXED DAYTONA QUAL
+The Daytona series setup with qualifying fuel and
+hybrid deployment.
+You can affect the dynamic ride heights (without changing the roll 
+stiffness) on track by adjusting the front heave spring and the rear 
+third spring stiffnesses.
+There are 12 iRacing setups provided for the Cadillac V-Series R GTP:
+The fuel level in all setups (except the fixed IMSA setups) are set to 89 L, which is the maximum tank capacity for this car.
+
+--- PAGE 24 ---
+
+24
+CADILLAC V-SERIES R GTP | USER MANUAL
+CADILLAC V-SERIES R GTP | SETUP TIPS
+AERODYNAMIC ADJUSTMENTS
+MECHANICAL ADJUSTMENTS
+DIFFERENTIAL ADJUSTMENTS
+Should you choose to make adjustments to the setup the easiest 
+way to change the balance of the setup is through adjustment of 
+the rear wing angle. Generally speaking if you find you want to 
+adjust wing position in more than a click in either direction it is 
+recommended you start from one of the other downforce trim setups 
+(high, medium, or low).
+Lower wing angle = More oversteer, less downforce, and higher 
+straight line speed.
+Higher wing angle = More understeer, more downforce, and lower 
+straight line speed.
+If you would like to change the mechanical balance without changing 
+the aero balance the front and rear ARBs and ARB blades may be 
+adjusted. This can be particularly useful if you are happy with the 
+general balance of the car but want either more or less rotation in 
+slow speed corners.
+The rear differential is a powerful tool in the Acura, and the simplest 
+change one can make is increasing or decreasing the preload. While 
+adjusting the preload will affect the on throttle behavior you will 
+probably notice more of a change on entry and turn in.
+If you would like to change the aero balance without changing the 
+downforce/drag trim adjust the rear ride height by increasing or 
+decreasing the rear pushrod length offset. This will affect balance 
+in all situations due to the high amount of downforce but this will be 
+particularly noticeable in mid and high speed corners.
+Lower pushrod length offset = Lower rear ride height, less rake, a 
+more rearward aero balance (understeer).
+Higher pushrod length offset = Higher rear ride height, more rake, a 
+more forward aero balance (oversteer).
+Bigger front ARB/higher blade value = More understeer
+Smaller front ARB/lower blade values = Less understeer
+Bigger rear ARB/higher blade values = More oversteer
+Smaller rear ARB/lower blade values = Less oversteer
+More preload = Less rotation off throttle, more stability on entry.
+Less preload = More rotation off throttle, less stability on entry.

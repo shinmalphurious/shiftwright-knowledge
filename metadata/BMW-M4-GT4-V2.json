@@ -1,0 +1,27 @@
+{
+  "vehicle": "BMW M4 GT4",
+  "manufacturer": "BMW",
+  "manufacturer_source": "filename",
+  "class": "NASCAR",
+  "manual_type": "vehicle",
+  "topics": [
+    "aerodynamics",
+    "brakes",
+    "dampers",
+    "differential",
+    "hybrid",
+    "suspension",
+    "tires"
+  ],
+  "sections": [
+    "Tires & Aero",
+    "Setup Tips",
+    "Chassis",
+    "Dampers",
+    "Differential",
+    "Brakes",
+    "Fuel"
+  ],
+  "word_count": 4788,
+  "source_text": "BMW-M4-GT4-V2.txt"
+}

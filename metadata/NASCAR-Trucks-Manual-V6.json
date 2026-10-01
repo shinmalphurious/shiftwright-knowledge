@@ -1,0 +1,26 @@
+{
+  "vehicle": "NASCAR Trucks",
+  "manufacturer": "NASCAR",
+  "manufacturer_source": "series_override",
+  "class": "NASCAR",
+  "manual_type": "vehicle",
+  "topics": [
+    "aerodynamics",
+    "brakes",
+    "dampers",
+    "differential",
+    "hybrid",
+    "suspension",
+    "tires"
+  ],
+  "sections": [
+    "Tires & Aero",
+    "Setup Tips",
+    "Chassis",
+    "Differential",
+    "Brakes",
+    "Fuel"
+  ],
+  "word_count": 7831,
+  "source_text": "NASCAR-Trucks-Manual-V6.txt"
+}

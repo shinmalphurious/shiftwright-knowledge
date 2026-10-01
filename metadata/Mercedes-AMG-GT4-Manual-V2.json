@@ -1,0 +1,29 @@
+{
+  "vehicle": "Mercedes AMG GT4",
+  "manufacturer": "Mercedes",
+  "manufacturer_source": "filename",
+  "class": "NASCAR",
+  "manual_type": "vehicle",
+  "topics": [
+    "aerodynamics",
+    "brakes",
+    "dampers",
+    "differential",
+    "hybrid",
+    "suspension",
+    "tires",
+    "traction_control"
+  ],
+  "sections": [
+    "Tires & Aero",
+    "Setup Tips",
+    "Chassis",
+    "Dampers",
+    "Differential",
+    "Brakes",
+    "Fuel",
+    "Traction Control"
+  ],
+  "word_count": 4887,
+  "source_text": "Mercedes-AMG-GT4-Manual-V2.txt"
+}

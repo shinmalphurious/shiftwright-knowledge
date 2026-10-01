@@ -1,0 +1,703 @@
+--- PAGE 1 ---
+
+1
+PORSCHE 911 
+GT3 R (992)
+USER MANUAL
+
+--- PAGE 2 ---
+
+2
+PORSCHE 911 GT3 R (992) | USER MANUAL
+Introduction » 5
+Tech Specs » 4
+A Message From iRacing » 3
+ Getting Started » 5
+Dash Pages » 7
+ Loading An iRacing Setup » 6
+ Tires » 14
+ Front » 16
+Chassis » 16
+ Aero Balance Calculator » 15
+Tires & Aero » 14 
+ In-Car Dials » 17
+ Front Corners » 18 
+ Rear » 20
+ Rear Corners » 19
+ GENERAL INFORMATION
+ ADVANCED SETUP OPTIONS
+TABLE OF CONTENTS
+CLICK TO VIEW A SECTION
+Dampers » 21
+ Gears / Differential » 20
+
+--- PAGE 3 ---
+
+3
+DEAR iRACING USER,
+Dear iRacing User,
+The latest in a long line of Porsche 911s built for sports car racing, the 992-spec edition of the Porsche 
+911 GT3 R follows in the footsteps of the 991-based GT3 R that debuted for the 2019 racing season. It 
+also joins the current model of the Porsche 911 GT3 Cup car, which debuted in 2021, as a racing Porsche 
+based on the 992 generation. In its inaugural IMSA WeatherTech SportsCar Championship season, five 
+teams—Pfaff Motorsports, MDK Motorsports, Wright Motorsports, AO Racing Team, and Kelly-Moss with 
+Riley—have all brought at least one 992 to the grid across the GTD and GTD Pro divisions.
+The 911 GT3 R (992) is powered by a 4.2-liter Porsche flat-six engine, a step up in displacement from the 
+4.0-liter units in the previous car. Its first IMSA win came at the hands of Pfaff’s GTD Pro squad of Klaus 
+Bachler, Patrick Pilet, and Laurens Vanthoor in the 2023 12 Hours of Sebring, and the duo of Bachler and 
+Pilet backed it up the next month with a third place finish on the streets of Long Beach. Kelly-Moss with 
+Riley took the car’s first GTD podium at Sebring as well with Alec Udell, Julien Andlauer, and David Brule.
+The following guide explains how to get the most out of your new car, from how to adjust its settings off 
+of the track to what you’ll see inside of the cockpit while driving. We hope that you’ll find it useful in 
+getting up to speed.
+Thanks again for your purchase, and we’ll see you on the track!
+
+--- PAGE 4 ---
+
+4
+PORSCHE 911 GT3 R (992) | USER MANUAL
+CHASSIS
+POWER 
+UNIT
+PORSCHE 911 GT3 R (992) | TECH SPECS
+DOUBLE-WISHBONE FRONT, 
+MULTILINK REAR SUSPENSION.
+WATER-COOLED FLAT 6 ENGINE
+LENGTH
+4619 mm
+181.8 in
+WIDTH
+2050 mm
+80.7 in
+WHEELBASE
+2507 mm
+98.7 in
+DRY WEIGHT
+1250 kg
+2755 lbs
+WET WEIGHT 
+WITH DRIVER
+1496 kg
+3300 lbs
+DISPLACEMENT
+4.2 Liters
+256.3 cid
+TORQUE
+375 lb-ft
+505 Nm
+POWER
+565 bhp
+416 kW
+RPM LIMIT
+9500
+ 
+
+--- PAGE 5 ---
+
+5
+PORSCHE 911 GT3 R (992) | USER MANUAL
+INTRODUCTION
+The information found in this guide is intended to provide a deeper understanding of the chassis setup adjustments 
+available in the garage, so that you may use the garage to tune the chassis setup to your preference.
+Before starting the car, it is recommended to map controls for Brake 
+Bias and Traction Control settings. While this is not mandatory, this 
+will allow you to make quick changes to the brake bias and traction 
+control systems to suit your driving style and track conditions while 
+out on track.
+PORSCHE 911 GT3 R (992) | INTRODUCTION
+GETTING STARTED
+Once you load into the car, getting started is as easy as pressing 
+the clutch and pulling the “upshift” paddle to put it into gear, and 
+hitting the accelerator pedal while releasing the clutch. The Porsche 
+911 GT3 R (992) does not require manual clutch operation to shift in 
+either direction.
+Upshifting is recommended when the shift light cluster over the 
+digital display is fully illuminated and all LEDs are blue.
+Before diving into chassis adjustments, though, it is best to become 
+familiar with the car and track. To that end, we have provided 
+baseline setups for each track commonly raced by these cars. To 
+access the baseline setups, simply open the Garage, click iRacing 
+Setups, and select the appropriate setup for your track of choice. If 
+you are driving a track for which a dedicated baseline setup is not 
+included, you may select a setup for a similar track to use as your 
+baseline. After you have selected an appropriate setup, get on track 
+and focus on making smooth and consistent laps, identifying the 
+proper racing line and experiencing tire wear and handling trends 
+over a number of laps.
+Once you are confident that you are nearing your driving potential 
+with the included baseline setups, read on to begin tuning the car to 
+your handling preferences.
+
+--- PAGE 6 ---
+
+6
+PORSCHE 911 GT3 R (992) | USER MANUAL
+LOADING AN iRACING SETUP
+Upon loading into a session, the car will automatically load the 
+iRacing Baseline setup “baseline.sto”. If you would prefer one of 
+iRacing’s pre-built setups that suit various conditions, you may load 
+it by clicking Garage > iRacing Setups > and then selecting the setup 
+to suit your needs.
+If you would like to customize the setup, simply make the changes 
+in the garage that you would like to update and click apply. If you 
+would like to save your setup for future use click “Save As” on the 
+right to name and save the changes.
+PORSCHE 911 GT3 R (992) | INTRODUCTION
+To access all of your personally saved setups, click “My Setups” 
+on the right side of the garage.
+If you would like to share a setup with another driver or everyone 
+in a session, you can select “Share” on the right side of the garage 
+to do so.
+If a driver is trying to share a setup with you, you will find it under 
+“Shared Setups” on the right side of the garage as well.
+
+--- PAGE 7 ---
+
+7
+PORSCHE 911 GT3 R (992) | USER MANUAL
+PORSCHE 911 GT3 R (992) | DASH PAGES
+RACE 1
+Left Columns
+MAP Current Engine Map setting, non-adjustable.
+AC Current Air Conditioner setting, inoperable.
+THR Current throttle pedal map setting.
+FC1 Inoperable, locked to a single value.
+Oil Temp Engine Oil Temperature in °F or °C.
+Oil Press Engine Oil system pressure in Pounds-per-square-Inch or Bar.
+Water Temp Engine cooling water temperature in °F or °C.
+Water Press Engine cooling system pressure in Pounds-per-square-Inch or Bar.
+TC-LA Current Traction Control level setting.
+TC-LO
+Traction Control “Longitudinal” setting. This is linked with TC-LA and both will show the same value based on 
+the selected Traction Control setting.
+ABS Currently selected Anti-lock Braking System level.
+DASH PAGES
+Center
+Speed Current speed in Miles-per-hour or Kilometers-per-hour
+Gear Indicator Currently selected gear
+Tire Information
+The tire information box will display live tire pressure and temperature information. Pressures are shown in the 
+center in Pounds-per-square-inch or Kilopascals, temperatures are shown in the outer corners in °F or °C.
+Right Columns
+Lap Current lap number
+Laptime Previously completed lap time
+Time Diff Time difference between the current lap and the session best lap.
+Pred. Time Predicted lap time for the current lap
+Brake Bias
+Current Brake Bias setting, displayed as an offset from 50%. For example, if the brake bias is set to 54% 
+this will display 4.00, while a 48% brake bias will display -2.00. When changing the Brake Bias, a graphical 
+bar will appear on the right side of the display giving an indication of how far forward or rearward the Bias 
+is currently set.
+
+--- PAGE 8 ---
+
+8
+PORSCHE 911 GT3 R (992) | USER MANUAL
+PORSCHE 911 GT3 R (992) | DASH PAGES
+Top Row
+Fuel Used Amount of fuel used since leaving pit road, in US gallons or liters
+Fuel p. Lap Amount of fuel used during the previous lap, in US gallons or liters
+Fuel Press Current fuel system pressure in psi or bar
+Fuel Level Current amount of fuel in the fuel tank, in US gallons or liters
+RACE 2
+QUAL
+The Race 2 page is the same as the Race 1 page, however the data group on the left side has changed to display fuel system information.
+Top Row
+Lap Time The engine and fuel information is replaced with a laptime display showing the previously completed lap time
+Time Diff
+The laptime information cluster is replaced with a split time display and a graphical split bar to show how the 
+current lap relates to the fastest lap of the session
+The Qualifying page removes most of the data from the screen, replacing it with laptime and split information.
+
+--- PAGE 9 ---
+
+9
+PORSCHE 911 GT3 R (992) | USER MANUAL
+PORSCHE 911 GT3 R (992) | DASH PAGES
+PIT LIMITER
+VALUE CHANGE
+When the pit road limiter is enabled the dash will feature a large 
+green overlay with the currently selected gear, vehicle speed, and 
+the pit road speed limit. In addition, the wheel spin/lock LED clusters 
+Whenever a driver-controlled value is changed (ABS, TC, etc.) the 
+right side of the display will show a blue overlay box with the value 
+will illuminate in green and the speed indicator at the top of the dash 
+will change to engine RPM. Should the speed exceed the pit road 
+speed limit, this overlay will change from green to red.
+being changed and the value itself. This will clear shortly after the 
+final change has been made.
+
+--- PAGE 10 ---
+
+10
+PORSCHE 911 GT3 R (992) | USER MANUAL
+PORSCHE 911 GT3 R (992) | DASH PAGES
+PIT LIMITER
+Should the amount of fuel in the tank drop below 10 Liters a red 
+warning overlay will appear on the right side of the dash. Along with 
+this warning, the lower-most LED lights on the display’s side clusters 
+will illuminate in red.
+
+--- PAGE 11 ---
+
+11
+PORSCHE 911 GT3 R (992) | USER MANUAL
+PORSCHE 911 GT3 R (992) | DASH PAGES
+Across the top of the display is a set of LED shift lights that indicate 
+when the engine RPM has reached the optimum shift point.
+SHIFT LIGHTS
+LED CLUSTERS
+As RPM increases the LEDs will light up from the outside to the 
+inside (green to red), converging just prior to the ideal shift point.
+When the ideal shift point has been reached, all shift light LEDs 
+will change to blue and begin flashing.
+
+--- PAGE 12 ---
+
+12
+PORSCHE 911 GT3 R (992) | USER MANUAL
+PORSCHE 911 GT3 R (992) | DASH PAGES
+TC/ABS INDICATORS
+A pair of LED strips on either side of the dash provide a visual 
+display of the Traction Control system attempting to control rear 
+wheelspin on throttle and front or rear lockups under braking. 
+Whenever the Traction Control system is active and attempting to 
+control wheelspin the side clusters will be illuminated in blue. 
+Whenever either the front or rear wheels lock under braking the side 
+clusters will split and show pink for a front axle lockup and yellow 
+for a rear axle lockup. These LEDs also show the severity by how 
+many LEDs are illuminated: One LED shows relatively small or initial 
+locking while all four LEDs indicates severe or complete axle lockup.
+
+--- PAGE 13 ---
+
+13
+PORSCHE 911 GT3 R (992) | USER MANUAL
+ADVANCED SETUP OPTIONS
+This section is aimed toward more advanced users who want to dive deeper into the different aspects of the 
+vehicle’s setup. Making adjustments to the following parameters is not required and can lead to significant 
+changes in the way a vehicle handles. It is recommended that any adjustments are made in an incremental fashion 
+and only singular variables are adjusted before testing changes.
+PORSCHE 911 GT3 R (992) | ADVANCED SETUP OPTIONS 
+
+--- PAGE 14 ---
+
+14
+PORSCHE 911 GT3 R (992) | USER MANUAL
+PORSCHE 911 GT3 R (992) | ADVANCED SETUP OPTIONS | TIRES & AERO 
+ STARTING PRESSURE
+This sets the air pressure in the tires when the car is loaded into the 
+world. Lower pressures will produce more mechanical grip with more 
+rolling drag and heat buildup, while higher pressures will reduce 
+heat buildup and rolling drag, but will also reduce the available grip. 
+Generally, higher pressures will perform better at tracks with high 
+speeds and high loads while slower tracks with tighter corners will 
+see better performance out of lower tire pressures.
+LAST HOT PRESSURE
+The Last Hot Pressure displays the air pressure in the tire when the 
+car is returned to the garage. The difference between Cold and 
+Hot pressures can be used to identify how the car is progressing 
+through a run in terms of balance, with heavier-loaded tires seeing a 
+larger difference between Cold and Hot pressures. Ideally, tires that 
+are worked in a similar way should build pressure at the same rate 
+to prevent a change in handling balance over the life of the tire, so 
+Cold pressures should be adjusted to ensure that similar tires are at 
+similar pressures once up to operating temperature.
+TIRES & AERO
+TIRES
+LAST TEMPS
+Tire carcass temperatures once the car has returned to the pits or 
+the driver has gotten out of the car. Wheel Loads and the amount of 
+work a tire is doing on-track are reflected in the tire’s temperature, 
+and these values can be used to analyze the car’s handling balance. 
+Center temperatures are useful for directly comparing the work done 
+by each tire, while the Inner and Outer temperatures are useful for 
+analyzing the wheel alignment (predominantly camber) while on 
+track. These values are measured in three zones across the tread of 
+the tire. Inside, Middle and Outer relative to the chassis centerline.
+TREAD REMAINING
+The amount of tread remaining on the tire once the car has returned 
+to the pits or the driver has gotten out of the car. Tire wear is very 
+helpful in identifying any possible issues with alignment, such as one 
+side of the tire wearing excessively, and can be used in conjunction 
+with tire temperatures to analyze the car’s handling balance. These 
+values are measured in the same zones as those of temperature.
+
+--- PAGE 15 ---
+
+15
+PORSCHE 911 GT3 R (992) | USER MANUAL
+PORSCHE 911 GT3 R (992) | ADVANCED SETUP OPTIONS | TIRES & AERO 
+AERO CALCULATOR
+The Aero Calculator is a tool used to display the car’s approximate 
+aerodynamic values in a given configuration. Changing the rear wing 
+angle and applying the on-track ride height will display the car’s 
+aerodynamic balance when it is at speed and give an idea for how 
+the car may behave in certain configurations. This calculator can 
+also be used to determine what changes need to be made to the 
+car to alleviate aerodynamically-induced handling issues, such as 
+ride height changes to restore a given downforce balance for a wing 
+angle change.
+FRONT RH AT SPEED
+The Ride Height (RH) at Speed is used to give the Aero Calculator 
+heights to reference for aerodynamic calculations. When using the 
+aero calculator, determine the car’s Front Ride height via telemetry 
+at any point on track and input that value into the “Front RH at 
+Speed” setting.
+REAR RH AT SPEED
+The Ride Height (RH) at Speed is used to give the Aero Calculator 
+heights to reference for aerodynamic calculations. When using the 
+aero calculator, determine the car’s Rear Ride height via telemetry 
+at any point on track and input that value into the “Front RH at 
+Speed” setting.
+WING SETTING
+Changing the Rear Wing Setting will alter the angle of attack of the 
+rear wing assembly. Higher angles will increase downforce and shift 
+aero balance rearward but will also increase drag. Lower angles 
+will reduce drag and downforce while shifting aero balance forward. 
+It’s very important to tune the Rear Wing angle to suit the track 
+characteristics for optimum performance: Higher-speed tracks will 
+usually benefit from the reduced drag of a lower wing angle while 
+slower, twisty tracks will see better performance with a high wing 
+angle and increased downforce. This setting in the Aero Calculator 
+is linked to the Wing Setting angle in the Rear section of the chassis 
+page and changing either setting will also change the other.
+FRONT DOWNFORCE
+Front Downforce is how much of the car’s total downforce is over 
+the front axle, displayed as a percentage. A higher percentage value 
+indicates an increase in front downforce, increasing oversteer in 
+mid- to high-speed corners. A lower percentage value indicates an 
+increase in rear downforce, increasing understeer in mid- to high-
+speed corners.
+
+--- PAGE 16 ---
+
+16
+PORSCHE 911 GT3 R (992) | USER MANUAL
+PORSCHE 911 GT3 R (992) | ADVANCED SETUP OPTIONS | CHASSIS
+CHASSIS
+FRONT
+FARB SETTING
+The FARB (Anti-Roll Bar) Setting alters the stiffness of the front 
+suspension in roll. Increasing the ARB setting value will increase the 
+roll stiffness of the front suspension, resulting in less body roll but 
+increasing mechanical understeer. This can also, in some cases, 
+lead to a more responsive steering feel from the driver at initial 
+steering input. Conversely, reducing the ARB setting will soften the 
+suspension in roll, increasing body roll but decreasing mechanical 
+understeer. This can result in a less-responsive feel from the 
+steering, but grip across the front axle will increase.
+TOE-IN
+Toe is the angle of the wheels relative to the chassis centerline when 
+viewed from above. Negative toe-in sets the front of the tires farther 
+from the centerline than the rear of the tires while positive toe-in 
+sets the front of the tires closer to the centerline than the rear of the 
+tires. Toe-out will destabilize the car in a straight line but this will 
+increase turn-in response at the cost of increased tire temperature 
+and wear. Reducing toe-out (and even running toe-in) will stabilize 
+the car in a straight line and reduce temperature and wear, but could 
+make the car sluggish in response to steering inputs.
+FUEL LEVEL
+Fuel level is the amount of fuel in the fuel tank when the car 
+leaves the garage.
+CROSS WEIGHT
+Cross weight is the amount of weight on the car’s Left-Rear and 
+Right-Front tires relative to the total weight of the car, displayed in 
+percent. This is adjusted via the corner spring preload adjustments 
+(Front and Rear Spring Perch Offset). This value should be around 
+50% for most tracks.
+FRONT MASTER CYLINDER
+The Front Brake Master Cylinder size can be changed to alter the 
+line pressure to the front brake calipers. A larger master cylinder 
+will reduce the line pressure to the front brakes, which will shift 
+the brake bias rearwards and increase the pedal effort required to 
+lock the front wheels. A smaller master cylinder will increase brake 
+line pressure to the front brakes, shifting brake bias forward and 
+reducing required pedal effort to lock the front wheels.
+REAR MASTER CYLINDER
+The Rear Brake Master Cylinder size can be changed to alter the 
+line pressure to the rear brake calipers. A larger master cylinder will 
+reduce the line pressure to the rear brakes, which will shift the brake 
+bias forwards and increase the pedal effort required to lock the rear 
+wheels. A smaller master cylinder will increase brake line pressure to 
+the rear brakes, shifting brake bias rearward and reducing required 
+pedal effort to lock the rear wheels. 
+BRAKE PADS
+The vehicle’s braking performance can be altered via the Brake Pad 
+compound. The “Low” setting provides the least friction, reducing 
+the effectiveness of the brakes, while “Medium” and “High” provide 
+more friction and increase the effectiveness of the brakes while 
+increasing the risk of a brake lockup.
+
+--- PAGE 17 ---
+
+17
+PORSCHE 911 GT3 R (992) | USER MANUAL
+PORSCHE 911 GT3 R (992) | ADVANCED SETUP OPTIONS | CHASSIS
+IN-CAR DIALS
+DISPLAY PAGE
+The Display Page setting sets which page the digital dash display 
+will show when the car is loaded into the world.
+BRAKE PRESSURE BIAS
+Brake Bias is the percentage of braking force that is being sent 
+to the front brakes. Values above 50% result in more pressure 
+being sent to the front, while values less than 50% send more force 
+to the rear. This should be tuned for both driver preference and 
+track conditions to get the optimum braking performance for a 
+given situation.
+TRACTION CONTROL SETTING
+This setting alters how much the Traction Control system will cut 
+engine torque to prevent wheelspin in heavy throttle application 
+or low-grip conditions. Higher values will be more aggressive with 
+torque cut to reduce wheelspin while lower values will allow slightly 
+more wheelspin before intervening. Setting this value to “0” will 
+disable the Traction Control. This value is adjustable from the in-car 
+F8 black box
+THROTTLE MAP SETTING
+There are 3 settings on this car. They can be adjusted to suit driving 
+style and track conditions. Position 1 has a butterfly shape where 
+small pedal movements result in proportionately less engine torque. 
+This can help prevent wheelspin when modulating the pedal in low 
+speed or low grip situations. Position 3 is linear - 50% pedal position 
+results in 50% of maximum possible torque. Position 2 is halfway 
+between linear and butterfly.
+NIGHT LED STRIPS
+This changes the color of the LED light strip around the outside of 
+the rear side windows, useful for identifying a specific car on-track 
+when multiple cars share the same livery. This has no effect on 
+vehicle performance.
+
+--- PAGE 18 ---
+
+18
+PORSCHE 911 GT3 R (992) | USER MANUAL
+PORSCHE 911 GT3 R (992) | ADVANCED SETUP OPTIONS | CHASSIS
+FRONT CORNERS
+CORNER WEIGHT
+The weight underneath each tire under static conditions in the 
+garage. Correct weight arrangement around the car is crucial for 
+optimizing a car for a given track and conditions. Individual wheel 
+weight adjustments and crossweight adjustments are made via the 
+Spring Perch Offset settings.
+RIDE HEIGHT
+Distance from ground to a reference point on the chassis. Since 
+these values are measured to a specific reference point on the 
+car, these values may not necessarily reflect the vehicle’s ground 
+clearance, but instead provide a reliable value for the height of the 
+car off of the race track at static values. Adjusting Ride Heights is 
+key for optimum performance, as they can directly influence the 
+vehicle’s aerodynamic performance as well as mechanical grip. 
+Increasing the front ride height will decrease overall downforce 
+and shift the aerodynamic balance rearward, but will decrease 
+drag slightly. Conversely, reducing front ride height will increase 
+downforce and shift aero balance forward while slightly increasing 
+overall drag.
+SPRING PERCH OFFSET
+Used to adjust the ride height at a corner of the car by changing the 
+installed position of the spring’s upper perch. Increasing the spring 
+perch offset will reduce spring preload, lowering the corner of the 
+car. Reducing the spring perch offset will increase spring preload 
+and raise the corner of the car. These changes should be kept 
+symmetrical across the axle (left to right) to ensure the same corner 
+ride heights and no change in cross weight.
+SPRING RATE
+Spring Rate is the stiffness of the suspension’s corner springs 
+controlling each wheel. The value is a representation of how much 
+force (Pounds or Newtons) is required to compress the spring 
+a specific distance. Springs are used to keep the chassis from 
+contacting the track under the loads seen on track and to manage 
+the chassis’ aerodynamic attitude, but their stiffness also has a 
+major influence on the car’s handling characteristics. On the front 
+end, stiffer springs can keep the front splitter from moving too much 
+under increasing aerodynamic loads but will decrease mechanical 
+grip and can lead to understeer in slower corners. Softer springs 
+will result in more front end movement, which can hurt aerodynamic 
+performance, but will increase mechanical grip in the front axle 
+and reduce understeer (or cause oversteer, in extreme cases) 
+when cornering.
+CAMBER
+Camber is the vertical angle of the wheel relative to the center of the 
+chassis. Negative camber is when the top of the wheel is closer to 
+the chassis centerline than the bottom of the wheel, positive camber 
+is when the top of the tire is farther out than the bottom. Due to 
+suspension geometry and corner loads, negative camber is desired 
+on all four wheels. Higher negative camber values will increase the 
+cornering force generated by the tire, but will reduce the amount 
+of longitudinal grip the tire will have under braking. Excessive 
+camber values can produce very high cornering forces but will 
+also significantly reduce tire life, so it is important to find a balance 
+between life and performance.
+
+--- PAGE 19 ---
+
+19
+PORSCHE 911 GT3 R (992) | USER MANUAL
+PORSCHE 911 GT3 R (992) | ADVANCED SETUP OPTIONS | CHASSIS
+REAR CORNERS
+CORNER WEIGHT
+The weight underneath each tire under static conditions in the 
+garage. Correct weight arrangement around the car is crucial for 
+optimizing a car for a given track and conditions. Individual wheel 
+weight adjustments and crossweight adjustments are made via the 
+Spring Perch Offset setting.
+RIDE HEIGHT
+Distance from ground to a reference point on the chassis. Since 
+these values are measured to a specific reference point on the 
+car, these values may not necessarily reflect the vehicle’s ground 
+clearance, but instead provide a reliable value for the height of the 
+car off of the race track at static values. Adjusting Ride Heights is 
+key for optimum performance, as they can directly influence the 
+vehicle’s aerodynamic performance as well as mechanical grip. 
+Raising the rear ride height will increase overall downforce and shift 
+aero to the front of the car but will increase drag. Decreasing rear 
+ride height will do the opposite, with aero shifting rearward and 
+overall downforce and drag decreasing.
+SPRING PERCH OFFSET
+Used to adjust ride height and corner weight, adjusting this setting 
+applies a preload to the spring under static conditions. Decreasing 
+the value increases preload on the spring, adding weight to its 
+corner and increasing the ride height at that corner. Increasing 
+the value does the opposite, reducing height and weight on a 
+given corner. These should be adjusted in pairs (left and right, for 
+example) or with all four spring preload adjustments in the car to 
+prevent crossweight changes while adjusting ride height.
+SPRING RATE
+Spring Rate changes how stiff the spring is, represented in a force 
+per unit of displacement. Primarily responsible for maintaining ride 
+height and aerodynamic attitude under changing wheel loads, stiffer 
+springs will maintain the car’s aero platform better while sacrificing 
+mechanical grip. Softer springs will deal with bumps better and 
+increase mechanical grip, but will cause the car’s aerodynamic 
+platform to suffer. 
+CAMBER
+Camber is the vertical angle of the wheel relative to the center of 
+the chassis. Negative camber is when the top of the wheel is closer 
+to the chassis centerline than the bottom of the wheel, positive 
+camber is when the top of the tire is farther out than the bottom. 
+Due to suspension geometry and corner loads, negative camber 
+is desired on all four wheels. Higher negative camber values will 
+increase the cornering force generated by the tire, but will reduce 
+the amount of grip the tire will have under braking. Excessive 
+camber values can produce very high cornering forces but will 
+also significantly reduce tire life, so it is important to find a balance 
+between life and performance. Higher rear camber values can 
+increase cornering stability but reduce straight-line stability under 
+braking, while lower rear camber values can often increase traction 
+out of low-grip corners.
+
+--- PAGE 20 ---
+
+20
+PORSCHE 911 GT3 R (992) | USER MANUAL
+PORSCHE 911 GT3 R (992) | ADVANCED SETUP OPTIONS | CHASSIS
+REAR
+RARB SETTINGS
+The RARB (Anti-Roll Bar) Setting alters the stiffness of the rear 
+suspension in roll. Increasing the ARB setting value will increase 
+the roll stiffness of the rear suspension, resulting in less body roll 
+but increasing mechanical oversteer. Conversely, reducing the ARB 
+setting will soften the suspension in roll, increasing body roll but 
+decreasing mechanical oversteer.
+TOTAL TOE-IN
+Toe is the angle of the wheel, when viewed from above, relative to 
+the centerline of the chassis. Toe-in is when the front of the wheel 
+is closer to the centerline than the rear of the wheel, and Toe-out is 
+the opposite. On the rear end, adding toe-in will increase straight-
+line stability but may hurt how well the car changes direction.
+WING SETTING
+Changing the Rear Wing Setting will alter the angle of attack of the 
+rear wing assembly. Higher angles will increase downforce and shift 
+aero balance rearward but will also increase drag. Lower angles 
+will reduce drag and downforce while shifting aero balance forward. 
+It’s very important to tune the Rear Wing angle to suit the track 
+characteristics for optimum performance: Higher-speed tracks will 
+usually benefit from the reduced drag of a lower wing angle while 
+slower, twisty tracks will see better performance with a high wing 
+angle and increased downforce. This setting on the Chassis page is 
+linked to the Wing Setting angle in the Aero Calculator and changing 
+either setting will also change the other.
+GEARS / DIFFERENTIAL
+GEAR STACK
+There are three options for the six forward transmission gear stacks 
+to help tailor the car’s acceleration and top speed for various circuit 
+types. The “Short Stack” installs a gear set to provide the best 
+acceleration but lowest top speed, best for high-downforce tracks 
+where speeds stay under 255kph (160mph). The “FIA” stack is good 
+for medium downforce tracks with speeds under 270kph (170mph). 
+The “Daytona” stack is for lower-downforce tracks where top speed 
+is crucial and acceleration can be sacrificed.
+FRICTION FACES
+Changing the number of clutch plates, or friction faces, in the 
+differential will multiply the force produced by the differential to 
+keep the rear axle locked. Higher numbers of faces will multiply the 
+forces relative to the lowest setting of 4 friction faces. For example, 
+8 faces will have twice as much force as 4 plates, while 6 plates will 
+have 1.5 times the forces of 4 plates.
+DIFF PRELOAD
+Diff preload is a static amount of locking force present within the 
+differential and remains constant during both acceleration and 
+deceleration. Increasing diff preload will increase locking on both 
+sides of the differential which will result in more understeer when 
+off throttle and more snap oversteer with aggressive throttle 
+application. Increasing the diff preload will also smooth the transition 
+between on and off throttle behavior as the differential locking 
+force will never reach zero which can be helpful in reducing lift-off 
+oversteer and increasing driver confidence. Typically diff preload 
+should be increased when there is noticeable loss in slow corner exit 
+drive and/or over-rotation during transition between the throttle and 
+brake in low to mid speed corners.
+
+--- PAGE 21 ---
+
+21
+PORSCHE 911 GT3 R (992) | USER MANUAL
+PORSCHE 911 GT3 R (992) | ADVANCED SETUP OPTIONS | DAMPERS
+DAMPERS
+LOW SPEED COMPRESSION
+Low Speed Compression affects how resistant the shock is to 
+compression (reduction in length) when the shock shaft is moving 
+at relatively low speeds, usually during movement caused by driver 
+input (steering, braking, & throttle) and typical cornering forces. 
+Lower values will increase compression resistance and transfer load 
+onto a given tire under these low-speed conditions more quickly. 
+On the front axle, increasing Low Speed Compression (lower value 
+settings) can induce understeer while braking and during the turn-
+in phase, with the effect ending through the center of the corner. 
+Increasing Low Speed Compression (lower value settings) on the 
+rear axle will aid in traction and forward drive when throttle is 
+applied out of a corner.
+HIGH SPEED COMPRESSION
+High Speed Compression affects the shock’s behavior in high-speed 
+travel, usually attributed to curb strikes and bumps in the track’s 
+surface. Lower compression values will cause the suspension to 
+be stiffer in these situations, while higher values will reduce the 
+damping forces and allow the suspension to absorb these bumps 
+better but may hurt the aerodynamic platform around the track and 
+risk the bottom of the chassis coming into contact with the track 
+surface. For very large bumps a lower click setting on High Speed 
+Compression can resist suspension compression and raise the 
+chassis to clear the bump and prevent grounding the chassis.
+LOW SPEED REBOUND
+Low-speed Rebound damping controls the stiffness of the shock 
+while extending at lower speeds, typically during body movement as 
+a result of driver inputs. Lower rebound values will increase damping 
+forces and resist expansion of the shock, higher click values will 
+allow the shock to extend faster. Higher rebound forces (lower 
+click values) can better control aerodynamic attitude but can result 
+in the wheel being unloaded when the suspension can’t expand 
+fast enough to maintain proper contact with the track. Excessive 
+rebound can lead to unwanted oscillations due to the wheel 
+bouncing off of the track surface instead of staying in contact.
+On the front axle, increasing Low Speed Rebound forces (lower 
+click values) can induce understeer on throttle application. 
+Increasing Low Speed Compression (lower click values) on the 
+rear axle can stabilize the car under braking and also induce 
+understeer at initial turn-in.
+HIGH SPEED REBOUND
+High-speed rebound adjusts the shock in extension following large 
+bumps and curb strikes. Lower clicker values will reduce how 
+quickly the shock will expand, while higher values will allow the 
+shock to extend more easily. Despite not having as much of an 
+effect on handling in result to driver inputs, High-speed rebound 
+can produce similar results in terms of aerodynamic control and 
+uncontrolled oscillations if set improperly.

@@ -1,0 +1,646 @@
+--- PAGE 1 ---
+
+LATE MODEL STOCK
+USER MANUAL
+
+--- PAGE 2 ---
+
+2
+LATE MODEL STOCK | USER MANUAL
+ Rear » 16
+Introduction » 5
+Tech Specs » 4
+A Message From iRacing » 3
+ Getting Started » 5
+Dash Pages » 7
+ Loading An iRacing Setup » 6
+Chassis » 10
+Tires » 9 
+ Front » 10
+ Front ARB » 11
+ Rear Corners » 14
+ Front Corners » 12 
+ GENERAL INFORMATION
+ ADVANCED SETUP OPTIONS
+TABLE OF CONTENTS
+CLICK TO VIEW A SECTION
+
+--- PAGE 3 ---
+
+3
+DEAR iRACING USER,
+Used in series like the CARS Late Model Stock Tour and throughout the Carolinas, the Late Model Stock 
+Car is an important step in the career of many of stock car racing’s top stars. The names that have 
+progressed through the series on the way to national-level glory range from current NASCAR Xfinity 
+Series front-runners like Josh Berry, Sam Mayer, and Myatt Snider to NASCAR Craftsman Truck Series 
+drivers like Hailie Deegan and Christian Eckes and even 2023 NASCAR Cup Series rookie Ty Gibbs.
+The Late Model Stock Car is powered by a 350 cubic inch engine—both crate and custom engines are 
+available—that produces well over 400 horsepower. Fiberglass body panels help keep the car on the 
+lighter side, but are still durable enough to take on the full-contact nature of short track racing. LMSC 
+racing puts on some of the best shows in short track racing anywhere it goes, and the CARS Tour takes 
+them to many of iRacing’s most popular short tracks, including Southern National Motorsports Park, 
+Hickory Motor Speedway, Langley Speedway, South Boston Speedway, and North Wilkesboro Speedway.
+Thanks again for your purchase, and we’ll see you on the track!
+
+--- PAGE 4 ---
+
+4
+LATE MODEL STOCK | USER MANUAL
+CHASSIS
+POWER 
+UNIT
+LATE MODEL STOCK | TECH SPECS
+INDEPENDENT COILOVER FRONT 
+SUSPENSION, LIVE AXLE TRUCK ARM 
+REAR SUSPENSION WITH COILOVERS
+NATURALL Y ASPIRATED STEEL 
+BLOCK CRATE V8
+LENGTH
+5054 mm
+199 in
+WIDTH
+1638 mm
+64.5 in
+WHEELBASE
+2667 mm
+105 in
+DRY WEIGHT
+6173 kg
+2800 lbs
+WET WEIGHT 
+WITH DRIVER
+6834 kg
+3100 lbs
+DISPLACEMENT
+5.7 Liters
+350 cid
+TORQUE
+450 lb-ft
+610 Nm
+POWER
+500 bhp
+373 kW
+RPM LIMIT
+7,200
+ 
+
+--- PAGE 5 ---
+
+5
+LATE MODEL STOCK | USER MANUAL
+INTRODUCTION
+The information found in this guide is intended to provide a deeper understanding of the chassis setup adjustments 
+available in the garage, so that you may use the garage to tune the chassis setup to your preference.
+Once you load into the car, press the clutch and select 1st gear. 
+While applying the throttle, slowly release the clutch and the car 
+will begin rolling. Once the car is moving, the clutch is no longer 
+needed to shift gears, with upshifting requiring a quick lift off the 
+LATE MODEL STOCK | INTRODUCTION
+GETTING STARTED
+throttle and downshifting requiring a small blip of throttle. Since 
+the car lacks a tachometer display, it’s important for the driver 
+to become accustomed to how the engine sounds and shift just 
+prior to the rev limiter engaging.
+Before diving into chassis adjustments, though, it is best to become 
+familiar with the car and track. To that end, we have provided 
+baseline setups for each track commonly raced by these cars.
+To access the baseline setups, simply open the Garage, click
+iRacing Setups, and select the appropriate setup for your track of 
+choice. If you are driving a track for which a dedicated baseline 
+setup is not included, you may select a setup for a similar track to 
+use as your baseline.
+After you have selected an appropriate setup, get on track and focus 
+on making smooth and consistent laps, identifying the proper racing 
+line and experiencing tire wear and handling trends over a number 
+of laps.
+
+--- PAGE 6 ---
+
+6
+LATE MODEL STOCK | USER MANUAL
+LOADING AN iRACING SETUP
+Upon loading into a session, the car will automatically load the 
+iRacing Baseline setup [baseline.sto]. If you would prefer one of 
+iRacing’s pre-built setups that suit various conditions, you may load 
+it by clicking Garage > iRacing Setups > and then selecting the setup 
+to suit your needs.
+If you would like to customize the setup, simply make the changes 
+in the garage that you would like to update and click apply. 
+LATE MODEL STOCK | INTRODUCTION
+If you would like to save your setup for future use click “Save As” 
+on the right to name and save the changes. To access all of your 
+personally saved setups, click “My Setups” on the right side of
+the garage. 
+If you would like to share a setup with another driver or everyone 
+in a session, you can select “Share” on the right side of the garage 
+to do so. 
+If a driver is trying to share a setup with you, you will find it under 
+“Shared Setups” on the right side of the garage as well. 
+
+--- PAGE 7 ---
+
+7
+LATE MODEL STOCK | USER MANUAL
+LATE MODEL STOCK | DASH PAGES
+DASH CONFIGURATION
+The iRacing Late Model Stock Car features only two gauges to display vital engine information to the driver. Situated behind 
+the steering wheel, these gauges are configured to change from a white illumination to a flashing red when the indicated 
+value reaches a level that could lead to an engine failure.
+OIL PRESSURE
+The left gauge displays the engine oil pressure in Pounds per Square 
+Inch. This gauge does not change units when the garage is set to 
+Metric.
+WATER TEMP
+The right gauge displays the engine cooling water temperature in 
+Degrees Fahrenheit. This gauge does not change units when the 
+garage is set to Metric.
+
+--- PAGE 8 ---
+
+8
+LATE MODEL STOCK | USER MANUAL
+ADVANCED SETUP OPTIONS
+This section is aimed toward more advanced users who want to dive deeper into the different aspects of 
+the vehicle’s setup. Making adjustments to the following parameters is not required and can lead to significant 
+changes in the way a vehicle handles. It is recommended that any adjustments are made in an incremental 
+fashion and only singular variables are adjusted before testing changes.
+LATE MODEL STOCK | ADVANCED SETUP OPTIONS 
+
+--- PAGE 9 ---
+
+9
+LATE MODEL STOCK | USER MANUAL
+LATE MODEL STOCK | ADVANCED SETUP OPTIONS | TIRES 
+COLD PRESSURE
+Air pressure in the tire when the car is loaded into the world. 
+Higher pressures will reduce rolling drag and heat buildup, but will 
+decrease grip. Lower pressures will increase rolling drag and heat 
+buildup, but will increase grip. Higher speeds and loads will require 
+higher pressures, while lower speeds and loads will see better 
+performance from lower pressures. Excessively low cold pressures 
+at high-speed tracks can lead to a lack of traction and excessive 
+tire heat. Cold pressures should be set to track characteristics for 
+optimum performance.
+LAST HOT PRESSURE
+Air pressure in the tire after the car has returned to the pits. The 
+difference between Cold and Hot pressures can be used to identify 
+how the car is progressing through a run in terms of balance, with 
+heavier-loaded tires seeing a larger difference between Cold and 
+Hot pressures. Ideally, tires that are worked in a similar way should 
+build pressure at the same rate to prevent a change in handling 
+balance over the life of the tire, so Cold pressures should be 
+adjusted to ensure that similar tires are at similar pressures once up 
+to operating temperature.
+TIRES
+LAST TEMPS
+Tire carcass temperatures once the car has returned from the pits. 
+Wheel loads and the amount of work a tire is doing on-track is 
+reflected in the tire’s temperature, and these values can be used to 
+analyze the car’s handling balance. Center temperatures are useful 
+for directly comparing the work done by each tire, while the Inner 
+and Outer temperatures are useful for analyzing the wheel alignment 
+while on track. These values are measured in three zones across 
+the tread of the tire. Ideally, the temperature spread across a tire 
+will reflect the amount of camber (for ovals, the left side of the tire 
+should always read hotter) and should never read even across the 
+tire tread. Tracks with longer straights should read hotter on the left-
+side edges because of the extra time spent on the tire edges, while 
+tracks with shorter straights will read more even across the tread.
+TREAD REMAINING
+The amount of tread remaining on the tire once the car has 
+returned from the pits. Tire wear is very helpful in identifying any 
+possible issues with alignment, such as one side of the tire wearing 
+excessively, but should never be prioritized over tire temperatures 
+when analyzing handling balance. These values are measured in 
+three zones across the tread of the tire
+
+--- PAGE 10 ---
+
+10
+LATE MODEL STOCK | USER MANUAL
+LATE MODEL STOCK | ADVANCED SETUP OPTIONS | CHASSIS
+CHASSIS
+FRONT
+BALLAST FORWARD
+In order to meet minimum legal competition weights, lead blocks are 
+installed within the chassis frame rails that can be moved to various 
+locations in the car. This adjustment directly affects the Nose Weight 
+setting (see below) and will have a large effect on the car’s overall 
+handling balance, especially at high-speeds on larger tracks.
+NOSE WEIGHT
+The Nose Weight setting shows the percentage of the car’s 
+weight is situated over the front axle, with higher values indicating 
+more weight is on the front axle relative to the rear axle. As Nose 
+Weight increases and weight is moved forward the car will tend to 
+understeer while cornering and lose front-end grip, while lower 
+Nose Weight values will induce oversteer and can cause a loss in 
+rear-end grip. At high speed tracks this value is used to balance 
+overall aerodynamic balance, so a change in chassis rake may 
+require an adjustment in the car’s nose weight to re-balance the 
+chassis with the aero. This value can be adjusted directly via the 
+Ballast Forward option, but will also be affected by the amount 
+of fuel in the car. It is very important to be aware of Nose Weight 
+changes when adding or removing fuel to avoid a handling issue 
+due to changing Nose Weight.
+CROSS WEIGHT
+Cross Weight is the percentage of the car’s total weight that is 
+situated on the Left-Rear and Right-Front wheels. Higher values will 
+place more weight on these wheels and induce understeer while 
+cornering, lower values will shift weight to the Left-Front/Right-Rear 
+wheels and induce oversteer. Cross Weight is used for a multitude 
+of reasons, most important being a way to control the handling in 
+various sections of the corner. This value should be set initially to 
+match track characteristics, with higher values being used for low-
+grip track surfaces or tracks with lower banking. This will increase 
+the weight on the Left-Rear tire and increase on-throttle traction, 
+very helpful on this type of track. For tracks that are high banked 
+or have a high-grip surface this extra traction isn’t necessary, so 
+reducing the crossweight will keep the car free through the center of 
+the corner without scrubbing speed.
+STEERING RATIO
+The Steering Ratio will alter how “fast” the steering feels to the 
+driver. This ratio is a representation of how much movement is 
+applied to the steering box input shaft to produce a standard amount 
+of movement on the steering box output shaft. For example, a “10:1” 
+can be thought of as requiring 10° of steering input from the driver 
+to produce 1° of steering output from the steering box. Increasing 
+the value to 14:1 would require 14° of steering input to get the same 
+output, and this would feel as if the steering has become slower and 
+less responsive. Conversely, reducing the ratio will make the steering 
+feel faster and more darty for the driver. This is purely a driver 
+preference setting and has no effect on the rest of the chassis setup 
+or its handling characteristics.
+STEERING OFFSET
+Due to the asymmetric nature of the Late Model Stock Car, the 
+steering can often have a “pull” to the left on the straights. To 
+counter this effect and re-center the steering wheel, an offset can 
+be applied in the garage. Positive values will rotate the steering 
+wheel to the right and negative values will rotate the steering wheel 
+to the left. This offset will not affect the steering or the chassis 
+in any way other than the steering wheel’s orientation at neutral 
+steering input.
+BRAKE BALANCE BAR
+The Brake Balance Bar setting controls the Brake Bias value, or the 
+amount of braking force split between the front and rear braking 
+systems. The value is a percentage of front braking force, and values 
+over 50% and higher represent more pressure being sent to the front 
+brakes. Lower values will shift the pressure towards the rear, with 
+values under 50% sending more to the rear brakes than the front. 
+This can be a helpful tool in preventing wheel lockups under heavy 
+braking by shifting pressure away from the locking axle, but can also 
+be used as a way to slightly alter the car’s handling under heavy 
+braking. Generally, a higher Brake Bias value will induce understeer 
+while braking while lower values will induce oversteer while braking.
+
+--- PAGE 11 ---
+
+11
+LATE MODEL STOCK | USER MANUAL
+LATE MODEL STOCK | ADVANCED SETUP OPTIONS | CHASSIS
+FRONT ARB
+TAPE CONFIGURATION
+The front radiator grille can be set to either “Race”, an open 
+configuration, or “Qual”, where tape is applied over the grille opening 
+to reduce drag and increase overall downforce. The Qual setting will 
+close the radiator inlet completely, leading to the engine overheating 
+very quickly, but is very good for qualifying runs where the car is on 
+track for only a handful of laps. While both settings are available for 
+most sessions, the Qual setting is locked out for Race sessions.
+ARB DIAMETER
+The front Anti-Roll Bar (ARB, or “sway” bar) diameter will alter the 
+front suspension’s roll stiffness and influence the chassis’ handling 
+and responsiveness. Larger diameters will increase the roll stiffness 
+and reduce body roll, but can induce understeer and potentially hurt 
+front tire life. Smaller diameter ARB settings will reduce roll stiffness 
+and increase body roll, but are better on the front tires and can 
+make them last longer. Generally, the smallest ARB diameter that 
+still keeps the front of the car flat to the race track will yield the 
+best results.
+ARB ARM END
+The ARB Arm End setting changes the length of the left side ARB 
+linkage. This can be used to either pre-load the ARB (see below) or 
+cause a delay in the ARB’s engagement. Negative values will pre-
+load the ARB and apply a static load to the bar when the car is sitting 
+still, which will pull the Left-Front of the chassis down and raise the 
+Right-Front of the chassis. Positive values will apply a pre-load in the 
+other direction, pulling the Right-Front down and the Left-Front up.
+ATTACH LEFT SIDE
+The Attach Left Side setting controls whether the left side of the 
+ARB assembly is connected directly to the suspension. Checking 
+this box will attach a solid linkage between the left-side ARB arm 
+and the Left-Front suspension, unchecking this box will allow the 
+bar to move independently of the suspension and preventing 
+positive pre-load values (commonly known as a “slapper”-type 
+sway bar). See the ARB Arm End section for more on the effects of 
+a detached ARB linkage and how it can be used. If the Attach Left 
+Side setting is left unchecked, positive preload values will cause 
+the bar to delay engagement until the front of the car drops from 
+aerodynamic and track loads. This is very helpful when the car is 
+set up with ride heights above where the car will be run on-track, 
+since it prevents vertical travel from loading the ARB and causing the 
+bar to try and lift the nose back up on the straights when cornering 
+loads are removed.
+PRELOAD
+ARB Preload is a static twisting force applied to the front ARB when 
+the car is stationary. Bar Preload’s effect is explained in the ARB 
+Arm End setting, but this value is a numerical representation of the 
+amount of load the bar is seeing while in the garage. Tech inspection 
+limits exist on the maximum or minimum preload that can be applied 
+to the bar and will indicate when the bar is in an illegal configuration.
+
+--- PAGE 12 ---
+
+12
+LATE MODEL STOCK | USER MANUAL
+LATE MODEL STOCK | ADVANCED SETUP OPTIONS | CHASSIS
+FRONT CORNERS
+CORNER WEIGHT
+The Corner Weight displays the weight situated on each wheel 
+when the car is stopped and in the garage. These values are 
+crucial in determining how the car will handle as well as providing 
+insight on which adjustments could be needed to alleviate handling 
+issues. Corner Weights are not directly adjustable, but instead 
+are dependent on almost every other option in the garage so it 
+is very important to pay attention to these values when making 
+adjustments. Changing a component without ensuring the weights 
+return to what they were prior to the adjustment can introduce 
+unexpected or undesired handling effects.
+RIDE HEIGHT
+The Ride Height values are a measurement from the ground to a 
+specific point on the chassis. On the front end of the Late Model 
+Stock these values measure to the lower surface on the front end 
+of the chassis’ lower door frame rails, just behind the front wheels. 
+Since various parts of the chassis extend below these points, the 
+Ride Height values are not a representation of the car’s ground 
+clearance, but instead are to be used as a reference height for 
+setup changes.
+SPRING PERCH OFFSET
+The upper spring perches can be moved up or down to adjust the 
+suspension spring preloads, with their position represented as the 
+Spring Perch Offset value in the garage. Lower values will move 
+the perch down and place more load on the spring, which raises 
+the ride height on that corner of the car and increases the corner 
+weight. When adjusted individually these can be used to fine-tune 
+the weight of a given corner, but when adjusted equally on multiple 
+corners this will shift weight around the car without significantly 
+altering the ride heights.
+SPRING RATE
+Spring Rate is the stiffness value of the suspension’s coil spring 
+shown in a force-per-displacement value, either pounds-per-inch 
+(lb/in) or Newtons-per-millimeter (N/mm). Higher values are stiffer 
+springs which will resist compression more as loads increase, 
+resulting in a more consistent aerodynamic platform but reduced 
+mechanical grip. On the front of the Late Model Stock Car, the 
+front springs are not always intended to be used as the primary 
+load-carrying springs and should be kept fairly soft in order to 
+drop the nose of the car when on the track. Despite this, altering 
+the front Spring Rate can be used to fine-tune how aggressively 
+the bumpstops are engaged, with stiffer springs resulting in a 
+more gradual transition onto the bumpstops as the suspension 
+compresses. Also, tracks with high vertical loads can benefit from 
+stiffer front spring rates, especially on the Right-Front corner.
+BUMPSTOP
+The Bumpstops are secondary front springs installed on the shock 
+shaft that are active only when the front shocks have compressed 
+far enough that the shock body and the bumpstop are in contact. 
+On the iRacing Late Model Stock Car, the bumpstops are linear-rate 
+bump springs, much like the main springs. These bump springs 
+typically carry the high loads seen while the car is on the track 
+and are a much higher spring rate due to the low amount of travel 
+available. Higher bumpstop spring rate values will maintain a more 
+consistent front end height above the track through changing loads, 
+but can reduce mechanical grip due to excessive bouncing of the 
+front tires. Softer bumpstop spring rates will increase mechanical 
+grip, but may allow too much vertical front end movement and risk 
+the chassis striking the track surface and unloading the front tires.
+
+--- PAGE 13 ---
+
+13
+LATE MODEL STOCK | USER MANUAL
+LATE MODEL STOCK | ADVANCED SETUP OPTIONS | CHASSIS
+PACKER
+Packers are small shims installed on top of the Bumpstops to reduce 
+the gap between the bumpstop and the bottom of the shock body. 
+These can be added or removed to fine-tune when the bumpstops 
+engage, or can be used to change the front end ride heights when 
+the car is in the corners. Adding packers will engage the bumpstops 
+earlier in travel and raise the nose of the car, while removing packers 
+will lower the nose. Adding more packers to one front corner and 
+not the other corner (“splitting” the packers) can be used to alter 
+dynamic loads and front ARB loads through the corner. If packers 
+are added to the Right-Front corner, weight will shift to that corner 
+sooner on corner entry and stabilize the car. However, front bar 
+load will increase and may cause the left-front to run higher down 
+the straights. Conversely, adding packers to the Left-Front only can 
+loosen the car on corner entry and can reduce bar load.
+BUMP STIFFNESS
+The front Bump Stiffness setting changes how stiff the front shock 
+is in compression. Higher click values produce a stiffer shock, lower 
+values produce a softer shock. This setting only affects the chassis 
+handling during suspension travel and not through the center of the 
+corner when the car has settled into the corner. Increasing the front 
+Bump Stiffness setting will tighten the car under braking and on 
+corner entry, while decreasing the front Bump Stiffness will loosen 
+the car in these situations.
+REBOUND STIFFNESS
+The front Rebound Stiffness setting changes how stiff the front 
+shocks are in rebound, or when the suspension is extending. This 
+is most commonly seen on throttle application and corner exit, 
+but can also occur in the corners over bumps. Increasing the front 
+rebound setting will hold the front of the car down better than lower 
+settings, but can promote understeer on corner exit. Also, if a track 
+is very bumpy a higher rebound setting can reduce front grip by 
+not allowing the suspension to move and keep the tire in contact 
+with the track. Adjusted individually, front rebound can also alter 
+the chassis balance on corner exit: Increasing Left-Front rebound 
+will increase traction and understeer, while increasing Right-Front 
+rebound will free up the chassis on corner exit.
+CAMBER
+Camber is the vertical angle of the wheel relative to the center of 
+the chassis. Negative camber is when the top of the wheel is closer 
+to the chassis centerline than the bottom of the wheel, positive 
+camber is when the top of the tire is farther out than the bottom. 
+Greater camber angles will increase the cornering force generated 
+by the tire, but will reduce the amount of longitudinal grip the tire 
+will have under braking. Excessive camber values can produce very 
+high cornering forces but will also significantly reduce tire life, so 
+it is important to find a balance between life and performance. For 
+ovals, set the left side positive and the right side negative. For road 
+courses, all four wheels should be set with negative camber.
+CASTER
+How much the steering axis is leaned back (positive) or forward 
+(negative), which influences dynamic load jacking effects as the 
+car is steered. More positive caster results in a heavier steering feel 
+but decreases dynamic crossweight while turning, as well as adding 
+straight-line stability. Running less caster on the left-front than on 
+the right-front will cause the car to pull harder to the left and enter 
+the corner more aggressively.
+TOE-IN
+Toe is the angle of the wheel, when viewed from above, relative to 
+the centerline of the chassis. Positive toe-in is when the front of 
+the wheel is closer to the centerline than the rear of the wheel, and 
+negative toe-in (toe-out) is when the front of the wheel is farther 
+away from the centerline than the rear of the wheel. Front toe-in 
+effects must be considered for each wheel individually as well as 
+an overall toe setting for the front wheels together by adding the 
+values together.
+If the net toe-in setting results in a toe-in setting that is negative, 
+the wheels are aligned to point away from each other (toe-out). 
+This will result in a more aggressive turn-in response, but it can 
+cause the front tires to heat up faster and potentially overheat if too 
+much front toe-out is used, as well as causing the car to be unstable 
+in a straight line for high toe-out values. If the net setting is positive, 
+the wheels are aligned to point towards each other (toe-in). This will 
+reduce heat buildup in the front tires, but can stabilize the car in 
+a straight line.
+
+--- PAGE 14 ---
+
+14
+LATE MODEL STOCK | USER MANUAL
+LATE MODEL STOCK | ADVANCED SETUP OPTIONS | CHASSIS
+REAR CORNERS
+CORNER WEIGHT
+The Corner Weight displays the weight situated on each wheel 
+when the car is stopped and in the garage. These values are 
+crucial in determining how the car will handle as well as providing 
+insight on which adjustments could be needed to alleviate handling 
+issues. Corner Weights are not directly adjustable, but instead 
+are dependent on almost every other option in the garage so it 
+is very important to pay attention to these values when making 
+adjustments. Changing a component without ensuring the weights 
+return to what they were prior to the adjustment can introduce 
+unexpected or undesired handling effects.
+RIDE HEIGHT
+The Ride Height values are a measurement from the ground to a 
+specific point on the chassis. On the rear end of the Late Model 
+Stock these values measure to the lower surface on the rear end 
+of the chassis’ lower door frame rails, just ahead of the rear wheels. 
+Since various parts of the chassis extend below these points, the 
+Ride Height values are not a representation of the car’s ground 
+clearance, but instead are to be used as a reference height for 
+setup changes.
+SPRING PERCH OFFSET
+The upper spring perches can be moved up or down to adjust the 
+suspension spring preloads, with their position represented as the 
+Spring Perch Offset value in the garage. Lower values will move 
+the perch down and place more load on the spring, which raises 
+the ride height on that corner of the car and increases the corner 
+weight. When adjusted individually these can be used to fine-tune 
+the weight of a given corner, but when adjusted equally on multiple 
+corners this will shift weight around the car without significantly 
+altering the ride heights.
+SPRING RATE
+Spring Rate is the stiffness value of the suspension’s coil spring 
+shown in a force-per-displacement value, either pounds-per-inch 
+(lb/in) or Newtons-per-millimeter (N/mm). Higher values are stiffer 
+springs which will resist compression more as loads increase, 
+resulting in a more consistent aerodynamic platform but reduced 
+mechanical grip. Generally the Right-Rear spring will be run stiffer 
+than the Left-Rear to compensate for the lack of a rear ARB. A softer 
+Left-Rear spring rate will also help to lower the Left-Front of the 
+car, reducing the need for large diameter front ARB and/or high 
+front bar loads
+BUMP STIFFNESS
+The rear Bump Stiffness setting changes how stiff the rear shock is 
+in compression. Higher click values produce a stiffer shock, lower 
+values produce a softer shock. This setting only affects the chassis 
+handling during suspension travel and not through the center of the 
+corner when the car has settled into the corner. Increasing the rear 
+Bump Stiffness setting will tighten the car under acceleration and on 
+corner exit, while decreasing the rear Bump Stiffness will loosen the 
+car in these situations.
+REBOUND STIFFNESS
+The rear Rebound Stiffness setting changes how stiff the rear 
+shocks are in rebound, or when the suspension is extending. This 
+is most commonly seen when braking and during corner entry, but 
+can also occur in the corners over large bumps. Increasing the rear 
+rebound setting will hold the rear of the car in place better than 
+lower settings, but can promote oversteer on corner entry if the 
+settings are too high. Also, if a track is very bumpy a higher rebound 
+setting can reduce rear grip by not allowing the suspension to move 
+and keep the tire in contact with the track. Adjusted individually, 
+rear rebound can also alter the chassis balance on corner entry: 
+Increasing Right-Rear rebound will increase understeer, while 
+increasing Left-Rear rebound will free up the chassis on corner entry
+
+--- PAGE 15 ---
+
+15
+LATE MODEL STOCK | USER MANUAL
+LATE MODEL STOCK | ADVANCED SETUP OPTIONS | CHASSIS
+TRACK BAR HEIGHT
+The Track Bar is a solid steel rod mounted to the rear axle housing 
+on the left side and to the chassis frame on the right side to hold 
+the rear axle assembly in place. The track bar’s left- and right-
+side mounts can be raised or lowered to alter both the dynamic 
+loading on the rear tires as well as change the rear suspension’s 
+roll stiffness, with both effects having a large effect on handling 
+characteristics. Raising the overall height of the track bar (equal 
+adjustment on both ends of the bar in the same direction, e.g. 1” 
+up on both ends) will increase the roll stiffness of the rear 
+suspension and free up the chassis through all phases of cornering. 
+Lowering the track bar on both ends will reduce the rear roll 
+stiffness and tighten the chassis while cornering. Since this type 
+of adjustment alters rear roll stiffness it can have a large effect on 
+the chassis’s roll attitude, so it’s important to keep this in mind while 
+making adjustments.
+Adjusting the two ends individually will shift loads from one rear 
+tire to the other as the chassis loads. Raising one end of the track 
+bar will essentially reduce the grip on its associated tire and affect 
+handling at specific portions of the corner. Raising the right-side 
+track bar mount will reduce Right-Rear grip, freeing up the chassis 
+during the transition from center to corner exit, and is a good 
+adjustment for a “tight-center, loose-off” condition. Raising the left-
+side track bar mount will help the car rotate into the center of the 
+corner. Conversely, lowering one of the mounts will do the opposite 
+and increase grip on its associated tire.
+The iRacing Late Model Stock is the first oval car to feature a “live” 
+track bar mount in the garage. Previous cars display fixed track bar 
+mount heights based on tech inspection heights, which causes the 
+right-side track bar mount to load into the world differently based on 
+where the Right-Rear height is set. On the Late Model Stock Car, the 
+track bar mount values represent where the track bar will be when 
+the car is loaded into the world and are linked directly to Right-Rear 
+Ride Height, changing in the garage as adjustments are made to 
+other chassis settings. In order to prevent unintentional changes 
+during adjustment, it is extremely important to pay attention to the 
+Track Bar mount heights and reset them as necessary!
+TRUCK ARM MOUNT
+The rear axle is held in place longitudinally with two truck arms, 
+mounted to the bottom of the chassis underneath the driver 
+compartment. The forward mounts can be adjusted up and down, 
+resulting in various anti-squat and rear-steer configurations. 
+Higher truck arm mounts will reduce rear end grip, increase rear 
+steer, add anti-squat, and reduce wheel hop under heavy braking. 
+Lower truck arm mounts will increase rear end bite, decrease rear 
+steer, reduce anti-squat, and increase the chances of wheel hop 
+under heavy braking.
+TRUCK ARM PRELOAD
+Due to the truck arm mounting design on the rear axle, most chassis 
+adjustments will result in the truck arms applying a torque to the rear 
+axle tube. This preload has an extremely small effect on the chassis 
+balance, but can be removed to eliminate any potential issues. It is 
+good practice to reset this value to as close to zero as possible after 
+making adjustments.
+
+--- PAGE 16 ---
+
+16
+LATE MODEL STOCK | USER MANUAL
+LATE MODEL STOCK | ADVANCED SETUP OPTIONS | CHASSIS
+REAR
+FUEL FILL TO
+The Fuel Fill To setting alters the amount of fuel in the fuel tank when 
+the car leaves the garage. Most races will be shorter than what a 
+full tank is capable of, so it is important to get a good fuel reading in 
+practice and carry no more fuel than is necessary for a race to keep 
+overall vehicle weight low.
+REAR END RATIO
+The Rear End Gear Ratio is the ratio between the driveshaft pinion 
+and the differential ring gear. Higher number values produce better 
+acceleration but reduce top speed, lower number values reduce 
+acceleration but result in a higher top speed. Generally it is good to 
+gear the car to hit the engine rev-limiter briefly before reaching the 
+braking zone for a corner.

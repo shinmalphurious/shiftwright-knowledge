@@ -1,0 +1,30 @@
+{
+  "vehicle": "Acura ARX 06 GTP",
+  "manufacturer": "Acura",
+  "manufacturer_source": "filename",
+  "class": "GTP",
+  "manual_type": "vehicle",
+  "topics": [
+    "aerodynamics",
+    "brakes",
+    "dampers",
+    "differential",
+    "hybrid",
+    "suspension",
+    "tires",
+    "traction_control"
+  ],
+  "sections": [
+    "Tires & Aero",
+    "Setup Tips",
+    "Chassis",
+    "Dampers",
+    "Differential",
+    "Brakes",
+    "Hybrid",
+    "Fuel",
+    "Traction Control"
+  ],
+  "word_count": 7263,
+  "source_text": "Acura-ARX-06-GTP-V2.txt"
+}

@@ -1,0 +1,732 @@
+--- PAGE 1 ---
+
+1
+SUPER FORMULA SF23
+USER MANUAL
+
+--- PAGE 2 ---
+
+2
+SUPER FORMULA SF23 | USER MANUAL
+Introduction » 6
+Tech Specs » 5
+A Message From iRacing » 4
+ Getting Started » 6
+Dash Pages » 8
+ Loading An iRacing Setup » 7
+ GENERAL INFORMATION
+TABLE OF CONTENTS
+CLICK TO VIEW A SECTION
+ Engine Page » 8
+ Overtake Page » 9
+ TMS Page » 9
+ Tire Temps Page » 10
+ Brake Temperature Low » 10
+ Overtake System Active (Over 20s Remaining) » 12
+ Overtake System Active (Less Than 20s Remaining) » 12
+ Overtake System Reset » 13
+ Overtake System Available » 13
+Overtake System » 11
+ Overtake System » 11
+
+--- PAGE 3 ---
+
+3
+SUPER FORMULA SF23 | USER MANUAL
+ Tire Data » 15
+ Front & Rear Aero » 16
+Tires & Aero » 15
+ ADVANCED SETUP OPTIONS
+TABLE OF CONTENTS
+CLICK TO VIEW A SECTION
+ Aero Calculator » 17
+Chassis » 18
+ Front » 18
+ Front Corners » 19
+ Rear Corners » 21
+ Rear » 23
+Drivetrain » 24
+ Differential » 24
+ Engine In-Car Dials » 25
+
+--- PAGE 4 ---
+
+4
+DEAR iRACING USER,
+Congratulations on your purchase of the Super Formula SF23! From all of us at iRacing, we appreciate 
+your support and your commitment to our product. We aim to deliver the ultimate sim racing experience, 
+and we hope that you’ll find plenty of excitement with us behind the wheel of your new car!
+Debuting in the 2023 Super Formula season, the Dallara SF23 is the third open-wheel car developed by 
+the Italian manufacturer for Japan’s premier open-wheel racing series. From a visual standpoint, the SF23 
+evolves from its predecessor by introducing new aerodynamics designed to produce more overtaking. 
+From a sustainability one, the new design reduces carbon dioxide emissions in raw materials and 
+manufacturing by 75% thanks to new, natural materials, while even the Yokohama tires used on the car 
+use significantly more renewable raw materials while maintaining the performance of previous tires.
+Thanks again for your purchase, and we’ll see you on the track!
+
+--- PAGE 5 ---
+
+5
+SUPER FORMULA SF23 | USER MANUAL
+CHASSIS
+POWER 
+UNIT
+SUPER FORMULA SF23 | TECH SPECS
+DOUBLE WISHBONE WITH PUSHROD-
+ACTUATED INBOARD SPRINGS
+TURBOCHARGED INLINE 4-CYLINDER
+LENGTH
+5233 mm
+206 in
+WIDTH
+1910 mm
+75 in
+DISPLACEMENT
+2.0 Liters
+122.6CID
+TORQUE
+354 lb-ft
+480 Nm
+RPM LIMIT
+9400 RPM 
+POWER
+550 bhp
+408 kW
+WHEELBASE
+3115 mm
+123 in
+DRY WEIGHT
+600 kg
+1322 lbs
+WET WEIGHT 
+WITH DRIVER
+670 kg
+1477 lbs
+
+--- PAGE 6 ---
+
+6
+SUPER FORMULA SF23 | USER MANUAL
+INTRODUCTION
+The information found in this guide is intended to provide a deeper understanding of the chassis setup adjustments 
+available in the garage, so that you may use the garage to tune the chassis setup to your preference.
+Before starting the car, it is recommended to map controls for Brake 
+Bias. While this is not mandatory, this will allow you to make quick 
+changes to the brake bias to suit your driving while out on track.
+Once you load into the car, getting started is as easy as pulling the 
+“upshift” paddle to put it into gear, and hitting the accelerator pedal. 
+This car uses an automated sequential transmission and does not 
+require manual clutch operation to shift in either direction.
+SUPER FORMULA SF23 | INTRODUCTION
+GETTING STARTED
+However, the car’s downshift protection will not allow you to 
+downshift if it feels you are traveling too fast for the gear requested. 
+If that is the case, the downshift command will simply be ignored.
+Upshifting is recommended when the shift lights on the dashboard 
+are all fully illuminated. This is at approximately 9300 rpm.
+Before diving into chassis adjustments, though, it is best to become 
+familiar with the car and track. To that end, we have provided 
+baseline setups for each track commonly raced by these cars.
+To access the baseline setups, simply open the Garage, click iRacing 
+Setups, and select the appropriate setup for your track of choice.
+If you are driving a track for which a dedicated baseline setup is
+not included, you may select a setup for a similar track to use
+as your baseline.
+After you have selected an appropriate setup, get on track and focus 
+on making smooth and consistent laps, identifying the proper racing 
+line and experiencing tire wear and handling trends over a number of 
+laps.
+Once you are confident that you are nearing your driving potential 
+with the included baseline setups, read on to begin tuning the car to 
+your handling preferences.
+
+--- PAGE 7 ---
+
+7
+SUPER FORMULA SF23 | USER MANUAL
+LOADING AN iRACING SETUP
+Upon loading into a session, the car will automatically load the 
+iRacing Baseline setup [baseline.sto]. If you would prefer one of 
+iRacing’s pre-built setups that suit various conditions, you may load 
+it by clicking Garage > iRacing Setups > and then selecting the setup 
+to suit your needs.
+If you would like to customize the setup, simply make the changes 
+in the garage that you would like to update and click apply. If you 
+would like to save your setup for future use click “Save As” on the 
+right to name and save the changes. 
+SUPER FORMULA SF23 | INTRODUCTION
+To access all of your personally saved setups, click “My Setups” on 
+the right side of the garage. If you would like to share a setup with 
+another driver or everyone in a session, you can select “Share” on 
+the right side of the garage to do so.
+If a driver is trying to share a setup with you, you will find it under 
+“Shared Setups” on the right side of the garage as well. 
+
+--- PAGE 8 ---
+
+8
+SUPER FORMULA SF23 | USER MANUAL
+SUPER FORMULA SF23 | DASH PAGES
+DASH CONFIGURATION
+The steering wheel for the Super Formula SF23 cars features an integrated digital display to show the driver important 
+engine and performance information while on track. The display features four display pages:
+ENGINE PAGE
+LAP Number of laps completed (displays one less than the current lap)
+TIME Previously completed lap time
+REF Best lap time of the session
+DIFF Cumulative splits differential time to the best lap of the current session
+Gear Indicator The currently-selected gear is shown in the middle of the display in a green box
+SPEED
+Current speed in Miles-Per-Hour or Kilometers-Per-Hour depending on the units selected in the 
+garage
+FUEL
+The amount of fuel burned since leaving the pits in gallons or liters, depending on the units 
+selected in the garage
+CAL POT POSITION
+These values represent the various settings available in the car in numerical form. The only 
+value that can be changed in the sim is the Orange value, which represents the current Throttle 
+Shaping setting
+ECT Engine Coolant temperature in °F or °C
+EOP Engine Oil Pressure in psi or bar
+
+--- PAGE 9 ---
+
+9
+SUPER FORMULA SF23 | USER MANUAL
+SUPER FORMULA SF23 | DASH PAGES
+OVERTAKE PAGE
+OT Left
+Amount of time, in seconds, available before the system is disabled for the remainder of the 
+session.
+ReTime
+Amount of time remaining until Overtake Mode can be enabled again. If this value is non-zero, 
+the system cannot be activated.
+The Overtake page is the same as the Engine page, except the ECT and EOP values are replaced with information 
+about the Overtake system:
+TMS PAGE
+The TMS page features Tire Pressure information in the center row of the display, replacing the Lap Time values on the right side of the dash 
+with right-side tire pressure information. Each value (TMS FL, TMS FR, etc.) shows the current tire pressure in psi or Bar.
+
+--- PAGE 10 ---
+
+10
+SUPER FORMULA SF23 | USER MANUAL
+SUPER FORMULA SF23 | DASH PAGES
+TIRE TEMPS PAGE
+BRAKE TEMPERATURE LOW
+A single green LED on the bottom indicates the brakes are far below optimum temperature and may be inconsistent or not as effective as 
+may be expected.
+The Tire Temps page shows the internal temperature of all four tires in °F or °C. These values are the current internal air temperature, not the 
+temperature of the tire’s tread or surface.
+LEFT-SIDE LED STATUS CLUSTER
+A trio of LED lights on the left side of the steering wheel display various colors and patterns to deliver information to the driver:
+A single green LED on the top indicates the brakes are close to their operating temperature but are slightly cooler than what would produce 
+peak performance.
+When the brakes are far below operating temperature the cluster will illuminate one LED in green to show how far below the optimum 
+temperature the brakes are at a given moment:
+
+--- PAGE 11 ---
+
+11
+SUPER FORMULA SF23 | USER MANUAL
+SUPER FORMULA SF23 | OVERTAKE SYSTEM
+OVERTAKE SYSTEM
+The Super Formula SF23 features an on-demand Overtake system to provide an increase in maximum horsepower available. When the 
+Overtake button is pressed, the fuel flow limit will increase to boost engine power by roughly 5%. This system can be activated at any time 
+during a Test or Practice session (with no time limit), any time during a Race (with a time limit), but is disabled for Qualifying.
+During a Race session the system can be active for a total of 200 seconds, at any time, but forces a 100 or 110-second (depending on track) 
+delay between activations. When the system is active, the dash page will change to a green overlay to indicate the system is active and the 
+left-side LED cluster will flash in green. This overlay will show a timer counting down how many sections the system can remain active in the 
+race as well as a bar to graphically display how much activation time is left before complete deactivation.
+When the system is deactivated following an activation, the display will return to the selected page and a blue/red bar will appear on the left 
+side of the screen as well as the left-side LED cluster flashing purple to indicate the system is resetting and cannot be activated as well as 
+the “ReTime” value counting down from 100 on display Page 2. When the bar on the left reaches the top of the screen and the ReTime value 
+reaches zero (this will happen simultaneously), the system is available for activation again and the left-side LED cluster will change to blue.
+
+--- PAGE 12 ---
+
+12
+SUPER FORMULA SF23 | USER MANUAL
+SUPER FORMULA SF23 | OVERTAKE SYSTEM
+If a full course caution period is activated during a race, the system will deactivate (if the system was active at the time of the caution) and 
+ReTime will be reset and show “100”. For the length of the caution period the system will be unavailable, but will be available immediately 
+after green-flag racing resumes regardless of whether there was ReTime remaining at the start of the caution period.
+As the system runs low on available time while it is active the green overlay will change to red and the left-side LED clusters that blink while 
+the system is active will become red and flash in the same pattern.
+Once the system is depleted, the display will return to the active display page and engine power will return to its standard output. The “OT 
+Left” and “ReTime” values on the Overtake display page will both display “0” for the remainder of the session.
+OVERTAKE SYSTEM ACTIVE (OVER 20S REMAINING)
+When the Overtake system is activated and the time remaining is over 20 seconds the cluster will alternate left and right in green.
+OVERTAKE SYSTEM ACTIVE (UNDER 20S REMAINING)
+If the Overtake system has less than 20 seconds remaining before deactivation the LEDs will flash in the same pattern as normal operation 
+but will show in red.
+
+--- PAGE 13 ---
+
+13
+SUPER FORMULA SF23 | USER MANUAL
+SUPER FORMULA SF23 | OVERTAKE SYSTEM
+OVERTAKE SYSTEM RESET
+After the Overtake system has been deactivated (but while there is still time remaining for the system to be used) the LED cluster will be 
+illuminated in purple and flash until the system has reset and Overtake can be used again.
+OVERTAKE SYSTEM AVAILABLE
+Following the ReTime reset period after the Overtake system is deactivated the LEDs will display in blue to signal the system is available to be 
+used again.but will show in red.
+
+--- PAGE 14 ---
+
+14
+SUPER FORMULA SF23 | USER MANUAL
+ADVANCED SETUP OPTIONS
+This section is aimed toward more advanced users who want to dive deeper into the different aspects of the 
+vehicle’s setup. Making adjustments to the following parameters is not required and can lead to significant 
+changes in the way a vehicle handles. It is recommended that any adjustments are made in an incremental fashion 
+and only singular variables are adjusted before testing changes.
+SUPER FORMULA SF23 | ADVANCED SETUP OPTIONS 
+
+--- PAGE 15 ---
+
+15
+SUPER FORMULA SF23 | USER MANUAL
+SUPER FORMULA SF23 | ADVANCED SETUP OPTIONS | TIRES & AERO 
+COLD PRESSURE
+Air pressure in the tire when the car is loaded into the world.
+Higher pressures will reduce rolling drag and heat buildup, but will 
+decrease grip. Lower pressures will increase rolling drag and heat 
+buildup, but will increase grip. Higher speeds and loads will require 
+higher pressures, while lower speeds and loads will see better 
+performance from lower pressures.
+LAST HOT PRESSURE
+Air pressure in the tire after the car has returned to the pits.
+The difference between Cold and Hot pressures can be used to 
+identify how the car is progressing through a run in terms of balance, 
+with heavier-loaded tires seeing a larger difference between Cold 
+and Hot pressures. Ideally, tires that are worked in a similar way 
+should build pressure at the same rate to prevent a change in 
+handling balance over the life of the tire, so Cold pressures should 
+be adjusted to ensure that similar tires are at similar pressures once 
+up to operating temperature. Careful attention should be paid to 
+the Hot Pressures to extract the most performance out of the tires 
+during a race.
+TIRES & AERO
+TIRE DATA
+LAST TEMPS
+The temperatures measured in the garage are tire carcass 
+temperatures measured within the tread rubber itself. Wheel Loads 
+and the amount of work a tire is doing on the track is reflected in 
+the tire’s temperature, and these values can be used to analyze the 
+car’s handling balance. Center temperatures are useful for directly 
+comparing the work done by each tire, while the Inner and Outer 
+temperatures are useful for analyzing the wheel alignment and tire 
+air pressure while on track.
+TREAD REMAINING
+The amount of tread remaining on the tire once the car has 
+returned from the pits. Tire wear is very helpful in identifying any 
+possible issues with alignment, such as one side of the tire wearing 
+excessively, but should never be prioritized over tire temperatures 
+when analyzing handling balance.
+
+--- PAGE 16 ---
+
+16
+SUPER FORMULA SF23 | USER MANUAL
+SUPER FORMULA SF23 | ADVANCED SETUP OPTIONS | TIRES & AERO 
+FLAP ANGLE
+The Flap Angle setting changes the angle of the front wing’s upper 
+flap elements relative to horizontal. Higher angles will increase the 
+downforce generated at the front wing, shift aero forward, and 
+increase drag, while lower angles will decrease downforce,
+shift aero rearward, and reduce drag.
+WING ANGLE
+The Rear Wing Angle setting controls the angle of the rear wing’s 
+upper flap element. Higher angles will produce more downforce, 
+more drag, and shift aero rearward, while lower angles will reduce 
+both downforce and drag but shift aero forward.
+FRONT & REAR AERO
+GURNEY FLAP
+A Gurney Flap, or wicker, can be installed on the trailing edge of the 
+rear wing’s upper flap. This will dramatically increase rear downforce 
+but with a drag penalty. Available in two sizes, the larger wicker will 
+produce more downforce and drag than 
+the smaller wicker.
+
+--- PAGE 17 ---
+
+17
+SUPER FORMULA SF23 | USER MANUAL
+SUPER FORMULA SF23 | ADVANCED SETUP OPTIONS | TIRES & AERO 
+REAR RH AT SPEED
+The Ride Height (RH) at Speed settings are inputs for the aero 
+calculator to determine the approximate aero performance with the 
+chosen aero package. Changing these values changes the displayed 
+Front Downforce value as well as the Downforce-to-Drag ratio in
+the calculator. To check on-track performance, use the front ride 
+height sensors (Front RH) and rear ride height sensors (Rear RH) 
+found in telemetry output. These can also be changed to observe 
+how rake will affect aerodynamic performance prior to ride height
+or spring changes.
+FRONT DOWNFORCE
+The Front Downforce value represents the percentage of total 
+downforce that is working on the front axle. This value is calculated 
+with the At Speed ride height values, as well as the chosen 
+aerodynamic options, and should be monitored during the chassis 
+setup process to prevent unexpected results. To ensure chassis 
+adjustments don’t become masked by aerodynamic changes,
+always refer to this value to ensure it remains constant before
+and after aerodynamic setup changes.
+AERO CALCULATOR
+DOWNFORCE TO DRAG
+The Downforce to Drag ratio is a relation of how much downforce 
+is produced for one unit of drag. Generally, a larger Downforce to 
+Drag ratio would imply the car is working efficiently and producing 
+large amounts of downforce for given drag numbers, while a lower 
+Downforce to Drag value is typically seen on more slippery, low-drag 
+aerodynamic packages.
+The Aero Calculator is a tool provided to aid in understanding the shift in aerodynamic balance associated with adjustment of the rear wing 
+setting and front and rear ride heights. It is important to note that the values for front and rear ride height displayed here DO NOT result in any 
+mechanical changes to the car itself, however, changes to the rear wing angle here WILL be applied to the car.
+This calculator is a reference tool ONLY.
+
+--- PAGE 18 ---
+
+18
+SUPER FORMULA SF23 | USER MANUAL
+SUPER FORMULA SF23 | ADVANCED SETUP OPTIONS | CHASSIS
+CHASSIS
+FRONT
+ARB DIAMETER
+The front Anti-Roll Bar (ARB) is available in a 15mm (5/8”),
+18mm (11/16”), or a 30mm (1 3/16”) diameter with a 3mm (1/8”) 
+hollow bore through the center. Larger diameter options will stiffen 
+the front suspension in roll, reducing mechanical grip and inducing 
+understeer, but will try to keep the chassis flatter when cornering. 
+The smaller diameter options will reduce roll stiffness, increasing 
+mechanical grip across the front axle and reducing understeer,
+but will allow the chassis to roll more.
+ARB POSITION
+The ARB position changes the orientation of the ARB’s arms.
+Higher numbers will stiffen the ARB assembly and increase front roll 
+stiffness, lower numbers will soften the ARB assembly and decrease 
+roll stiffness. This results in the same effects from ARB diameter 
+changes, with higher roll stiffness inducing understeer and lower
+roll stiffness reducing understeer.
+HEAVE SPRING RATE
+The Heave Spring is a suspension element that handles loads 
+when the chassis moves in a purely vertical direction and does 
+not experience loads generated from chassis roll. The front Heave 
+Spring will influence the chassis’ handling balance during braking 
+and over bumps, but is primarily intended to control increasing 
+aerodynamic loads with higher speeds. Stiffer Heave Spring rates 
+will stiffen the suspension in vertical travel and result in a more 
+consistent aerodynamic platform but can reduce mechanical grip 
+over rough surfaces. Softer Heave Springs will increase mechanical 
+grip but could allow too much movement to keep the aerodynamic 
+behavior consistent.
+HEAVE SPRING GAP
+The Heave Spring Gap is the amount of compression required 
+in the Heave Spring Assembly before the Heave Spring begins 
+carrying any load. This can be set directly but will also change as 
+a result of other chassis settings that can alter ride height, and 
+thus the suspension’s static deflection. Positive values signify the 
+Heave Spring is unloaded when the car is stationary and requires 
+suspension compression before loading, while negative values 
+indicate a preloaded Heave Spring in static conditions. Lower values 
+will engage the spring sooner through suspension travel, higher 
+values will delay the spring’s engagement.
+BRAKE PRESSURE BIAS
+The Brake Pressure Bias setting determines how much of the overall 
+brake line pressure is sent to the front wheels. Higher percentages 
+apply more braking pressure to the front wheels, which can induce 
+understeer under braking, while reducing the percentage will shift 
+braking force rearward and induce oversteer under braking.
+If the bias is set too far forward or rearward it can cause wheel 
+lockups under heavy braking, so it should be set to a value that 
+allows for heavy braking without lockups on either axle.
+DISPLAY PAGE
+This sets the default page on the steering wheel’s display when the 
+car is started. This has no effect on car performance.
+
+--- PAGE 19 ---
+
+19
+SUPER FORMULA SF23 | USER MANUAL
+SUPER FORMULA SF23 | ADVANCED SETUP OPTIONS | CHASSIS
+FRONT CORNERS
+CORNER WEIGHT
+Corner Weight represents the weight on each wheel when sitting 
+in the garage. This can be used to visualize the weight distribution 
+under static conditions and help with identifying changes to weight 
+distribution through the setup process.
+RIDE HEIGHT
+Front Ride Height is a measurement from the ground to a reference 
+point on the chassis along the centerline of the car. Since this value 
+doesn’t necessarily represent the lowest point on the chassis it 
+does not specifically represent the chassis’ ground clearance, but is 
+instead a reference for setup and aero work. It is important to have 
+the front ride height low for both aero and mechanical grip, but high 
+enough that the chassis doesn’t make significant contact with the 
+race track over the course of a lap. Raising and lowering the front 
+ride height will affect aerodynamic balance, overall downforce levels, 
+and drag, so consult the Aero Calculator to see how a ride height 
+change will influence handling when changing this value.
+PUSHROD LENGTH
+To adjust the Ride Height, a turnbuckle style adjuster is available to 
+change the effective length of the pushrods. Longer pushrods will 
+raise the front of the car and shorter pushrods will lower the front of 
+the car, with both front pushrods being adjusted symmetrically. 
+TORSION BAR
+The Torsion Bar setting changes the outer diameter of the front 
+suspension torsion bars, which are used as spring elements.
+Springs are used to keep the chassis from contacting the track 
+under the loads seen on track and to manage the chassis’ 
+aerodynamic attitude, but their stiffness also has a major influence 
+on the car’s handling characteristics. On the front end, stiffer springs 
+can keep the front wing from moving too much under increasing 
+aerodynamic loads but will decrease mechanical grip and can cause 
+understeer in slower corners. Softer springs will result in more front 
+end movement, which can hurt aero, but will increase mechanical 
+grip in the front axle and reduce understeer (or cause oversteer,
+in extreme cases). Larger diameters will be stiffer, smaller diameters 
+will be softer.
+BUMP STIFFNESS
+Front Bump Stiffness affects how resistant the shock is to 
+compression (reduction in length) when the shock is moving at 
+relatively low shock piston speeds, usually in chassis movements
+as a result of driver input and building aerodynamic forces.
+Higher values will increase compression resistance under these 
+low-speed conditions, lower values will result in a more compliant 
+shock. From a mechanical grip standpoint, more front low-speed 
+compression will produce understeer under braking.
+Reducing front Bump Stiffness will reduce understeer at braking and 
+turn-in. For aerodynamics, more low-speed compression will slow 
+vertical chassis movement under braking, which can result in a more 
+stable aerodynamic platform.
+
+--- PAGE 20 ---
+
+20
+SUPER FORMULA SF23 | USER MANUAL
+SUPER FORMULA SF23 | ADVANCED SETUP OPTIONS | CHASSIS
+REBOUND STIFFNESS
+Rebound Stiffness controls how resistant the shock is when 
+extending at lower shock piston speeds, typically due to driver 
+inputs and changing aerodynamic loads. Higher rebound values will 
+resist expansion of the shock, lower values will allow the shock to 
+extend faster. Higher rebound values can better control aerodynamic 
+attitude but can result in the wheels being unloaded when the 
+suspension can’t expand enough to maintain proper contact with the 
+track. When tuning for handling, higher front low-speed rebound can 
+increase on-throttle mechanical understeer while lower values will 
+maintain front end grip longer, helping to reduce understeer.
+CAMBER
+Camber is the vertical angle of the wheel relative to the center of the 
+chassis. Negative camber is when the top of the wheel is closer to 
+the chassis centerline than the bottom of the wheel, positive camber 
+is when the top of the tire is farther out than the bottom.
+Higher negative camber values will provide more cornering forces in 
+the direction of the tire’s camber (more aggressive turn-in response),
+but may reduce braking capability at high camber angles. 
+TOE-IN
+Toe is the angle of the wheel, looking from vertical, relative to the 
+chassis centerline. Toe-in is when the front of the wheels are closer 
+to the centerline while Toe-out is when the front of the wheels are 
+farther from the centerline than the rear of the tires. On the front 
+end, Toe will alter how quickly the tires respond to steering inputs 
+and influence how stable the car is in a straight line. Toe-out settings 
+(negative garage value) will increase turn-in response and make 
+the car less stable in a straight line, while Toe-in (positive garage 
+value) will increase straight-line stability while making initial steering 
+response more sluggish.
+
+--- PAGE 21 ---
+
+21
+SUPER FORMULA SF23 | USER MANUAL
+SUPER FORMULA SF23 | ADVANCED SETUP OPTIONS | CHASSIS
+REAR CORNERS
+CORNER WEIGHT
+Corner Weight represents the weight on each wheel when sitting 
+in the garage. This can be used to visualize the weight distribution 
+under static conditions and help with identifying changes to weight 
+distribution through the setup process.
+RIDE HEIGHT
+Rear Ride Height is a measurement from the ground to a reference 
+point on the chassis along the centerline of the car. Since this value 
+doesn’t necessarily represent the lowest point on the chassis it 
+does not specifically represent the chassis’ ground clearance, but is 
+instead a reference for setup and aero work. It is important to have 
+the rear ride height set to optimize both aero and mechanical grip 
+for a given track. Raising and lowering the rear ride height will affect 
+aerodynamic balance, overall downforce levels, and drag, so consult 
+the Aero Calculator to see how a ride height change will influence 
+handling when changing this value.
+PUSHROD LENGTH
+To adjust the Ride Height, a turnbuckle style adjuster is available to 
+change the effective length of the pushrods. Longer pushrods will 
+raise the rear of the car and shorter pushrods will lower the rear of 
+the car, with both rear pushrods being adjusted symmetrically.
+SPRING RATE
+Spring Rate is the stiffness of the suspension’s corner springs 
+controlling each wheel. The value is a representation of how much 
+force (Pounds or Newtons) required to compress the spring a 
+specific distance (inches of millimeters). Springs are used to keep 
+the chassis from contacting the track under the loads seen on track 
+and to manage the chassis’ aerodynamic attitude, but their stiffness 
+also has a major influence on the car’s handling characteristics.
+On the rear end, stiffer springs can keep the rear of the car from 
+moving too much under increasing aerodynamic loads but will 
+decrease mechanical grip and can cause oversteer in slower corners. 
+Softer springs will result in more rear end movement, which can 
+hurt aero, but will increase mechanical grip across the rear axle and 
+reduce oversteer (or cause understeer, in extreme cases).
+BUMP STIFFNESS
+Rear Bump Stiffness affects how resistant the shock is to 
+compression (reduction in length) when the shock is moving at 
+relatively low shock piston speeds, usually in chassis movements
+as a result of driver input and building aerodynamic forces.
+Higher values will increase compression resistance under these 
+low-speed conditions, lower values will result in a more compliant 
+shock. From a mechanical grip standpoint, more rear low-speed 
+compression will produce understeer on throttle application. 
+Reducing rear Bump Stiffness will reduce understeer on throttle. 
+For aerodynamics, more low-speed compression will slow vertical 
+chassis movement under throttle and increasing aerodynamic loads 
+which can result in a more stable aerodynamic platform.
+
+--- PAGE 22 ---
+
+22
+SUPER FORMULA SF23 | USER MANUAL
+SUPER FORMULA SF23 | ADVANCED SETUP OPTIONS | CHASSIS
+REBOUND STIFFNESS
+Rebound Stiffness controls how resistant the shock is when 
+extending at lower shock piston speeds, typically due to driver 
+inputs and changing aerodynamic loads. Higher rebound values will 
+resist expansion of the shock, lower values will allow the shock to 
+extend faster. Higher rebound values can better control aerodynamic 
+attitude but can result in the wheels being unloaded when the 
+suspension can’t expand enough to maintain proper contact with the 
+track. When tuning for handling, higher rear low-speed rebound can 
+increase mechanical understeer under braking while lower values 
+can induce oversteer under braking.
+CAMBER
+Camber is the vertical angle of the wheel relative to the center of
+the chassis. Negative camber is when the top of the wheel is
+closer to the chassis centerline than the bottom of the wheel, 
+positive camber is when the top of the tire is farther out than the 
+bottom. Higher negative camber values will provide more cornering 
+forces in the direction of the tire’s camber (more stability in
+high-speed cornering), but may reduce on-throttle traction at
+high camber angles.
+TOE-IN
+Toe is the angle of the wheels relative to the chassis centerline when 
+viewed from above. Negative toe-in sets the front of the tires farther 
+from the centerline than the rear of the tires while positive toe-in 
+sets the front of the tires closer to the centerline than the rear of 
+the tires. This setting can change the rear tire slip angle, with toe-in 
+providing more straight-line stability but reducing the car’s tendency 
+to rotate into a corner. Lower toe-in values (moving towards
+toe-out) can provide a quicker steering response, but may produce 
+an unstable steering feeling.
+
+--- PAGE 23 ---
+
+23
+SUPER FORMULA SF23 | USER MANUAL
+SUPER FORMULA SF23 | ADVANCED SETUP OPTIONS | CHASSIS
+REAR
+FUEL LEVEL
+This shows how much fuel will be in the fuel tank when the car is 
+loaded in the sim.
+ARB DIAMETER
+The rear Anti-Roll Bar (ARB) is available in 15mm (5/8”) and 17mm 
+(11/16”) diameters. Larger diameter options will stiffen the rear 
+suspension in roll, reducing mechanical grip and inducing oversteer, 
+but will try to keep the chassis flatter when cornering. The smaller 
+diameter options will reduce roll stiffness, increasing mechanical 
+grip across the rear axle and reducing oversteer, but will allow the 
+chassis to roll more.
+3RD SPRING RATE
+The 3rd Spring Rate controls the stiffness of a spring element 
+that works only in heave (vertical suspension travel) and can 
+be set to prevent the car from dropping too far under heavy 
+aerodynamic loads or vertical forces from track shape, such as dips 
+or turn banking. Using the 3rd Spring in this way allows for softer 
+corner springs to be used (since they won’t have to carry the full 
+aerodynamic loads), increasing rear mechanical grip while cornering. 
+Stiffer 3rd Spring Rates will resist vertical travel more than softer
+3rd Spring Rates, producing a more consistent aerodynamic attitude
+but potentially reducing rear mechanical grip when aerodynamic 
+loads at low speeds.
+3RD SPRING GAP
+The 3rd Spring Gap is the amount of compression required in the 
+rear 3rd Spring Assembly before the spring begins carrying any 
+load. This can be set directly but will also change as a result of other 
+chassis settings that can alter ride height, and thus the suspension’s 
+static deflection. Positive values signify the 3rd Spring is unloaded 
+when the car is stationary and requires suspension compression 
+before loading, while negative values indicate a preloaded 3rd
+Spring in static conditions. Lower values will engage the spring 
+sooner through suspension travel, higher values will delay the 
+spring’s engagement.
+
+--- PAGE 24 ---
+
+24
+SUPER FORMULA SF23 | USER MANUAL
+SUPER FORMULA SF23 | ADVANCED SETUP OPTIONS | DRIVETRAIN
+DRIVETRAIN
+DIFFERENTIAL
+CLUTCH PLATES
+The differential Clutch Plates are a way to greatly increase the forces 
+from the differential that attempt to keep the two rear axles locked 
+in sync. The number of clutch plates used will multiply the locking 
+force by the number of plates in use when compared to a single 
+set of clutch plates. For example, 4 clutch plates will have 4 times 
+the locking force of one plate, 12 will have 12 times the force of 
+one plate, etc. Higher locking forces (more plates) will increase the 
+amount of understeer seen when off the throttle under deceleration 
+for corner entry, but will increase oversteer on exit when applying 
+the throttle. Fewer plates will increase oversteer on corner entry 
+while decelerating but add understeer when applying the throttle.
+PRELOAD
+Differential Preload is a static amount of locking force that is always 
+present in the differential regardless of acceleration or deceleration. 
+Increasing the preload will add understeer under braking but 
+oversteer on throttle application, while decreasing preload will add 
+oversteer under braking but understeer on throttle application.
+DRIVE ANGLE
+The Drive Angle alters how much force is applied in the differential 
+to lock the axles together during acceleration. Higher angles will 
+produce less force, inducing oversteer initial throttle application out 
+of a corner, while lower angles will produce more force and induce 
+understeer in these situations.
+COAST ANGLE
+The Coast Angle alters how much force is applied in the differential 
+to lock the axles together during deceleration. Higher angles will 
+produce less force, inducing oversteer under braking, while lower 
+angles will produce more force and induce understeer 
+in these situations.
+
+--- PAGE 25 ---
+
+25
+SUPER FORMULA SF23 | USER MANUAL
+SUPER FORMULA SF23 | ADVANCED SETUP OPTIONS | DRIVETRAIN
+ENGINE IN-CAR DIALS
+THROTTLE SHAPING
+The Throttle Shaping option controls how torque is delivered from 
+the engine through throttle pedal travel. Low settings will emulate 
+a “butterfly”-style throttle with less torque given at lower throttle 
+positions, a high increase in the middle portion of the throttle pedal’s 
+travel, and then a slower build at the higher percentage. The higher 
+values will be more linear, with a consistent increase in torque for 
+each amount of pedal travel. This setting can be changed in the car 
+through the “TPS” setting.
+LAUNCH CONTROL RPM
+When the Launch Control system is armed, the Launch Control 
+RPM setting (“Start Limit” in-car setting) will change the maximum 
+RPM at full-throttle while the car is stationary. This can be set to 
+help reduce wheelspin at the race start for low-grip track surfaces. 
+Launch Control button mappings are available in the Options>Control 
+menu listed under Traction Control.

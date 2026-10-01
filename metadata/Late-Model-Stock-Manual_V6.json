@@ -1,0 +1,23 @@
+{
+  "vehicle": "Late Model Stock",
+  "manufacturer": "NASCAR",
+  "manufacturer_source": "known_vehicle",
+  "class": "NASCAR",
+  "manual_type": "vehicle",
+  "topics": [
+    "aerodynamics",
+    "brakes",
+    "dampers",
+    "differential",
+    "suspension",
+    "tires"
+  ],
+  "sections": [
+    "Chassis",
+    "Differential",
+    "Brakes",
+    "Fuel"
+  ],
+  "word_count": 5493,
+  "source_text": "Late-Model-Stock-Manual_V6.txt"
+}

@@ -1,0 +1,28 @@
+{
+  "vehicle": "Audi R8 LMS EVO II GT3",
+  "manufacturer": "Audi",
+  "manufacturer_source": "filename",
+  "class": "NASCAR",
+  "manual_type": "vehicle",
+  "topics": [
+    "aerodynamics",
+    "brakes",
+    "dampers",
+    "differential",
+    "suspension",
+    "tires",
+    "traction_control"
+  ],
+  "sections": [
+    "Tires & Aero",
+    "Setup Tips",
+    "Chassis",
+    "Dampers",
+    "Differential",
+    "Brakes",
+    "Fuel",
+    "Traction Control"
+  ],
+  "word_count": 6785,
+  "source_text": "Audi-R8-LMS-EVO-II-GT3_Manual.txt"
+}

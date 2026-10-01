@@ -1,0 +1,28 @@
+{
+  "vehicle": "Ferrari 296 GT3",
+  "manufacturer": "Ferrari",
+  "manufacturer_source": "filename",
+  "class": "GT3",
+  "manual_type": "vehicle",
+  "topics": [
+    "aerodynamics",
+    "brakes",
+    "dampers",
+    "differential",
+    "suspension",
+    "tires",
+    "traction_control"
+  ],
+  "sections": [
+    "Tires & Aero",
+    "Setup Tips",
+    "Chassis",
+    "Dampers",
+    "Differential",
+    "Brakes",
+    "Fuel",
+    "Traction Control"
+  ],
+  "word_count": 7080,
+  "source_text": "Ferrari-296-GT3-V4.txt"
+}

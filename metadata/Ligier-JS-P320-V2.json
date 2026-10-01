@@ -1,0 +1,28 @@
+{
+  "vehicle": "Ligier JS P320",
+  "manufacturer": "Ligier",
+  "manufacturer_source": "filename",
+  "class": "GT4",
+  "manual_type": "vehicle",
+  "topics": [
+    "aerodynamics",
+    "brakes",
+    "dampers",
+    "differential",
+    "suspension",
+    "tires",
+    "traction_control"
+  ],
+  "sections": [
+    "Tires & Aero",
+    "Setup Tips",
+    "Chassis",
+    "Dampers",
+    "Differential",
+    "Brakes",
+    "Fuel",
+    "Traction Control"
+  ],
+  "word_count": 7177,
+  "source_text": "Ligier-JS-P320-V2.txt"
+}

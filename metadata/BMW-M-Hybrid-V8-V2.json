@@ -1,0 +1,29 @@
+{
+  "vehicle": "BMW M Hybrid",
+  "manufacturer": "BMW",
+  "manufacturer_source": "filename",
+  "class": "GTP",
+  "manual_type": "vehicle",
+  "topics": [
+    "aerodynamics",
+    "brakes",
+    "dampers",
+    "differential",
+    "hybrid",
+    "suspension",
+    "tires",
+    "traction_control"
+  ],
+  "sections": [
+    "Tires & Aero",
+    "Setup Tips",
+    "Chassis",
+    "Differential",
+    "Brakes",
+    "Hybrid",
+    "Fuel",
+    "Traction Control"
+  ],
+  "word_count": 7668,
+  "source_text": "BMW-M-Hybrid-V8-V2.txt"
+}

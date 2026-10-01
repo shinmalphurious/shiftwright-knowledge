@@ -1,0 +1,23 @@
+{
+  "vehicle": "Porsche Cup 992.2",
+  "manufacturer": "Porsche",
+  "manufacturer_source": "filename",
+  "class": "Unknown",
+  "manual_type": "vehicle",
+  "topics": [
+    "aerodynamics",
+    "brakes",
+    "suspension",
+    "tires",
+    "traction_control"
+  ],
+  "sections": [
+    "Setup Tips",
+    "Chassis",
+    "Brakes",
+    "Fuel",
+    "Traction Control"
+  ],
+  "word_count": 5354,
+  "source_text": "Porsche-Cup-992.2-V1.txt"
+}

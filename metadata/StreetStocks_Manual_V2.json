@@ -1,0 +1,23 @@
+{
+  "vehicle": "StreetStocks",
+  "manufacturer": "NASCAR",
+  "manufacturer_source": "known_vehicle",
+  "class": "NASCAR",
+  "manual_type": "vehicle",
+  "topics": [
+    "aerodynamics",
+    "brakes",
+    "differential",
+    "suspension",
+    "tires"
+  ],
+  "sections": [
+    "Tires & Aero",
+    "Chassis",
+    "Differential",
+    "Brakes",
+    "Fuel"
+  ],
+  "word_count": 3401,
+  "source_text": "StreetStocks_Manual_V2.txt"
+}

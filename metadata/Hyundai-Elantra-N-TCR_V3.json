@@ -1,0 +1,23 @@
+{
+  "vehicle": "Hyundai Elantra N TCR",
+  "manufacturer": "Hyundai",
+  "manufacturer_source": "filename",
+  "class": "NASCAR",
+  "manual_type": "vehicle",
+  "topics": [
+    "aerodynamics",
+    "brakes",
+    "dampers",
+    "differential",
+    "suspension",
+    "tires"
+  ],
+  "sections": [
+    "Setup Tips",
+    "Chassis",
+    "Brakes",
+    "Fuel"
+  ],
+  "word_count": 5219,
+  "source_text": "Hyundai-Elantra-N-TCR_V3.txt"
+}

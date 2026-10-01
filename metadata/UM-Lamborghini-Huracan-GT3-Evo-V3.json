@@ -1,0 +1,30 @@
+{
+  "vehicle": "Lamborghini Huracan GT3 Evo",
+  "manufacturer": "Lamborghini",
+  "manufacturer_source": "filename",
+  "class": "GT3",
+  "manual_type": "vehicle",
+  "topics": [
+    "aerodynamics",
+    "brakes",
+    "dampers",
+    "differential",
+    "hybrid",
+    "suspension",
+    "tires",
+    "traction_control"
+  ],
+  "sections": [
+    "Tires & Aero",
+    "Setup Tips",
+    "Chassis",
+    "Dampers",
+    "Differential",
+    "Brakes",
+    "Hybrid",
+    "Fuel",
+    "Traction Control"
+  ],
+  "word_count": 7607,
+  "source_text": "UM-Lamborghini-Huracan-GT3-Evo-V3.txt"
+}

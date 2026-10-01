@@ -1,0 +1,29 @@
+{
+  "vehicle": "Ferrari 488 GT3",
+  "manufacturer": "Ferrari",
+  "manufacturer_source": "filename",
+  "class": "NASCAR",
+  "manual_type": "vehicle",
+  "topics": [
+    "aerodynamics",
+    "brakes",
+    "dampers",
+    "differential",
+    "hybrid",
+    "suspension",
+    "tires",
+    "traction_control"
+  ],
+  "sections": [
+    "Tires & Aero",
+    "Chassis",
+    "Dampers",
+    "Differential",
+    "Brakes",
+    "Hybrid",
+    "Fuel",
+    "Traction Control"
+  ],
+  "word_count": 6393,
+  "source_text": "UM-Ferrari-488-GT3-Manual-V2.txt"
+}

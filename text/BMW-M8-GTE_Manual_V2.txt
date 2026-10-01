@@ -1,0 +1,808 @@
+--- PAGE 1 ---
+
+BMW M8 GTE
+USER MANUAL
+
+--- PAGE 2 ---
+
+2
+BMW M8 GTE | USER MANUAL
+Drivetrain » 19
+Introduction » 5
+Tech Specs » 4
+A Message From iRacing » 3
+ Getting Started » 5
+ Pit Speed Limiter & Wheel Lockup Lights » 9
+Dash Pages » 7
+ Loading An iRacing Setup » 6
+ Digital Display » 7
+ GENERAL INFORMATION
+TABLE OF CONTENTS
+CLICK TO VIEW A SECTION
+Setup Tips » 21
+SETUP TIPS
+ Tires » 10
+ Front » 12
+ Diff » 20
+Chassis » 12
+ Aero Balance Calculator » 11
+Tires & Aero » 10 
+ In-Car Dials » 13
+ Front Corners » 14 
+ Rear » 18
+ Rear Corners » 16
+ ADVANCED SETUP OPTIONS
+
+--- PAGE 3 ---
+
+3
+DEAR iRACING USER,
+The twin-turbo, V8 powered beast joins the already impressive lineup of GTE cars in iRacing. With over 
+500 bhp the flagship racing car from BMW competes around the world. Racing in series including the 
+FIA World Endurance Championship and the IMSA Weathertech SportsCar Championship. In iRacing 
+you will see the BMW M8 in the multi-class IMSA Series as well as the iRacing Le Mans series.
+A front engine car, the BMW has already earned a reputation for being tough to pass due to its 
+performance and size. iRacers will have the opportunity to race the M8 wheel to wheel against 
+the Porsche RSR, Ford GT and Ferrari 488 and find out for themselves which of the GTE cars will 
+reign supreme.
+Thanks again for your purchase, and we’ll see you on the track!
+
+--- PAGE 4 ---
+
+4
+BMW M8 GTE | USER MANUAL
+CHASSIS
+POWER 
+UNIT
+BMW M8 GTE | TECH SPECS
+DOUBLE-WISHBONE PUSHROD 
+FRONT AND REAR SUSPENSION
+TWIN-TURBOCHARGED V8
+LENGTH
+4980 mm
+196 in
+WIDTH
+2224 mm
+87.5 in
+WHEELBASE
+2880 mm
+113 in
+DRY WEIGHT
+1313 kg
+2896 lbs
+WET WEIGHT 
+WITH DRIVER
+1380 kg
+3044 lbs
+DISPLACEMENT
+4.0 Liters
+243 cid
+TORQUE
+515 lb-ft
+700 Nm
+POWER
+592 bhp
+441 kW
+RPM LIMIT
+7,000
+ 
+
+--- PAGE 5 ---
+
+5
+BMW M8 GTE | USER MANUAL
+INTRODUCTION
+The information found in this guide is intended to provide a deeper understanding of the chassis setup adjustments 
+available in the garage, so that you may use the garage to tune the chassis setup to your preference.
+Before starting the car, it is recommended to map controls for Brake 
+Bias and Traction Control settings. While this is not mandatory, this 
+will allow you to make quick changes to the brake bias and stability 
+management systems to suit your driving style while out on track.
+Once you load into the car, getting started is as easy as pulling the 
+“upshift” paddle to put it into gear, and hitting the accelerator pedal. 
+This car uses an automated sequential transmission and does not 
+BMW M8 GTE | INTRODUCTION
+GETTING STARTED
+require manual clutch operation to shift in either direction. However, 
+the car’s downshift protection will not allow you to downshift if it 
+feels you are traveling too fast for the gear requested. If that is 
+the case, the downshift command will simply be ignored. 
+Upshifting is recommended when the shift lights on the dashboard 
+are all fully illuminated. This is just before the rev-limiter at 7000 rpm.
+Before diving into chassis adjustments, though, it is best to become 
+familiar with the car and track. To that end, we have provided 
+baseline setups for each track commonly raced by these cars. To 
+access the baseline setups, simply open the Garage, click iRacing 
+Setups, and select the appropriate setup for your track of choice. If 
+you are driving a track for which a dedicated baseline setup is not 
+included, you may wwselect a setup for a similar track to use as your 
+baseline. After you have selected an appropriate setup, get on track 
+and focus on making smooth and consistent laps, identifying the 
+proper racing line and experiencing tire wear and handling trends 
+over a number of laps.
+Once you are confident that you are nearing your driving potential 
+with the included baseline setups, read on to begin tuning the car to 
+your handling preferences.
+
+--- PAGE 6 ---
+
+6
+BMW M8 GTE | USER MANUAL
+LOADING AN iRACING SETUP
+When you first load into a session, the iRacing Baseline setup 
+will be automatically loaded onto the car. If you would like to try any 
+of the other iRacing pre-built options, you may select it by going to 
+Garage > iRacing Setups > and then selecting another option that 
+fits your needs. Because this car uses slightly different chassis and 
+body configurations on different types of tracks, it will be necessary 
+to load a setup from the same track type to pass tech inspection. 
+For example, a setup for Talladega will pass at Daytona, but likely 
+will not pass at Bristol.
+BMW M8 GTE | INTRODUCTION
+If you would like to customize the setup, simply make the changes 
+in the garage that you would like to update and click apply. If you 
+would like to save your setup for future use click “Save As” on the 
+right to name and save the changes. To access all of your personally 
+saved setups, click “My Setups” on the right side of the garage. If 
+you would like to share a setup with another driver or everyone in a 
+session, you can select “Share” on the right side of the garage to do 
+so. If a driver is trying to share a setup with you, you will find it under 
+“Shared Setups” on the right side of the garage as well.
+
+--- PAGE 7 ---
+
+7
+BMW M8 GTE | USER MANUAL
+BMW M8 GTE | DASH PAGES
+DASH PAGES
+The BMW M8 GTE features a Bosch DDU S2 digital dash display that shows the driver all relevant information on a single, 
+easy-to-read screen. Shift lights are situated above the display screen, and a set of warning/lockup lights are mounted to 
+DIGITAL DISPLA Y
+The data in the main display is shown in multiple columns with each piece of data displayed in its own box.
+Left Column
+Tyre Pressure
+The current air pressure in each tire is shown in this box, in either PSI or Bar depending on the units selected 
+in the garage. If a tire is under-inflated the number will be highlighted in orange.
+Fuel The amount of fuel remaining in the fuel tank in either Liters or US Gallons.
+Gain - Loss The difference between the current lap and the session best lap.
+Laptime Previously completed lap time.
+Center Column
+Gear Currently selected gear
+SPEED Vehicle speed in either Miles-per-hour or Kilometers-per-hour depending on the units selected in the garage.
+MAP
+Currently selected Engine Map. This can be changed in the garage or with the F8 Black Box “Engine Map” 
+setting.
+TC
+Longitudinal Traction Control setting. This can be changed in the garage or with the F8 Black Box “Trac Ctrl 
+(TC)” setting.
+Right Column
+RPM Current engine RPM
+TMOT Engine cooling system temperature in °F or °C depending on the units selected in the garage
+Boost
+Currently selected Engine Boost setting. This can be changed in the garage or with the F8 Black Box “Boost 
+Map” setting.
+Slip
+Lateral Traction Control Setting. This can be changed in the garage or with the F8 Black Box “Trac Ctrl (SLIP)” 
+setting.
+Ped
+Currently selected Throttle Pedal shape. This can be changed in the garage or with the F8 Black Box 
+“Throttle Shaping” setting.
+
+--- PAGE 8 ---
+
+8
+BMW M8 GTE | USER MANUAL
+BMW M8 GTE | DASH PAGES
+When the pit limiter is active the shift light cluster will flash all LED’s in magenta and the PSL box will appear on the main dashboard screen.
+A set of wheel lockup lights are mounted on the left side of the display cluster. These LEDs will illuminate whenever a front or rear lockup is 
+detected, with the lockup’s severity being shown by how many lights are illuminated. Initially the top and/or bottom LEDs will illuminate, more 
+severe lockups are shown with more lights toward the middle of the display. The Green lights represent the front wheels and the Yellow lights 
+represent the rear wheels.
+PIT LIMITER
+WHEEL LOCKUP LIGHTS
+
+--- PAGE 9 ---
+
+9
+BMW M8 GTE | USER MANUAL
+ADVANCED SETUP OPTIONS
+This section is aimed toward more advanced users who want to dive deeper into the different aspects of the 
+vehicle’s setup. Making adjustments to the following parameters is not required and can lead to significant 
+changes in the way a vehicle handles. It is recommended that any adjustments are made in an incremental fashion 
+and only singular variables are adjusted before testing changes.
+BMW M8 GTE | ADVANCED SETUP OPTIONS 
+
+--- PAGE 10 ---
+
+10
+BMW M8 GTE | USER MANUAL
+STARTING PRESSURES
+Air pressure in the tire when the car is loaded into the world. Higher 
+pressures will reduce rolling drag and heat buildup, but will decrease 
+grip. Lower pressures will increase rolling drag and heat buildup, but 
+will increase grip. Higher speeds and loads require higher pressures, 
+while lower speeds and loads will see better performance from lower 
+pressures. Cold pressures should be set to track characteristics for 
+optimum performance. Generally speaking, it is advisable to start at 
+lower pressures and work your way upwards as required.
+LAST TEMPS
+Tire carcass temperatures once the car has returned to the pits or 
+the driver has gotten out of the car. Wheel Loads and the amount of 
+work a tire is doing on-track are reflected in the tire’s temperature, 
+and these values can be used to analyze the car’s handling balance. 
+Center temperatures are useful for directly comparing the work done 
+by each tire, while the Inner and Outer temperatures are useful for 
+analyzing the wheel alignment (predominantly camber) while on 
+track. These values are measured in three zones across the tread of 
+the tire. Inside, Middle and Outer.
+BMW M8 GTE | ADVANCED SETUP OPTIONS | TIRES & AERO
+TREAD REMAINING
+The amount of tread remaining on the tire once the car has returned 
+to the pits or the driver has gotten out of the car. Tire wear is very 
+helpful in identifying any possible issues with alignment, such as one 
+side of the tire wearing excessively, and can be used in conjunction 
+with tire temperatures to analyze the car’s handling balance. These 
+values are measured in the same zones as those of temperature.
+TIRES & AERO
+TIRES
+
+--- PAGE 11 ---
+
+11
+BMW M8 GTE | USER MANUAL
+FRONT RH AT SPEED
+The Ride Height (RH) at Speed settings are inputs for the aero 
+calculator to determine the approximate aero performance with the 
+chosen aero package. Changing these values changes the displayed 
+Front Downforce value as well as the Downforce-to-Drag ratio in the 
+calculator. To check on-track performance, use the average of the 
+front ride height sensors (Front RH) and the average of the rear ride 
+height sensors (Rear RH) from telemetry. These can also be changed 
+to observe how rake will affect aerodynamic performance prior to 
+ride height or spring changes by observing their influence on the 
+Aero Balance value in the Aero Calculator.
+WING SETTING
+The wing setting refers to the relative angle of attack of the rear 
+wing, this is an aerodynamic device which has a significant impact 
+upon the total downforce (and drag) produced by the car as well 
+as shifting the aerodynamic balance of the car rearwards with 
+increasing angle. Increasing the rear wing angle results in more 
+total cornering grip capability in medium to high speed corners but 
+will also result in a reduction of straight line speed. Rear wing angle 
+should be adjusted in conjunction with front and rear ride heights, 
+specifically the difference between front and rear ride heights 
+known as ‘rake’. To retain the same overall aerodynamic balance it is 
+necessary to increase the rake of the car when increasing the rear 
+wing angle. This setting is linked to the Wing Setting on the Chassis 
+page and the two will change together.
+BMW M8 GTE | ADVANCED SETUP OPTIONS | TIRES & AERO
+AERO CALCULATOR
+FRONT DOWNFORCE
+Aero Balance represents the percentage of total downforce that is 
+working on the front axle. This value is calculated with the At Speed 
+Ride Height values for the given Wing Setting value, and should be 
+monitored during the chassis setup process to prevent unexpected 
+results. To ensure chassis adjustments don’t become masked by 
+aerodynamic changes, always refer to this value to ensure it remains 
+constant before and after aerodynamic setup changes.
+
+--- PAGE 12 ---
+
+12
+BMW M8 GTE | USER MANUAL
+BMW M8 GTE | ADVANCED SETUP OPTIONS | CHASSIS
+CHASSIS
+FRONT
+ARB STIFFNESS
+The ARB Stiffness option changes the installed Anti-Roll Bar to alter 
+the front suspension roll stiffness. The Stiff ARB option will increase 
+front roll stiffness and induce understeer, but can lead to better 
+aerodynamic performance in high-speed corners from the reduced 
+body roll. The Soft ARB option will reduce front roll stiffness, 
+increasing front end mechanical grip and reducing understeer, 
+but can hurt aerodynamic performance in high-speed corners. 
+If desired, the ARB can be disconnected completely, which will 
+dramatically reduce front roll stiffness and shift the chassis balance 
+towards oversteer.
+ARB BLADES
+To fine-tune the Anti-Roll Bar assembly stiffness the ARB Blades can 
+be adjusted to one of 11 options. These settings are represented 
+with two alphanumeric values starting with “D” and then a stiffness 
+value for both values. Setting “D1-D1” is the softest option, which 
+would produce the most mechanical grip and least understeer, 
+while “D6-D6” is the stiffest option and would produce a better 
+aerodynamic platform but the most understeer. Blade stiffness 
+increases as the sum of the numbers increases (D2-D3, “5”, is softer 
+than D3-D3, “6”). If the front ARB Stiffness is set to “Disconnected”, 
+this option has no effect on the car’s behavior.
+TOE-IN
+Toe is the angle of the wheels relative to the chassis centerline when 
+viewed from above. Negative toe-in sets the front of the tires farther 
+from the centerline than the rear of the tires while positive toe-in 
+sets the front of the tires closer to the centerline than the rear of the 
+tires. Toe-out will destabilize the car in a straight line but this will 
+increase turn-in response at the cost of increased tire temperature 
+and wear. Reducing toe-out (and even running toe-in) will stabilize 
+the car in a straight line and reduce temperature and wear, but could 
+make the car sluggish in response to steering inputs.
+FRONT MASTER CYLINDER
+The Front Brake Master Cylinder size can be changed to alter the 
+line pressure to the front brake calipers. A larger master cylinder 
+will reduce the line pressure to the front brakes, this will shift the 
+brake bias rearwards and increase the pedal effort required to lock 
+the front wheels. A smaller master cylinder will do the opposite and 
+increase brake line pressure to the front brakes, shifting brake bias 
+forward and reducing required pedal effort.
+REAR MASTER CYLINDER
+The Rear Brake Master Cylinder size can be changed to alter the 
+line pressure to the rear brake calipers. A larger master cylinder will 
+reduce the line pressure to the rear brakes, this will shift the brake 
+bias forwards and increase the pedal effort required to lock the rear 
+wheels. A smaller master cylinder will do the opposite and increase 
+brake line pressure to the rear brakes, shifting brake bias rearward 
+and reducing required pedal effort.
+BRAKE PADS
+The vehicle’s braking performance can be altered via the Brake Pad 
+Compound. The “Low” setting provides the least friction, reducing 
+the effectiveness of the brakes, while “Medium” and “High” provide 
+more friction and increase the effectiveness of the brakes while 
+increasing the risk of a brake lockup.
+CROSS WEIGHT
+The percentage of total vehicle weight in the garage acting across 
+the right front and left rear corners. 50.0% is generally optimal for 
+non-oval tracks as this will produce symmetrical handling in both 
+left and right hand corners providing all other chassis settings 
+are symmetrical. Higher than 50% cross weight will result in more 
+understeer in left hand corners and increased oversteer in right hand 
+corners, cross weight can be adjusted by making changes to the 
+spring perch offsets at each corner of the car.
+
+--- PAGE 13 ---
+
+13
+BMW M8 GTE | USER MANUAL
+BMW M8 GTE | ADVANCED SETUP OPTIONS | CHASSIS
+IN-CAR DIALS
+BRAKE PRESSURE BIAS
+The Brake Pressure Bias setting determines how much of the overall 
+brake line pressure is sent to the front wheels. Higher percentages 
+apply more braking pressure to the front wheels which can induce 
+understeer under braking, while reducing the percentage will shift 
+braking force rearward and induce oversteer under braking. If the 
+bias is set too far forward or rearward it can cause wheel lockups 
+under heavy braking, so it should be set to a value that allows for 
+heavy braking without lockups on either axle.
+TRACTION CONTROL SETTING
+The position of the traction control switch determines how 
+aggressively the ecu cuts engine torque in reaction to rear wheel 
+spin. The system has nine active settings, with “1” providing the least 
+assistance and “9” providing the most assistance. Setting “10” will 
+disable the traction control system completely. This setting can be 
+changed in-car via the F8 Black Box’s “TC” setting.
+TRACTION CONTROL SLIP SETTING
+The Traction Control Slip system attempts to maintain lateral traction 
+(during small slides, for example) through the same methods as 
+the main Traction Control system. As with the main system, the 
+Slip Setting has nine active settings with “1” providing the least 
+assistance and “9” providing the most, with setting “10” disabling the 
+system. This setting can be changed in-car via the F8 Black Box’s 
+“SLIP” setting. 
+THROTTLE SHAPE SETTING
+Throttle shape setting refers to how changes in the drivers pedal 
+position result in changes in provided engine torque. The BMW 
+M8 GTE offers 12 options to suit many driving styles. Setting 1 will 
+produce an S-shaped throttle/torque map that is similar to butterfly-
+style throttle bodies. Increasing the setting will make the throttle 
+shape more linear up to Setting 12, which is purely linear (50% 
+throttle = 50% torque). This setting can be changed in-car via the F8 
+Black Box’s “PEDAL” setting. 
+BOOST MAP SETTING
+The Boost Map Setting alters the level of engine boost produced by 
+the turbocharger system. Position 1 produces the maximum boost 
+allowed by the WEC rules and each setting increase will reduce the 
+amount of boost produced. This setting can be changed in-car via 
+the F8 Black Box’s “BOOST” setting, and more details on the system’s 
+behavior can be found in the garage Notes section.
+ENGINE MAP SETTING
+To allow for various fuel-saving strategies the Engine Map setting 
+can be changed to reduce the fuel usage. Setting 1 will use the 
+most fuel, and produce the most power, while settings 2 through 
+11 will reduce the amount of fuel used by the engine for fuel saving 
+purposes. Setting 12 will greatly reduce fuel usage and power for 
+Safety Car periods. This setting can be changed in-car via the F8 
+Black Box’s “MAP” setting.
+NIGHT LED STRIPS
+To identify the car more easily, the color of the LED light strips at the 
+top of the rear side windows can be changed with this setting. This 
+has no impact on vehicle performance.
+
+--- PAGE 14 ---
+
+14
+BMW M8 GTE | USER MANUAL
+BMW M8 GTE | ADVANCED SETUP OPTIONS | CHASSIS
+FRONT CORNERS
+CORNER WEIGHT
+The weight underneath each tire under static conditions in the 
+garage. Correct weight arrangement around the car is crucial for 
+optimizing a car for a given track and conditions. Individual wheel 
+weight adjustments and crossweight adjustments are made via the 
+spring perch offset adjustments at each corner.
+RIDE HEIGHT
+Distance from ground to a reference point on the chassis. Since 
+these values are measured to a specific reference point on the 
+car, these values may not necessarily reflect the vehicle’s ground 
+clearance, but instead provide a reliable value for the height of the 
+car off of the race track at static values. Adjusting Ride Heights is 
+key for optimum performance, as they can directly influence the 
+vehicle’s aerodynamic performance as well as mechanical grip. 
+Increasing front ride height will decrease front downforce as well as 
+decrease overall downforce, but will allow for more weight transfer 
+across the front axle when cornering. Conversely, reducing ride 
+height will increase front and overall downforce, but reduce the 
+weight transfer across the front axle.
+SPRING PERCH OFFSET
+Used to adjust the ride height at this corner of the car by changing 
+the installed position of the spring. Increasing the spring perch offset 
+will result in lowering this corner of the car while reducing the spring 
+perch offset will raise this corner of the car. These changes should 
+be kept symmetrical across the axle (left to right) to ensure the same 
+corner ride heights and no change in cross weight. The spring perch 
+offsets can also be used in diagonal pairs (LF to RR and RF to LR) to 
+change the static cross weight in the car.
+SPRING RATE
+Spring Rate is the stiffness of the suspension’s corner springs 
+controlling each wheel. The value is a representation of how much 
+force (Pounds or Newtons) is required to compress the spring 
+a specific distance. Springs are used to keep the chassis from 
+contacting the track under the loads seen on track and to manage 
+the chassis’ aerodynamic attitude, but their stiffness also has a 
+major influence on the car’s handling characteristics. On the front 
+end, stiffer springs can keep the front splitter from moving too much 
+under increasing aerodynamic loads but will decrease mechanical 
+grip and can cause understeer in slower corners. Softer springs will 
+result in more front end movement, which can hurt aero, but will 
+increase mechanical grip in the front axle and reduce understeer (or 
+cause oversteer, in extreme cases).
+LS COMP DAMPING
+Low-Speed (LS) Compression affects how resistant the shock is to 
+compression (reduction in length), usually in chassis movements 
+as a result of driver input, such as the front shocks under braking. 
+Higher LS Compression settings will prevent the shock from 
+compressing quickly and can quickly increase the load transferred to 
+the wheel when the suspension is in compression, but can prevent 
+the suspension from absorbing smaller bumps and dips in the track. 
+Lower LS compression settings will allow for better bump absorption, 
+but can hurt aerodynamic stability due to excessive body movement 
+with driver inputs.
+HS COMP DAMPING
+The High-Speed (HS) Compression controls how resistant the shock 
+is to compression at higher shock shaft speeds, roughly 1.5 in/s, a 
+range usually associated with very bumpy racing surfaces or curb 
+strikes. Lower HS Compression values will reduce the force exerted 
+in these situations, allowing these large forces to be absorbed by the 
+suspension without changing the low-speed characteristics of the 
+shock. This is great for very bumpy tracks or circuits where the car 
+will see heavy curb usage, while smoother tracks will benefit from 
+higher HS Compression values.
+
+--- PAGE 15 ---
+
+15
+BMW M8 GTE | USER MANUAL
+BMW M8 GTE | ADVANCED SETUP OPTIONS | CHASSIS
+LS RBD DAMPING
+Low-Speed (LS) Rebound affects how resistant the shock is to 
+extension (increase in length), typically during body movement as a 
+result of driver inputs, such as the front shocks under acceleration. 
+Higher rebound values will slow extension of the shock, lower values 
+will allow the shock to extend faster. Higher rebound values can 
+better control aerodynamic attitude but can result in the wheel being 
+unloaded when the suspension can’t extend enough to maintain 
+proper contact with the track. Excessive front rebound can lead to 
+unwanted oscillations due to the wheel bouncing off of the track 
+surface instead of staying in contact.
+HS RBD DAMPING:
+High-Speed (HS) Rebound affects how resistant the shock is 
+to extension (increase in length), at higher shock shaft speeds, 
+usually above 1.5 in/s. This area is commonly seen as a response to 
+high-speed compression, such as bumps in the racing surface or 
+curb strikes. Higher values will prevent the shock from extending 
+too quickly after a bump, which can help to maintain aerodynamic 
+consistency in terms of body attitude, but too much rebound can 
+keep the suspension from extending quickly enough and cause a 
+loss of grip, especially over a series of bumps. Lower values will 
+allow faster suspension extension, but can allow too much body 
+movement and potentially hurt aerodynamics.
+CAMBER
+Camber is the vertical angle of the wheel relative to the center of 
+the chassis. Negative camber is when the top of the wheel is closer 
+to the chassis centerline than the bottom of the wheel, positive 
+camber is when the top of the tire is farther out than the bottom. 
+Due to suspension geometry and corner loads, negative camber 
+is desired on all four wheels. Higher negative camber values will 
+increase the cornering force generated by the tire, but will reduce 
+the amount of longitudinal grip the tire will have under braking. 
+Excessive camber values can produce very high cornering forces 
+but will also significantly reduce tire life, so it is important to find 
+a balance between life and performance. Increasing front camber 
+values will typically result in increased front axle grip during mid to 
+high speed cornering but will result in a loss of braking performance 
+and necessitate a rearward shift in brake bias to compensate.
+CASTER
+Caster is the vertical angle of the steering axis relative to the side 
+view of the chassis. Positive caster angle is where the steering 
+axis is leaned rearwards from this viewpoint, the more caster the 
+larger the total trail of the contact patch behind the steering axis. 
+More caster angle will result in the mechanical trail being a larger 
+proportion of the felt steering weight relative to the tires pneumatic 
+trail. This will result in a heavier overall steering feel but a possible 
+loss in felt feedback from the tire. Increasing caster angle will also 
+have secondary effects such as an increase in dynamic camber 
+when turning the wheel through large steering angles which can 
+be beneficial in chicances or hairpins. As well as this the more 
+caster angle the greater the jacking effect during cornering which 
+will result in lifting the inside front wheel while lowering the outside 
+front wheel. This jacking effect will also result in the unloading and 
+potentially lifting of the inside rear wheel which can aid in rotation 
+around tight corners.
+
+--- PAGE 16 ---
+
+16
+BMW M8 GTE | USER MANUAL
+BMW M8 GTE | ADVANCED SETUP OPTIONS | CHASSIS
+REAR CORNERS
+CORNER WEIGHT
+The weight underneath each tire under static conditions in the 
+garage. Correct weight arrangement around the car is crucial for 
+optimizing a car for a given track and conditions. Individual wheel 
+weight adjustments and crossweight adjustments are made via the 
+spring perch offset adjustments at each corner.
+RIDE HEIGHT
+Distance from ground to a reference point on the rear of the chassis. 
+Increasing rear ride height will decrease rear downforce but will 
+increase overall downforce and will allow for more weight transfer 
+across the rear axle when cornering. Conversely, reducing ride 
+height will increase rear downforce percentage but reduce overall 
+downforce while reducing the weight transfer across the rear axle. 
+Rear ride height is a critical tuning component for both mechanical 
+and aerodynamic balance considerations and static rear ride heights 
+should be considered and matched to the chosen rear corner 
+springs for optimal performance. 
+SPRING PERCH OFFSET
+Used to adjust the ride height at this corner of the car by changing 
+the installed position of the spring. Increasing the spring perch offset 
+will result in lowering this corner of the car while reducing the spring 
+perch offset will raise this corner of the car. These changes should 
+be kept symmetrical across the axle (left to right) to ensure the same 
+corner ride heights and no change in cross weight. The spring perch 
+offsets can also be used in diagonal pairs (LF to RR and RF to LR) to 
+change the static cross weight in the car.
+SPRING RATE
+Spring Rate is the stiffness of the suspension’s corner springs 
+controlling each wheel. The value is a representation of how 
+much force (Pounds or Newtons) required to compress the spring 
+a specific distance. Springs are used to keep the chassis from 
+contacting the track under the loads seen on track and to manage 
+the chassis’ aerodynamic attitude, but their stiffness also has a 
+major influence on the car’s handling characteristics. On the rear 
+end, stiffer springs can keep the wing and diffuser from moving 
+too much under increasing aerodynamic loads but will decrease 
+mechanical grip and can cause oversteer in slower corners. Softer 
+springs will result in more rear end movement, which can hurt 
+aero, but will increase mechanical grip at the rear axle and reduce 
+oversteer.
+LS COMP DAMPING
+Low-Speed (LS) Compression affects how resistant the shock is to 
+compression (reduction in length), usually in chassis movements as 
+a result of driver input, such as the rear shocks under acceleration. 
+Higher LS Compression settings will prevent the shock from 
+compressing quickly and can quickly increase the load transferred to 
+the wheel when the suspension is in compression, but can prevent 
+the suspension from absorbing smaller bumps and dips in the track. 
+Lower LS compression settings will allow for better bump absorption, 
+but can hurt aerodynamic stability due to excessive body movement 
+with driver inputs.
+HS COMP DAMPING
+The High-Speed (HS) Compression controls how resistant the shock 
+is to compression at higher shock shaft speeds, roughly 1.5 in/s. 
+This range of motion is usually associated with very bumpy racing 
+surfaces or curb strikes. Lower HS Compression values will reduce 
+the force exerted in these situations, allowing these large forces to 
+be absorbed by the suspension without changing the low-speed 
+characteristics of the shock. This is great for very bumpy tracks or 
+circuits where the car will see heavy curb usage, while smoother 
+tracks will benefit from higher HS Compression values.
+
+--- PAGE 17 ---
+
+17
+BMW M8 GTE | USER MANUAL
+BMW M8 GTE | ADVANCED SETUP OPTIONS | CHASSIS
+LS RBD DAMPING
+Low-Speed (LS) Rebound affects how resistant the shock is to 
+extension (increase in length), typically during body movement as a 
+result of driver inputs, such as the rear shocks under braking. Higher 
+rebound values will slow extension of the shock, lower values will 
+allow the shock to extend faster. Higher rebound values can better 
+control aerodynamic attitude but can result in the wheel being 
+unloaded when the suspension can’t extend enough to maintain 
+proper contact with the track. Excessive front rebound can lead to 
+unwanted oscillations due to the wheel bouncing off of the track 
+surface instead of staying in contact..
+HS RBD DAMPING
+High-Speed (HS) Rebound affects how resistant the shock is 
+to extension (increase in length), at higher shock shaft speeds, 
+usually above 1.5 in/s. This area is commonly seen as a response 
+to high-speed compression, such as bumps in the racing surface 
+or curb strikes. Higher values will prevent the shock from extending 
+too quickly after a bump, which can help to maintain aerodynamic 
+consistency in terms of body attitude, but too much rebound can 
+keep the suspension from extending quickly enough and cause 
+a loss of grip. Lower values will allow faster suspension extension, 
+but can allow too much body movement and potentially hurt 
+aerodynamics.
+CAMBER
+Camber is the vertical angle of the wheel relative to the center 
+of the chassis. Negative camber is when the top of the wheel is 
+closer to the chassis centerline than the bottom of the wheel, 
+positive camber is when the top of the tire is farther out than the 
+bottom. Higher negative camber values will provide more cornering 
+forces in the direction of the tire’s camber (more stability in high-
+speed cornering), but may reduce on-throttle traction at high 
+camber angles. 
+TOE-IN
+Toe is the angle of the wheels relative to the chassis centerline when 
+viewed from above. Negative toe-in sets the front of the tires farther 
+from the centerline than the rear of the tires while positive toe-in 
+sets the front of the tires closer to the centerline than the rear of 
+the tires. This setting can change the rear tire slip angle, with toe-in 
+
+--- PAGE 18 ---
+
+18
+BMW M8 GTE | USER MANUAL
+BMW M8 GTE | ADVANCED SETUP OPTIONS | CHASSIS
+REAR
+FUEL LEVEL
+The amount of fuel in the fuel tank. Tank capacity is 92 L (24.3 gal), 
+adjustable in 1 L (0.26 gal) increments.
+ARB STIFFNESS 
+The ARB Stiffness option changes the installed Anti-Roll Bar to 
+alter the rear suspension roll stiffness. The Stiff ARB option will 
+increase rear roll stiffness and induce oversteer, but can lead to 
+better aerodynamic performance in high-speed corners from the 
+reduced body roll. The Soft ARB option will reduce rear roll stiffness, 
+increasing rear end mechanical grip and reducing oversteer, but can 
+hurt aerodynamic performance in high-speed corners. If desired, the 
+ARB can be disconnected completely, which will dramatically reduce 
+rear roll stiffness and shift the chassis balance towards understeer.
+ARB BLADES 
+To fine-tune the Anti-Roll Bar assembly stiffness the ARB Blades can 
+be adjusted to one of 7 options. These settings are represented with 
+two alphanumeric values starting with “D” and then a stiffness value 
+for both values. Setting “D1-D1” is the softest option, which would 
+produce the most mechanical grip and least oversteer, while “D4-
+D4” is the stiffest option and would produce a better aerodynamic 
+platform but the most oversteer. Blade stiffness increases as the 
+sum of the numbers increases (D2-D3, “5”, is softer than D3-D3, “6”). 
+If the rear ARB Stiffness is set to “Disconnected”, this option has no 
+effect on the car’s behavior.
+WING ANGLE
+The wing angle refers to the relative angle of attack of the rear 
+wing, this is an aerodynamic device which has a significant impact 
+upon the total downforce (and drag!) produced by the car as well 
+as shifting the aerodynamic balance of the car rearwards with 
+increasing angle. Increasing the rear wing angle results in more 
+total cornering grip capability in medium to high speed corners but 
+will also result in a reduction of straight line speed. Rear wing angle 
+should be adjusted in conjunction with front and rear ride heights, 
+specifically the difference between front and rear ride heights 
+known as ‘rake’. To retain the same overall aerodynamic balance it is 
+necessary to increase the rake of the car when increasing the rear 
+wing angle. More information on height changes for a change in wing 
+angle can be found in the Setup Tips section of this guide.
+
+--- PAGE 19 ---
+
+19
+BMW M8 GTE | USER MANUAL
+BMW M8 GTE | ADVANCED SETUP OPTIONS | DRIVETRAIN
+DRIVETRAIN
+FINAL DRIVE
+The Final Drive Ratio is the ratio between the driveshaft pinion and 
+the differential ring gear. Higher number values produce better 
+acceleration but reduce top speed, lower number values reduce 
+acceleration but result in a higher top speed. Changing this value 
+and then clicking “Apply” will change the expected maximum speeds 
+for all six forward gear options.
+TRANSMISSION GEARS
+All six gears in the transmission can be changed to suit track 
+conditions or driver preferences. Each gear is represented by 
+the ratio of teeth on the input and output gears, with lower ratios 
+reducing acceleration but increasing top speed and higher ratios 
+increasing acceleration but reducing top speed. Once a gear is 
+chosen and the “Apply” button is pressed, the expected top speed 
+the gear is capable of is updated beside the ratio choice.
+
+--- PAGE 20 ---
+
+20
+BMW M8 GTE | USER MANUAL
+BMW M8 GTE | ADVANCED SETUP OPTIONS | DRIVETRAIN
+DIFF
+DIFF COAST RAMP ANGLE
+The Coast Ramp angle changes how much force is exerted to lock 
+the differential under deceleration. Higher numbers exert less 
+locking force, lower numbers exert more locking force. Generally, 
+more understeer will be present with higher locking forces.
+DIFF DRIVE RAMP ANGLE
+The Drive Ramp angle changes how much force is exerted to lock 
+the differential under acceleration. Like the coast ramp setting, 
+higher angles produce less locking force and lower angles produce 
+more force, with higher forces typically producing more understeer 
+out of a corner. Too much locking force (very low angle), however, 
+can sometimes result in a snap-oversteer on corner exit.
+DIFF CLUTCH FRICTION FACES
+Changing the number of clutch plates, or friction faces, in the 
+differential will multiply the force produced by the differential to keep 
+the rear axle locked. Higher numbers of faces will multiply the forces 
+relative to the lowest setting of 2 friction faces. For example, 6 faces 
+will have three times as much force as 2 plates, while 2 plates will 
+have half the forces of 4 plates.
+DIFF PRELOAD
+Diff preload is a static amount of locking force present within the 
+differential and remains constant during both acceleration and 
+deceleration. Increasing diff preload will increase locking on both 
+sides of the differential which will result in more understeer when 
+off throttle and more snap oversteer with aggressive throttle 
+application. Increasing the diff preload will also smooth the transition 
+between on and off throttle behaviour as the differential locking 
+force will never reach zero which can be helpful in reducing lift-off 
+oversteer and increasing driver confidence. Typically diff preload 
+should be increased when there is noticeable loss in slow corner exit 
+drive and/or over-rotation during transition between the throttle and 
+brake in low to mid speed corners.
+
+--- PAGE 21 ---
+
+21
+BMW M8 GTE | USER MANUAL
+SETUP TIPS
+This section is aimed toward helping users who want to dive deeper 
+into the different aspects of the vehicle’s setup.
+BMW M8 GTE | SETUP TIPS 
+
+--- PAGE 22 ---
+
+22
+BMW M8 GTE | USER MANUAL
+BMW M8 GTE | SETUP TIPS
+SETUP TIPS
+HANDLING
+If fuel level needs to be increased or decreased, the Spring Perch 
+Offset adjustments are suggested to maintain chassis heights and 
+may be necessary to pass tech inspection:
+• Reduce Perch Offset (Left Click) - Raises corner
+• Increase Perch Offset (Right Click) - Lowers corner
+If conditions change from the reference conditions, gearing or 
+handling may need to be adjusted to suit changing track conditions:
+Rear Wing Adjustments:
+• Higher rear wing angle will increase overall downforce and 
+move aero balance rearward, decreasing oversteer in high-
+speed corners
+• Lower rear wing angle will decrease overall downforce 
+and move aero balance forward, increasing oversteer in 
+high-speed corners
+Low-Speed Handling:
+Increase Oversteer
+• Softer front ARB (entry-mid)
+• Stiffer rear ARB (mid-exit)
+• More diff coast ramp angle (entry)
+• Less diff coast ramp angle (exit)
+Increase Understeer
+• Stiffer front ARB (entry-mid)
+• Softer rear ARB (mid-exit)
+• Less diff coast ramp angle (entry)
+• More diff drive ramp angle (exit)

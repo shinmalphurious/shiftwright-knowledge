@@ -1,0 +1,27 @@
+{
+  "vehicle": "Aston Vantage GT4",
+  "manufacturer": "Aston Martin",
+  "manufacturer_source": "filename",
+  "class": "GT4",
+  "manual_type": "vehicle",
+  "topics": [
+    "aerodynamics",
+    "brakes",
+    "dampers",
+    "hybrid",
+    "suspension",
+    "tires",
+    "traction_control"
+  ],
+  "sections": [
+    "Tires & Aero",
+    "Setup Tips",
+    "Chassis",
+    "Dampers",
+    "Brakes",
+    "Fuel",
+    "Traction Control"
+  ],
+  "word_count": 5549,
+  "source_text": "Aston-Vantage-GT4-Manual_V4.txt"
+}

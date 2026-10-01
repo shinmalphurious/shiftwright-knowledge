@@ -1,0 +1,19 @@
+{
+  "vehicle": "Shock Tuning User Guide",
+  "manufacturer": "Reference",
+  "manufacturer_source": "reference_override",
+  "class": "Reference",
+  "manual_type": "reference",
+  "topics": [
+    "aerodynamics",
+    "brakes",
+    "dampers",
+    "suspension",
+    "tires"
+  ],
+  "sections": [
+    "Chassis"
+  ],
+  "word_count": 4287,
+  "source_text": "Shock-Tuning-User-Guide.txt"
+}

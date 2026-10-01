@@ -1,0 +1,886 @@
+--- PAGE 1 ---
+
+1
+FERRARI 296 GT3
+USER MANUAL
+
+--- PAGE 2 ---
+
+2
+FERRARI 296 GT3 | USER MANUAL
+Introduction » 5
+Tech Specs » 4
+A Message From iRacing » 3
+ Getting Started » 5
+Dash Pages » 7
+ Loading An iRacing Setup » 6
+ Tire Data » 12
+ Front » 14
+Chassis » 14
+ Aero Balance Calculator » 13
+Tires & Aero » 12 
+ In-Car Dials » 15
+ Front Corners » 16 
+ Rear » 18
+ Rear Corners » 17
+ GENERAL INFORMATION
+ ADVANCED SETUP OPTIONS
+TABLE OF CONTENTS
+CLICK TO VIEW A SECTION
+Dampers » 19
+ Gears / Differential » 18
+ Aerodynamic Targets and Adjustments » 22
+ Chassis Adjustments » 22
+ Differential Adjustments » 23
+Setup Tips » 20
+SETUP TIPS
+
+--- PAGE 3 ---
+
+3
+DEAR iRACING USER,
+Ferrari’s latest foray into GT3 racing, the 296 GT3 made its debut in the IMSA WeatherTech SportsCar 
+Championship and other major global championships in time for the 2023 season. It succeeds the 488 
+GT3 EVO that made its debut in 2020, and it was designed to build on that car’s successes with easier 
+setup modifications for the crew and significantly more downforce than its predecessor.
+Powered by a V6 engine just like its road-going counterpart, the 296 GT3 is capable of producing 600 
+horsepower from its 2.9-liter powerplant. Four cars took to the track across IMSA’s GTD and GTD Pro 
+classes in its debut at the 24 Hours of Daytona, and the car took its first win in a twice-around-the-clock 
+endurance race a few short months later at the Nürburgring. The following guide explains how to get the 
+most out of your new car, from how to adjust its settings off of the track to what you’ll see inside of the 
+cockpit while driving. We hope that you’ll find it useful in getting up to speed.
+Thanks again for your purchase, and we’ll see you on the track!
+
+--- PAGE 4 ---
+
+4
+FERRARI 296 GT3 | USER MANUAL
+CHASSIS
+POWER 
+UNIT
+FERRARI 296 GT3 | TECH SPECS
+DOUBLE WISHBONE WITH OUTBOARD 
+SPRINGS AND DAMPERS
+TWIN-TURBOCHARGED 
+FERRARI F163 V6
+LENGTH
+4565 mm
+179.7 in
+WIDTH
+2050 mm
+80.7 in
+DISPLACEMENT
+3.0 Liters
+183 CID
+TORQUE
+490 lb-ft
+664 Nm
+RPM LIMIT
+8000 RPM 
+POWER
+524 bhp
+391 kW
+WHEELBASE
+2660 mm
+104.7 in
+DRY WEIGHT
+1350 kg
+2976 lbs
+WET WEIGHT 
+WITH DRIVER
+1508 kg
+3325 lbs
+
+--- PAGE 5 ---
+
+5
+FERRARI 296 GT3 | USER MANUAL
+INTRODUCTION
+The information found in this guide is intended to provide a deeper understanding of the chassis setup adjustments 
+available in the garage, so that you may use the garage to tune the chassis setup to your preference.
+Before starting the car, it is recommended to map controls for 
+Brake Bias, Traction Control and ABS adjustments. While this is 
+not mandatory to drive the car, this will allow you to make quick 
+changes to the driver aid systems to suit your driving style while 
+out on the track. 
+FERRARI 296 GT3 | INTRODUCTION
+GETTING STARTED
+Once you load into the car, getting started is as easy as 
+selecting the “upshift” button to put it into gear, and hitting 
+the accelerator pedal. This car uses a sequential transmission 
+and does not require a clutch input to shift in either direction. 
+However the car’s downshift protection will not allow you to 
+downshift if it feels you are traveling too fast for the gear selected 
+and would incur engine damage. If that is the case, the gear 
+change command will simply be ignored.
+Before diving into chassis adjustments, though, it is best to become 
+familiar with the car and track. To that end, we have provided 
+baseline setups for each track commonly raced by these cars.
+To access the baseline setups, simply open the Garage, click iRacing 
+Setups, and select the appropriate setup for your track of choice.
+If you are driving a track for which a dedicated baseline setup is not 
+included, you may select a setup for a similar track to use as your 
+baseline.
+After you have selected an appropriate setup, get on track and focus 
+on making smooth and consistent laps, identifying the proper racing 
+line and experiencing tire wear and handling trends over a number of 
+laps.
+Once you are confident that you are nearing your driving potential 
+with the included baseline setups, read on to begin tuning the car to 
+your handling preferences.
+
+--- PAGE 6 ---
+
+6
+FERRARI 296 GT3 | USER MANUAL
+LOADING AN iRACING SETUP
+Upon loading into a session, the car will automatically load the 
+iRacing Baseline setup [baseline.sto]. If you would prefer one of 
+iRacing’s pre-built setups that suit various conditions, you may 
+load it by clicking Garage > iRacing Setups > and then selecting 
+the setup to suit your needs.
+If you would like to customize the setup, simply make the 
+changes in the garage that you would like to update and click 
+apply. 
+ 
+FERRARI 296 GT3 | INTRODUCTION
+If you would like to save your setup for future use click “Save As” 
+on the right to name and save the changes. To access all of your 
+personally saved setups, click “My Setups” on the right side of
+the garage. 
+If you would like to share a setup with another driver or everyone 
+in a session, you can select “Share” on the right side of the garage 
+to do so. 
+If a driver is trying to share a setup with you, you will find it under 
+“Shared Setups” on the right side of the garage as well. 
+
+--- PAGE 7 ---
+
+7
+FERRARI 296 GT3 | USER MANUAL
+FERRARI 296 GT3 | DASH PAGES
+DASH CONFIGURATION
+The Ferrari 296 GT3 features a Bosch DDU 10 display that organizes and shows all vital information to the driver. Two 
+options for the display page are available: The “RACE 1” page shows all information available and the “QUALI” page removes 
+speed and fuel information.
+Left Column
+Display Page
+The upper-left of the display will show which display page is active, either “RACE 1” for the 
+Race page and “QUALI” for the Qualifying page.
+ENG BRK Not currently driver adjustable.
+Speed Current vehicle speed in kph or mph. This box is removed for the QUAL page.
+Tire Pressures
+The live pressure in each tire is shown in the four boxes on the left side of the display. When pressures are 
+too low the boxes will be blue, the boxes will be black when the pressures are in the optimum range, and the 
+boxes will be red when too high.
+PED Current Throttle Shape setting
+ENG Fuel saving engine maps are not currently adjustable in the iRacing GT3 class
+ABS Current Anti-Lock Brake System setting
+Center
+RPM/Tachometer A digital tachometer is located at the top of the display above the gear indicator
+Gear Indicator Currently selected gear
+Stint Amount of fuel used since last leaving the pits. This box is removed for the QUAL page.
+Lap Amount of fuel that was used in the previous lap. This box is removed for the QUAL page.
+Pred Predicted amount of fuel that will be used on the next lap. This box is removed for the QUAL page.
+
+--- PAGE 8 ---
+
+8
+FERRARI 296 GT3 | USER MANUAL
+FERRARI 296 GT3 | DASH PAGES
+Right Columns
+BBAL Current Brake Bias setting
+Lap Counter Number of completed laps for the current session
+Tire Surface Temperature / 
+Brake Temp
+Each tire’s tread surface temperature is shown in the boxes on the right side of the display. These boxes can 
+display Brake Temperature using the Dash Page 2 Set button (more information below). When the tires/rotors 
+are too cold the boxes will be blue, the boxes will be black when they are in optimum temperature range, and 
+will be red when overheated.
+TC3 Inoperable
+TC2
+Current Traction Control system setting. This is linked to the TC1 display and will show the same number for 
+both settings.
+TC1
+Current Traction Control system setting. This is linked to the TC2 display and will show the same number for 
+both settings.
+Bottom Row
+Previous Lap / Best Lap
+Lap time for the previously completed lap. This will change to the Session Best Lap with the Dash Page 2 Set 
+button.
+Diff Time difference between the current lap and the fastest lap of the session, updated live
+Predicted Lap The estimated lap time for the current lap, updated live
+
+--- PAGE 9 ---
+
+9
+FERRARI 296 GT3 | USER MANUAL
+FERRARI 296 GT3 | DASH PAGES
+SHIFT LIGHTS
+The top of the digital display has a set of LED shift lights to help 
+the driver know when to upshift while accelerating.
+As RPM increases the lights will illuminate from left to right, with all 
+lights turning red when the ideal shift point has been reached.
+BRAKE LOCKUP LIGHTS
+Two LED lights on either side of the display will illuminate in the event of a wheel lockup, their location indicating which wheel
+is locking. The upper magenta lights will illuminate when the front wheels are locked and two cyan lights indicate lockups on the
+rear wheels.
+
+--- PAGE 10 ---
+
+10
+FERRARI 296 GT3 | USER MANUAL
+FERRARI 296 GT3 | DASH PAGES
+DASH PAGE SET CONTROLS
+The In-car Adjustments control assignments on the Options > Control page has two settings to control the dash display without 
+navigating to the In-Car Adjustment black box.
+DASH PAGE SET
+The Dash Page Set assignment will allow toggling between the Race and Qual dash pages. The button assigned to increase the value 
+will change the dash to the Qual page while the button assigned to decrease the value will change the dash to the Race page.
+DASH PAGE 2 SET
+BRAKE ROTOR TEMPERATURES
+On the right side of the dash the Tire Temperature values will be 
+replaced with Brake Rotor temperatures. As with the tire temperature 
+values, the brake temperatures will be color-coded to easily identify 
+the status of each brake system. Blue indicates too cold, black 
+indicates the optimum temperature range, and red indicates an 
+overheated brake rotor.
+BEST LAP TIME
+The bottom right box, usually displaying the Previous Lap time, will 
+show the session Best Lap Time in purple.
+The Dash Page 2 assignment will change the data displayed on either page and can be toggled back and forth just like the main pages 
+themselves can be toggled. When activated, the following information is displayed:
+
+--- PAGE 11 ---
+
+11
+FERRARI 296 GT3 | USER MANUAL
+ADVANCED SETUP OPTIONS
+This section is aimed toward more advanced users who want to dive deeper into the different aspects of the 
+vehicle’s setup. Making adjustments to the following parameters is not required and can lead to significant 
+changes in the way a vehicle handles. It is recommended that any adjustments are made in an incremental fashion 
+and only singular variables are adjusted before testing changes.
+FERRARI 296 GT3 | ADVANCED SETUP OPTIONS 
+
+--- PAGE 12 ---
+
+12
+FERRARI 296 GT3 | USER MANUAL
+FERRARI 296 GT3 | ADVANCED SETUP OPTIONS | TIRES & AERO 
+TIRE TYPE
+Tires fitted to the Ferrari 296 GT3 car can be changed based 
+on weather conditions. The Dry option fits a slick tire intended for 
+dry track conditions while the Wet option fits a treaded tire for wet 
+track surfaces.
+STARTING PRESSURE
+Air pressure in the tire when the car is loaded into the world.
+Higher pressures will reduce rolling drag and heat buildup, but
+will decrease grip. Lower pressures will increase rolling drag and 
+heat buildup, but will increase grip. Higher speeds and loads require 
+higher pressures, while lower speeds and loads will see better 
+performance from lower pressures. Cold pressures should be set to 
+track characteristics for optimum performance. Generally speaking, 
+it is advisable to start at lower pressures and work your way 
+upwards as required.
+LAST HOT PRESSURE
+Air pressure in the tire after the car has returned to the pits.
+The difference between cold and hot pressures can be used to 
+identify how the car is progressing through a run in terms of balance, 
+with heavier-loaded tires seeing a larger difference between cold 
+and hot pressures. Ideally, tires that are worked in a similar way 
+should build pressure at the same rate to prevent a change in 
+handling balance over the life of the tire, so cold pressures should
+be adjusted to ensure that similar tires are at similar pressures once 
+up to operating temperature. Hot pressures should be analyzed
+once the tires have stabilized after a period of laps. As the number 
+of laps per run will vary depending upon track length a good starting 
+point is approximately 50% of a full fuel run.
+TIRES & AERO
+TIRE DATA
+LAST TEMPS
+Tire carcass temperatures once the car has returned to the pits. 
+Wheel Loads and the amount of work a tire is doing on-track are 
+reflected in the tire’s temperature, and these values can be used to 
+analyze the car’s handling balance. Center temperatures are useful 
+for directly comparing the work done by each tire, while the Inner 
+and Outer temperatures are useful for analyzing the wheel alignment 
+(predominantly camber) while on track. These values are measured 
+in three zones across the tread of the tire: Inside, Middle and Outer.
+TREAD REMAINING
+The amount of tread remaining on the tire once the car has returned 
+to the pits. Tire wear is very helpful in identifying any possible issues 
+with alignment, such as one side of the tire wearing excessively, 
+and can be used in conjunction with tire temperatures to analyze 
+the car’s handling balance. These values are measured in the same 
+zones as the temperatures.
+
+--- PAGE 13 ---
+
+13
+FERRARI 296 GT3 | USER MANUAL
+FERRARI 296 GT3 | ADVANCED SETUP OPTIONS | TIRES & AERO 
+The Aero Calculator is a tool provided to aid in understanding the 
+shift in aerodynamic balance associated with adjustment of the rear 
+wing setting and front and rear ride heights. It is important to note 
+that the values for front and rear ride height displayed here DO NOT 
+result in any mechanical changes to the car itself, however, changes 
+to the rear wing angle here WILL be applied to the car.
+This calculator is a reference tool ONLY.
+FRONT RH AT SPEED
+The Ride Height (RH) at Speed is used to give the Aero Calculator 
+heights to reference for aerodynamic calculations. When using the 
+aero calculator, determine the car’s Front Ride height via telemetry at 
+any point on track and input that value into the “Front RH at Speed” 
+setting. It is advisable to use an average value of the LF and RF ride 
+heights as this will provide a more accurate representation of the 
+current aero platform rather than using a single corner height.
+REAR RH AT SPEED
+The Ride Height (RH) at Speed is used to give the Aero Calculator 
+heights to reference for aerodynamic calculations. When using the 
+aero calculator, determine the car’s Rear Ride height via telemetry at 
+any point on track and input that value into the “Front RH at Speed” 
+setting. It is advisable to use an average value of the LR and RR ride 
+heights as this will provide a more accurate representation of the 
+current aero platform rather than using a single corner height.
+AERO BALANCE CALCULATOR
+REAR WING ANGLE
+The Rear Wing Angle refers to the relative angle of attack of the rear 
+wing, this is a powerful aerodynamic device which has a significant 
+impact upon the total downforce and drag produced by the car as 
+well as shifting the aerodynamic balance of the car rearwards with 
+increasing angle. Increasing the rear wing angle results in more 
+total cornering grip capability in medium to high speed corners but 
+will also result in a reduction of straight line speed. This setting in 
+the Aero Calculator is linked to the Rear Wing Angle setting on the 
+Chassis / Rear section, changing one setting will also change the 
+other.
+% FRONT DOWNFORCE
+This value displays the percentage of total downforce acting at 
+the front axle for the given wing and ride height combination set 
+within the calculator parameters. This value is an instantaneous 
+representation of your aero balance at this exact set of parameters 
+and it can be helpful to pick multiple points around a corner or 
+section of track to understand how the aerodynamic balance is 
+moving in differing situations such as braking, steady state cornering 
+and accelerating at corner exit. A higher forwards percentage will 
+result in more oversteer in mid to high speed corners.
+
+--- PAGE 14 ---
+
+14
+FERRARI 296 GT3 | USER MANUAL
+FERRARI 296 GT3 | ADVANCED SETUP OPTIONS | CHASSIS
+CHASSIS
+FRONT
+ARB BLADES
+The angle of the Anti-Roll Bar arms, or “blades”, can be changed 
+to alter the overall stiffness of the ARB assembly. Higher values 
+transfer more force through the arms to the ARB itself, increasing 
+roll stiffness in the front suspension, inducing understeer while 
+cornering. Conversely, lower values reduce the roll stiffness of
+the front suspension and reduce understeer.
+TOTAL TOE-IN
+Toe is the angle of the wheel, when viewed from above, relative to 
+the centerline of the chassis. Toe-in is when the front of the wheel 
+is closer to the centerline than the rear of the wheel, and Toe-out 
+is the opposite. On the front end, adding toe-out will increase slip 
+in the inside tire while adding toe-in will reduce slip. Front Toe-out 
+(negative garage value) will increase turn-in response but will reduce 
+straight-line stability. Toe-in will reduce turn-in responsiveness 
+but will reduce temperature buildup in the front tires and increase 
+straight-line stability.
+FRONT MASTER CYLINDER
+The Front Brake Master Cylinder size can be changed to alter the 
+line pressure to the front brake calipers. A larger master cylinder 
+will reduce the line pressure to the front brakes, this will shift the 
+brake bias rearwards and increase the pedal effort required to lock 
+the front wheels. A smaller master cylinder will do the opposite and 
+increase brake line pressure to the front brakes, shifting brake bias 
+forward and reducing required pedal effort.
+REAR MASTER CYLINDER
+The Rear Brake Master Cylinder size can be changed to alter the 
+line pressure to the rear brake calipers. A larger master cylinder will 
+reduce the line pressure to the rear brakes, this will shift the brake 
+bias forwards and increase the pedal effort required to lock the rear 
+wheels. A smaller master cylinder will do the opposite and increase 
+brake line pressure to the rear brakes, shifting brake bias rearward 
+and reducing required pedal effort.
+BRAKE PADS
+The vehicle’s braking performance can be altered via the Brake Pad 
+Compound. The “Low” setting provides the least friction, reducing 
+the effectiveness of the brakes, while “Medium” and “High” provide 
+more friction and increase the effectiveness of the brakes while 
+increasing the risk of a brake lockup.
+ENDURANCE LIGHTS
+An extra set of headlights can be installed for night racing
+to increase driver visibility. Installing these will not affect
+vehicle performance.
+NIGHT LED STRIP
+This changes the color of the LED strips on the right side of the 
+windshield to help identify cars with similar liveries in nighttime 
+conditions. This is strictly a visual change for identifying the car in 
+night time conditions and has no effect on the vehicle’s handling.
+
+--- PAGE 15 ---
+
+15
+FERRARI 296 GT3 | USER MANUAL
+FERRARI 296 GT3 | ADVANCED SETUP OPTIONS | CHASSIS
+IN-CAR DIALS
+BRAKE PRESSURE BIAS
+Brake Bias is the percentage of braking force that is being sent to 
+the front brakes. Values above 50% result in greater pressure in 
+the front brake line relative to the rear brake line which will shift the 
+brake balance forwards increasing the tendency to lock up the front 
+tyres but potentially increasing overall stability in braking zones.
+This should be tuned for both driver preference and track conditions 
+to get the optimum braking performance for a given situation.
+It is important to note that differing combinations of master cylinder 
+size will necessitate differing brake pressure bias values, this is 
+because increasing or reducing the split in master cylinder size 
+difference between front and rear axles will produce an inherent 
+forward or rearward bias in brake line pressure.
+ABS SETTING
+The current ABS map the car is running. The ABS system features
+12 positions divided into three groups to suit varying track 
+conditions, with lower values providing less assistance and higher 
+values providing more assistance to prevent brake lockup.
+Settings 2-7 are for slick tires in dry conditions, 8-12 are for wet 
+conditions. Generally, setting 8 will be good for light rain while 
+settings will need to be increased as conditions worsen, with setting 
+12 being for heavy rain. Setting 1 disables the system completely.
+TRACTION CONTROL SETTING
+The position of the traction control switch determines how 
+aggressively the ecu cuts engine torque in reaction to rear wheel 
+spin. Twelve settings are available with Position 2 providing the least 
+intervention and Position 12 providing the most. Like the ABS setting, 
+Position 1 will disable the Traction Control System. More intervention 
+will result in less wheelspin and less rear tire wear but can reduce 
+overall performance if the traction control is cutting engine torque 
+too aggressively and stunting corner exit acceleration.
+THROTTLE SHAPE SETTING
+Throttle shape setting refers to how changes in the drivers pedal 
+position result in changes in provided engine torque. Ten positions 
+are available with setting 1 providing a linear torque response 
+through pedal travel and the map moving towards a more S-shaped 
+curve as the value increases to setting 9. Setting 10 is linear, just 
+like setting 1, but has a higher slope and will be more aggressive as 
+throttle is applied.
+DISPLAY PAGE
+This sets which of the in-car display pages is shown when the 
+engine is started.
+CROSS WEIGHT
+The percentage of total vehicle weight in the garage acting across 
+the right front and left rear corners. 50.0% is generally optimal for 
+non-oval tracks as this will produce symmetrical handling in both 
+left and right hand corners providing all other chassis settings 
+are symmetrical. Higher than 50% cross weight will result in more 
+understeer in left hand corners and increased oversteer in right
+hand corners, cross weight can be adjusted by making changes to 
+the spring perch offsets at each corner of the car.
+
+--- PAGE 16 ---
+
+16
+FERRARI 296 GT3 | USER MANUAL
+FERRARI 296 GT3 | ADVANCED SETUP OPTIONS | CHASSIS
+FRONT CORNERS
+CORNER WEIGHT
+The weight underneath each tire under static conditions in the 
+garage. Correct weight arrangement around the car is crucial for 
+optimizing a car for a given track and conditions. Individual wheel 
+weight adjustments and crossweight adjustments are made via the 
+spring perch offset adjustments at each corner.
+RIDE HEIGHT
+Distance from ground to the floor of the car at the front axle 
+centerline. Adjusting Ride Heights is key for optimum performance, 
+as they can directly influence the vehicle’s aerodynamic performance 
+as well as mechanical grip. Increasing front ride height will decrease 
+front downforce as well as decrease overall downforce, but will 
+allow for more weight transfer across the front axle when cornering. 
+Conversely, reducing ride height will increase front and overall 
+downforce, but reduce the weight transfer across the front axle. 
+Minimum drag setups with very low rear wing angles may require 
+higher front ride heights in order to achieve the proper aerodynamic 
+balance.
+SPRING PERCH OFFSET
+Used to adjust the ride height at the corner of the car by changing 
+the installed position of the spring. Increasing the spring perch offset 
+will result in lowering the corner of the car while reducing the spring 
+perch offset will raise the corner of the car. These changes should 
+be kept symmetrical across the axle (left to right) to ensure the same 
+corner ride heights and no change in cross weight. The spring perch 
+offsets can also be used in diagonal pairs (LF to RR and RF to LR) to 
+change the static cross weight in the car.
+SPRING RATE
+This setting determines the installed corner spring stiffness. 
+Stiffer springs will result in a smaller variance in ride height 
+between high and low load cases and will produce better 
+aerodynamic performance through improved ride height
+control however, but they will also result in reduced mechanical 
+grip. Typically the drawbacks of stiffer springs will become 
+more pronounced on rougher tracks and softer springs in these 
+situations will result in increased overall performance.
+Spring perch offsets must be adjusted to return the car to the 
+prior static ride heights after any spring rate change.
+CAMBER
+Camber is the vertical angle of the wheel relative to the center of 
+the chassis. Negative camber is when the top of the wheel is closer 
+to the chassis centerline than the bottom of the wheel, positive 
+camber is when the top of the tire is farther out than the bottom. 
+Due to suspension geometry and corner loads, negative camber 
+is desired on all four wheels. Higher negative camber values will 
+increase the cornering force generated by the tire but will reduce 
+the amount of longitudinal grip the tire will have under braking. 
+Excessive camber values can produce very high cornering forces 
+but will also significantly reduce tire life, so it is important to find 
+a balance between life and performance. Increasing front camber 
+values will typically result in increased front axle grip during mid to 
+high speed cornering but will result in a loss of braking performance 
+and necessitate a rearward shift in brake bias to compensate.
+
+--- PAGE 17 ---
+
+17
+FERRARI 296 GT3 | USER MANUAL
+FERRARI 296 GT3 | ADVANCED SETUP OPTIONS | CHASSIS
+REAR CORNERS
+CORNER WEIGHT
+The weight underneath each tire under static conditions in the 
+garage. Correct weight arrangement around the car is crucial for 
+optimizing a car for a given track and conditions. Individual wheel 
+weight adjustments and crossweight adjustments are made via the 
+spring perch offset adjustments at each corner.
+RIDE HEIGHT
+Distance from ground to the floor of the car at the rear axle 
+centerline. Increasing rear ride height will decrease rear downforce 
+as well as increase overall downforce and will allow for more weight 
+transfer across the rear axle when cornering. Conversely, reducing 
+ride height will increase rear downforce percentage but reduce 
+overall downforce while reducing the weight transfer across the 
+rear axle. Rear ride height is a critical tuning component for both 
+mechanical and aerodynamic balance considerations and static rear 
+ride heights should be considered and matched to the chosen rear 
+corner springs for optimal performance. Minimum legal rear ride 
+height is 50.0 mm while maximum legal rear ride height is 92.5 mm.
+SPRING PERCH OFFSET
+Used to adjust the ride height at the corner of the car by changing 
+the installed position of the spring. Increasing the spring 
+perch offset will result in lowering the corner of the car while 
+reducing the spring perch offset will raise the corner of the car. 
+These changes should be kept symmetrical across the axle (left to 
+right) to ensure the same corner ride heights and no change in cross 
+weight. The spring perch offsets can also be used in diagonal pairs 
+(LF to RR and RF to LR) to change the static cross weight in the car.
+SPRING RATE
+This setting determines the installed corner spring stiffness.
+Stiffer springs will result in a smaller variance in ride height between 
+high and low load cases and will produce better aerodynamic 
+performance through improved ride height control however, but they 
+will also result in reduced mechanical grip. Typically the drawbacks 
+of stiffer springs will become more pronounced on rougher tracks 
+and softer springs in these situations will result in increased overall 
+performance. Spring perch offsets must be adjusted to return the
+car to the prior static ride heights after any spring rate change.
+CAMBER
+At the rear of the car, camber performs a similar job to the front by 
+increasing lateral grip with negative values. However, with the rear 
+tires being driven camber can directly affect the amount of traction 
+available on throttle and under braking. While larger negative camber 
+values can increase lateral grip and cornering stability, it can hurt 
+forward traction when throttle is applied as well as increase the risk 
+of a rear lockup under heavy braking when the load is reduced on 
+the rear tires.
+
+--- PAGE 18 ---
+
+18
+FERRARI 296 GT3 | USER MANUAL
+FERRARI 296 GT3 | ADVANCED SETUP OPTIONS | CHASSIS
+REAR
+FUEL LEVEL
+The amount of fuel in the fuel tank when the car is loaded
+into the world.
+ARB BLADES
+The angle of the Anti-Roll Bar arms, or “blades”, can be changed 
+to alter the overall stiffness of the ARB assembly. Higher values 
+transfer more force through the arms to the ARB itself, increasing 
+roll stiffness in the rear suspension and inducing oversteer while 
+cornering. Conversely, lower values reduce the roll stiffness of the 
+rear suspension and will reduce oversteer. 
+REAR WING ANGLE
+The Rear Wing Angle refers to the relative angle of attack of the rear 
+wing, this is a powerful aerodynamic device which has a significant 
+impact upon the total downforce (and drag!) produced by the car 
+as well as shifting the aerodynamic balance of the car rearwards 
+with increasing angle. Increasing the rear wing angle results in more 
+total cornering grip capability in medium to high speed corners but 
+will also result in a reduction of straight line speed. Rear wing angle 
+should be adjusted in conjunction with front and rear ride heights, 
+specifically the difference between front and rear ride heights 
+known as ‘rake’. To retain the same overall aerodynamic balance it is 
+necessary to increase the rake of the car when increasing the rear 
+wing angle. This setting on the Chassis page is linked to the Rear 
+Wing Angle setting in the Aero Calculator section, changing one 
+setting will also change the other.
+GEARS / DIFFERENTIAL
+GEAR STACK
+Three options for the transmission gear stack are available for 
+selection depending upon track type. The FIA stack is suitable for 
+almost all track types and should be treated as the baseline.
+IMSA Daytona and IMSA Short provide two alternative options
+which are targeted for tracks with longer and shorter
+straightaways respectively.
+FRICTION FACES
+The number of friction faces in the differential affect how much 
+overall force is applied to keep the rear axle locked. Treated as a 
+multiplier, adding more faces produces increasingly more locking 
+force. For example, 8 friction faces will have twice the locking force 
+of 4 faces, which will have twice the force of 2 faces. 
+DIFF PRELOAD
+Diff preload is a static amount of locking force present within the 
+differential and remains constant during both acceleration and 
+deceleration. Increasing diff preload will increase locking on both 
+sides of the differential which will result in more understeer when 
+off throttle and more snap oversteer with aggressive throttle 
+application. Increasing the diff preload will also smooth the transition 
+between on and off throttle behavior as the differential locking 
+force will never reach zero which can be helpful in reducing lift-off 
+oversteer and increasing driver confidence. Typically diff preload 
+should be increased when there is noticeable loss in slow corner 
+exit drive and/or over-rotation during transition between the throttle 
+and brake in low to mid speed corners.wing angle. This setting on 
+the Chassis page is linked to the Rear Wing Angle setting in the Aero 
+Calculator section, changing one setting will also change the other.
+
+--- PAGE 19 ---
+
+19
+FERRARI 296 GT3 | USER MANUAL
+FERRARI 296 GT3 | ADVANCED SETUP OPTIONS | DAMPERS
+DAMPERS
+LOW SPEED COMPRESSION
+Low speed compression affects how resistant the shock is to 
+compression (reduction in length) when the shock is moving at 
+relatively low speeds, usually in chassis movements as a result
+of driver input (steering, braking, & throttle) and cornering forces. 
+Setting 0 is minimum damping (least resistance to compression) 
+while 11 is maximum damping (most resistance to compression). 
+Increasing the low speed compression damping will result in a
+faster transfer of weight to the front or rear of the car during 
+transient movements such as braking and direction change 
+with increased damping usually increasing the cars tendency to 
+understeer on throttle application.
+On the front end of the car, increasing Low Speed Compression will 
+induce understeer under braking and whenever the front suspension 
+is compressing. On the rear, more compression will increase traction 
+on throttle and when the rear suspension is 
+in compression, which can be perceived as understeer in extreme 
+cases.
+HIGH SPEED COMPRESSION DAMPING
+High speed compression affects the shock’s behavior in high speed 
+travel, usually attributed to curb strikes and bumps in the track’s 
+surface. Higher compression values will cause the suspension 
+to be stiffer in these situations, while lower values will allow 
+the suspension to absorb these bumps better but may hurt the 
+aerodynamic platform around the track. At smoother tracks more 
+high speed compression damping will typically increase performance 
+while at rougher tracks or ones with aggressive kerbs less high 
+speed compression damping can result in an increase in mechanical 
+grip at the expense of platform control. 
+LOW SPEED REBOUND
+Low speed rebound damping controls the stiffness of the shock 
+while extending at lower speeds, typically during body movement as 
+a result of driver inputs. Higher rebound values will resist expansion 
+of the shock, lower values will allow the shock to extend faster. 
+Higher rebound stiffness will result in improved platform control for 
+aerodynamic performance and overall chassis response but can 
+result in the tire losing complete contact with the track surface if
+the suspension can’t extend fast enough with reduced loads. 
+On the front end, higher rebound settings will hold the front of the 
+car down longer during acceleration but can induce understeer 
+on throttle application or over crests. On the rear of the car, 
+more rebound will stabilize the car under braking but can induce 
+understeer if set too aggressively.
+HIGH SPEED REBOUND
+High-speed rebound adjusts the shock in extension after bumps
+and curb strikes. Higher values will reduce how quickly the shock 
+will expand, while lower values will allow the shock to extend
+more easily. Despite not having as much of an effect on handling 
+in result to driver inputs, High-speed rebound can produce similar 
+results in terms of aerodynamic control and uncontrolled
+oscillations if set improperly.
+
+--- PAGE 20 ---
+
+20
+FERRARI 296 GT3 | USER MANUAL
+FERRARI 296 GT3 | SETUP TIPS
+SETUP TIPS
+This section is aimed toward helping users who want to dive deeper 
+into the different aspects of the vehicle’s setup.
+
+--- PAGE 21 ---
+
+21
+FERRARI 296 GT3 | USER MANUAL
+FERRARI 296 GT3 | SETUP TIPS
+SETUP TIPS
+If the setup fails tech inspection, it is likely the ride heights require 
+adjustment. This is performed by using the spring perch offsets 
+at either end of the car. Right clicks (positive) will reduce the ride 
+height while left clicks (negative) will increase the ride height. 
+In the iRacing Setups folder you will find a variety of setups.
+Baseline is a 100% fuel load setup which is intended solely for 
+loading the car at every possible track. As such, this setup should 
+always pass tech inspection at every fuel load and track but will not 
+provide ultimate performance.
+Setups labeled ‘_wet’ have wet tyres pre-fitted and setup 
+adjustments to suit wet conditions.
+Setups labeled ‘_sprint’ have a 50% fuel load, a more aggressive 
+balance and are intended for use where there is either a fuel 
+limitation OR race lengths are approximately 25 to 30 minutes in 
+length. These setups are intended to be used in competition. 
+Should you wish to drive at a track not listed it is recommended to 
+start out with the High Downforce setup first before evaluating the 
+other downforce level options. A good indicator of if a track may 
+benefit from a reduction in downforce trim is the maximum speed 
+reached. 
+Tracks Downforce Level Tracks Downforce Level
+Autodromo Jose Carlos Pace High/Medium Long Beach Street Circuit High
+Autodromo Nazionale Monza Medium Motorsports Arena Oschersleben High
+Brands Hatch Circuit High Mount Panorama Circuit High/Medium
+Circuit de Barcelona Catalunya High Nürburgring Grand-Prix-Strecke High
+Circuit de Nevers Magny-Cours High/Medium Okayama International Circuit High
+Circuit de Spa-Francorchamps Medium Road America High/Medium
+Circuit des 24 Heures Du Mans Medium Sebring International Raceway High
+Daytona International Speedway Low/Medium Silverstone Circuit High/Medium
+Detroit Grand Prix at Belle Isle High Sonoma Raceway High
+Fuji International Speedway High/Medium Virginia International Raceway High/Medium
+Hungaroring High Watkins Glen International High/Medium
+Indianapolis Motor Speedway Medium WeatherTech Raceway at Laguna Seca High
+Lime Rock Park High
+Speed Downforce Level
+Max Speed under 250 km/h (155 mph) High Downforce
+Max Speed 250 to 270 km/h Medium
+Max Speed over 270 km/h (167 mph) Low to Minimum Downforce
+Setups labeled ‘_endurance’ have a 100% fuel load and are for 
+use where no fuel restriction is present and/or race lengths are 
+approximately 1 hour or more in length.
+The setup titled ‘fixed’ is the setup used in the fixed setup series and 
+is similar to the high_downforce_sprint setup.
+Setups labeled ‘nurburgring_’ are built with 70 mm minimum 
+ride heights and are for use solely on Nürburgring Nordschleife 
+configurations.
+The setup titled ‘challenge’ is the setup used in the Ferrari Challenge 
+fixed setup series.
+While most tracks will trend towards favoring more downforce there 
+can be some instances where reducing rear wing angle for less drag 
+may be beneficial. As a rough guide, you can expect the following 
+downforce trims at the following tracks:
+The following boundaries are suggestions for what trim level may 
+be optimal but please note that other factors such as track design 
+(number of high speed corners, etc), altitude and ambient conditions 
+will also impact your decision here with higher altitude tracks and 
+hotter ambient conditions favoring more downforce.
+
+--- PAGE 22 ---
+
+22
+FERRARI 296 GT3 | USER MANUAL
+FERRARI 296 GT3 | SETUP TIPS
+AERODYNAMIC TARGETS AND ADJUSTMENTS
+GT3 cars are very sensitive to small variations in ride heights at both 
+the front and rear axle and this must be kept in mind when making 
+setup adjustments such as static ride heights, corner spring rates 
+and rear wing angle. 
+The optimal configuration for most total downforce is as follows:
+Rear Wing Angle: +10
+Dynamic Front Ride Height: 37.5 mm (+/-2.5 mm)
+Dynamic Rear Ride Height: 58.5 mm (+/-2.5 mm)
+Should you go over or under the ride height targets stated above you 
+will begin to lose overall downforce. It is very important to consider 
+all aspects of the track when aiming for this maximum downforce 
+target. Consider that if the rear ride height increases beyond the 
+target during braking, you will experience both a balance shift 
+forwards and a loss in overall downforce resulting in a destabilizing 
+situation. It is these braking considerations that will govern how 
+closely you can approach this maximum in a real world situation. 
+The optimal configuration for the least total drag is as follows:
+Rear Wing Angle: -2
+Dynamic Front Ride Height: 17.5 mm (+/- 2.5 mm)
+Dynamic Rear Ride Height: 17.5 mm (+/- 2.5 mm)
+For the majority of tracks, it will be difficult to achieve ride heights 
+low enough to hit these drag targets; however, it is possible at a 
+track such as Daytona. Please keep in mind that your absolute 
+minimums are governed by the road surface and that while 
+aerodynamic drag will decrease as you approach these targets, 
+overall drag may increase if the car starts to make ground contact. 
+It should also be stated that this low drag trim is neither optimal for 
+total downforce nor handling balance. 
+When adjusting the rear wing angle, the following adjustments 
+should be made to retain aerodynamic balance: 
+Rear Wing Angle: +1
+Front Ride Height: -1.0 mm
+OR
+Rear Ride Height: +3.0 mm
+Rear Wing Angle: -1 
+Front Ride Height: +1.0 mm
+OR 
+Rear Ride Height: -3.0 mm
+It is also possible to combine adjustments of front and rear ride 
+height together if necessary (such as when lower rear heights 
+cannot be easily achieved), this can result in more overall downforce 
+being retained when reducing wing angle without detrimentally 
+impacting the balance but at the cost of slightly increased 
+aerodynamic drag. 
+These reference values are provided as targets to aim for, however, 
+overall car balance should remain the priority. It may not be possible 
+to achieve a good balance at these targets in certain situations and 
+as such, you should elect to sacrifice some raw performance for a 
+better balance. 
+Lower Rear Wing Angle = More oversteer, less downforce, less drag, 
+lower cornering speed, higher straight line speed. 
+Higher Rear Wing Angle = More understeer, more downforce, more 
+drag, higher cornering speed, lower straight line speed
+CHASSIS ADJUSTMENTS
+Should you wish to adjust the underpinning balance of the car 
+without impacting the aero platform significantly in pitch and heave, 
+or adjusting the differential then front and rear adjustable anti-roll 
+bars are available.
+Stiffer front ARB -> More Understeer
+Softer front ARB -> More Oversteer
+Stiffer rear ARB -> More Oversteer
+Softer rear ARB -> More Understeer
+Softer front AND rear ARB -> Reduced aerodynamic performance, 
+more mechanical grip (good for rough surfaces) and slower response 
+to inputs.
+Stiffer front AND rear ARB -> Increased aerodynamic performance 
+(good for fast sweeping corners), less mechanical grip and increased 
+response to inputs.
+
+--- PAGE 23 ---
+
+23
+FERRARI 296 GT3 | USER MANUAL
+FERRARI 296 GT3 | SETUP TIPS
+DIFFERENTIAL ADJUSTMENTS
+Two adjustment options are available for the differential. 
+More friction faces -> More off throttle understeer, more on throttle 
+oversteer, less inside wheelspin-up on rough surfaces and kerb 
+strikes.
+Less friction faces -> Less off throttle understeer, less on throttle 
+oversteer, more inside wheelspin-up on rough surfaces and kerb 
+strikes. Typically better at tracks like Spa or those with smooth 
+surfaces and flat kerbing. 
+Friction faces are dominant at high input torques such as full throttle, 
+sustained braking or pure coastdown.
+Preload is additive to the total locking torque of the differential 
+and acts as an offset torque which is always present, even at zero 
+input torque. This means that it is more dominant during transition 
+behavior where the differential input torque is near zero, such as at 
+throttle lift and/or during initial trail braking. 
+More preload -> Less liftoff oversteer, more corner entry stability, 
+more off throttle understeer, more on throttle oversteer. 
+Less preload -> More liftoff oversteer, less corner entry stability, less 
+off throttle understeer, less on throttle oversteer.

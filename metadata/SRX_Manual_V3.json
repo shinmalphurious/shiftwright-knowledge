@@ -1,0 +1,25 @@
+{
+  "vehicle": "SRX",
+  "manufacturer": "SRX",
+  "manufacturer_source": "known_vehicle",
+  "class": "NASCAR",
+  "manual_type": "vehicle",
+  "topics": [
+    "aerodynamics",
+    "brakes",
+    "dampers",
+    "differential",
+    "hybrid",
+    "suspension",
+    "tires"
+  ],
+  "sections": [
+    "Setup Tips",
+    "Chassis",
+    "Differential",
+    "Brakes",
+    "Fuel"
+  ],
+  "word_count": 6660,
+  "source_text": "SRX_Manual_V3.txt"
+}

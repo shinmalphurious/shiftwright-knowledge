@@ -1,0 +1,24 @@
+{
+  "vehicle": "Global Mazda MX5",
+  "manufacturer": "Mazda",
+  "manufacturer_source": "filename",
+  "class": "Unknown",
+  "manual_type": "vehicle",
+  "topics": [
+    "aerodynamics",
+    "brakes",
+    "dampers",
+    "differential",
+    "suspension",
+    "tires"
+  ],
+  "sections": [
+    "Tires & Aero",
+    "Chassis",
+    "Dampers",
+    "Brakes",
+    "Fuel"
+  ],
+  "word_count": 3580,
+  "source_text": "Global-Mazda-MX5_Manual_V2.txt"
+}

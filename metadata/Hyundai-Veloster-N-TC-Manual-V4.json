@@ -1,0 +1,23 @@
+{
+  "vehicle": "Hyundai Veloster N TC",
+  "manufacturer": "Hyundai",
+  "manufacturer_source": "filename",
+  "class": "NASCAR",
+  "manual_type": "vehicle",
+  "topics": [
+    "aerodynamics",
+    "brakes",
+    "dampers",
+    "differential",
+    "suspension",
+    "tires"
+  ],
+  "sections": [
+    "Setup Tips",
+    "Chassis",
+    "Brakes",
+    "Fuel"
+  ],
+  "word_count": 5202,
+  "source_text": "Hyundai-Veloster-N-TC-Manual-V4.txt"
+}

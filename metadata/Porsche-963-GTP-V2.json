@@ -1,0 +1,30 @@
+{
+  "vehicle": "Porsche 963 GTP",
+  "manufacturer": "Porsche",
+  "manufacturer_source": "filename",
+  "class": "GTP",
+  "manual_type": "vehicle",
+  "topics": [
+    "aerodynamics",
+    "brakes",
+    "dampers",
+    "differential",
+    "hybrid",
+    "suspension",
+    "tires",
+    "traction_control"
+  ],
+  "sections": [
+    "Tires & Aero",
+    "Setup Tips",
+    "Chassis",
+    "Dampers",
+    "Differential",
+    "Brakes",
+    "Hybrid",
+    "Fuel",
+    "Traction Control"
+  ],
+  "word_count": 7731,
+  "source_text": "Porsche-963-GTP-V2.txt"
+}

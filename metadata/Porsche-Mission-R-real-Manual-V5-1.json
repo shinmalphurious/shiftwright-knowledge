@@ -1,0 +1,22 @@
+{
+  "vehicle": "Porsche Mission R real 1",
+  "manufacturer": "Porsche",
+  "manufacturer_source": "filename",
+  "class": "GT3",
+  "manual_type": "vehicle",
+  "topics": [
+    "brakes",
+    "hybrid",
+    "suspension",
+    "tires",
+    "traction_control"
+  ],
+  "sections": [
+    "Chassis",
+    "Brakes",
+    "Fuel",
+    "Traction Control"
+  ],
+  "word_count": 2188,
+  "source_text": "Porsche-Mission-R-real-Manual-V5-1.txt"
+}

@@ -1,0 +1,20 @@
+{
+  "vehicle": "Mini Stock",
+  "manufacturer": "NASCAR",
+  "manufacturer_source": "known_vehicle",
+  "class": "Dirt Oval",
+  "manual_type": "vehicle",
+  "topics": [
+    "brakes",
+    "differential",
+    "suspension",
+    "tires"
+  ],
+  "sections": [
+    "Chassis",
+    "Differential",
+    "Fuel"
+  ],
+  "word_count": 2572,
+  "source_text": "Mini_Stock_Manual-V1.txt"
+}

@@ -1,0 +1,1081 @@
+--- PAGE 1 ---
+
+1
+DALLARA IR18 
+USER MANUAL
+
+--- PAGE 2 ---
+
+2
+DALLARA IR18 | USER MANUAL
+TABLE OF CONTENTS
+CLICK TO VIEW A SECTION
+ Tire Data » 11
+ Aero » 12
+Tires & Aero » 11
+ ADVANCED SETUP OPTIONS
+ Aero Calculator » 15
+Chassis » 16
+ General » 16
+ Engine & Hybrid » 24
+ Front Corners » 18
+ Front » 17
+ Gears & Differential » 25
+ Rear Corners » 20
+ Rear » 21
+Dampers » 23
+Drivetrain » 24
+Setup Tips » 26
+SETUP TIPS
+Introduction » 5
+Tech Specs » 4
+A Message From iRacing » 3
+ Getting Started » 5
+Dashboard » 7
+ Loading An iRacing Setup » 6
+ GENERAL INFORMATION
+
+--- PAGE 3 ---
+
+3
+DEAR iRACING USER,
+Congratulations on your purchase of the Dallara IR18! From all of us at iRacing, we appreciate your 
+support and your commitment to our product. We aim to deliver the ultimate sim racing experience, and 
+we hope that you’ll find plenty of excitement with us behind the wheel of your new car! 
+The following guide explains how to get the most out of your new car, from how to adjust its settings 
+off of the track to what you’ll see inside of the cockpit while driving. We hope that you’ll find it useful 
+in getting up to speed. 
+Thanks again for your purchase, and we’ll see you on the track!
+
+--- PAGE 4 ---
+
+4
+DALLARA IR18 | USER MANUAL
+CHASSIS
+POWER 
+UNIT
+DALLARA IR18 | TECH SPECS
+DOUBLE A-ARM PUSHROD WITH THIRD 
+SPRING (FRONT AND REAR)
+TURBOCHARGED V6 
+WITH PUSH-TO-PASS
+LENGTH
+5000 mm
+196.9 in
+WIDTH
+2011 mm
+79 in
+DISPLACEMENT
+2.2 Liters
+134.3 CID
+TORQUE
+300 lb-ft
+410 Nm
+POWER
+700 bhp
+522 kW
+WHEELBASE
+3023-3073 mm
+119-121 in
+DRY WEIGHT
+845 kg
+1862 lbs
+WET WEIGHT 
+WITH DRIVER
+900 kg
+1984 lbs
+RPM LIMIT
+12000
+
+--- PAGE 5 ---
+
+5
+DALLARA IR18 | USER MANUAL
+INTRODUCTION
+The information found in this guide is intended to provide a deeper understanding of the chassis setup adjustments 
+available in the garage, so that you may use the garage to tune the chassis setup to your preference.
+Once you load into the car, getting started is as easy as selecting 
+the “upshift” button to put it into gear, and hitting the accelerator 
+pedal. This car uses a sequential transmission and does not require 
+a clutch input to shift in either direction. However the car’s downshift 
+DALLARA IR18 | INTRODUCTION
+GETTING STARTED
+protection will not allow you to downshift if it feels you are traveling 
+too fast for the gear selected and would incur engine damage. If that 
+is the case, the gear change command will simply be ignored.
+Before diving into chassis adjustments, though, it is best to
+become familiar with the car and track. To that end, we have 
+provided baseline setups for each track commonly raced by 
+these cars. 
+To access the baseline setups, simply open the Garage, click
+iRacing Setups, and select the appropriate setup for your track of 
+choice. If you are driving a track for which a dedicated baseline 
+setup is not included, you may select a setup for a similar track to 
+use as your baseline.
+After you have selected an appropriate setup, get on track and
+focus on making smooth and consistent laps, identifying the proper 
+racing line and experiencing tire wear and handling trends over a 
+number of laps.
+Once you are confident that you are nearing your driving potential 
+with the included baseline setups, read on to begin tuning the car
+to your handling preferences.
+
+--- PAGE 6 ---
+
+6
+DALLARA IR18 | USER MANUAL
+LOADING AN iRACING SETUP
+Upon loading into a session, the car will automatically load the 
+iRacing Baseline setup [baseline.sto]. If you would prefer one of 
+iRacing’s pre-built setups that suit various conditions, you may load 
+it by clicking Garage > iRacing Setups > and then selecting the setup 
+to suit your needs.
+If you would like to customize the setup, simply make the changes in 
+the garage that you would like to update and click apply. 
+DALLARA IR18 | INTRODUCTION
+ 
+If you would like to save your setup for future use click “Save As” 
+on the right to name and save the changes. To access all of your 
+personally saved setups, click “My Setups” on the right side of
+the garage. 
+If you would like to share a setup with another driver or everyone 
+in a session, you can select “Share” on the right side of the garage 
+to do so. 
+If a driver is trying to share a setup with you, you will find it under 
+“Shared Setups” on the right side of the garage as well. 
+
+--- PAGE 7 ---
+
+7
+DALLARA IR18 | USER MANUAL
+DALLARA IR18 | DASH PAGES
+DASH CONFIGURATION
+Left Cluster
+MAP Current engine map setting
+REGEN Current Regen level
+RARB Rear ARB setting
+FARB Front ARB setting
+WJ POS Weight Jacker setting
+BIAS Current Brake Bias setting
+Right Cluster
+OT Push To Pass time remaining in seconds
+Fuel Fuel remaining in Gallons
+MPG/LPL Current fuel economy calculation in Miles Per Gallon or Liters Per Lap
+DEPLOY Current Deploy level
+Tire Temp Live tire temperatures in °F or °C
+Middle
+Gear Indicator The large number in the center of the display is the currently selected gear
+Laptime Previously completed lap time
+Delta Difference between the current lap and the session best lap
+Lap Counter Number of laps completed in the session
+
+--- PAGE 8 ---
+
+8
+DALLARA IR18 | USER MANUAL
+DALLARA IR18 | DASH PAGES
+PIT LIMITER
+PUSH-TO-PASS
+SHIFT LIGHTS
+When the Pit Limiter is active all of the shift lights will flash in blue and the display will have a yellow border. A color-coded box in the
+lower right will appear under a brake bias display, with Green indicating a speed below pit limit, yellow being at the pit limit, and red
+indicates speeding.
+When Push-to-Pass is active, the inner pairs of status LEDs will illuminate in green and the display will have a green border.
+SHIFT LIGHTS
+The uppermost row of LED lights above the display are shift
+lights linked to engine RPM. As RPM approaches the maximum,
+the lights will begin to illuminate left-to-right starting with green, 
+then yellow, then red. Once all ten lights have illuminated and RPM 
+climbs further, the lights will turn blue and begin flashing to signal an 
+upshift is necessary.
+CAUTION LIGHTS
+If a Caution period begins, the right-side cluster of three LEDs on 
+either side of the main display will illuminate in yellow.
+
+--- PAGE 9 ---
+
+9
+DALLARA IR18 | USER MANUAL
+DALLARA IR18 | DASH PAGES
+HYBRID STATUS LIGHT
+HYBRID STATE OF CHARGE 
+A three-LED cluster on the left side of the display indicates whether the hybrid system is in Deploy or Regeneration mode. During Regeneration 
+(either deceleration or manually-activated regen) the lights will illuminate in Red. During Deploy, the lights will illuminate in Green.
+Two LED clusters on either side of the cockpit display the current State of Charge in the hybrid Supercapacitor. When the system is not 
+deploying, the LEDs will be colored red, yellow, and green to indicate the state of charge. A full charge is all eight LEDs illuminated with lights 
+extinguishing as charge is depleted. The lights will keep this color scheme during energy regeneration.
+When the system is deploying energy, the lights will change to 7 blue and 1 red LED but still display the system’s State of Charge
+
+--- PAGE 10 ---
+
+10
+DALLARA IR18 | USER MANUAL
+ADVANCED SETUP OPTIONS
+This section is aimed toward more advanced users who want to dive deeper into the different aspects of the 
+vehicle’s setup. Making adjustments to the following parameters is not required and can lead to significant 
+changes in the way a vehicle handles. It is recommended that any adjustments are made in an incremental fashion 
+and only singular variables are adjusted before testing changes.
+DALLARA IR18 | ADVANCED SETUP OPTIONS 
+
+--- PAGE 11 ---
+
+11
+DALLARA IR18 | USER MANUAL
+DALLARA IR18 | ADVANCED SETUP OPTIONS | TIRES & AERO 
+TIRE COMPOUND
+For road courses the IR18 allows one of two tire compounds to
+be used. The Primary compound is harder, providing less grip
+but longer tire life, while the Alternate compound is softer,
+providing more grip but shorter tire life. This option is not
+allowed on ovals.
+COLD PRESSURE
+Air pressure in the tire when the car is loaded into the world.
+Higher pressures will reduce rolling drag and heat buildup, but will 
+decrease grip. Lower pressures will increase rolling drag and heat 
+buildup, but will increase grip. Higher speeds and loads will require 
+higher pressures, while lower speeds and loads will see better 
+performance from lower pressures. Minimum pressures will change 
+based on track type, with ovals typically having a higher right-side 
+minimum tire pressure than the left-side tires.
+LAST HOT PRESSURE
+Air pressure in the tire after the car has returned to the pits.
+The difference between Cold and Hot pressures can be used to 
+identify how the car is progressing through a run in terms of balance, 
+with heavier-loaded tires seeing a larger difference between Cold 
+and Hot pressures. Ideally, tires that are worked in a similar way 
+should build pressure at the same rate to prevent a change in 
+handling balance over the life of the tire, so Cold pressures should 
+be adjusted to ensure that similar tires are at similar pressures once 
+up to operating temperature. Careful attention should be paid to 
+the Hot Pressures to extract the most performance out of the tires 
+during a race.
+TIRES & AERO
+TIRE DATA
+LAST TEMPS O M I
+The temperatures measured in the garage are tire carcass 
+temperatures, measured within the tread rubber itself. Wheel Loads 
+and the amount of work a tire is doing on the track is reflected in 
+the tire’s temperature, and these values can be used to analyze the 
+car’s handling balance. Center temperatures are useful for directly 
+comparing the work done by each tire, while the Inner and Outer 
+temperatures are useful for analyzing the wheel alignment and tire 
+air pressure while on track.
+TREAD REMAINING
+The amount of tread remaining on the tire once the car has 
+returned from the pits. Tire wear is very helpful in identifying any 
+possible issues with alignment, such as one side of the tire wearing 
+excessively, but should never be prioritized over tire temperatures 
+when analyzing handling balance.
+
+--- PAGE 12 ---
+
+12
+DALLARA IR18 | USER MANUAL
+DALLARA IR18 | ADVANCED SETUP OPTIONS | TIRES & AERO 
+WING FLAP CONFIG
+The number of front wing upper flaps is mandated per Indycar rules 
+based on the track type. For Road Courses the wing will have two 
+upper flaps and for Ovals the front wing will have one upper flap.
+WING MAINPLANE EXT
+The Wing Mainplane Extension adds small elements to the front 
+wing’s mainplane to increase downforce generated by the wing 
+assembly. Changing this setting to “ON” will increase Front 
+downforce and slightly increase drag, while setting this to “OFF” 
+will shift aero balance rearward and decrease drag slightly. See the 
+“Wing Wicker” section for more information on this feature.
+WING WICKER
+A small wicker (or “Gurney Flap”) can be added to the trailing edge 
+of the front wing upper-most flap. The options available for this 
+setting are track dependent: 
+-Road Course - A single wicker on the uppermost front wing 
+flap is allowed
+-Large Oval, no Wing Mainplane Extension - A wicker may be added 
+to the front wing trailing edge. The wicker can be added in “Steps”, 
+with each step indicating how many thirds of the front wing span has 
+a wicker on it. For example, the Step 2 wicker will cover 2/3 of the 
+front wing span, Step 3 will be a full-span wicker.
+-Large Oval, Wing Mainplane Extension - If the Wing Mainplane 
+Extension is installed, Steps 2 and 3 are not an option. If no wicker 
+is chosen, the Wing Mainplane Extension will span the inner half of 
+the front wing. If the Step 1 wicker is chosen, an outer extension and 
+wicker will be installed, creating a full-span Mainplane Extension with 
+a small wicker on the outer half.
+-Short Oval - Wicker not allowed.
+FRONT AERO
+WING ENDPLATE ANGLE
+The wing endplate assembly can be rotated relative to the wing 
+mainplane up to 3° positive or negative. Higher Wing Endplate 
+Angles will increase downforce and shift aero forward, but also 
+change what Wing Mainplane angles are available. Higher Endplate 
+Angles will allow for higher Wing Mainplane angles (but also a higher 
+minimum angle) while lower Endplate Angles will allow for much 
+lower Mainplane angles. This option is not available for Road Courses 
+and Short Ovals.
+WING ANGLE
+The Wing Angle setting changes the angle of the front wing’s 
+mainplane relative to horizontal. Higher angles will increase the 
+downforce generated at the front wing, shift aero forward, and 
+increase drag, while lower angles will decrease downforce, shift aero 
+rearward, and reduce drag. Depending on the chosen Wing Endplate 
+Angle, it is possible to run negative front wing angles. These settings 
+still produce some downforce, but greatly reduce drag for high-
+speed ovals such as Indianapolis.
+
+--- PAGE 13 ---
+
+13
+DALLARA IR18 | USER MANUAL
+DALLARA IR18 | ADVANCED SETUP OPTIONS | TIRES & AERO 
+RADIATOR INLET
+Both sidepod inlets can be blocked off partially to decrease 
+drag when desired. Decreasing the opening size (More “closed” 
+percentage in the garage setting) will reduce drag with a slight 
+reduction in downforce, but will increase engine temperatures due 
+to reduced cooling. The 77% Closed option is only available for 
+Qualifying sessions and is not allowed for Race sessions.
+TRAILING EDGE WICKER
+A 1” tall wicker can be installed on the upper edge of the rear 
+diffuser at Road Courses and Short Ovals to increase downforce 
+and shift aero rearward, but will increase drag. This option is not 
+available for Large Ovals.
+BODY AERO
+DIFFUSER
+The rear diffuser assembly can be customized via three options:
+Sidewalls - The outermost walls of the diffuser can be installed, 
+removed, or trimmed to change the overall downforce and drag 
+produced by the diffuser. Removing the sidewalls will reduce 
+drag with a large reduction in downforce. “Trimmed” sidewalls are 
+partially-removed sidewalls and provide more downforce than “OFF”, 
+but less than “ON”.
+Strakes - The diffuser can be fitted with internal vertical Strakes to 
+increase the diffuser’s efficiency and downforce produced. Installing 
+the diffuser strakes will increase downforce and drag. A third option, 
+“Z+15” installs a 15mm extension to the bottom of the diffuser 
+strakes to further increase downforce.
+For Large Ovals the options for the diffuser are mandated so that 
+both the Sidewalls and Strakes are off.
+
+--- PAGE 14 ---
+
+14
+DALLARA IR18 | USER MANUAL
+DALLARA IR18 | ADVANCED SETUP OPTIONS | TIRES & AERO 
+WING FLAP CONFIG
+For Road Courses, the rear wing can be configured with one or 
+two upper flaps. The Double Plane configuration will generate a 
+significant amount of downforce and shift aero rearward at the cost 
+of high drag, while the Single Plane option will greatly reduce both 
+downforce and drag but shift aero forward. For ovals, only the Single 
+Plane option is available.
+WING ANGLE
+The Rear Wing Angle setting controls the angle of the rear wing’s 
+uppermost flap. Higher angles will produce more downforce, more 
+drag, and shift aero rearward, while lower angles will reduce both 
+downforce and drag but shift aero forward. Available wing angle 
+ranges will change based on the wing assembly (Road Course/Short 
+Oval or Large Oval) as well as the number of flaps chosen in the Flap 
+Config setting.
+REAR AERO
+WING WICKER
+A trailing edge wicker may be installed on the rear wing for most 
+tracks. This adds downforce and shifts aero rearward, but adds 
+drag. The rules on what can be used are track-dependent:
+Road Course / Short Oval - Can be run without a wicker or with a 
+full-span ⅜” wicker
+Large Ovals (except Indianapolis) - Rear wing wicker is not allowed
+Indianapolis Motor Speedway Oval - A wicker can be installed on the 
+rear wing at Indianapolis that is ⅜” tall but has various widths of 13.2 
+inches, 24.5 inches, or a full-span wicker. This wicker is situated on 
+the centerline of the wing and extends equally on either side of the 
+centerline. This wicker can be removed as well, such as in Qualifying 
+when opting for a very low-drag configuration.
+
+--- PAGE 15 ---
+
+15
+DALLARA IR18 | USER MANUAL
+DALLARA IR18 | ADVANCED SETUP OPTIONS | TIRES & AERO 
+The Aero Calculator is a tool provided to aid in understanding the 
+shift in aerodynamic balance associated with adjustment of the rear 
+wing setting and front and rear ride heights. It is important to note 
+that the values for front and rear ride height displayed here DO NOT 
+result in any mechanical changes to the car itself, however, changes 
+to the rear wing angle here WILL be applied to the car.
+This calculator is a reference tool ONLY.
+AVG FRONT / REAR RH AT SPEED
+The Ride Height (RH) at Speed settings are inputs for the aero 
+calculator to determine the approximate aero performance with the 
+chosen aero package. Changing these values changes the displayed 
+Front Downforce value as well as the Downforce-to-Drag ratio in the 
+calculator. To check on-track performance, use the average of the 
+front ride height sensors (Front RH) and the average of the rear ride 
+height sensors (Rear RH) from telemetry. These can also be changed 
+to observe how rake will affect aerodynamic performance prior to 
+ride height or spring changes.
+AVG TILT AT SPEED
+The Tilt at Speed setting is a value of how much the chassis is rolled 
+left or right. For best results, calculate (from on-track telemetry data) 
+an average of the left-side ride heights and an average of the right-
+side ride heights. The difference between these averages is the Tilt 
+at Speed value to use in the calculator.
+AERO CALCULATOR
+AERO BALANCE
+Aero Balance represents the percentage of total downforce that 
+is working on the front axle. This value is calculated with the At 
+Speed ride height and tilt values, as well as the chosen aerodynamic 
+options, and should be monitored during the chassis setup process 
+to prevent unexpected results. To ensure chassis adjustments don’t 
+become masked by aerodynamic changes, always refer to this value 
+to ensure it remains constant before and after aerodynamic 
+setup changes.
+DOWNFORCE TO DRAG
+The Downforce to Drag ratio is a relation of how much downforce 
+is produced for one unit of drag. Generally, a larger Downforce to 
+Drag ratio would imply the car is working efficiently and producing 
+large amounts of downforce for given drag numbers, while a lower 
+Downforce to Drag value is typically seen on more slippery, low-drag 
+aerodynamic packages.
+
+--- PAGE 16 ---
+
+16
+DALLARA IR18 | USER MANUAL
+DALLARA IR18 | ADVANCED SETUP OPTIONS | CHASSIS
+CHASSIS
+GENERAL
+WHEELBASE
+For some track configurations the overall wheelbase can be adjusted 
+to change the car’s handling behavior and responsiveness. On Large 
+Ovals and Indianapolis, the wheelbase can either be set to 121 or 
+119 inches. The longer option will result in a more directionally-
+stable car that is less responsive, but less sensitive to aero balance 
+and longitudinal weight shifting. The shorter option will be more 
+responsive, which is good for tighter corners, but will be more 
+sensitive to fore-aft aero and weight shifting. For Road Courses and 
+Short Ovals, the only option available is the 121 inch setting.
+BRAKE PRESSURE
+If overall downforce is increased or decreased, the overall
+braking pressure may need to be changed to suit. Generally,
+higher downforce levels can use higher braking pressures
+without wheel lockups, while lower downforce levels will need 
+reduced brake pressures. 
+BRAKE PRESSURE BIAS
+The Brake Pressure Bias setting determines how much of the overall 
+brake line pressure is sent to the front wheels. Higher percentages 
+apply more braking pressure to the front wheels which can induce 
+understeer under braking, while reducing the percentage will shift 
+braking force rearward and induce oversteer under braking. If the 
+bias is set too far forward or rearward it can cause wheel lockups 
+under heavy braking, so it should be set to a value that allows for 
+heavy braking without lockups on either axle.
+STEERING PINION
+To fit various driver preferences, the Steering Pinion can be changed 
+to alter how fast or responsive the steering is. Higher pinion teeth 
+numbers will result in a faster steering response which can make the 
+car feel more twitchy with small steering inputs, while lower pinion 
+values will slow the steering and make it less responsive to inputs.
+STEERING OFFSET
+On oval tracks it’s not uncommon for the chassis to be set up 
+asymmetrically, causing the car to pull to one side and the driver to 
+hold some amount of opposite steering to counter it. If desired, the 
+Steering Offset setting can be changed to center the steering wheel 
+down the straights. Positive values will reposition the steering wheel 
+in a clockwise direction, negative values will position the steering 
+wheel in a counter-clockwise direction.
+NOSE WEIGHT
+Nose Weight is the percentage of the vehicle’s total weight that is 
+situated on the front axle. This is used primarily to balance front-to-
+rear aero distribution, and in most cases will produce a directionally-
+stable car when set higher than the aero balance percentage. Less 
+Nose Weight will shift weight rearward, inducing oversteer as well 
+as helping the car change directions more easily. More Nose Weight 
+will create a more directionally-stable chassis, but can induce 
+understeer if set too far forward.
+CROSSWEIGHT
+Crossweight is the percentage of the car’s total weight situated 
+over the Right-Front and Left-Rear wheels. For the IR18, this value is 
+represented as a difference in weight across the front axle relative to 
+the Left-Front wheel. For example, if the readout shows “-100 (lbs or 
+N) to the Left Front”, the Right-Front wheel has 100 lbs or Newtons 
+more than the Left-Front wheel when in the garage. Higher Cross 
+Weight values (Lower or More Negative to the Left-Front) will induce 
+understeer in left-hand corners and oversteer in right-hand corners. 
+Lower Cross Weight values (Higher to the Left-Front) will induce 
+oversteer in left-hand corners and understeer in right-hand corners. 
+
+--- PAGE 17 ---
+
+17
+DALLARA IR18 | USER MANUAL
+DALLARA IR18 | ADVANCED SETUP OPTIONS | CHASSIS
+CHASSIS
+FRONT
+3RD SPRING
+For Road Courses a Third Spring element, in the form of a polymer 
+bump stop, can be added to the suspension. This element works 
+only in heave (vertical suspension travel) and can be set to prevent 
+the car from dropping too far under heavy aerodynamic loads or 
+vertical forces from track shape, such as dips or turn banking. Using 
+the Third Spring in this way allows for softer corner springs to be 
+used (since they won’t have to carry the full aerodynamic loads), 
+increasing mechanical grip while cornering. The Third Spring is not 
+available on Ovals.
+3RD SPRING GAP
+The Third Spring Gap is the distance the third spring element must 
+compress before the third spring bump stop is engaged with higher 
+gap values requiring more vertical travel before engagement. The 
+Third Spring is a polymer bump stop and thus increases in rate as it 
+is compressed, with low compression values having low spring rate 
+and high compression values having a very high spring rate. This 
+can be used to fine-tune the suspension’s behavior over bumps in 
+the track surface at high speeds and high aerodynamic loads to help 
+reduce changes in wheel load in these situations.
+BAR DIAMETER
+The front Anti-Roll Bar is available in three options: Large diameter, 
+Small diameter, and None (ARB removed). The Large diameter 
+option will stiffen the front suspension in roll, reducing mechanical 
+grip and inducing understeer, but will try to keep the chassis flatter 
+when cornering. The Small diameter option will reduce roll stiffness, 
+increasing mechanical grip across the front axle and reducing 
+understeer, but will allow the chassis to roll more. Removing the ARB 
+will dramatically reduce roll stiffness but can provide a large increase 
+in front end mechanical grip and increase oversteer. If the ARB is 
+removed, all other front ARB settings have no effect on the chassis.
+BAR BLADES
+The front ARB bar blades can be made of either Steel or Titanium 
+(Ti) to alter the stiffness of the ARB assembly. The Steel blades 
+are stiffer, slightly increasing roll stiffness can induce understeer. 
+The Titanium blades are softer and will slightly reduce roll stiffness, 
+which can reduce understeer. This adjustment has no other effect on 
+the chassis, such as one option being lighter than the other. 
+BAR BLADE POSITION
+The ARB blade orientation can be changed to one of six options to 
+alter the stiffness of the ARB assembly. Represented numerically 
+from softest (1) to stiffest (6), higher values result in a stiffer ARB 
+while lower values soften the ARB. Stiffer settings will induce 
+understeer while softer settings will reduce understeer. This 
+adjustment is available as an in-car adjustment in the F8 Black Box 
+as “ARB F”.
+DROP-LINK POSITION
+The ARB drop-links can be mounted in one of two positions that will 
+alter the ARB stiffness. The “Wide (Slow)” option will reduce how 
+fast the ARB is loaded, reducing the effective stiffness of the ARB 
+assembly and reducing understeer. Changing to the “Narrow (Fast)” 
+option will speed up the ARB, increasing effective stiffness and 
+increasing understeer.
+ARB PRELOAD
+Adjustments to the chassis will often result in small static loads 
+being applied to the ARB assemblies. The ARB Preload setting can 
+be used to remove these loads to prevent any asymmetric behavior 
+from the ARB. On Ovals it can be used to apply a static load to the 
+bar and manage crossweight changes in banking transitions.
+
+--- PAGE 18 ---
+
+18
+DALLARA IR18 | USER MANUAL
+DALLARA IR18 | ADVANCED SETUP OPTIONS | CHASSIS
+FRONT CORNERS
+CORNER WEIGHT
+Corner Weight represents the weight on each wheel when sitting 
+in the garage. This can be used to visualize the weight distribution 
+under static conditions and help with identifying changes to weight 
+distribution through the setup process.
+RIDE HEIGHT
+Front Ride Height is a measurement from the ground to a reference 
+point on the chassis projected to the center of the front axle. 
+Since this value doesn’t necessarily represent the lowest point on 
+the chassis it does not specifically represent the chassis’ ground 
+clearance, but is instead a reference for setup and aero work.
+It is important to have the ride height low for both aero and 
+mechanical grip, but high enough that the chassis doesn’t make 
+significant contact with the race track over the course of a lap. 
+Raising and lowering the front ride height will affect aerodynamic 
+balance, overall downforce levels, and drag, so consult the Aero 
+Calculator to see how a ride height change will influence handling 
+when changing this value.
+PUSHROD LENGTH
+To adjust the Ride Height, shims can be added to or removed from 
+the front suspension push rods to change their length. This is a very 
+fine adjustment, however close attention should be paid to Corner 
+Weights and Cross Weight, especially when making asymmetric 
+adjustments, to ensure weight distribution isn’t altered while 
+changing the Pushrod Length.
+SPRING RATE
+Spring Rate is the stiffness of the suspension’s corner springs 
+controlling each wheel. The value is a representation of how 
+much force (Pounds or Newtons) required to compress the spring 
+a specific distance. Springs are used to keep the chassis from 
+contacting the track under the loads seen on track and to manage 
+the chassis’ aerodynamic attitude, but their stiffness also has a 
+major influence on the car’s handling characteristics. On the front 
+end, stiffer springs can keep the front wing from moving too much 
+under increasing aerodynamic loads but will decrease mechanical 
+grip and can cause understeer in slower corners. Softer springs will 
+result in more front end movement, which can hurt aero, but will 
+increase mechanical grip in the front axle and reduce understeer (or 
+cause oversteer, in extreme cases).
+CAMBER
+Camber is the vertical angle of the wheel relative to the center of the 
+chassis. Negative camber is when the top of the wheel is closer to 
+the chassis centerline than the bottom of the wheel, positive camber 
+is when the top of the tire is farther out than the bottom. Higher 
+negative camber values will provide more cornering forces in the 
+direction of the tire’s camber (more aggressive turn-in response),
+but may reduce braking capability at high camber angles. 
+Since the Dallara IR18 runs on both ovals and road courses, the 
+desired camber settings will change between track types. For road 
+courses it is best to have all four wheels set to negative camber 
+values. For Ovals, the right-side tires should be set to negative 
+camber values while the left-side tires should be set to positive 
+values. The difference in camber values on ovals will often change 
+from track to track due to varying levels of load seen on each tire. 
+Generally, if a tire sees less load it will not be able to work with as 
+much camber as a more heavily-loaded tire.
+
+--- PAGE 19 ---
+
+19
+DALLARA IR18 | USER MANUAL
+DALLARA IR18 | ADVANCED SETUP OPTIONS | CHASSIS
+CASTER
+Caster is the angle between vertical and a line drawn through
+the upper and lower ball-joints on the front suspension, essentially 
+representing the steering axis of the front suspension.
+Positive caster indicates the upper ball joint is farther back
+than the lower ball joint, while negative caster would indicate the 
+upper ball joint is ahead of the lower ball joint but this is not allowed 
+on the IR18. Caster can have many effects that must be considered 
+during the setup process. 
+Increasing caster will increase the pneumatic trail effect in the tire, 
+which will impart directional stability and create a steering feel that 
+seems “heavier” to the driver, with the steering wanting to straighten 
+itself as steering input is released. It will also introduce suspension 
+jacking forces as the angle is increased, causing more load to be 
+shifted to the inside front wheel when the steering is turned.
+This decreases crossweight on turn-in and mechanically helps to 
+turn the car in but this also increases how much the chassis rolls to 
+the outside when steering is applied. This effect can be very helpful 
+in slow corners, however in high-speed corners the aero effect 
+caused by the chassis roll can be detrimental. Decreasing the caster 
+will have the opposite effect for all conditions created by increasing 
+the caster value.
+For Ovals it will often be desirable to run asymmetric caster values, 
+with the left-front wheel running a lower amount of positive caster 
+than the right-front wheel. This results in a natural tendency for the 
+chassis to steer to the left as well as decreasing crossweight on 
+turn-in, which can be very beneficial for ovals. However, as caster 
+increases there is a small increase in rolling drag on the tire, which 
+can be detrimental for large ovals where top speed is crucial.
+TOE-IN
+Toe is the angle of the wheels relative to the chassis centerline when 
+viewed from above. Negative toe-in sets the front of the tires farther 
+from the centerline than the rear of the tires while positive toe-in 
+sets the front of the tires closer to the centerline than the rear of 
+the tires. This setting can change the front tire slip angle in a turn, 
+with toe-out providing better turn-in response but less straight-
+line stability and increased tire temperature and wear. Lower toe 
+values can provide a quicker steering response, but may produce an 
+unstable steering feeling. Due to highly asymmetric loading on ovals, 
+it’s not uncommon to have wildly different front Toe values on each 
+front wheel to manage slip angle under loads. Generally, the right-
+front wheel will be able to utilize more toe-out than the left-front 
+since it will see a much higher load in the corners.
+
+--- PAGE 20 ---
+
+20
+DALLARA IR18 | USER MANUAL
+DALLARA IR18 | ADVANCED SETUP OPTIONS | CHASSIS
+REAR CORNERS
+CORNER WEIGHT
+Corner Weight represents the weight on each wheel when sitting 
+in the garage. This can be used to visualize the weight distribution 
+under static conditions and help with identifying changes to weight 
+distribution through the setup process.
+RIDE HEIGHT
+Rear Ride Height is a measurement from the ground to a reference 
+point on the chassis centerline. For the garage, only one rear 
+ride height is shown while telemetry output will show two rear 
+corner heights similar to the front heights. Since this value doesn’t 
+necessarily represent the lowest point on the chassis it does not 
+specifically represent the chassis’ ground clearance, but is instead 
+a reference for setup and aero work. It is important to have the ride 
+height low for both aero and mechanical grip, but high enough that 
+the chassis doesn’t make significant contact with the race track 
+over the course of a lap. Raising and lowering the rear ride height 
+will affect aerodynamic balance, overall downforce levels, and drag, 
+so consult the Aero Calculator to see how a ride height change will 
+influence handling when changing this value.
+PUSHROD LENGTH
+To adjust the Ride Height, shims can be added to or removed from 
+the rear suspension push rods to change their length. This is a very 
+fine adjustment, however close attention should be paid to Corner 
+Weights and Cross Weight, especially when making asymmetric 
+adjustments, to ensure weight distribution isn’t altered while 
+changing the Pushrod Length. For the rear it is especially important 
+to pay attention to the corner weights since changes to left-to-right 
+tilt can’t be identified due to only having one ride height value 
+for the rear.
+SPRING RATE
+Spring Rate is the stiffness of the suspension’s corner springs 
+controlling each wheel. The value is a representation of how 
+much force (Pounds or Newtons) required to compress the spring 
+a specific distance. Springs are used to keep the chassis from 
+contacting the track under the loads seen on track and to manage 
+the chassis’ aerodynamic attitude, but their stiffness also has 
+a major influence on the car’s handling characteristics. On the 
+rear end, stiffer springs can keep the rear of the car from moving 
+too much under increasing aerodynamic loads but will decrease 
+mechanical grip and can cause oversteer in slower corners.
+Softer springs will result in more rear end movement, which can 
+hurt aero, but will increase mechanical grip across the rear axle and 
+reduce oversteer (or cause understeer, in extreme cases).
+
+--- PAGE 21 ---
+
+21
+DALLARA IR18 | USER MANUAL
+DALLARA IR18 | ADVANCED SETUP OPTIONS | CHASSIS
+CAMBER
+Camber is the vertical angle of the wheel relative to the center
+of the chassis. Negative camber is when the top of the wheel is 
+closer to the chassis centerline than the bottom of the wheel, 
+positive camber is when the top of the tire is farther out than
+the bottom. Higher negative camber values will provide more 
+cornering forces in the direction of the tire’s camber (more stability
+in high-speed cornering), but may reduce on-throttle traction at 
+high camber angles. 
+Since the Dallara IR18 runs on both ovals and road courses, the 
+desired camber settings will change between track types. For road 
+courses it is best to have all four wheels set to negative camber 
+values. For Ovals, the right-side tires should be set to negative 
+camber values while the left-side tires should be set to positive 
+values. The difference in camber values on ovals will often change 
+from track to track due to varying levels of load seen on each tire. 
+Generally, if a tire sees less load it will not be able to work with as 
+much camber as a more heavily-loaded tire.
+FUEL LEVEL
+This shows how much fuel will be in the fuel tank when the car 
+is loaded in the sim.
+3RD SPRING
+For Road Courses a Third Spring element, in the form of a polymer 
+bump stop, can be added to the suspension. This element works 
+only in heave (vertical suspension travel) and can be set to prevent 
+the car from dropping too far under heavy aerodynamic loads or 
+vertical forces from track shape, such as dips or turn banking.
+Using the Third Spring in this way allows for softer corner springs to 
+be used (since they won’t have to carry the full aerodynamic loads), 
+increasing mechanical grip while cornering. The Third Spring is not 
+available on Ovals.
+TOE-IN
+Toe is the angle of the wheels relative to the chassis centerline when 
+viewed from above. Negative toe-in sets the front of the tires farther 
+from the centerline than the rear of the tires while positive toe-in 
+sets the front of the tires closer to the centerline than the rear of 
+the tires. This setting can change the rear tire slip angle, with toe-in 
+providing more straight-line stability but reduce the car’s tendency 
+to rotate into a corner. Lower toe-in values (moving towards toe-
+out) can provide a quicker steering response, but may produce an 
+unstable steering feeling. Due to highly asymmetric loading on ovals, 
+it’s not uncommon to have wildly different rear Toe values on each 
+front wheel to manage slip angle under loads. Rear-steer can also 
+be influenced by the rear Toe values by toeing out the right-rear 
+wheel and toeing in the left-rear wheel. This will increase yaw in 
+corners, which can provide aerodynamic benefits at high speed, but 
+can induce oversteer on throttle application.
+3RD SPRING GAP
+The Third Spring Gap is the distance the third spring element must 
+compress before the third spring bump stop is engaged with higher 
+gap values requiring more vertical travel before engagement.
+The Third Spring is a polymer bump stop and thus increases in rate 
+as it is compressed, with low compression values having low spring 
+rate and high compression values having a very high spring rate. 
+This can be used to fine-tune the suspension’s behavior over bumps 
+in the track surface at high speeds and high aerodynamic loads to 
+help reduce changes in wheel load in these situations.
+WEIGHT JACKER
+The Weight Jacker is a device mounted to the right-rear spring
+that can be used to adjust the cross weight while in the car.
+Positive values will preload the spring and decrease the crossweight 
+while negative values will unload the spring and increase the 
+crossweight. The corresponding ride height changes will occur as 
+well, with positive values raising the right-rear and negative values 
+lowering the right rear. This adjustment is not available on road 
+courses, and must be set to zero for the car to pass tech in the 
+garage, but is available as an in-car adjustment on the F8 Black Box 
+as “Weight Jacker”.
+REAR
+
+--- PAGE 22 ---
+
+22
+DALLARA IR18 | USER MANUAL
+DALLARA IR18 | ADVANCED SETUP OPTIONS | CHASSIS
+REAR ARB & GRAPHICS
+ARB DIAMETER
+The rear Anti-Roll Bar is available in three options: Large diameter, 
+Small diameter, and None (ARB removed). The Large diameter 
+option will stiffen the rear suspension in roll, reducing mechanical 
+grip and inducing oversteer, but will try to keep the chassis flatter 
+when cornering. The Small diameter option will reduce roll stiffness, 
+increasing mechanical grip across the rear axle and reducing 
+oversteer, but will allow the chassis to roll more. Removing the ARB 
+will dramatically reduce roll stiffness but can provide a large increase 
+in rear end mechanical grip and increase understeer. If the rear 
+ARB is removed and the rear springs are too soft there is a chance 
+of lifting the inside front tire on turn-in, which can result in a wheel 
+lockup under braking. If the ARB is removed, all other front ARB 
+settings have no effect on the chassis.
+ARB DROP-LINK POSITION
+The ARB drop-links can be mounted in one of two positions that will 
+alter the ARB stiffness. The “Wide (Slow)” option will reduce how 
+fast the ARB is loaded, reducing the effective stiffness of the ARB 
+assembly and reducing oversteer. Changing to the “Narrow (Fast)” 
+option will speed up the ARB, increasing effective stiffness and 
+increasing oversteer.
+ARB BLADES
+The ARB blade orientation can be changed to one of six options to 
+alter the stiffness of the ARB assembly. Represented numerically 
+from softest (1) to stiffest (6), higher values result in a stiffer ARB 
+while lower values soften the ARB. Stiffer settings will induce 
+oversteer while softer settings will reduce oversteer. This adjustment 
+is available as an in-car adjustment in the F8 Black Box as “ARB R”.
+ARB PRELOAD
+Adjustments to the chassis will often result in small static loads 
+being applied to the ARB assemblies. The ARB Preload setting can 
+be used to remove these loads to prevent any asymmetric behavior 
+from the ARB. On Ovals it can be used to apply a static load to the 
+bar and manage crossweight changes in banking transitions.
+VINYL WRAP ON WHEEL RIMS
+Checking the Vinyl Wrap on Wheel Rims will enable a section of the 
+paint template and apply it to the wheel rims. This will result in the 
+wheels showing a color other than what was chosen for the wheels 
+in the iRacing Paint Booth. This has no effect on car performance.
+VINYL WRAP ON SUSPENSION
+Enabling Vinyl Wrap on Suspension will apply a section of the paint 
+template to the suspension arms, replacing the Carbon Fiber texture 
+with a solid color. This has no effect on car performance.
+
+--- PAGE 23 ---
+
+23
+DALLARA IR18 | USER MANUAL
+DALLARA IR18 | ADVANCED SETUP OPTIONS | DAMPERS
+DAMPERS
+LOW SPEED COMP
+Low Speed Compression affects how resistant the shock is
+to compression (reduction in length) when the shock is moving
+at relatively low speeds, usually in chassis movements as a
+result of driver input and building aerodynamic forces.
+Higher values will increase compression resistance under these
+low-speed conditions more quickly, lower values will result in a
+more compliant shock. From a mechanical grip standpoint, more 
+front low-speed compression will produce understeer under braking 
+while more rear low-speed compression can reduce on-throttle 
+traction to help rotation. For aerodynamics, more low-speed 
+compression will slow vertical movement of either end of the car 
+under braking or acceleration.
+HIGH SPEED COMP
+High Speed Compression affects the shock’s behavior in high-speed 
+travel, usually attributed to kerb strikes and bumps in the track’s 
+surface. Higher compression values will cause the suspension to 
+be stiffer in these situations (good for keeping the chassis from 
+contacting the track), while lower values will allow the suspension to 
+absorb these bumps better. Lower values will help with compliance 
+over rough surfaces but may hurt the aerodynamic platform’s 
+consistency around the track.
+LOW SPEED REBOUND
+Low-speed Rebound damping controls the stiffness of the shock 
+while extending at lower speeds, typically during body movement 
+and changing aerodynamic loads. Higher rebound values will resist 
+expansion of the shock, lower values will allow the shock to extend 
+faster. Higher rebound values can better control aerodynamic 
+attitude but can result in the wheels being unloaded when the 
+suspension can’t expand enough to maintain proper contact with 
+the track. When tuning for handling, higher front low-speed rebound 
+can increase on-throttle mechanical understeer while lower values 
+will maintain front end grip longer, helping to reduce understeer. 
+The rear is the opposite, with more low-speed rebound reducing 
+rear grip under braking and less low-speed rebound will maintain 
+rear grip better while the chassis is pitching forward. Lower rebound 
+settings are usually better for tire wear but can be a detriment to 
+aerodynamic consistency. Higher rebound can maintain a better 
+aerodynamic platform, but can lead to unwanted oscillations due to 
+the wheel bouncing off of the track surface when the suspension 
+can’t extend fast enough.
+HIGH SPEED REBOUND
+High-speed rebound adjusts the shock in extension over bumps 
+and kerb strikes. Higher values will reduce how quickly the shock 
+will expand, while lower values will allow the shock to extend more 
+easily. This value should be set low enough that the wheels can 
+return after a bump or kerb strike but not high enough that the tire 
+becomes unloaded when the suspension can’t expand.
+
+--- PAGE 24 ---
+
+24
+DALLARA IR18 | USER MANUAL
+DALLARA IR18 | ADVANCED SETUP OPTIONS | IN-CAR / SYSTEMS
+DRIVETRAIN
+ENGINE & HYBRID
+ENGINE MAP SETTING
+The Engine Map Setting can be used to alter the amount of fuel sent 
+to the engine for fuel-saving purposes.
+Setting 1 - This setting provides maximum power but the highest 
+fuel consumption.
+Settings 2-5 - These settings are used for saving fuel. Engine power 
+is reduced as the setting value increases, but the amount of fuel 
+used is also reduced.
+Setting 6 - This setting is a full-power setting but with a more linear 
+throttle map than settings 1-5 and setting 7.
+Setting 7 - This will also provide full power, but with a more 
+digressive throttle map than settings 1 and 6. 
+Setting 8 - Meant for cautions and pace laps, Setting 8 will 
+dramatically reduce fuel flow and power.
+TURBO BOOST PRESSURE
+For the Indianapolis Motor Speedway oval the engine turbo can
+be set to a different mapping that will produce more power.
+This engine mode will generate more heat and use more fuel and 
+isn’t recommended for Race sessions.
+REGEN LEVEL
+Sets how much automatic regeneration the hybrid system will have 
+when lifting off the throttle, with 1.0 being full regen and values 
+scaling down the rate from the full amount like a percentage
+(0.5 is 50% of full regen).
+DEPLOY LEVEL
+Sets how much the system will deploy under manual deployment 
+activation. As with the Regen setting, 1.0 is full deployment and each 
+setting below is a fraction of full.
+
+--- PAGE 25 ---
+
+25
+DALLARA IR18 | USER MANUAL
+DALLARA IR18 | ADVANCED SETUP OPTIONS | IN-CAR / SYSTEMS
+GEARBOX
+DIFFERENTIAL (RC ONL Y)
+FIRST - SIXTH GEAR
+All six gears in the transmission can be changed to suit track 
+conditions or driver preferences. Each gear is represented by 
+the ratio of teeth on the input and output gears, with lower ratios 
+reducing acceleration but increasing top speed and higher ratios 
+increasing acceleration but reducing top speed. Once a gear is 
+chosen and the “Apply” button is pressed, the expected top speed 
+the gear is capable of is updated beside the ratio choice.
+The rear differential for the IR18 can be adjusted through multiple 
+settings, all of which can greatly affect the car’s stability, on-throttle 
+performance, and handling characteristics. These adjustments 
+are only available at Road Course and Street Circuits, with the car 
+running a non-adjustable Spool rear-end at Ovals. 
+CLUTCH PLATES
+The differential Clutch Plates are a way to greatly increase the forces 
+from the differential that attempt to keep the two rear axles locked 
+in sync. The number of clutch plates used will multiply the locking 
+force by the number of plates in use when compared to a single set 
+of clutch plates. For example, 4 clutch plates will have 4 times the 
+locking force of one plate, 12 will have 12 times, etc. Higher locking 
+forces (more plates) will increase the amount of understeer seen 
+when off the throttle under deceleration for corner entry, but will 
+increase oversteer on exit when applying the throttle. Fewer plates 
+will increase oversteer on corner entry while decelerating but add 
+understeer when applying the throttle.
+FINAL DRIVE
+The gear ratio on the differential is represented by the Final Drive 
+ratio. This gear ratio alters the entire acceleration and speed profile 
+of the car without changing the individual gears in the transmission. 
+As with the transmission gears, higher ratios will increase 
+acceleration but reduce top speed, while lower ratios will allow for a 
+higher top speed but reduce acceleration. Changing the Final Drive 
+gear and clicking “Apply” will update the maximum speed for all six 
+transmission gears.
+PRELOAD
+Differential Preload is a static amount of locking force that is always 
+present in the differential regardless of acceleration or deceleration. 
+Increasing the preload will add understeer under braking but 
+oversteer on throttle application, while decreasing preload will add 
+oversteer under braking but understeer on throttle application.
+RAMP ANGLES
+The Ramp Angles are a way to tune the differential locking on 
+deceleration and acceleration with various configurations.
+The Ramp Angle values are split between “coast”, or deceleration, 
+and “power”, or acceleration. Lower angle values will have more 
+locking force for the situation that it is associated with, while higher 
+angle values will have less locking force. For the “coast” adjustment, 
+more locking force (lower ramp angles) will increase understeer 
+while less locking force (higher angles) will increase oversteer. 
+On the “power” side, more locking force will add oversteer on 
+throttle and less locking force will increase understeer. Since these 
+adjustments are somewhat independent of one another and can be 
+chosen independently, this is a great way to fine-tune corner entry 
+and exit once the whole corner has been tuned with the Preload and 
+Plate number.
+
+--- PAGE 26 ---
+
+26
+DALLARA IR18 | USER MANUAL
+DALLARA IR18 | SETUP TIPS
+SETUP TIPS
+This section is aimed toward helping users who want to dive deeper 
+into the different aspects of the vehicle’s setup.
+
+--- PAGE 27 ---
+
+27
+DALLARA IR18 | USER MANUAL
+DALLARA IR18 | SETUP TIPS
+SETUP TIPS
+GEARING
+Final drive and individual gears can be adjusted to suit track 
+characteristics. It is recommended you are close to the limiter 
+at the endof the longest straight. Keep in mind that top speed may 
+increase in draft and/or on push to pass, so allow for this RPM 
+increase whenselecting gears.
+AERODYNAMIC ADJUSTMENTS
+Changing aero balance while adjusting front and rear flap angles 
+together will add or remove downforce without significantly 
+changing handling balance. If you note the aero balance percentage 
+in the aero calculator before any changes you can add or remove 
+overall downforce by matching that number after any changes, or 
+purposely aim above or below the original percentage to change 
+aerodynamic balance.
+A higher aero balance value in the aero calculator indicates a more 
+forward aero balance (loose/oversteer)
+Mechanical Adjustments
+Lower speed corners will not benefit as much from aerodynamic 
+adjustments, so handling changes will come strictly from the 
+suspension settings. The simplest adjustments to make are the 
+ARB settings, which will greatly affect the handling balance without 
+significantly compromising the aerodynamic platform
+To add oversteer to low-speed corners, change to a smaller front 
+bar or a larger rear bar. For a finer tuning adjustment, changing 
+from Steel to Titanium blades will also induce oversteer. To induce 
+understeer, run a larger front bar or a smaller rear bar, or switch from 
+Titanium to Steel blades for a finer adjustment.
+DIFFERENTIAL ADJUSTMENTS
+Differential Preload will apply a static locking force to the differential 
+and delay or extend the amount of time the rear differential is locked 
+during acceleration and braking. This is an extremely effective 
+adjustment to tune the car’s handling behavior during throttle release 
+and application without affecting the chassis.
+-- A greater diff preload will decrease rotation under braking but 
+increase on throttle rotation.
+-- A lower diff preload will increase rotation under braking but 
+decrease on throttle rotation.
+RIDE HEIGHTS AND THIRD SPRING GAP
+The IR18 may bottom out under heavy load. If you find the handling is 
+being upset by the car bottoming, or bottoming on a straight is adding 
+too much drag, you can raise the static ride height or decrease the 
+third spring gap, however this may hurt aerodynamic efficiency.
+Raising ride height is achieved by increasing both the left and right 
+pushrod length. Keep in mind that if the front and rear ride heights 
+are not adjusted equally you will alter the aero balance. (This can be 
+observed using the aero calculator) The ride heights will also increase 
+slightly over the course of the race as fuel burns off and the car 
+becomes lighter.
+Decreasing the third spring gap makes the progressive bump 
+rubbers engage earlier which increases functional spring rate. 
+This can keep the car from bottoming under load, however excessive 
+bump rubber engagement at mid-corner can cause handling 
+instability over rough surfaces.

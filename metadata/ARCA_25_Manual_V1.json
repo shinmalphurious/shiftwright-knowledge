@@ -1,0 +1,25 @@
+{
+  "vehicle": "ARCA 25",
+  "manufacturer": "NASCAR",
+  "manufacturer_source": "series_override",
+  "class": "NASCAR",
+  "manual_type": "vehicle",
+  "topics": [
+    "aerodynamics",
+    "brakes",
+    "dampers",
+    "differential",
+    "hybrid",
+    "suspension",
+    "tires"
+  ],
+  "sections": [
+    "Setup Tips",
+    "Chassis",
+    "Differential",
+    "Brakes",
+    "Fuel"
+  ],
+  "word_count": 7038,
+  "source_text": "ARCA_25_Manual_V1.txt"
+}

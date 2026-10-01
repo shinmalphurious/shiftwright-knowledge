@@ -1,0 +1,454 @@
+--- PAGE 1 ---
+
+1
+NORTHEAST DIRT MODIFIEDS
+SMALL BLOCK 358
+BIG BLOCK 467
+USER MANUAL
+
+--- PAGE 2 ---
+
+NORTHEAST DIRT MODIFIEDS | USER MANUAL
+2
+Introduction » 6
+Tech Specs » 5
+A Message From iRacing » 4
+ Getting Started » 6
+Dashboard » 8
+ Loading An iRacing Setup » 7
+Tires » 10
+ Gauges & Dials » 8
+ Rock Screen » 9
+ Tire Settings » 10
+ Front » 12
+Chassis » 12
+ Front Corners » 13
+ GENERAL INFORMATION
+ ADVANCED SETUP OPTIONS
+Table of Contents
+CLICK TO VIEW A SECTION
+
+--- PAGE 3 ---
+
+NORTHEAST DIRT MODIFIEDS | USER MANUAL
+3
+Rear Corners » 15
+Rear » 18
+NORTHEAST DIRT MODIFIEDS | TABLE OF CONTENTS
+
+--- PAGE 4 ---
+
+4
+DEAR iRACING USER,
+Congratulations on your purchase of the Big Block and 358 Modified! From all of us at iRacing, we 
+appreciate your support and your commitment to our product. We aim to deliver the ultimate sim racing 
+experience, and we hope that you’ll find plenty of excitement with us behind the wheel of your new car!
+Incredibly popular throughout the northeastern United States, and with additional rounds as far south 
+as Florida and north as Canada, dirt modifieds are just as fun to drive as they are to watch. Incredibly 
+passionate fans pack the stands as these beasts go wheel-to-wheel in one of the most unique cars to hit the 
+dirt bullrings of North America.
+One of dirt oval racing’s most beloved cars, the Super DIRTCar Series Big Block Modified produces a 
+whopping 757 horsepower from its 467 CID naturally aspirated powerplant. 
+The smaller engine and slightly lower weight of the 358 Modified makes this car a more approachable 
+version to begin your mastery of dirt modifieds; nonetheless, with 510 horsepower at your fingertips, it still 
+isn’t for the faint of heart. If you’re new to the discipline, honing your skills with the 358 will help you step up 
+to the premier Big Block Modified, and find the winner’s circle more quickly.
+The following guide explains how to get the most out of your new car, from how to adjust its settings off of 
+the track to what you’ll see inside of the cockpit while driving. We hope that you’ll find it useful in getting up 
+to speed.
+Thanks again for your purchase, and we’ll see you on the track!
+4
+
+--- PAGE 5 ---
+
+NORTHEAST DIRT MODIFIEDS | USER MANUAL
+5
+RPM LIMIT
+8400RPM
+ 
+RPM LIMIT
+7800RPM
+ 
+POWER 
+UNIT
+CHASSIS
+NORTHEAST DIRT MODIFIEDS | TECH SPECS
+358 OR 467 CID NATURALLY ASPIRATED V8
+LENGTH
+4724mm
+186in
+DISPLACEMENT
+467CID
+7.6L
+DISPLACEMENT
+358CID
+5.8L
+TORQUE
+646lb-ft
+877Nm
+TORQUE
+461lb-ft
+626Nm
+WIDTH
+2184mm
+86in
+POWER
+757bhp
+564kW
+POWER
+510bhp
+378kW
+WHEELBASE
+2743mm
+108in
+358 WET 
+WEIGHT
+716kg
+2551lbs
+BIG BLOCK 
+WET WEIGHT
+716kg
+2646lbs
+FABRICATED STEEL TUBE, 
+CENTERED DRIVING POSITION
+LIVE AXLE 4-LINK 
+FRONT WITH 
+COILOVERS
+LIVE AXLE 3-LINK 
+REAR WITH 
+COILOVERS
+BIG BLOCK 467 MODIFIED
+SMALL BLOCK 358 MODIFIED
+
+--- PAGE 6 ---
+
+NORTHEAST DIRT MODIFIEDS | USER MANUAL
+6
+Introduction
+The information found in this guide is intended to provide a deeper 
+understanding of the chassis setup adjustments available in the garage, so 
+that you may use the garage to tune the chassis setup to your preference. 
+Before diving into chassis adjustments, though, it is best to become familiar 
+with the car and track. T o that end, we have provided baseline setups for 
+each track commonly raced by these cars. T o access the baseline setups, 
+simply open the Garage, click iRacing Setups, and select the appropriate 
+setup for your track of choice. If you are driving a track for which a dedicated 
+baseline setup is not included, you may select a setup for a similar track to 
+use as your baseline. After you have selected an appropriate setup, get 
+on track and focus on making smooth and consistent laps, identifying the 
+proper racing line and experiencing tire wear and handling trends over a 
+number of laps. 
+Once you are confident that you are nearing your driving potential with the 
+included baseline setups, read on to begin tuning the car to your handling 
+preferences.
+GETTING STARTED
+Once you load into the car, select 1st gear. Give it a bit of throttle to get underway. This car includes only one forward and one 
+reverse gear, and does not require or allow clutch use. Once you are in 1st gear and rolling, your shifting is complete unless you 
+spin or otherwise come to a stop and require reverse to get moving again. This car, as with many dirt cars, has a large range 
+of motion in the rear suspension, which changes the attitude of the car significantly between off throttle and full throttle. To 
+compensate for this motion, a steering correction is necessary. It is best to apply the throttle slowly when you are first learning 
+to drive the car, so that you can become familiar with the steering corrections required at varying amounts of throttle. Steering 
+corrections will become more intuitive as you grow comfortable with the car, at which point you can begin focusing on finding the 
+best line, which is a challenge in the ever-changing conditions of a dirt surface, then working on setup.
+NORTHEAST DIRT MODIFIEDS | INTRODUCTION
+
+--- PAGE 7 ---
+
+NORTHEAST DIRT MODIFIEDS | USER MANUAL
+7
+LOADING AN iRACING SETUP
+When you first load into a session, the iRacing Baseline setup will be automatically loaded onto the car. If you would like to try any 
+of the other iRacing pre-built options, you may select it by going to Garage > iRacing Setups > and then selecting another option 
+that fits your needs. 
+If you would like to customize the setup, simply make the changes in the garage that you would like to update and click apply. If 
+you would like to save your setup for future use click “Save As” on the right to name and save the changes. To access all of your 
+personally saved setups, click “My Setups” on the right side of the garage. If you would like to share a setup with another driver or 
+everyone in a session, you can select “Share” on the right side of the garage to do so. If a driver is trying to share a setup with you, 
+you will find it under “Shared Setups” on the right side of the garage as well.
+NORTHEAST DIRT MODIFIEDS | INTRODUCTION
+
+--- PAGE 8 ---
+
+NORTHEAST DIRT MODIFIEDS | USER MANUAL
+8
+Dashboard
+GAUGES & DIALS
+The dash in this car is minimalist in nature, with the gauges being oil temperature, oil pressure, and water temperature on 
+the main dash area, with a digital tachometer mounted to the bottom right below the main dash. Oil temperature and water 
+temperature can be used in conjunction with the tachometer to evaluate the final drive gear ratio. General water temperatures 
+below 220 degrees and oil temperatures below 250 degrees are desirable. The tachometer is so low as to be out of view on most 
+display configurations, which will necessitate using the “look down” function in the sim to check the RPM. The look down function 
+can be mapped to a key or button in your in-sim Options menu on the Drive page below the driving controls, and can be used in a 
+replay to make it easier to see the RPM range as it varies around the track, rather than attempting to view it live.
+NORTHEAST DIRT MODIFIEDS | DASHBOARD
+
+--- PAGE 9 ---
+
+NORTHEAST DIRT MODIFIEDS | USER MANUAL
+9
+ROCK SCREEN
+To improve driver visibility, the rock screen can be removed via the “Hide Obstructions” setting in the Options menu. To enable this 
+option go to the Options and then Graphics menu, then change the “Hide Obstructions” setting to either “Pillar/rockpage” or “All”. 
+This will remove the screen completely but it will still be visible in replays.
+NORTHEAST DIRT MODIFIEDS | DASHBOARD
+
+--- PAGE 10 ---
+
+NORTHEAST DIRT MODIFIEDS | USER MANUAL
+10
+Tires
+TIRE SETTINGS (ALL FOUR TIRES)
+COLD PRESSURE
+Air pressure in the tire when the car is loaded into the world. Higher pressures will reduce rolling drag and heat buildup, but 
+will generally decrease grip. Lower pressures will increase rolling drag and heat buildup, but will increase grip. Higher speeds 
+and loads will require higher pressures, while lower speeds and loads will see better performance from lower pressures. Cold 
+pressures should be set to track characteristics for optimum performance.
+ADVANCED SETUP OPTIONS
+This section is aimed toward more advanced users who want to dive deeper into the different aspects 
+of the vehicle’s setup. Making adjustments to the following parameters is not required and can lead to 
+significant changes in the way a vehicle handles. It is recommended that any adjustments are made in 
+an incremental fashion and only singular variables are adjusted before testing changes.
+NORTHEAST DIRT MODIFIEDS | ADVANCED SETUP OPTIONS | TIRES
+
+--- PAGE 11 ---
+
+NORTHEAST DIRT MODIFIEDS | USER MANUAL
+11
+NORTHEAST DIRT MODIFIEDS | ADVANCED SETUP OPTIONS | TIRES
+LAST HOT PRESSURE
+Air pressure in the tire after the car has returned to the pits. The difference between Cold and Hot pressures can be used to 
+identify how the car is progressing through a run in terms of balance, with heavier-loaded tires seeing a larger difference between 
+Cold and Hot pressures. 
+LAST TEMPS
+Tire carcass temperatures, measured via Pyrometer, once the car has returned from the pits. Wheel Loads and the amount 
+of work a tire is doing on-track is reflected in the tire’s temperature, and these values can be used to analyze the car’s 
+handling balance. Center temperatures are useful for directly comparing the work done by each tire, while the Inner and Outer 
+temperatures are useful for analyzing the wheel alignment while on track. These values are measured in three zones across the 
+tread of the tire. The left sides of each tire should typically be the most heavily loaded and hottest, so the outsides of the left side 
+tires and insides of right side tires. 
+TREAD REMAINING
+The amount of tread remaining on the tire once the car has returned from the pits. For these cars and tires, wear is currently 
+negligible, though this may change in the future.
+
+--- PAGE 12 ---
+
+NORTHEAST DIRT MODIFIEDS | USER MANUAL
+12
+Chassis
+FRONT
+STEERING BOX RATIO
+The Steering Box Ratio is a numerical value for how fast the steering response is in the vehicle’s steering box. This ratio can be 
+thought of as the degrees of steering input needed to produce one degree of turn on the steering box output shaft. For example, 
+a 12:1 steering ratio will require 12° of steering input to rotate the steering output shaft 1°. A steering box with a lower ratio 
+will feel more responsive to steering inputs and will require less steering input to reach the amount needed to navigate a corner. 
+A steering box with a higher ratio will feel less responsive and will require more steering input to reach the amount needed to 
+navigate a corner. 
+PITMAN ARM LENGTH
+The Pitman arm mechanically links the steering box to the front axle assembly. A longer Pitman arm speeds up the steering but 
+requires more effort, and a shorter Pitman arm slows the steering but requires less effort. Pitman arm length and steering box 
+ratio combined determine the ultimate steering ratio of the front axle, with the Pitman arm length being the finer adjustment.
+NORTHEAST DIRT MODIFIEDS | ADVANCED SETUP OPTIONS | CHASSIS
+
+--- PAGE 13 ---
+
+NORTHEAST DIRT MODIFIEDS | USER MANUAL
+13
+STEERING OFFSET
+Degrees of steering wheel offset, achieved with a combination of installing the steering wheel into the quick release mechanism 
+off-center and adjusting front tie-rods. This can be used to compensate for chassis settings which place the wheel off center and is 
+primarily a driver comfort adjustment.
+FRONT TOE-IN
+Toe is the angle of the wheel, looking from vertical, relative to the chassis centerline. Toe-in is when the front of the wheels are 
+closer to the centerline while Toe-out is when the front of the wheels are farther from the centerline than the rear of the tires. On 
+the front end, Toe will alter how quickly the tires respond to steering inputs and influence how stable the car is in a straight line. 
+Toe-out settings (negative garage value) will increase turn-in response and make the car less stable in a straight line, while Toe-in 
+(positive garage value) will increase straight-line stability while making initial steering response more sluggish. 
+BRAKE PRESSURE BIAS
+The percentage of total brake pressure that is applied to the front brakes. A higher value indicates more front brake, which can 
+increase stability on corner entry and reduce turn in response, and a lower value indicates more rear brake, which decreases 
+stability on corner entry but can improve turn in response.
+RF BRAKE CONNECTED
+When this box is checked, the car has active brakes on all four wheels. When this box is not checked, the right front wheel’s brake 
+is disabled, which generates a yaw moment under braking and aids turn in response at the cost of stability. For tracks with a lot 
+of moisture, it is often best not to connect the right front brake, but on very slick tracks connecting the right front brake may 
+improve corner entry stability.
+FRONT CORNERS
+CORNER WEIGHT
+The weight distribution on each tire under static conditions in the garage. Correct weight arrangement around the car is crucial 
+for optimizing a car for a given track and conditions. Individual wheel weight adjustments and crossweight adjustments are made 
+via the spring perch offset setting. Once ride heights and corner weights are set, any change to a spring rate will typically require 
+a corresponding spring perch offset adjustment to maintain static corner weight.
+VALENCE HEIGHT
+Distance from ground to lower edge of the front valence. This is not directly adjustable but changes as a result of the four corner 
+NORTHEAST DIRT MODIFIEDS | ADVANCED SETUP OPTIONS | CHASSIS
+
+--- PAGE 14 ---
+
+NORTHEAST DIRT MODIFIEDS | USER MANUAL
+14
+ride heights and is a good indicator of how much ground clearance is available from the car’s starting Ride Heights.
+RIDE HEIGHT
+Distance from ground to a reference point on the chassis. Since these values are measured to a specific reference point on the 
+car, these values may not necessarily reflect the vehicle’s ground clearance, but instead provide a reliable value for the height of 
+the car off of the race track at static values. Adjusting Ride Heights is key for optimum performance, as they can directly influence 
+the vehicle’s aerodynamic performance as well as mechanical grip. 
+SPRING PERCH OFFSET
+Spring perch offset is used to adjust ride height and corner weight. Adjusting this setting changes the preload on the spring under 
+static conditions. Decreasing the value increases preload on the spring, adding weight to its corner and increasing the ride height 
+at that corner. Increasing the value does the opposite, reducing height and weight on a given corner. These should be adjusted 
+in pairs (left and right, for example) or with all four spring preload adjustments in the car to prevent crossweight changes while 
+adjusting ride height.
+SPRING RATE
+Spring Rate changes how stiff the spring is, represented in force per unit of displacement. Softer springs allow for more roll and 
+slower load transfer, and can be better on rougher or slicker tracks. Stiffer springs allow for less roll and quicker load transfer, and 
+can help provide bite in loose dirt and moisture.
+BUMP STIFFNESS
+Bump stiffness affects how resistant the shock is to compression (reduction in length), usually in chassis movements as a result of 
+driver input (steering, braking, & throttle) and cornering forces. Higher values will increase compression resistance and transfer 
+load onto a given tire more quickly. Lower values reduce compression resistance and transfer load onto a given tire more slowly. 
+Differences between left and right bump stiffness influence dynamic crossweight on corner entry and result in a dynamic shift in 
+balance while the shocks are being compressed, with greater right front bump shifting the balance toward understeer. 
+REBOUND STIFFNESS
+Rebound stiffness affects how resistant the shock is to extension (increase in length), typically during body movement as a result 
+of driver inputs. Higher rebound values will slow extension of the shock, lower values will allow the shock to extend faster. When 
+tuning for handling, higher front rebound can increase on-throttle mechanical understeer while lower values will maintain front end 
+grip longer, helping to reduce mechanical understeer. Excessive front rebound can lead to unwanted oscillations due to the wheel 
+bouncing off of the track surface instead of staying in contact.
+CAMBER
+Camber is the vertical angle of the wheel relative to the center of the chassis. Negative camber is when the top of the wheel 
+is closer to the chassis centerline than the bottom of the wheel, positive camber is when the top of the tire is farther out than 
+the bottom. Greater camber angles will generally increase the cornering force generated by the tire, but can reduce stability, 
+especially in rougher conditions. Set the left side positive and the right side negative.
+CASTER
+How much the steering axis is leaned back (positive) or forward (negative), which influences dynamic load jacking effects as the 
+car is steered. More positive caster results in a heavier steering feel but decreases dynamic crossweight while turning, as well as 
+adding straight-line stability. Running less caster on the left-front will cause the vehicle to pull to the left when load transfers to the 
+front axle.
+NORTHEAST DIRT MODIFIEDS | ADVANCED SETUP OPTIONS | CHASSIS
+
+--- PAGE 15 ---
+
+NORTHEAST DIRT MODIFIEDS | USER MANUAL
+15
+ WHEEL SPACING
+Using wheel spacers or a change in wheel offset, either wheel can be spaced further outboard or inboard to shift the leverage on 
+that wheel. Spacing the right front more outboard (more positive number) will generally tighten the car (understeer), and spacing it 
+more inboard (more negative number) will generally free the car up more (oversteer). The opposite is true for the left front.
+REAR CORNERS
+CORNER WEIGHT
+The weight underneath each tire under static conditions in the garage. Correct weight arrangement around the car is crucial for 
+optimizing a car for a given track and conditions. Individual wheel weight adjustments and crossweight adjustments are made via 
+the Spring Perch Offset setting.
+RIDE HEIGHT
+Distance from ground to a reference point on the chassis. Since these values are measured to a specific reference point on the 
+car, these values may not necessarily reflect the vehicle’s ground clearance, but instead provide a reliable value for the height of 
+the car off of the race track at static values. 
+NORTHEAST DIRT MODIFIEDS | ADVANCED SETUP OPTIONS | CHASSIS
+
+--- PAGE 16 ---
+
+NORTHEAST DIRT MODIFIEDS | USER MANUAL
+16
+SPRING PERCH OFFSET:
+Used to adjust ride height and corner weight, adjusting this setting applies a preload to the spring under static conditions. 
+Decreasing the value increases preload on the spring, adding weight to its corner and increasing the ride height at that corner. 
+Increasing the value does the opposite, reducing height and weight on a given corner. These should be adjusted in pairs (left and 
+right, for example) or with all four spring preload adjustments in the car to prevent crossweight changes while adjusting ride 
+height.
+SPRING RATE
+Spring Rate changes how stiff the spring is, represented in force per unit of displacement. Softer springs allow for more roll and 
+slower load transfer, and can be better on rougher or slicker tracks. Stiffer springs allow for less roll and quicker load transfer, and 
+can help provide bite in loose dirt and moisture.
+BUMP STIFFNESS
+Bump stiffness affects how resistant the shock is to compression (reduction in length), usually in chassis movements as a result of 
+driver input (steering, braking, & throttle) and cornering forces. Higher values will increase compression resistance and transfer 
+load onto a given tire more quickly. Lower values reduce compression resistance and transfer load onto a given tire more slowly. 
+Differences between left and right bump stiffness influence dynamic crossweight on corner entry and result in a dynamic shift in 
+balance while the shocks are being compressed, with greater right front bump shifting the balance toward understeer. 
+REBOUND STIFFNESS
+Rebound stiffness affects how resistant the shock is to extension (increase in length), typically during body movement as a result 
+of driver inputs. Higher rebound values will slow extension of the shock, lower values will allow the shock to extend faster. When 
+tuning for handling, higher front rebound can increase on-throttle mechanical understeer while lower values will maintain front end 
+grip longer, helping to reduce mechanical understeer. Excessive front rebound can lead to unwanted oscillations due to the wheel 
+bouncing off of the track surface instead of staying in contact.
+TRAILING ARM ANGLE
+Each trailing arm is mounted to a bracket on the rear axle and on the chassis. This angle is the uphill angle from the axle to the 
+chassis. Because this car has a large amount of suspension travel and roll, these angles influence both the roll steer of the axle, 
+and the load jacking through the trailing arms. Larger angles result in more roll steer and load transfer as you transition on and off 
+the throttle and enter and exit the corners, while smaller angles result in less roll steer and reduce dynamic load changes. 
+More angle on the left rear will generally increase left rear drive on throttle, tightening the car on throttle and loosening the car off 
+throttle, while more angle on the right rear will generally increase right rear drive on throttle, loosening the car all around. More 
+angle in either will increase roll steer, with the left rear having the greater influence due to greater travel and range of adjustment. 
+More angle in both maximizes roll steer, generally loosening the car.
+WHEEL SPACING
+Using wheel spacers or a change in wheel offset, either wheel can be spaced further outboard or inboard to shift the leverage on 
+that wheel. Spacing the left rear more outboard (more positive number) will generally tighten the car (understeer), and spacing it 
+more inboard (more negative number) will generally free the car up more (oversteer). The opposite is true for the right rear.
+NORTHEAST DIRT MODIFIEDS | ADVANCED SETUP OPTIONS | CHASSIS
+
+--- PAGE 17 ---
+
+NORTHEAST DIRT MODIFIEDS | USER MANUAL
+17
+CHASSIS J-BAR HEIGHT
+The j-bar locates the rear end laterally in the car, and is a shorter, more responsive implementation of a panhard bar. Lower 
+overall j-bar height lowers the rear roll center, generally tightening the car in the corners, and higher overall raises the roll center, 
+loosening the car in the corners. When rake is applied (difference between chassis height and rear end height) the average of the 
+heights is the approximate roll center height. Increasing rake (higher on the chassis relative to the rear end) generally increases 
+roll angle and helps the car steer through the center, but reduces drive off the corner. Less rake tightens the center and provides 
+more drive off.
+DROOP CHAIN
+The droop chain limits droop travel on the left rear. A longer droop chain allows greater extension, and a shorter droop chain 
+allows lesser extension. Reducing droop travel reduces left rear hike and body roll. This adjustment can be useful for limiting 
+dynamic roll steer and balancing it with drive off the corner.
+NORTHEAST DIRT MODIFIEDS | ADVANCED SETUP OPTIONS | CHASSIS
+
+--- PAGE 18 ---
+
+NORTHEAST DIRT MODIFIEDS | USER MANUAL
+18
+NORTHEAST DIRT MODIFIEDS | ADVANCED SETUP OPTIONS | CHASSIS
+REAR
+FUEL FILL TO
+Fuel fill level minimum should be sufficient for the desired number of laps to be completed, but can also be used for rear ballast. 
+If you wish to increase the rear weight percentage for handling purposes, it can be useful to run excess fuel beyond the volume 
+required to complete the laps.
+REAR WEIGHT
+Percentage of total static weight supported by the rear tires. This percentage can be adjusted by changing the fuel fill level. More 
+rear weight increases rotation in the corner off throttle, and tightens the car on throttle. Less rear weight reduces rotation off 
+throttle and reduces drive on throttle.
+CROSS WEIGHT
+Percentage of total static weight supported by the right front and left rear tires. This percentage can be adjusted by changing 
+wheel loads using trailing arm and panhard bar adjustments or spring preload. When adjusting spring preload, to maintain ride 
+heights you should adjust opposing corners in conjunction. If preload is added to the right front and left rear, preload on the 
+left front and right rear should be correspondingly reduced. Increasing cross weight generally tightens the car, and reducing 
+crossweight generally loosens the car.
+LEFT REAR BITE
+This number is the load difference of the left rear minus the right rear. For example if the left rear corner weight is 910 lbs and 
+the right rear corner weight is 860 lbs, the left rear bite would be 50 lbs. Increasing bite provides increased left rear drive off the 
+corner and generally tightens the car. This value cannot be adjusted independently of the cross weight and rear weight.
+
+--- PAGE 19 ---
+
+NORTHEAST DIRT MODIFIEDS | USER MANUAL
+19
+AXLE J-BAR HEIGHT
+Lower overall j-bar height lowers the rear roll center, generally tightening the car in the corners, and higher overall raises the roll 
+center, loosening the car in the corners. When rake is applied (difference between chassis height and rear end height) the average 
+of the heights is the approximate roll center height. Increasing rake (higher on the chassis relative to the rear end) generally 
+increases roll angle and helps the car steer through the center, but reduces drive off the corner. Less rake tightens the center 
+and provides more drive off. 
+DECK HEIGHT
+Deck height is the vertical height of the rear deck above the ground. Increasing deck height generally increases rear downforce, 
+which is more prominent on longer, higher speed tracks. Increasing rear height also provides greater lateral load transfer, 
+increasing body roll.
+AXLE LEAD
+Axle lead is the static misalignment of the rear axle in the car. A positive number indicates the right rear leads the left rear, 
+tightening the car, and a negative number indicates the right rear trails the left rear, loosening the car. This adjustment can be 
+used to compensate for roll steer effects or fine tuning handling.
+FINAL DRIVE RATIO
+The gear ratio in the rear end should be set based on track length and track state to balance acceleration and top end RPM. Too 
+low a numerical gear can lead to wheel spin and over rev the engine, while too high a numerical car can lead to bogging on throttle 
+and slow acceleration. A good balance will provide manageable throttle response and good acceleration without reaching the rev 
+limiter.
+NORTHEAST DIRT MODIFIEDS | ADVANCED SETUP OPTIONS | CHASSIS

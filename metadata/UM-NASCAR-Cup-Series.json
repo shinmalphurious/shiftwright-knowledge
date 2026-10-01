@@ -1,0 +1,24 @@
+{
+  "vehicle": "NASCAR Cup Series",
+  "manufacturer": "NASCAR",
+  "manufacturer_source": "series_override",
+  "class": "NASCAR",
+  "manual_type": "vehicle",
+  "topics": [
+    "aerodynamics",
+    "brakes",
+    "dampers",
+    "differential",
+    "hybrid",
+    "suspension",
+    "tires"
+  ],
+  "sections": [
+    "Chassis",
+    "Differential",
+    "Brakes",
+    "Fuel"
+  ],
+  "word_count": 6082,
+  "source_text": "UM-NASCAR-Cup-Series.txt"
+}

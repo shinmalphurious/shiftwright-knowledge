@@ -1,0 +1,27 @@
+{
+  "vehicle": "McLaren 570S GT4",
+  "manufacturer": "McLaren",
+  "manufacturer_source": "filename",
+  "class": "NASCAR",
+  "manual_type": "vehicle",
+  "topics": [
+    "aerodynamics",
+    "brakes",
+    "dampers",
+    "hybrid",
+    "suspension",
+    "tires",
+    "traction_control"
+  ],
+  "sections": [
+    "Tires & Aero",
+    "Setup Tips",
+    "Chassis",
+    "Dampers",
+    "Brakes",
+    "Fuel",
+    "Traction Control"
+  ],
+  "word_count": 4735,
+  "source_text": "McLaren-570S-GT4-Manual-V2.txt"
+}

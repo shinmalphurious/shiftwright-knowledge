@@ -1,0 +1,23 @@
+{
+  "vehicle": "Honda Civic Type R TCR",
+  "manufacturer": "Honda",
+  "manufacturer_source": "filename",
+  "class": "NASCAR",
+  "manual_type": "vehicle",
+  "topics": [
+    "aerodynamics",
+    "brakes",
+    "dampers",
+    "differential",
+    "suspension",
+    "tires"
+  ],
+  "sections": [
+    "Setup Tips",
+    "Chassis",
+    "Brakes",
+    "Fuel"
+  ],
+  "word_count": 4772,
+  "source_text": "Honda-Civic-Type-R_TCR.txt"
+}

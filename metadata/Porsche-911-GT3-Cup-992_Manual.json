@@ -1,0 +1,23 @@
+{
+  "vehicle": "Porsche 911 GT3 Cup 992",
+  "manufacturer": "Porsche",
+  "manufacturer_source": "filename",
+  "class": "NASCAR",
+  "manual_type": "vehicle",
+  "topics": [
+    "aerodynamics",
+    "brakes",
+    "suspension",
+    "tires",
+    "traction_control"
+  ],
+  "sections": [
+    "Tires & Aero",
+    "Chassis",
+    "Brakes",
+    "Fuel",
+    "Traction Control"
+  ],
+  "word_count": 3593,
+  "source_text": "Porsche-911-GT3-Cup-992_Manual.txt"
+}

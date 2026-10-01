@@ -1,0 +1,28 @@
+{
+  "vehicle": "Ferrari 488 GT3 EVO 2020",
+  "manufacturer": "Ferrari",
+  "manufacturer_source": "filename",
+  "class": "NASCAR",
+  "manual_type": "vehicle",
+  "topics": [
+    "aerodynamics",
+    "brakes",
+    "dampers",
+    "differential",
+    "hybrid",
+    "suspension",
+    "tires",
+    "traction_control"
+  ],
+  "sections": [
+    "Tires & Aero",
+    "Chassis",
+    "Dampers",
+    "Differential",
+    "Brakes",
+    "Fuel",
+    "Traction Control"
+  ],
+  "word_count": 7309,
+  "source_text": "Ferrari-488-GT3-EVO-2020.txt"
+}

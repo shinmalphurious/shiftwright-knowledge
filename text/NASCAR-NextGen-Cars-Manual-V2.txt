@@ -1,0 +1,728 @@
+--- PAGE 1 ---
+
+1
+NASCAR NEXT GEN CARS
+USER MANUAL
+
+--- PAGE 2 ---
+
+2
+NASCAR NEXT GEN CARS | USER MANUAL
+Introduction » 5
+Tech Specs » 4
+A Message From iRacing » 3
+ Getting Started » 5
+Dash Pages » 7
+ Loading An iRacing Setup » 6
+ Tire Data » 11
+ Front » 12
+Chassis » 12
+Tires & Aero » 11 
+ Front ARB » 13
+ Front Corners » 14 
+ Rear » 18
+ Rear Corners » 16
+ GENERAL INFORMATION
+ ADVANCED SETUP OPTIONS
+TABLE OF CONTENTS
+CLICK TO VIEW A SECTION
+ Page 1 » 7
+ Page 2 » 8
+ Page 3 » 9
+
+--- PAGE 3 ---
+
+3
+DEAR iRACING USER,
+Congratulations on your purchase of the NASCAR NextGen Race Car! From all of us at iRacing, we 
+appreciate your support and your commitment to our product. We aim to deliver the ultimate sim racing 
+experience, and we hope that you’ll find plenty of excitement with us behind the wheel of your new car.
+The seventh generation of NASCAR’s Cup Series car aims to put the “stock” back in “Stock Car”, with 
+multiple changes to bring the cars more in-line with the cars you see on the road. The Chevrolet Camaro 
+ZL1, Toyota Camry, and Ford Mustang now feature symmetrical, composite bodies with less emphasis 
+on sideforce and downforce to make the racing closer than ever before. Under the hood, the 650hp 
+engine delivers power to the track through an all-new 5-speed sequential gearbox and, for the first time 
+in NASCAR’s history, the NextGen car features four-wheel independent suspension with coil-over shocks.
+The following guide explains how to get the most out of your new car, from how to adjust its settings 
+off of the track to what you’ll see inside of the cockpit while driving. We hope that you’ll find it useful in 
+getting up to speed. Thanks again for your purchase, and we’ll see you on the track!
+
+--- PAGE 4 ---
+
+4
+NASCAR NEXT GEN CARS | USER MANUAL
+CHASSIS
+POWER 
+UNIT
+NASCAR NEXT GEN CARS | TECH SPECS
+FRONT AND REAR INDEPENDANT, 
+DOUBLE-WISHBONE SUSPENSION
+NATURALL Y ASPIRATED 
+STEEL BLOCK PUSHROD V8
+LENGTH
+4902 mm
+193 in
+WIDTH
+1994 mm
+78 in
+WHEELBASE
+2794 mm
+110 in
+DRY WEIGHT
+1456 kg
+3210 lbs
+WET WEIGHT 
+WITH DRIVER
+1601 kg
+3530 lbs
+OVALS OVER 1 MILE
+TORQUE
+470 lb-ft
+637 Nm
+POWER
+650 bhp
+485 kW
+SHORT TRACKS / RC
+TORQUE
+400 lb-ft
+542 Nm
+POWER
+550 bhp
+410 kW
+DISPLACEMENT
+5.86 Liters
+358 cid
+RPM LIMIT
+9100
+
+--- PAGE 5 ---
+
+5
+NASCAR NEXT GEN CARS | USER MANUAL
+INTRODUCTION
+The information found in this guide is intended to provide a deeper understanding of the chassis setup adjustments 
+available in the garage, so that you may use the garage to tune the chassis setup to your preference.
+Once you load into the car, press the clutch and select 1st gear. 
+Give it a bit of throttle and ease off the clutch pedal to get 
+underway. Unlike previous NASCAR Race Cars that used H-pattern 
+transmissions, the NextGen cars use a 5-speed sequential gearbox. 
+Shifting is completely clutchless, with upshifts not requiring any 
+throttle blip to move to the next gear. 
+NASCAR NEXT GEN CARS | INTRODUCTION
+GETTING STARTED
+Downshifting is as simple as pressing the shifter to select the next 
+lower gear and blipping the throttle. Upshifting is recommended 
+when the RPM gauge on the dash illuminates in red, usually 
+around 9000rpm.
+Before diving into chassis adjustments, though, it is best to become 
+familiar with the car and track. To that end, we have provided 
+baseline setups for each track commonly raced by these cars.
+To access the baseline setups, simply open the Garage, click iRacing 
+Setups, and select the appropriate setup for your track of choice.
+If you are driving a track for which a dedicated baseline setup is not 
+included, you may select a setup for a similar track to use as
+your baseline. 
+After you have selected an appropriate setup, get on track and
+focus on making smooth and consistent laps, identifying the
+proper racing line and experiencing tire wear and handling trends 
+over a number of laps. 
+Once you are confident that you are nearing your driving potential 
+with the included baseline setups, read on to begin tuning the car 
+to your handling preferences.
+
+--- PAGE 6 ---
+
+6
+NASCAR NEXT GEN CARS | USER MANUAL
+LOADING AN iRACING SETUP
+When you first load into a session, the iRacing Baseline setup will be 
+automatically loaded onto the car. If you would like to try any of the 
+other iRacing pre-built options, you may select it by going to Garage 
+> iRacing Setups > and then selecting another option that fits
+your needs.
+Because this car uses slightly different chassis and body 
+configurations on different types of tracks, it will be necessary to 
+load a setup from the same track type to pass tech inspection. For 
+example, a setup for Talladega will pass at Daytona, but likely will not 
+pass at Bristol.
+If you would like to customize the setup, simply make the changes 
+in the garage that you would like to update and click apply. If you 
+would like to save your setup for future use click “Save As” on the 
+right to name and save the changes.
+NASCAR NEXT GEN CARS | INTRODUCTION
+To access all of your personally saved setups, click “My Setups” on 
+the right side of the garage. If you would like to share a setup with 
+another driver or everyone in a session, you can select “Share” on 
+the right side of the garage to do so. If a driver is trying to share a 
+setup with you, you will find it under “Shared Setups” on the right 
+side of the garage as well. 
+To save your setup for reference later, click the “Export” button on 
+the right side of the garage and save the file. This will produce an 
+HTML file with all of the settings for that setup that can be opened 
+at any time and viewed in a web browser.
+
+--- PAGE 7 ---
+
+7
+NASCAR NEXT GEN CARS | USER MANUAL
+Page 1 displays all information in a digital numerical format with a 
+bar-style tachometer. The top row displays, from left to right, Oil 
+Pressure, previous Lap Time, Engine RPM, and Oil Temperature.
+The second row, from left to right, displays engine Water Pressure, 
+Fuel Pressure, Battery Voltage, and Water Temperature.
+For pressures and temperatures, the units displayed will follow 
+the setting in the setup garage: Pounds per Square Inch (PSI) and 
+Degrees Fahrenheit for Imperial units, Bar and Degrees Celsius for 
+Metric units. Across the very bottom of the dash is a horizontal bar-
+style tachometer displaying Engine RPM. A gear indicator is located 
+between the Voltmeter and the Water Temperature values.
+NASCAR NEXT GEN CARS | DASH PAGES
+DASH PAGES
+The NASCAR Next Gen Cars feature a digital display integrated into the dash. 
+Below the numerical displays are the pit road speed lights, a 
+graphical representation of the engine RPM and are tuned to display 
+proper pit road speed while in 2nd gear. When the vehicle’s speed is 
+lower than pit road speed, the lights will be illuminated in an
+orange-yellow color.
+As vehicle speed increases to the pit road speed limit, these lights 
+will change to a green color. When the vehicle is at the pit road 
+speed limit, all nine lights will be green. If the vehicle speed exceeds 
+the pit speed limit, the lights will turn red.
+PAGE 1
+
+--- PAGE 8 ---
+
+8
+NASCAR NEXT GEN CARS | USER MANUAL
+PAGE 2
+NASCAR NEXT GEN CARS | DASH PAGES
+Page 2 displays all information in a digital numerical format like
+Page 1, but replaces the bar-style tachometer with a more traditional 
+analog-style tachometer. Along the left side of the dash, from the 
+top to the bottom, are the previous Lap Time, Engine Oil Pressure, 
+Fuel Pressure, and Battery Voltage.
+On the right side of the dash, from the top to the bottom, is the 
+Engine Water Temperature, Engine Oil Temperature, and Engine 
+Water Pressure. For pressures and temperatures, the units displayed 
+will follow the setting in the setup garage: Pounds per Square Inch 
+(PSI) and Degrees Fahrenheit for Imperial units, Bar and Degrees 
+Celsius for Metric units. In the center of the dash display is a large 
+analog-style tachometer displaying Engine RPM.
+A gear indicator is located in the upper-right corner of the display.
+When engine RPM drops below normal racing speeds, the pit road 
+speed lights will appear as an overlay across the bottom of the 
+display. These lights are a graphical representation of the engine 
+RPM, tuned to work properly when the transmission is in 2nd gear. 
+When the vehicle’s speed is lower than pit road speed, the lights will 
+be illuminated in an orange-yellow color.
+As vehicle speed increases to the pit road speed limit, these lights 
+will change to a green color. When the vehicle is at the pit road 
+speed limit, all nine lights will be green. If the vehicle speed exceeds 
+the pit speed limit, the lights will turn red.
+
+--- PAGE 9 ---
+
+9
+NASCAR NEXT GEN CARS | USER MANUAL
+PAGE 3
+NASCAR NEXT GEN CARS | DASH PAGES
+Page 3 displays all information in a more traditional analog style 
+gauge cluster with a large tachometer in the center and six 
+accessory gauges on either side of the tachometer. On the left 
+side, clockwise from top, is the Engine Water Temperature, Water 
+Pressure, and Fuel Pressure.
+On the right side, clockwise from top, is the Engine Oil Temperature, 
+Battery Voltage, and Engine Oil Pressure. On the bottom left of the 
+dash is the previous Lap Time. A gear indicator is located in the 
+lower right corner of the display beneath the Volts gauge.
+When engine RPM drops below normal racing speeds, the pit road 
+speed lights will appear as an overlay across the bottom of the 
+display. These lights are a graphical representation of the engine 
+RPM, tuned to work properly when the transmission is in 2nd gear. 
+When the vehicle’s speed is lower than pit road speed, the lights will 
+be illuminated in an orange-yellow color.
+As vehicle speed increases to the pit road speed limit, these lights 
+will change to a green color. When the vehicle is at the pit road 
+speed limit, all nine lights will be green. If the vehicle speed exceeds 
+the pit speed limit, the lights will turn red.
+
+--- PAGE 10 ---
+
+10
+NASCAR NEXT GEN CARS | USER MANUAL
+ADVANCED SETUP OPTIONS
+This section is aimed toward more advanced users who want to dive deeper into the different aspects of the 
+vehicle’s setup. Making adjustments to the following parameters is not required and can lead to significant 
+changes in the way a vehicle handles. It is recommended that any adjustments are made in an incremental fashion 
+and only singular variables are adjusted before testing changes.
+NASCAR NEXT GEN CARS | ADVANCED SETUP OPTIONS 
+
+--- PAGE 11 ---
+
+11
+NASCAR NEXT GEN CARS | USER MANUAL
+NASCAR NEXT GEN CARS | ADVANCED SETUP OPTIONS | TIRES & AERO 
+COLD AIR PRESSURE
+Air pressure in the tire when the car is loaded into the world. Higher 
+pressures will reduce heat buildup, but will provide better grip with 
+higher loads and higher speeds. Lower pressures will increase heat 
+buildup, but will provide better grip at lower loads and lower speeds. 
+Cold pressures should be set to track characteristics for
+optimum performance.
+HOT AIR PRESSURE
+Air pressure in the tire after the car has returned to the pits. The 
+difference between Cold and Hot pressures can be used to identify 
+how the car is progressing through a run in terms of balance, with 
+heavier-loaded tires seeing a larger difference between Cold and 
+Hot pressures. On left-turn ovals, the right-front tire should always 
+see the highest buildup on a balanced car, while the left sides should 
+be roughly the same, but it is important to monitor the hot pressures 
+after a run and adjust accordingly. Ideally, the difference in hot 
+pressures on one side of the car should be roughly equal to the 
+difference between cold pressures after a longer run.
+TIRES
+TIRE DATA
+TIRE TEMPERATURES
+Tire carcass temperatures once the car has returned from the pits. 
+Wheel Loads and the amount of work a tire is doing on-track is 
+reflected in the tire’s temperature, and these values can be used to 
+analyze the car’s handling balance. Center temperatures are useful 
+for directly comparing the work done by each tire, while the Inner 
+and Outer temperatures are useful for analyzing the wheel alignment 
+while on track. These values are measured in three zones across
+the tread of the tire.
+TREAD REMAINING
+The amount of tread remaining on the tire once the car has 
+returned from the pits. Tire wear is very helpful in identifying any 
+possible issues with alignment, such as one side of the tire wearing 
+excessively, and can be used in conjunction with tire temperatures 
+to analyze the car’s handling balance. These values are measured in 
+three zones across the tread of the tire in the same locations as
+the temperature measurements.
+
+--- PAGE 12 ---
+
+12
+NASCAR NEXT GEN CARS | USER MANUAL
+NASCAR NEXT GEN CARS | ADVANCED SETUP OPTIONS | CHASSIS
+CHASSIS
+FRONT
+NOSE WEIGHT
+The vehicle’s Nose Weight is the percentage of total vehicle weight 
+on the front tires. Nose Weight represents a rough approximation 
+of the longitudinal Center of Gravity location in the vehicle and has 
+a direct influence on the high-speed stability of the vehicle. Higher 
+Nose Weight values result in a more directionally-stable vehicle, 
+good for low-grip tracks and situations where the vehicle is set up 
+with extra front downforce. Conversely, lower Nose Weight values 
+are good for high-grip tracks and configurations with high rear 
+downforce levels. Smaller tracks will also see benefits from lower 
+Nose Weight values, as it will allow the rear of the vehicle to 
+rotate easier.
+CROSS WEIGHT 
+Cross Weight is the amount of weight on the car’s Left-Rear and 
+Right-Front tires relative to the entire weight of the car, displayed 
+in percent. This is adjusted via the corner Spring Perch Offset 
+adjustments as well as ARB preload to a small extent. For an oval 
+car, Cross Weight is one of the most influential settings for grip level 
+while the vehicle is in a turn. Higher Cross Weight values will add 
+weight to the left-rear and right-front, both stabilizing entry and 
+helping drive-off on corner exit. Lower Cross-Weight values will help 
+the vehicle rotate and keep it “free” in the corner to prevent speed 
+from being lost, however too low can result in unstable entry and 
+exit. For this vehicle, excessively high crossweight value can also 
+lead to left-front tire lockups under braking due to reduced load on 
+the left-front wheel.
+STEERING PINION
+The Steering Pinion setting changes the size of the pinion gear on 
+the end of the steering shaft. Represented as distance per revolution 
+of the steering wheel, the value displays how much steering rack 
+movement will occur while turning the wheel. For example, a 60 mm/
+rev pinion will move the steering rack 60mm for a full turn of the 
+steering wheel. Higher values produce a faster steering feel, lower 
+numbers produce a slower steering feel.
+STEERING OFFSET
+Degrees of steering wheel offset, achieved with a combination of 
+installing the steering wheel into the quick release mechanism
+off-center and adjusting front tie-rods. This can be used to 
+compensate for chassis settings which place the wheel off center 
+and is primarily a driver comfort adjustment.
+FRONT MC
+The size of the front brake master cylinder can be changed to 
+alter the braking feel for the front brakes. Larger diameter master 
+cylinders will make the pedal feel softer, requiring more brake pedal 
+travel and force to reach the same amount of braking force as a 
+smaller master cylinder. This can be used to tune braking feel for 
+a given driving style as well as to reduce the chances of a brake 
+lockup under heavy braking.
+
+--- PAGE 13 ---
+
+13
+NASCAR NEXT GEN CARS | USER MANUAL
+NASCAR NEXT GEN CARS | ADVANCED SETUP OPTIONS | CHASSIS
+REAR MC
+The size of the rear brake master cylinder can be changed to alter 
+the braking feel of the rear brakes. Larger diameter master cylinders 
+will make the pedal feel softer, requiring more brake pedal travel and 
+force to reach the same amount of braking force as a smaller master 
+cylinder. This can be used to tune braking feel for a given driving 
+style as well as to reduce the chances of a brake lockup under 
+heavy braking.
+FRONT ARB
+FRONT BRAKE BIAS
+Brake Bias is the percentage of braking force that is being sent 
+to the front brakes. Values above 50% result in more pressure 
+being sent to the front, while values less than 50% send more force 
+to the rear. This should be tuned for both driver preference and 
+track conditions to get the optimum braking performance for a 
+given situation.
+DIAMETER
+The Front Anti-Roll Bar (ARB, or Sway Bar) diameter affects the 
+roll stiffness of the front suspension. Options are a Stiff bar (2.00” 
+Diameter) or a Soft bar (1.375” diameter). The stiffer bar will reduce 
+body roll when cornering and can increase steering responsiveness, 
+but can induce understeer when cornering. The softer bar will 
+increase body roll as well as reduce understeer when cornering.
+ARB ARM
+The orientation of the ARB arms can be changed to alter their overall 
+stiffness and effectiveness. Represented alphanumerically from P1 
+(softest) to P5 (stiffest).
+ARB PRELOAD
+The ARB Preload is the static load in the bar while the vehicle is in 
+the garage. Preload adjustments can be used to alter the dynamic 
+loads in the bar while on track, and can be used to remove or add 
+bar load in the corners and on the straights.
+ATTACH
+A quick way to unhook the anti-roll bar to allow for static suspension 
+adjustments without bar twist confusing things; increase link slack 
+and unhook the ARB before making spring/ride height adjustments; 
+attach and reduce link slack (ARB preload) when done. This option 
+will completely detach the bar and keep it from being loaded while 
+on track, if desired.
+
+--- PAGE 14 ---
+
+14
+NASCAR NEXT GEN CARS | USER MANUAL
+NASCAR NEXT GEN CARS | ADVANCED SETUP OPTIONS | CHASSIS
+FRONT CORNERS
+CORNER WEIGHT
+The weight underneath each tire under static conditions in the 
+garage. Correct weight arrangement around the car is crucial for 
+optimizing a car for a given track and conditions. Individual wheel 
+weight adjustments and crossweight adjustments are made via the 
+Shock Collar Offset setting.
+RIDE HEIGHT
+Distance from ground to the rub blocks on the bottom of the car, 
+measured to the bottom of the blocks behind the front wheels. 
+Adjusting Ride Heights is key for optimum performance, as they can 
+directly influence the vehicle’s aerodynamic performance as well as 
+mechanical grip. Reducing the front ride height will increase front 
+downforce and increase oversteer at higher speeds.
+SHOCK COLLAR OFFSET
+Shock Collar Offset is used to adjust ride height and corner weight. 
+Adjusting this setting changes the preload on the spring under static 
+conditions. Decreasing the value increases preload on the spring, 
+adding weight to its corner and increasing the ride height at that 
+corner. Increasing the value does the opposite, reducing height and 
+weight on a given corner. These should be adjusted in pairs (left and 
+right, for example) or with all four spring preload adjustments in the 
+car to prevent crossweight changes while adjusting ride height.
+SPRING RATE
+Spring Rate changes how stiff the spring is, represented in a force 
+per unit of displacement. Primarily responsible for maintaining ride 
+height and a good attitude under changing wheel loads, stiffer 
+springs will maintain the car’s attitude better while sacrificing 
+mechanical grip. Softer springs will deal with bumps better and 
+increase mechanical grip, however this could cause the chassis
+to pitch and roll too much, hurting aerodynamic performance
+at faster tracks.
+LS COMPRESSION
+Low-Speed (LS) Compression affects how resistant the shock is to 
+compression (reduction in length), usually in chassis movements 
+as a result of driver input, such as the front shocks under braking. 
+Higher LS Compression settings will prevent the shock from 
+compressing quickly and can quickly increase the load transferred to 
+the wheel when the suspension is in compression, but can prevent 
+the suspension from absorbing smaller bumps and dips in the track. 
+Lower LS compression settings will allow for better bump absorption, 
+but can hurt aerodynamic stability due to excessive body movement 
+with driver inputs.
+HS COMPRESSION
+The High-Speed (HS) Compression controls how resistant the shock 
+is to compression at higher shock shaft speeds, roughly 1.5 in/s. 
+This range of motion is usually associated with very bumpy racing 
+surfaces or curb strikes, such as seen on road courses. Lower HS 
+Compression values will reduce the force exerted in these situations, 
+allowing these large forces to be absorbed by the suspension 
+without changing the low-speed characteristics of the shock.
+This is great for very bumpy tracks or road courses where the car 
+will see heavy curb usage, while smoother tracks will benefit from 
+higher HS Compression values.
+
+--- PAGE 15 ---
+
+15
+NASCAR NEXT GEN CARS | USER MANUAL
+NASCAR NEXT GEN CARS | ADVANCED SETUP OPTIONS | CHASSIS
+HS COMP SLOPE
+The High-Speed Compression can be further tuned with the 
+Compression Slope setting. This setting shifts the high-speed 
+adjustment of the shocks higher or lower, allowing for a wider range 
+of options for various track conditions. Higher slope settings will 
+produce a more linear compression setting, with compression force 
+increasing with velocity. These settings are good for very bumpy 
+surfaces to keep the shock from “blowing out” over large bumps, 
+preventing the chassis from striking the racing surface. Lower slope 
+settings will produce a more digressive compression setting, with 
+forces not increasing significantly as velocity increases. This is 
+good for smoother tracks where large suspension movement is not 
+expected. When tuning shocks for a track, change the slope setting 
+first to suit the track, then fine-tune the shock using the
+high- and low-speed settings.
+LS REBOUND
+Low-Speed (LS) Rebound affects how resistant the shock is to 
+extension (increase in length), typically during body movement as a 
+result of driver inputs, such as the rear shocks under braking. Higher 
+rebound values will slow extension of the shock, lower values will 
+allow the shock to extend faster. Higher rebound values can better 
+control aerodynamic attitude but can result in the wheel being 
+unloaded when the suspension can’t extend enough to maintain 
+proper contact with the track. Excessive front rebound can lead to 
+unwanted oscillations due to the wheel bouncing off of the track 
+surface instead of staying in contact.
+HS REBOUND
+High-Speed (HS) Rebound affects how resistant the shock is 
+to extension (increase in length), at higher shock shaft speeds, 
+usually above 1.5 in/s. This area is commonly seen as a response to 
+high-speed compression, such as bumps in the racing surface or 
+curb strikes. Higher values will prevent the shock from extending 
+too quickly after a bump, which can help to maintain aerodynamic 
+consistency in terms of body attitude, but too much rebound can 
+keep the suspension from extending quickly enough and 
+cause a loss of grip. Lower values will allow faster suspension 
+extension, but can allow too much body movement and 
+potentially hurt aerodynamics.
+HS REBOUND SLOPE
+The High-Speed Rebound can be further tuned with the Rebound 
+Slope setting. This setting shifts the high-speed adjustment of 
+the shocks higher or lower, allowing for a wider range of options 
+for various track conditions. Higher slope settings will produce a 
+more linear rebound setting, with rebound force increasing steadily 
+with velocity. These values will give a more controlled damping 
+characteristic over very bumpy surfaces. Lower values will
+result in a more digressive rebound curve, which is good for 
+smoother surfaces.
+CAMBER
+Camber is the vertical angle of the wheel relative to the center of 
+the chassis. Negative camber is when the top of the wheel is closer 
+to the chassis centerline than the bottom of the wheel, positive 
+camber is when the top of the tire is farther out than the bottom. 
+Higher camber angles will increase the cornering force generated by 
+the tire, but will reduce the amount of longitudinal grip the tire will 
+have under braking. Excessive camber values can produce very high 
+cornering forces but will also significantly reduce tire life, so it
+is important to find a balance between life and performance. For 
+ovals, set the left side positive and the right side negative. For road 
+courses, all four wheels should be set with negative camber.
+CASTER
+Caster is how much the steering axis is leaned back (positive) or 
+forward (negative), which influences dynamic load jacking effects as 
+the car is steered. More positive caster results in a heavier steering 
+feel but decreases dynamic crossweight while turning, as well as 
+adding straight-line stability. Running less caster on the left-front
+will cause the vehicle to pull to the left, a desirable effect on ovals.
+TOE-IN
+Toe is the angle of the wheel, when viewed from above, relative to 
+the centerline of the chassis. Positive toe-in is when the front of 
+the wheel is closer to the centerline than the rear of the wheel, and 
+negative toe-in (toe-out) is when the front of the wheel is farther 
+away from the centerline than the rear of the wheel. More net
+toe-out will destabilize the car in a straight line and help with
+turn-in but increases slip angle on the front wheels and can risk
+over-slipping the front tires, which can result in sudden
+understeer when cornering.
+
+--- PAGE 16 ---
+
+16
+NASCAR NEXT GEN CARS | USER MANUAL
+NASCAR NEXT GEN CARS | ADVANCED SETUP OPTIONS | CHASSIS
+REAR CORNERS
+CORNER WEIGHT
+The weight underneath each tire under static conditions in the 
+garage. Correct weight arrangement around the car is crucial for 
+optimizing a car for a given track and conditions. Individual wheel 
+weight adjustments and crossweight adjustments are made via the 
+Shock Collar Offset setting.
+RIGHT REAR RIDE HEIGHT
+Distance from ground to the skid block on the bottom of the car, 
+measured to the bottom of the right-rear skid block ahead of the 
+right-rear wheel. The left-rear corner lacks a skid block and doesn’t 
+have a corresponding ride height. Adjusting Ride Heights is key for 
+optimum performance, as they can directly influence the vehicle’s 
+aerodynamic performance as well as mechanical grip. Reducing
+the rear ride height will increase rear downforce and increase 
+stability at higher speeds.
+SHOCK COLLAR OFFSET
+Shock Collar Offset is used to adjust ride height and corner weight. 
+Adjusting this setting changes the preload on the spring under static 
+conditions. Decreasing the value increases preload on the spring, 
+adding weight to its corner and increasing the ride height at that 
+corner. Increasing the value does the opposite, reducing height and 
+weight on a given corner. These should be adjusted in pairs (left and 
+right, for example) or with all four spring preload adjustments in the 
+car to prevent crossweight changes while adjusting ride height.
+SPRING RATE
+Spring Rate changes how stiff the spring is, represented in force 
+per unit of displacement. Primarily responsible for maintaining ride 
+height and aerodynamic attitude under changing wheel loads, stiffer 
+springs control the chassis attitude better (less roll or pitch change) 
+which is good for aerodynamics and camber control, but mechanical 
+grip is often better with softer springs which allow for more track 
+surface compliance but reduce aerodynamic control. For ovals,
+a softer left-rear spring (relative to the right-rear) is desired to 
+prevent the dynamic cross from being too high in the corners, which 
+will result in a balance shift towards understeer through a run.
+LS COMPRESSION
+Low-Speed (LS) Compression affects how resistant the shock is to 
+compression (reduction in length), usually in chassis movements as 
+a result of driver input, such as the rear shocks under acceleration 
+or when leaving a banked corner. Higher LS Compression settings 
+will prevent the shock from compressing quickly and can quickly 
+increase the load transferred to the wheel when the suspension is in 
+compression, but can prevent the suspension from absorbing smaller 
+bumps and dips in the track. Lower LS compression settings will 
+allow for better bump absorption, but can hurt aerodynamic stability 
+due to excessive body movement with driver inputs.
+
+--- PAGE 17 ---
+
+17
+NASCAR NEXT GEN CARS | USER MANUAL
+NASCAR NEXT GEN CARS | ADVANCED SETUP OPTIONS | CHASSIS
+HS COMPRESSION
+The High-Speed (HS) Compression controls how resistant the shock 
+is to compression at higher shock shaft speeds, roughly 1.5 in/s. 
+This range of motion is usually associated with very bumpy racing 
+surfaces or curb strikes, such as seen on road courses. Lower HS 
+Compression values will reduce the force exerted in these situations, 
+allowing these large forces to be absorbed by the suspension 
+without changing the low-speed characteristics of the shock.
+This is great for very bumpy tracks or road courses where the car 
+will see heavy curb usage, while smoother tracks will benefit from 
+higher HS Compression values.
+HS COMP SLOPE
+The High-Speed Compression can be further tuned with the 
+Compression Slope setting. This setting shifts the high-speed 
+adjustment of the shocks higher or lower, allowing for a wider range 
+of options for various track conditions. Higher slope settings will 
+produce a more linear compression setting, with compression force 
+increasing with velocity. These settings are good for very bumpy 
+surfaces to keep the shock from “blowing out” over large bumps, 
+preventing the chassis from striking the racing surface.
+Lower slope settings will produce a more digressive compression 
+setting, with forces not increasing significantly as velocity increases. 
+This is good for smoother tracks where large suspension movement 
+is not expected. When tuning shocks for a track, change the slope 
+setting first to suit the track, then fine-tune the shock using the 
+high- and low-speed settings.
+LS REBOUND
+Low-Speed (LS) Rebound affects how resistant the shock is to 
+extension (increase in length), typically during body movement as a 
+result of driver inputs, such as the rear shocks under braking. Higher 
+rebound values will slow extension of the shock, lower values will 
+allow the shock to extend faster. Higher rebound values can better 
+control aerodynamic attitude but can result in the wheel being 
+unloaded when the suspension can’t extend enough to maintain 
+proper contact with the track. Excessive front rebound can lead to 
+unwanted oscillations due to the wheel bouncing off of the track 
+surface instead of staying in contact.
+HS REBOUND
+High-Speed (HS) Rebound affects how resistant the shock is 
+to extension (increase in length), at higher shock shaft speeds, 
+usually above 1.5 in/s. This area is commonly seen as a response to 
+high-speed compression, such as bumps in the racing surface or 
+curb strikes. Higher values will prevent the shock from extending 
+too quickly after a bump, which can help to maintain aerodynamic 
+consistency in terms of body attitude, but too much rebound can 
+keep the suspension from extending quickly enough and cause a 
+loss of grip. Lower values will allow faster suspension extension,
+but can allow too much body movement and potentially
+hurt aerodynamics.
+HS REBOUND SLOPE
+The High-Speed Rebound can be further tuned with the Rebound 
+Slope setting. This setting shifts the high-speed adjustment of 
+the shocks higher or lower, allowing for a wider range of options 
+for various track conditions. Higher slope settings will produce a 
+more linear rebound setting, with rebound force increasing steadily 
+with velocity. These values will give a more controlled damping 
+characteristic over very bumpy surfaces. Lower values will
+result in a more digressive rebound curve, which is good for 
+smoother surfaces.
+TOE-IN
+Toe is the angle of the wheel, when viewed from above, relative to 
+the centerline of the chassis. Positive toe-in is when the front of 
+the wheel is closer to the centerline than the rear of the wheel, and 
+negative toe-in (toe-out) is when the front of the wheel is farther 
+away from the centerline than the rear of the wheel. At the rear, 
+toe-out will help with turn in and direction changes, while toe-in 
+will increase straight-line stability. For short tracks or tracks where 
+traction is a problem, setting both rear wheels toed to the left 
+(positive right-rear and negative left-rear) can help to straighten the 
+car on throttle application.
+CAMBER
+Camber is the vertical angle of the wheel relative to the center of 
+the chassis. Negative camber is when the top of the wheel is closer 
+to the chassis centerline than the bottom of the wheel, positive 
+camber is when the top of the tire is farther out than the bottom. 
+Greater camber angles will increase the cornering force generated 
+by the tire, but will reduce the amount of longitudinal grip the tire 
+will have under braking. Excessive camber values can produce very 
+high cornering forces but will also significantly reduce tire life,so it 
+is important to find a balance between life and performance. For 
+ovals, set the left side positive and the right side negative. For road 
+courses, both rear wheels should be set with negative camber.
+
+--- PAGE 18 ---
+
+18
+NASCAR NEXT GEN CARS | USER MANUAL
+REAR
+FINAL DRIVE RATIO
+The Final Drive Ratio is the ratio between the driveshaft pinion and 
+the differential ring gear. Higher number values produce better 
+acceleration but reduce top speed, lower number values reduce 
+acceleration but result in a higher top speed.
+DIFF PRELOAD
+The differential can be set with a static preload applied to the friction 
+surfaces. Higher values produce more locking force in the differential 
+in all conditions, producing more understeer under acceleration and 
+deceleration. This value will also affect mid-corner performance, 
+with higher values not allowing the differential to unlock as much, 
+increasing mid-corner understeer.
+DIAMETER
+The Rear Anti-Roll Bar (ARB, or Sway Bar) diameter affects the roll 
+stiffness of the rear suspension. Options are a Stiff bar 
+(2.00” Diameter) or a Soft bar (1.375” diameter). The stiffer bar 
+will reduce body roll when cornering and can increase steering 
+responsiveness, but can induce oversteer when cornering.
+The softer bar will increase body roll as well as reduce
+oversteer when cornering.
+ARB ARM
+The orientation of the ARB arms can be changed to alter their overall 
+stiffness and effectiveness. Represented alphanumerically from
+P1 (softest) to P5 (stiffest).
+ARB PRELOAD
+The ARB Preload is the static load in the bar while the vehicle is in 
+the garage. Preload adjustments can be used to alter the dynamic 
+loads in the bar while on track, and can be used to remove or add 
+bar load in the corners and on the straights.
+ATTACH
+A quick way to unhook the anti-roll bar to allow for static suspension 
+adjustments without bar twist confusing things; increase link slack 
+and unhook the ARB before making spring/ride height adjustments; 
+attach and reduce link slack (ARB preload) when done. This option 
+will completely detach the bar and keep it from being loaded while 
+on track, if desired.

@@ -1,0 +1,21 @@
+{
+  "vehicle": "FIA Cross Car",
+  "manufacturer": "FIA",
+  "manufacturer_source": "series_override",
+  "class": "Rallycross",
+  "manual_type": "vehicle",
+  "topics": [
+    "brakes",
+    "dampers",
+    "suspension",
+    "tires"
+  ],
+  "sections": [
+    "Chassis",
+    "Dampers",
+    "Brakes",
+    "Fuel"
+  ],
+  "word_count": 3185,
+  "source_text": "FIA-Cross-Car-V1.txt"
+}

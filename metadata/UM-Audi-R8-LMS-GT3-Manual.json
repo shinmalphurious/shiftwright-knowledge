@@ -1,0 +1,29 @@
+{
+  "vehicle": "Audi R8 LMS GT3",
+  "manufacturer": "Audi",
+  "manufacturer_source": "filename",
+  "class": "NASCAR",
+  "manual_type": "vehicle",
+  "topics": [
+    "aerodynamics",
+    "brakes",
+    "dampers",
+    "differential",
+    "hybrid",
+    "suspension",
+    "tires",
+    "traction_control"
+  ],
+  "sections": [
+    "Tires & Aero",
+    "Chassis",
+    "Dampers",
+    "Differential",
+    "Brakes",
+    "Hybrid",
+    "Fuel",
+    "Traction Control"
+  ],
+  "word_count": 5931,
+  "source_text": "UM-Audi-R8-LMS-GT3-Manual.txt"
+}

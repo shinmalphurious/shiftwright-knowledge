@@ -1,0 +1,25 @@
+{
+  "vehicle": "Audi RS3 LMS TCR",
+  "manufacturer": "Audi",
+  "manufacturer_source": "filename",
+  "class": "NASCAR",
+  "manual_type": "vehicle",
+  "topics": [
+    "aerodynamics",
+    "brakes",
+    "dampers",
+    "differential",
+    "suspension",
+    "tires"
+  ],
+  "sections": [
+    "Setup Tips",
+    "Chassis",
+    "Dampers",
+    "Differential",
+    "Brakes",
+    "Fuel"
+  ],
+  "word_count": 5588,
+  "source_text": "Audi_RS3_LMS_TCR_V2.txt"
+}
